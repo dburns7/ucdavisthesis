@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  4 MAY 2016 19:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  9 MAY 2016 14:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -264,20 +264,24 @@ Overfull \hbox (1.01212pt too wide) in paragraph at lines 17--18
 orentz found that Maxwell's|
  []
 
+[3]
 
-Overfull \hbox (62.52954pt too wide) in paragraph at lines 19--20
-[]\OT1/cmr/m/n/12 Maxwell's equa-tions unify EM, in-vari-ant un-der Lorentz gro
-up, con-ser-va-tion of charge/currents/etc? |
+LaTeX Warning: Citation `Bettini' on page 4 undefined on input line 27.
+
+
+LaTeX Warning: Citation `Dirac243' on page 4 undefined on input line 29.
+
+[4]
+
+LaTeX Warning: Citation `Bettini' on page 5 undefined on input line 31.
+
+[5] [6]
+Overfull \hbox (19.70775pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/12 vari-ant un-der the prod-uct of the strong and elec-troweak sym
+-me-try groups, SU(3)xSU(2)xU(1),|
  []
 
-
-LaTeX Warning: Citation `Carpenter:2013xra' on page 3 undefined on input line 5
-1.
-
-
-LaTeX Warning: Citation `Gibaldi:80' on page 3 undefined on input line 52.
-
-) [3]
+[7]) [8]
 No file ucdavisthesis_main.bbl.
 [1
 
@@ -291,23 +295,28 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2716 strings out of 494985
- 37434 string characters out of 6180355
- 104784 words of memory out of 5000000
- 5868 multiletter control sequences out of 15000+600000
- 9504 words of font info for 33 fonts, out of 8000000 for 9000
+ 2718 strings out of 494985
+ 37447 string characters out of 6180355
+ 106787 words of memory out of 5000000
+ 5870 multiletter control sequences out of 15000+600000
+ 9804 words of font info for 34 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 37i,7n,23p,1258b,209s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,8n,23p,1687b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on ucdavisthesis_main.pdf (13 pages, 88115 bytes).
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mti12.pfb>
+Output written on ucdavisthesis_main.pdf (18 pages, 152289 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 106 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

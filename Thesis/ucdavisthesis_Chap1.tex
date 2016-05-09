@@ -12,34 +12,74 @@ Each major advance in the history of physics has corresponded to the discovery a
 
 \indent The end of the scientifically repressive middle ages brought along an improvement in astronomical observations and the growth of the pseudo-scientific field of alchemy, which attempted to reduce, understand, and manipulate the fundamental elements of physical substances. When Kepler discovered three laws of planetary motion, he unified the description of the motion of the planets. For the first time, the conservation of a physical quantity, what we now know as angular momentum, was associated with a general set of physical objects. At the burgeoning of the scientific revolution, Newton championed the idea that the same physical laws can be applied to all physical events, and that properties of these laws can be abstracted to apply to nature at a fundamental level.
 
-\indent Newton defined an inertial reference frame implicitly as one where his first law held, that is, that an object remains at constant motion unless acted on by an outside force. Since his laws were the same in all inertial reference frames, a new symmetry of nature was discovered, now called symmetry under Euclidean transformations. Since Euclidean transformations form a mathematical group, it is said that classical mechanics is invariant under the Euclidean group. The invariance under the Euclidean transformations can be used to derive conservation laws: Newton's laws don't depend on spatial translations or rotations, implying the conservation of linear and angular momentum, respectively. These relationships foreshadow Noether's abstraction of the connection between symmetries and conserved quantities. She proved that there is a conserved quantity, or current, associated with every symmetry of a physical system. This famous theorem facilitates the derivation of conserved quantities and will be used extensively in the theories that follow. The extension of the Euclidean transformations to include time translations and motion at constant velocity (boosts) forms the Galilean group.
+\indent Newton defined an inertial reference frame implicitly as one where his first law held, that is, that an object remains at constant motion unless acted on by an outside force. Since his laws were the same in all inertial reference frames, a new symmetry of nature was discovered, now called symmetry under Euclidean transformations. Since Euclidean transformations form a mathematical group, it is said that classical mechanics is invariant under the Euclidean group. The invariance under the Euclidean transformations can be used to derive conservation laws: Newton's laws don't depend on spatial translations or rotations, implying the conservation of linear and angular momentum, respectively. These relationships foreshadow Noether's abstraction of the connection between continuous symmetries and conserved quantities. She proved that there is a conserved quantity, or current, associated with every symmetry of a physical system. This famous theorem facilitates the derivation of conserved quantities and will be used extensively in the theories that follow. The extension of the Euclidean transformations to include time translations and motion at constant velocity (boosts) forms the Galilean group.
 
-\indent The next symmetry of nature to be discovered came when Lorentz found that Maxwell's equations, which unified the classical eletricity and magnetism sectors, were invariant under a set of transformations that generalized the classical Galiliean translations, now called Lorentz transformations, which form the Lorentz group. Einstein
+\indent The next symmetry of nature to be discovered came when Lorentz found that Maxwell's equations, which unified the classical eletricity and magnetism sectors, were invariant under a set of transformations that generalized the classical Galiliean translations, now called Lorentz transformations, which form the Lorentz group. The Lorentz symmetry corresponds to the conservation law of total electric charge. Soon after, Einstein derived the Lorentz symmetry as a property of space-time itself through his special theory of relativity, assuming two simple postulates: the laws of physics and the speed of light are the same in all inertial reference frames. From these simple assumptions, Einstein was able to extend the classical laws of physics to the high velocity, high energy sector. Before Einstein, the symmetries of nature were thought to be consequences of the physical laws themselves, but Einstein's major paradigm shift was to view the symmetry itself as the more fundamental property, an insight key to his formulation of the general theory of relativity for the gravitational interaction. Combining the Lorentz and Euclidean transformations yields the Poincare group, the final global space-time symmetry of the SM.
 
-\indent Maxwell's equations unify EM, invariant under Lorentz group, conservation of charge/currents/etc? 
+\indent Just as relativists were probing physics at higher speeds and energies, other physicists were investigating the behavior of systems at smaller distance scales, conducting experiments to explore phenomena such as the Compton effect and photoelectric effect, which showed the quantized, particle-like behavior of light, and electron beam diffraction, which showed the wave-like behavior of electrons. Quantum theory was developed to consolidate the wave-like and particle-like behaviors of systems, and extended the validity of classical physics to microscopic scales. Where in classical physics particles states were described by their absolute position and momentum, quantum theory describes the state of a system by a probabalistic wavefunction. The classical symmetries and conservation laws carried over to quantum theory, with the concept of angular momentum generalized to include spin. Particles with zero or integer spin are called Bosons, and were shown to obey Bose-Einstein statistics, where the wavefunction is symmetric under all permutations of particles. Particles with half-integer spin, called Fermions, obey Fermi-Dirac statistics, where the wavefunction is symmetric under even permutations and changes sign under odd permutations, implying that no two particles can occupy the same state. These many-particle symmetries were applied to derive properties of materials and states of electrons in atomic and periodic systems, blackbody radiation, and many other properties of matter and radiation.
 
-\indent Einstein developes special relativity, deriving Lorentz group as fundamental symmetry of nature
+\indent Quantum theory was successfully applied to a myriad of low-energy systems. Dirac extended quantum theory and the Schrodinger equation, which describes the evolution of a quantum system in time, to the relativistic regime. His formulation of the wave equation for a spin-1/2 particle with mass m is inherently Lorentz invariant:
 
-\indent Euclidean group plus Lorentz group is Poincare group, global space-time symmetry of SM. Conservation of ? 
+\begin{equation}
+(i \gamma^\mu \partial_\mu - m)\psi = 0
+\end{equation}
 
-\indent Quantum theory developed to describe both bosons and fermions, with respective statistics and permutational invariance
+The solutions to the Dirac equation were found to have both positive and negative energy solutions, to the surprise of Dirac. His explanation was that the vacuum consisted of a "sea" of negative energy solutions, each in a distinct state due to the Pauli exclusion principle, and when a pair of electrons was produced, a positive energy state was filled and a negative energy state was vacated, creating a "hole" in the sea. The particle corresponding to this hole would have the same energy as the electron, but in order to conserve total charge, must have the opposite sign charge. This positively charged electron was not know to exist at the time, but was soon discovered in cosmic ray experiments and named the positron \cite{Bettini}. Dirac's theoretical prediction of the positron and its subsequent discovery opened the door for the discovery that every particle has an oppositely charged antimatter partner. 
 
-\indent Weyl applies gauge invariance in quantum theory, electric charge conserved
+\indent In an attempt to apply relativistic quantum theory to the electromagnetic field and the spin-0 photon, Dirac formulated the theory of quantum electrodynamics (QED) \cite{Dirac243}. QED is the first example of a quantum field theory (QFT), where the physical dynamics apply to the quantum field associated with a particle rather than the particle itself, and particles/antiparticles interact as excitations of the field. This formulation of creation and annihilation of particles and antiparticles gave a more physically intuitive explanation for the negative energy solutions of the Dirac equation than the Dirac sea. QED became the prototype for developing future relativistic quantum theories and Dirac's procedure the template for quantizing a general field theory. 
 
-\indent Dirac incorporates relativity in quantum theory of spin 1/2 particles. Invariant under Poincare group, predicts antiparticles discovered in CR by Carl Anderson
+\indent With the discovery of antimatter and the apparatus of QFT in place, physicists continued searching for additional symmetries. If a particle state is an eigenvector of a symmetry operator, then the eigenvalue is an important quantum number of the state, since if the symmetry is conserved, the quantum number can be used to determine if a decay or interaction of this state is allowed \cite{}. Three important discrete symmetries operations, and their products, have had significant importance: space coordinate parity inversion (P), particle-antiparticle charge conjugation (C), and time reveral (T) \cite{Bettini}. P breaking observed by Wu, Yang, Lee, CP breaking obseved by Cronin, Fitch, PCT proved to be conserved symmetry \cite{}.
 
-\indent T, C, P, PCT, P breaking observed by Wu, Yang, Lee, CP breaking obseved by Cronin, Fitch
+\indent The mid-20th century saw an explosion of discovery in particle physics and was a golden age for the feedback between theoretical and experimental work. The discovery of additional particles such as the muon \cite{}, pion \cite{}, neutrino\cite{}, and many others inspired the theoretical development of the quark model \cite{}, the refinement of QED \cite{}, and the formulation of theories to explain the strong \cite{} and weak \cite{} nuclear forces. Conversely, these new theories led to the prediction and subsequent discovery of new fundamental particles, such as the charm \cite{} and bottom \cite{} quarks, and composite particles, such as the $\Omega^-$ \cite{}.
 
-\indent Spontaneous symmetry breaking, Higgs mechanism
+\indent The development of the theories of the strong and weak forces unveiled a new set of symmetries: local invariance under unitary gauge transformations. In keeping with the trend of the discovery of new symmetries being associated with the unification of physical sectors, the electromagnetic and weak nuclear interactions were found to be components of a single force, called the electroweak force \cite{}. Again, with QED as the prototype, the Langrangians for the electroweak and strong forces were constructed to be invariant under unitary groups \cite{}. Early work by Weyl \cite{} showing the gauge invariance of electromagnetism was extended to QED, and lay the mathematical framework for describing the gauge invariance of the other forces. To demonstrate gauge invariance and how the gauge group generators are asssociated with the force carriers, take the QED terms of the SM Lagrangian as an example case:
 
-\indent Electroweak unification
+\begin{equation}
+\mathcal{L} \supset \bar{\psi} ( i \gamma^\mu D_\mu - m ) \psi - \frac{1}{4} F^{\mu\nu}F_{\mu\nu}
+\end{equation}
+where $A_\mu$ is the EM 4-potential and field corresponding to the photon, $F^{\mu\nu} = \partial^\mu A ^\nu - \partial^\nu A^\mu$ is the electromagnetic field tensor, and $D_\mu = \partial_\mu + i e A_\mu$ is the gauge covariant derivative. These terms are invariant under the the U(1) transformations
 
-\indent Gell-mann Neeman SU(3) symmetry from strong force
+\begin{equation}
+\psi \rightarrow e^{i\theta(x)} \psi.
+\end{equation}
+
+In general, the generators of an interaction's continuous symmetry group correspond to the gauge fields whose excitations are the gauge bosons that mediate that interaction. Just how $A_\mu$ is the field corresponding to the photon in QED and generator of the U(1) symmetry group of EM, the W and Z bosons and gluons are formed from the generators of the symmetry groups for the electroweak and strong interactions, SU(2)xU(1) and SU(3), respectively. Additionally, the covariant derivative is transformed in a way analagous to the QED covariant derivative, adding a factor for each generator with the corresponding charge in the coefficient. These charges are conserved for all of the forces in all interactions. The force mediating particles are described in more detail in the next section.
+
+\indent Although the mathematical descriptions of their symmetries are similar, the EM, weak, and strong nuclear forces are quite different qualitatively. The EM force is the most familiar, being responsible for the interactions of matter and radiation at macroscopic scales. The strong force is mediated by eight gluons, corresponding to the eight generators of SU(3). At low energies, the quarks and antiquarks are confined to form only color-neutral states. This is known as color confinement, and implies no free quarks exist, but only come in neutral combinations called hadrons. Since hadrons are strictly color-neutral, their states transform as the singlet representation under SU(3). At high energies, the strong coupling decreases, and the quarks can be treated as effectively free particles with perturbation theory using Feynman diagrams. This property of the strong force is known as asymptotic freedom. The weak force is qualitatively different than either the EM or strong forces, as particles do not exchange its mediators to form bound states of any kind. The low-energy limit of the weak theory was developed by Fermi to explain beta decays \cite{}, but the full description was not developed until the electroweak force was formulated. 
+
+\indent The unification of the electromagnetic and weak interactions into the electroweak force at about 100 GeV had one major shortcoming: the invariance of the Lagrangian required the gauge bosons, $B$ from U(1) and $W^1, W^2, W^3$ from SU(2), to be massless. While the photon is indeed massless, the W and Z bosons have a nonzero mass \cite{}. Higgs and others \cite{} proposed a solution by introducing a new scalar field whose excitations were called the Higgs boson (H). The scalar field is a complex doublet, meaning it has four total real components, and its vacuum expectation value (vev), or value throughout all of space, is one of many non-zero values in the bottom of its "Mexican hat" potential. This spontaneous symmetry can be broken by choosing one of the values for the vev: $H = \frac{1}{\sqrt{2}} (0, \nu)$, where $\nu=246$ GeV is called the H vev. At energies above $O(100)$ GeV, the electroweak symmetry is obeyed, the gauge bosons are massless, and the Higgs field has one of many values along the circle at the base of its potential. When the H field is expressed as a perturbation about this vev, the electroweak symmetry is broken into the weak and EM forces, and mass terms are generated for the weak force bosons, which are expressed as linear combinations of $B, W^1, W^1, W^3$. The process of the Higgs acquiring a vev, spontaneously breaking the symmetry in its potential, and generating the masses of the weak bosons, is know as the Higgs mechanism, and results in the breaking of the electroweak symmetry. This mechanism can be carried out for a general operator depending on H with the substitution
+
+\begin{equation}
+H \rightarrow \frac{1}{2} (\nu + h)
+\end{equation}
+where $h$ is the physical Higgs, corresponding to the leftover degree of freedom of the H doublet that is not eaten by the three massive gauge bosons. H couples to the SM fermions, detailed in the next section, not by the same mixing as described for the gauge bosons, but via Yukawa interactions, direct couplings whose coefficients are related the the fermion masses. The Higgs mechanism was the final piece of the puzzle to understanding the fundamental laws of particle physics.
  
-\indent Standard model
+\indent The final result of this saga is the standard model of particle physics, a relativistic gauge quantum field theory, globally invariant under the Poincare group, and locally invariant under the product of the strong and electroweak symmetry groups, SU(3)xSU(2)xU(1), which describes all of the fundamental particles and their interactions. The particle content of the SM is detailed in the next section.
 
 \subsection{Particle content}
 
+The particle content of the SM is displayed in Table~\ref{tab:sm}
+
+\begin{table*}[htbH]
+\begin{center}
+\begin{tabular}{| c | c | c | c | c |}
+\hline
+u & c & t & $\gamma$ & H \\
+\hline
+d & s & b & g & \\
+\hline
+e & $\mu$ & $\tau$ & W & \\
+\hline
+$\nu_e$ & $\nu_\mu$ & $\nu_\tau$ & Z & \\
+\hline
+\end{tabular}
+\caption{The particles of the Standard Model.}\label{tab:sm}
+\end{center}
+\end{table*}
+
+The particles of the standard model consist of the spin-1/2 fermions, which interact to form regular matter, the spin-1 bosons, which mediate the interactions of the fermions, and the spin-0 scalar Higgs boson, which generates the masses of the bosons and fermions via the Higgs mechanism. 
+
+\indent The fermions are divided into two categories: the quarks, which are charged under the EM, weak, and strong forces, and the leptons, which are charged under the EM and weak forces. Each fermion has a corresponding antiparticle, whose mass is the same, but whose charges are opposite in sign. 
 
 
 \section{Dark matter}
@@ -48,5 +88,6 @@ Each major advance in the history of physics has corresponded to the discovery a
 
 \subsection{Beyond the Standard Model}
 
-\cite{Carpenter:2013xra}
-\cite{Gibaldi:80}
+\subsubsection{Effective field theory}
+
+\subsubsection{Simplified models}
