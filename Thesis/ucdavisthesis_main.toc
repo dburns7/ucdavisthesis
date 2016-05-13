@@ -6,8 +6,9 @@
 \contentsline {section}{\numberline {1.1}The Standard Model}{1}
 \contentsline {subsection}{\numberline {1.1.1}Symmetries of nature}{1}
 \contentsline {subsection}{\numberline {1.1.2}Particle content}{8}
-\contentsline {section}{\numberline {1.2}Dark matter}{10}
-\contentsline {subsection}{\numberline {1.2.1}Observational evidence}{10}
-\contentsline {subsection}{\numberline {1.2.2}Beyond the Standard Model}{10}
-\contentsline {subsubsection}{\numberline {1.2.2.1}Effective field theory}{10}
-\contentsline {subsubsection}{\numberline {1.2.2.2}Simplified models}{10}
+\contentsline {section}{\numberline {1.2}Dark matter}{11}
+\contentsline {subsection}{\numberline {1.2.1}Background}{11}
+\contentsline {subsubsection}{\numberline {1.2.1.1}Observational evidence}{11}
+\contentsline {subsection}{\numberline {1.2.2}Beyond the Standard Model}{12}
+\contentsline {subsubsection}{\numberline {1.2.2.1}Effective field theory}{12}
+\contentsline {subsubsection}{\numberline {1.2.2.2}Simplified models}{12}

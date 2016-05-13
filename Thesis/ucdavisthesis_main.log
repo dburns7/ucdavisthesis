@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  10 MAY 2016 15:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  11 MAY 2016 19:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -231,14 +231,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [3
 
-] (./ucdavisthesis_main.lof)
+] (./ucdavisthesis_main.lof
+Overfull \hbox (7.00931pt too wide) in paragraph at lines 2--2
+ \OT1/cmr/m/n/12 taken from https://twiki.cern.ch/twiki/bin/view/CMSPublic/Hig1
+2041TWiki []  |
+ []
+
+)
 \tf@lof=\write4
 \openout4 = `ucdavisthesis_main.lof'.
 
  [4
 
-]
-(./ucdavisthesis_main.lot)
+] (./ucdavisthesis_main.lot)
 \tf@lot=\write5
 \openout5 = `ucdavisthesis_main.lot'.
 
@@ -264,31 +269,89 @@ Overfull \hbox (1.01212pt too wide) in paragraph at lines 17--18
 orentz found that Maxwell's|
  []
 
-[3]
+[3] [4]
+Overfull \hbox (111.26384pt too wide) in paragraph at lines 31--32
+\OT1/cmr/m/n/12 to be vi-o-lated by the weak de-cays of K mesons [[]].|
+ []
 
-LaTeX Warning: Citation `Bettini' on page 4 undefined on input line 27.
+
+Overfull \hbox (194.8532pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/12 [[]], neutrino[[]],|
+ []
 
 
-LaTeX Warning: Citation `Dirac243' on page 4 undefined on input line 29.
+Overfull \hbox (10.33147pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/12 and many oth-ers in-spired the the-o-ret-i-cal de-vel-op-ment o
+f the quark model [[]],|
+ []
 
-[4]
 
-LaTeX Warning: Citation `Bettini' on page 5 undefined on input line 31.
+Overfull \hbox (37.20491pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/12 the re-fine-ment of QED [[], [], [], [],|
+ []
 
-[5] [6] [7]
+
+Overfull \hbox (14.08282pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/12 the-o-ries to ex-plain the strong [[], [], [], [],|
+ []
+
+
+Overfull \hbox (1412.1393pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/12 as the charm [[],|
+ []
+
+
+Overfull \hbox (254.83038pt too wide) in paragraph at lines 33--34
+[]\OT1/cmr/m/n/12 ]|
+ []
+
+
+Overfull \hbox (358.19316pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/12 and bot-tom [[]]|
+ []
+
+[5]
+
+LaTeX Warning: Citation `Glashow:1961tr' on page 6 undefined on input line 35.
+
+
+LaTeX Warning: Citation `PhysRevLett.19.1264' on page 6 undefined on input line
+ 35.
+
+[6]
+
+LaTeX Warning: Citation `PhysRevLett.13.321' on page 7 undefined on input line 
+50.
+
+
+LaTeX Warning: Citation `Higgs:1964ia' on page 7 undefined on input line 50.
+
+
+LaTeX Warning: Citation `PhysRevLett.13.508' on page 7 undefined on input line 
+50.
+
+
+LaTeX Warning: Citation `PhysRevLett.13.585' on page 7 undefined on input line 
+50.
+
+
+LaTeX Warning: Citation `PhysRev.145.1156' on page 7 undefined on input line 50
+.
+
+
+LaTeX Warning: Citation `Kibble:1967sv' on page 7 undefined on input line 50.
+
+[7]
 Overfull \hbox (19.70775pt too wide) in paragraph at lines 57--58
 \OT1/cmr/m/n/12 vari-ant un-der the prod-uct of the strong and elec-troweak sym
 -me-try groups, SU(3)xSU(2)xU(1),|
  []
 
-
-LaTeX Warning: Citation `Bettini' on page 8 undefined on input line 81.
-
 [8]
 
-LaTeX Warning: Citation `Griffiths' on page 9 undefined on input line 85.
+LaTeX Warning: Citation `Griffithsqm' on page 9 undefined on input line 85.
 
-
+[9]
 Overfull \hbox (81.1067pt too wide) detected at line 96
 []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 r[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 b[]\
 OT1/cmr/m/n/12 )[] [](\OML/cmm/m/it/12 r[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 g
@@ -310,7 +373,14 @@ Overfull \hbox (9.66234pt too wide) in paragraph at lines 102--103
 to the gauge fields $\OML/cmm/m/it/12 B; W[]; W[]; W[]$\OT1/cmr/m/n/12 ,|
  []
 
-[9] <figures/ZZMass_7Plus8TeV_70-180_3GeV.png, id=67, 598.235pt x 576.1525pt>
+
+LaTeX Warning: Citation `Chatrchyan:2012xdj' on page 10 undefined on input line
+ 111.
+
+
+LaTeX Warning: Citation `Aad:2012tfa' on page 10 undefined on input line 111.
+
+<figures/ZZMass_7Plus8TeV_70-180_3GeV.png, id=67, 598.235pt x 576.1525pt>
 File: figures/ZZMass_7Plus8TeV_70-180_3GeV.png Graphic file (type png)
 
 <use figures/ZZMass_7Plus8TeV_70-180_3GeV.png>
@@ -319,11 +389,161 @@ Package pdftex.def Info: figures/ZZMass_7Plus8TeV_70-180_3GeV.png used on input
 (pdftex.def)             Requested size: 216.81pt x 208.80377pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 116.
-) [10] [11 <./figures/ZZMass_7Plus8TeV_70-180_3GeV.png>]
-No file ucdavisthesis_main.bbl.
-[1
+ [10]
 
-] [2] (./ucdavisthesis_main.aux (./ucdavisthesis_Chap1.aux))
+LaTeX Warning: Citation `Kapteyn:1922zz' on page 11 undefined on input line 129
+.
+
+
+LaTeX Warning: Citation `Zwicky:1937zza' on page 11 undefined on input line 129
+.
+
+
+LaTeX Warning: Citation `Rubin:1970zza' on page 11 undefined on input line 129.
+
+
+
+LaTeX Warning: Citation `Rubin:1980zd' on page 11 undefined on input line 129.
+
+
+LaTeX Warning: Citation `Agashe:2014kda' on page 11 undefined on input line 129
+.
+
+[11 <./figures/ZZMass_7Plus8TeV_70-180_3GeV.png>]) [12]
+(./ucdavisthesis_main.bbl
+Underfull \hbox (badness 1789) in paragraph at lines 30--35
+\OT1/cmr/m/it/12 nalen Phys.\OT1/cmr/m/n/12 , 17:891--921, 1905a.  doi: 10.1002
+/andp.200590006.  [An-nalen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--77
+[]\OT1/cmr/m/n/12 Carl D. An-der-son.  The pos-i-tive elec-tron.  \OT1/cmr/m/it
+/12 Phys.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--77
+\OT1/cmr/m/it/12 Rev.\OT1/cmr/m/n/12 , 43:491--494, Mar 1933.  doi: 10.1103/Phy
+s-Rev.43.491.  URL
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 79--87
+[]\OT1/cmr/m/n/12 P. A. M. Dirac.  The quan-tum the-ory of the emis-sion and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--87
+\OT1/cmr/m/n/12 ab-sorp-tion of ra-di-a-tion.  \OT1/cmr/m/it/12 Pro-ceed-ings o
+f the Royal So-ci-ety of Lon-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--87
+\OT1/cmr/m/it/12 don A: Math-e-mat-i-cal, Phys-i-cal and En-gi-neer-ing Sci-enc
+es\OT1/cmr/m/n/12 , 114(767):
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 79--87
+\OT1/cmr/m/n/12 243--265, 1927.  ISSN 0950-1207.  doi: 10.1098/rspa.1927.0039. 
+ URL
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 95--100
+[]\OT1/cmr/m/n/12 C. S. Wu, E. Am-bler,
+ []
+
+[13
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 103--108
+[]\OT1/cmr/m/n/12 J. H. Chris-ten-son,
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 110--115
+[]\OT1/cmr/m/n/12 Julian Schwinger.  The the-ory of quan-tized fields. i.  \OT1
+/cmr/m/it/12 Phys.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--115
+\OT1/cmr/m/it/12 Rev.\OT1/cmr/m/n/12 , 82:914--927, Jun 1951.  doi: 10.1103/Phy
+s-Rev.82.914.  URL
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 140--145
+[]\OT1/cmr/m/n/12 C. L. Cowan, Jr.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--172
+[]\OT1/cmr/m/n/12 R. P. Feyn-man.  The the-ory of positrons.  \OT1/cmr/m/it/12 
+Phys.
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 167--172
+\OT1/cmr/m/it/12 Rev.\OT1/cmr/m/n/12 , 76:749--759, Sep 1949a.  doi: 10.1103/Ph
+ys-Rev.76.749.  URL
+ []
+
+[14]
+Underfull \hbox (badness 3930) in paragraph at lines 203--208
+\OT1/cmr/m/it/12 Rev.\OT1/cmr/m/n/12 , 75:1736--1755, Jun 1949b.  doi: 10.1103/
+Phys-Rev.75.1736.  URL
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 216--223
+[]\OT1/cmr/m/n/12 G. Zweig.  An SU(3) model for strong in-ter-ac-tion sym-me-
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 216--223
+\OT1/cmr/m/n/12 try and its break-ing. Ver-sion 2.  In D.B. Licht-en-berg and S
+i-mon Pe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--223
+\OT1/cmr/m/n/12 ter Rosen, ed-i-tors, \OT1/cmr/m/it/12 DE-VEL-OP-MENTS IN THE Q
+UARK THE-ORY
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 216--223
+\OT1/cmr/m/it/12 OF HADRONS. VOL. 1. 1964 - 1978\OT1/cmr/m/n/12 , pages 22--101
+. 1964b.  URL
+ []
+
+
+Overfull \hbox (1351.6927pt too wide) in paragraph at lines 248--259
+[]|
+ []
+
+[15]
+Overfull \hbox (263.96918pt too wide) in paragraph at lines 263--270
+[]|
+ []
+
+
+Overfull \hbox (302.38124pt too wide) in paragraph at lines 274--282
+[]|
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 274--282
+\OT1/cmr/m/n/12 a dimuon res-o-nance at 9.5 gev in 400-gev proton-nucleus col-l
+i-sions.  \OT1/cmr/m/it/12 Phys.
+ []
+
+) [16] [1] [2] (./ucdavisthesis_main.aux (./ucdavisthesis_Chap1.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 4.98pt have occurred.
@@ -333,29 +553,30 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2730 strings out of 494985
- 37739 string characters out of 6180355
- 108799 words of memory out of 5000000
- 5879 multiletter control sequences out of 15000+600000
- 10420 words of font info for 36 fonts, out of 8000000 for 9000
+ 2793 strings out of 494985
+ 38717 string characters out of 6180355
+ 110260 words of memory out of 5000000
+ 5939 multiletter control sequences out of 15000+600000
+ 10589 words of font info for 37 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 37i,8n,23p,1692b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,8n,23p,1813b,283s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.
-pfb>
-Output written on ucdavisthesis_main.pdf (21 pages, 189359 bytes).
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on ucdavisthesis_main.pdf (26 pages, 229200 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
+ 146 PDF objects out of 1000 (max. 8388607)
+ 101 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ucdavisthesis_main.aux
+The style file: unsrtnat.bst
+A level-1 auxiliary file: ucdavisthesis_Chap1.aux
+Database file #1: ucdavisthesis.bib
+Warning--I didn't find a database entry for "40-42"
+Warning--I didn't find a database entry for "Griffiths"
+Warning--empty journal in Zweig:1981pd
+Warning--empty publisher in Zweig:1964jf
+You've used 40 entries,
+            2481 wiz_defined-function locations,
+            869 strings with 12491 characters,
+and the built_in function-call counts, 16445 in all, are:
+= -- 1448
+> -- 784
+< -- 34
++ -- 326
+- -- 240
+* -- 1343
+:= -- 2714
+add.period$ -- 174
+call.type$ -- 40
+change.case$ -- 80
+chr.to.int$ -- 34
+cite$ -- 42
+duplicate$ -- 770
+empty$ -- 1461
+format.name$ -- 287
+if$ -- 3436
+int.to.chr$ -- 7
+int.to.str$ -- 41
+missing$ -- 44
+newline$ -- 261
+num.names$ -- 122
+pop$ -- 253
+preamble$ -- 1
+purify$ -- 40
+quote$ -- 0
+skip$ -- 406
+stack$ -- 0
+substring$ -- 902
+swap$ -- 117
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 268
+warning$ -- 2
+while$ -- 136
+width$ -- 0
+write$ -- 631
+(There were 4 warnings)

@@ -1,0 +1,300 @@
+\begin{thebibliography}{40}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Noether(1918{\natexlab{a}})]{Noether:1918zz}
+Emmy Noether.
+\newblock {Invariant Variation Problems}.
+\newblock \emph{Gott. Nachr.}, 1918:\penalty0 235--257, 1918{\natexlab{a}}.
+\newblock \doi{10.1080/00411457108231446}.
+\newblock [Transp. Theory Statist. Phys.1,186(1971)].
+
+\bibitem[{Lorentz}(1898)]{Lorentz}
+H.~A. {Lorentz}.
+\newblock {Simplified Theory of Electrical and Optical Phenomena in Moving
+  Systems}.
+\newblock \emph{Koninklijke Nederlandse Akademie van Wetenschappen Proceedings
+  Series B Physical Sciences}, 1:\penalty0 427--442, 1898.
+
+\bibitem[Noether(1918{\natexlab{b}})]{Noether:1918zz2}
+Emmy Noether.
+\newblock {Invariant Variation Problems}.
+\newblock \emph{Gott. Nachr.}, 1918:\penalty0 235--257, 1918{\natexlab{b}}.
+\newblock \doi{10.1080/00411457108231446}.
+\newblock [Transp. Theory Statist. Phys.1,186(1971)].
+
+\bibitem[Einstein(1905{\natexlab{a}})]{Einstein:1905ve}
+Albert Einstein.
+\newblock {On the electrodynamics of moving bodies}.
+\newblock \emph{Annalen Phys.}, 17:\penalty0 891--921, 1905{\natexlab{a}}.
+\newblock \doi{10.1002/andp.200590006}.
+\newblock [Annalen Phys.14,194(2005)].
+
+\bibitem[Einstein(1914)]{Einstein:1914bt}
+Albert Einstein.
+\newblock {On the Foundations of the Generalized Theory of Relativity and the
+  Theory of Gravitation}.
+\newblock \emph{Phys. Z.}, 15:\penalty0 176--180, 1914.
+
+\bibitem[Compton(1923)]{PhysRev.21.483}
+Arthur~H. Compton.
+\newblock A quantum theory of the scattering of x-rays by light elements.
+\newblock \emph{Phys. Rev.}, 21:\penalty0 483--502, May 1923.
+\newblock \doi{10.1103/PhysRev.21.483}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRev.21.483}.
+
+\bibitem[Einstein(1905{\natexlab{b}})]{Einstein:1905cc}
+Albert Einstein.
+\newblock {Concerning an heuristic point of view toward the emission and
+  transformation of light}.
+\newblock \emph{Annalen Phys.}, 17:\penalty0 132--148, 1905{\natexlab{b}}.
+
+\bibitem[Davisson and Germer(1927)]{Davisson:1927ta}
+C.~Davisson and L.~H. Germer.
+\newblock {Diffraction of Electrons by a Crystal of Nickel}.
+\newblock \emph{Phys. Rev.}, 30:\penalty0 705--740, 1927.
+\newblock \doi{10.1103/PhysRev.30.705}.
+
+\bibitem[Shankar(1994)]{Shankar}
+R.~Shankar.
+\newblock \emph{Principles of Quantum Mechanics}.
+\newblock Plenum Press, New York, 2 edition, 1994.
+
+\bibitem[Dirac(1967)]{Diracqm}
+P.A.M. Dirac.
+\newblock \emph{The Principles of Quantum Mechanics}.
+\newblock Oxford University Press, 4 edition, 1967.
+
+\bibitem[Anderson(1933)]{PhysRev.43.491}
+Carl~D. Anderson.
+\newblock The positive electron.
+\newblock \emph{Phys. Rev.}, 43:\penalty0 491--494, Mar 1933.
+\newblock \doi{10.1103/PhysRev.43.491}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRev.43.491}.
+
+\bibitem[Dirac(1927)]{Dirac243}
+P.~A.~M. Dirac.
+\newblock The quantum theory of the emission and absorption of radiation.
+\newblock \emph{Proceedings of the Royal Society of London A: Mathematical,
+  Physical and Engineering Sciences}, 114\penalty0 (767):\penalty0 243--265,
+  1927.
+\newblock ISSN 0950-1207.
+\newblock \doi{10.1098/rspa.1927.0039}.
+\newblock URL \url{http://rspa.royalsocietypublishing.org/content/114/767/243}.
+
+\bibitem[Bettini(2014)]{Bettini}
+Alessandro Bettini.
+\newblock \emph{Introduction to Elementary Particle Physics}.
+\newblock Cambridge University Press, 2 edition, 2014.
+
+\bibitem[Wu et~al.(1957)Wu, Ambler, Hayward, Hoppes, and
+  Hudson]{PhysRev.105.1413}
+C.~S. Wu, E.~Ambler, R.~W. Hayward, D.~D. Hoppes, and R.~P. Hudson.
+\newblock Experimental test of parity conservation in beta decay.
+\newblock \emph{Phys. Rev.}, 105:\penalty0 1413--1415, Feb 1957.
+\newblock \doi{10.1103/PhysRev.105.1413}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRev.105.1413}.
+
+\bibitem[Christenson et~al.(1964)Christenson, Cronin, Fitch, and
+  Turlay]{PhysRevLett.13.138}
+J.~H. Christenson, J.~W. Cronin, V.~L. Fitch, and R.~Turlay.
+\newblock Evidence for the $2\ensuremath{\pi}$ decay of the $k_{2}^{0}$ meson.
+\newblock \emph{Phys. Rev. Lett.}, 13:\penalty0 138--140, Jul 1964.
+\newblock \doi{10.1103/PhysRevLett.13.138}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.13.138}.
+
+\bibitem[Schwinger(1951)]{PhysRev.82.914}
+Julian Schwinger.
+\newblock The theory of quantized fields. i.
+\newblock \emph{Phys. Rev.}, 82:\penalty0 914--927, Jun 1951.
+\newblock \doi{10.1103/PhysRev.82.914}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRev.82.914}.
+
+\bibitem[Luders(1954)]{Luders:1954zz}
+Gerhart Luders.
+\newblock {On the Equivalence of Invariance under Time Reversal and under
+  Particle-Antiparticle Conjugation for Relativistic Field Theories}.
+\newblock \emph{Kong. Dan. Vid. Sel. Mat. Fys. Med.}, 28N5:\penalty0 1--17,
+  1954.
+
+\bibitem[Anderson and Neddermeyer(1936)]{PhysRev.50.263}
+Carl~D. Anderson and Seth~H. Neddermeyer.
+\newblock Cloud chamber observations of cosmic rays at 4300 meters elevation
+  and near sea-level.
+\newblock \emph{Phys. Rev.}, 50:\penalty0 263--271, Aug 1936.
+\newblock \doi{10.1103/PhysRev.50.263}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRev.50.263}.
+
+\bibitem[Lattes et~al.(1947)Lattes, Occhialini, and Powell]{Lattes:1947mx}
+C.~M.~G. Lattes, G.~P.~S. Occhialini, and C.~F. Powell.
+\newblock {Observations on the Tracks of Slow Mesons in Photographic Emulsions.
+  1}.
+\newblock \emph{Nature}, 160:\penalty0 453--456, 1947.
+\newblock \doi{10.1038/160453a0}.
+
+\bibitem[{Cowan} et~al.(1956){Cowan}, {Reines}, {Harrison}, {Kruse}, and
+  {McGuire}]{1956Sci...124..103C}
+C.~L. {Cowan}, Jr., F.~{Reines}, F.~B. {Harrison}, H.~W. {Kruse}, and A.~D.
+  {McGuire}.
+\newblock {Detection of the Free Neutrino: A Confirmation}.
+\newblock \emph{Science}, 124:\penalty0 103--104, July 1956.
+\newblock \doi{10.1126/science.124.3212.103}.
+
+\bibitem[Gell-Mann(1964)]{GellMann:1964nj}
+Murray Gell-Mann.
+\newblock {A Schematic Model of Baryons and Mesons}.
+\newblock \emph{Phys. Lett.}, 8:\penalty0 214--215, 1964.
+\newblock \doi{10.1016/S0031-9163(64)92001-3}.
+
+\bibitem[Schwinger(1948{\natexlab{a}})]{PhysRev.73.416}
+Julian Schwinger.
+\newblock On quantum-electrodynamics and the magnetic moment of the electron.
+\newblock \emph{Phys. Rev.}, 73:\penalty0 416--417, Feb 1948{\natexlab{a}}.
+\newblock \doi{10.1103/PhysRev.73.416}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRev.73.416}.
+
+\bibitem[Schwinger(1948{\natexlab{b}})]{PhysRev.74.1439}
+Julian Schwinger.
+\newblock Quantum electrodynamics. i. a covariant formulation.
+\newblock \emph{Phys. Rev.}, 74:\penalty0 1439--1461, Nov 1948{\natexlab{b}}.
+\newblock \doi{10.1103/PhysRev.74.1439}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRev.74.1439}.
+
+\bibitem[Feynman(1949{\natexlab{a}})]{PhysRev.76.749}
+R.~P. Feynman.
+\newblock The theory of positrons.
+\newblock \emph{Phys. Rev.}, 76:\penalty0 749--759, Sep 1949{\natexlab{a}}.
+\newblock \doi{10.1103/PhysRev.76.749}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRev.76.749}.
+
+\bibitem[Feynman(1949{\natexlab{b}})]{PhysRev.76.769}
+R.~P. Feynman.
+\newblock Space-time approach to quantum electrodynamics.
+\newblock \emph{Phys. Rev.}, 76:\penalty0 769--789, Sep 1949{\natexlab{b}}.
+\newblock \doi{10.1103/PhysRev.76.769}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRev.76.769}.
+
+\bibitem[Feynman(1950)]{PhysRev.80.440}
+R.~P. Feynman.
+\newblock Mathematical formulation of the quantum theory of electromagnetic
+  interaction.
+\newblock \emph{Phys. Rev.}, 80:\penalty0 440--457, Nov 1950.
+\newblock \doi{10.1103/PhysRev.80.440}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRev.80.440}.
+
+\bibitem[Tomonaga(1946)]{Tomonaga:1946zz}
+S.~Tomonaga.
+\newblock {On a relativistically invariant formulation of the quantum theory of
+  wave fields}.
+\newblock \emph{Prog. Theor. Phys.}, 1:\penalty0 27--42, 1946.
+\newblock \doi{10.1143/PTP.1.27}.
+
+\bibitem[Dyson(1949{\natexlab{a}})]{PhysRev.75.486}
+F.~J. Dyson.
+\newblock The radiation theories of tomonaga, schwinger, and feynman.
+\newblock \emph{Phys. Rev.}, 75:\penalty0 486--502, Feb 1949{\natexlab{a}}.
+\newblock \doi{10.1103/PhysRev.75.486}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRev.75.486}.
+
+\bibitem[Dyson(1949{\natexlab{b}})]{PhysRev.75.1736}
+F.~J. Dyson.
+\newblock The $s$ matrix in quantum electrodynamics.
+\newblock \emph{Phys. Rev.}, 75:\penalty0 1736--1755, Jun 1949{\natexlab{b}}.
+\newblock \doi{10.1103/PhysRev.75.1736}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRev.75.1736}.
+
+\bibitem[Zweig(1964{\natexlab{a}})]{Zweig:1981pd}
+G.~Zweig.
+\newblock {An SU(3) model for strong interaction symmetry and its breaking.
+  Version 1}.
+\newblock 1964{\natexlab{a}}.
+
+\bibitem[Zweig(1964{\natexlab{b}})]{Zweig:1964jf}
+G.~Zweig.
+\newblock {An SU(3) model for strong interaction symmetry and its breaking.
+  Version 2}.
+\newblock In D.B. Lichtenberg and Simon~Peter Rosen, editors,
+  \emph{DEVELOPMENTS IN THE QUARK THEORY OF HADRONS. VOL. 1. 1964 - 1978},
+  pages 22--101. 1964{\natexlab{b}}.
+\newblock URL \url{https://inspirehep.net/record/4674/files/cern-th-412.pdf}.
+
+\bibitem[Politzer(1973)]{PhysRevLett.30.1346}
+H.~David Politzer.
+\newblock Reliable perturbative results for strong interactions?
+\newblock \emph{Phys. Rev. Lett.}, 30:\penalty0 1346--1349, Jun 1973.
+\newblock \doi{10.1103/PhysRevLett.30.1346}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.30.1346}.
+
+\bibitem[Gross and Wilczek(1973)]{PhysRevD.8.3633}
+David~J. Gross and Frank Wilczek.
+\newblock Asymptotically free gauge theories. i.
+\newblock \emph{Phys. Rev. D}, 8:\penalty0 3633--3652, Nov 1973.
+\newblock \doi{10.1103/PhysRevD.8.3633}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevD.8.3633}.
+
+\bibitem[Fermi(1933)]{Fermi:1933jpa}
+Enrico Fermi.
+\newblock {Tentativo di una teoria dell'emissione dei raggi beta}.
+\newblock \emph{Ric. Sci.}, 4:\penalty0 491--495, 1933.
+
+\bibitem[Augustin et~al.(1974)Augustin, Boyarski, Breidenbach, Bulos, Dakin,
+  Feldman, Fischer, Fryberger, Hanson, Jean-Marie, Larsen, L\"uth, Lynch, Lyon,
+  Morehouse, Paterson, Perl, Richter, Rapidis, Schwitters, Tanenbaum, Vannucci,
+  Abrams, Briggs, Chinowsky, Friedberg, Goldhaber, Hollebeek, Kadyk, Lulu,
+  Pierre, Trilling, Whitaker, Wiss, and Zipse]{PhysRevLett.33.1406}
+J.~E. Augustin, A.~M. Boyarski, M.~Breidenbach, F.~Bulos, J.~T. Dakin, G.~J.
+  Feldman, G.~E. Fischer, D.~Fryberger, G.~Hanson, B.~Jean-Marie, R.~R. Larsen,
+  V.~L\"uth, H.~L. Lynch, D.~Lyon, C.~C. Morehouse, J.~M. Paterson, M.~L. Perl,
+  B.~Richter, P.~Rapidis, R.~F. Schwitters, W.~M. Tanenbaum, F.~Vannucci, G.~S.
+  Abrams, D.~Briggs, W.~Chinowsky, C.~E. Friedberg, G.~Goldhaber, R.~J.
+  Hollebeek, J.~A. Kadyk, B.~Lulu, F.~Pierre, G.~H. Trilling, J.~S. Whitaker,
+  J.~Wiss, and J.~E. Zipse.
+\newblock Discovery of a narrow resonance in ${e}^{+}{e}^{-}$ annihilation.
+\newblock \emph{Phys. Rev. Lett.}, 33:\penalty0 1406--1408, Dec 1974.
+\newblock \doi{10.1103/PhysRevLett.33.1406}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.33.1406}.
+
+\bibitem[Aubert et~al.(1974)Aubert, Becker, Biggs, Burger, Chen, Everhart,
+  Goldhagen, Leong, McCorriston, Rhoades, Rohde, Ting, Wu, and
+  Lee]{PhysRevLett.33.1404}
+J.~J. Aubert, U.~Becker, P.~J. Biggs, J.~Burger, M.~Chen, G.~Everhart,
+  P.~Goldhagen, J.~Leong, T.~McCorriston, T.~G. Rhoades, M.~Rohde, Samuel C.~C.
+  Ting, Sau~Lan Wu, and Y.~Y. Lee.
+\newblock Experimental observation of a heavy particle $j$.
+\newblock \emph{Phys. Rev. Lett.}, 33:\penalty0 1404--1406, Dec 1974.
+\newblock \doi{10.1103/PhysRevLett.33.1404}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.33.1404}.
+
+\bibitem[Herb et~al.(1977)Herb, Hom, Lederman, Sens, Snyder, Yoh, Appel, Brown,
+  Brown, Innes, Ueno, Yamanouchi, Ito, J\"ostlein, Kaplan, and
+  Kephart]{PhysRevLett.39.252}
+S.~W. Herb, D.~C. Hom, L.~M. Lederman, J.~C. Sens, H.~D. Snyder, J.~K. Yoh,
+  J.~A. Appel, B.~C. Brown, C.~N. Brown, W.~R. Innes, K.~Ueno, T.~Yamanouchi,
+  A.~S. Ito, H.~J\"ostlein, D.~M. Kaplan, and R.~D. Kephart.
+\newblock Observation of a dimuon resonance at 9.5 gev in 400-gev
+  proton-nucleus collisions.
+\newblock \emph{Phys. Rev. Lett.}, 39:\penalty0 252--255, Aug 1977.
+\newblock \doi{10.1103/PhysRevLett.39.252}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.39.252}.
+
+\bibitem[Barnes et~al.(1964)]{Barnes:1964pd}
+V.~E. Barnes et~al.
+\newblock {Observation of a Hyperon with Strangeness -3}.
+\newblock \emph{Phys. Rev. Lett.}, 12:\penalty0 204--206, 1964.
+\newblock \doi{10.1103/PhysRevLett.12.204}.
+
+\bibitem[Weyl(1927)]{Weyl:1927vd}
+H.~Weyl.
+\newblock {Quantum mechanics and group theory}.
+\newblock \emph{Z. Phys.}, 46:\penalty0 1, 1927.
+\newblock \doi{10.1007/BF02055756}.
+
+\bibitem[Michael E.~Peskin(1995)]{peskinschroeder}
+Daniel V.~Schroeder Michael E.~Peskin.
+\newblock \emph{An Introduction to Quantum Field Theory}.
+\newblock Addison-Wesley Publishing Company, 1 edition, 1995.
+
+\end{thebibliography}
