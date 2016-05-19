@@ -9,6 +9,16 @@
 \contentsline {section}{\numberline {1.2}Dark matter}{11}
 \contentsline {subsection}{\numberline {1.2.1}Background}{11}
 \contentsline {subsubsection}{\numberline {1.2.1.1}Observational evidence}{11}
-\contentsline {subsection}{\numberline {1.2.2}Beyond the Standard Model}{12}
-\contentsline {subsubsection}{\numberline {1.2.2.1}Effective field theory}{12}
-\contentsline {subsubsection}{\numberline {1.2.2.2}Simplified models}{12}
+\contentsline {subsubsection}{\numberline {1.2.1.2}Particle candidates}{12}
+\contentsline {subsubsection}{\numberline {1.2.1.3}Potential detection methods}{13}
+\contentsline {section}{\numberline {1.3}Beyond the Standard Model}{16}
+\contentsline {subsection}{\numberline {1.3.1}Collider searches for DM}{16}
+\contentsline {subsection}{\numberline {1.3.2}Signal Models}{18}
+\contentsline {subsubsection}{\numberline {1.3.2.1}Effective Field Theory Models and Benchmarks}{19}
+\contentsline {subsubsection}{\numberline {1.3.2.2}Simplified Models}{20}
+\contentsline {subsubsection}{\numberline {1.3.2.3}Z' - Two Higgs Doublet Model}{20}
+\contentsline {subsubsection}{\numberline {1.3.2.4}Baryonic Z' Model}{21}
+\contentsline {subsubsection}{\numberline {1.3.2.5}Hidden Sector Z' Model}{23}
+\contentsline {subsubsection}{\numberline {1.3.2.6}Scalar Mediator Model}{24}
+\contentsline {subsubsection}{\numberline {1.3.2.7}Benchmarks}{26}
+\contentsline {section}{\numberline {.1}Production Cross Sections for Benchmark Signal Models}{27}

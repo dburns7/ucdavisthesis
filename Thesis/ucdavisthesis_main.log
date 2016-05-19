@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  11 MAY 2016 19:05
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  18 MAY 2016 17:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -124,34 +124,66 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen106
+\captionmargin@=\dimen107
+\captionwidth=\dimen108
+\caption@tempdima=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\renewcommand {\baselin
+estretch }{1.0} \small \vskip \abovecaptionskip \sbox \@tempboxa {#1. #2}\ifdim
+ \wd \@tempboxa >0.9\hsize \hskip .05\hsize \parbox {0.9\hsize }{#1. #2}\else \
+global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa \hfil }\fi \normal
+size \vskip \belowcaptionskip .
+\c@ContinuedFloat=\count117
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count118
+\c@subtable=\count119
+)
 (./ucdavisthesis_main.aux (./ucdavisthesis_Chap1.aux))
 \openout1 = `ucdavisthesis_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count117
-\scratchdimen=\dimen106
+\scratchcounter=\count120
+\scratchdimen=\dimen113
 \scratchbox=\box26
-\nofMPsegments=\count118
-\nofMParguments=\count119
+\nofMPsegments=\count121
+\nofMParguments=\count122
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count120
-\MPscratchDim=\dimen107
-\MPnumerator=\count121
-\makeMPintoPDFobject=\count122
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen114
+\MPnumerator=\count124
+\makeMPintoPDFobject=\count125
 \everyMPtoPDFconversion=\toks19
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -201,18 +233,21 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 109.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 111.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 109.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 111.
  [1
 
 ] [2
@@ -243,7 +278,13 @@ Overfull \hbox (7.00931pt too wide) in paragraph at lines 2--2
 
  [4
 
-] (./ucdavisthesis_main.lot)
+] (./ucdavisthesis_main.lot
+Overfull \hbox (2.89972pt too wide) in paragraph at lines 18--18
+ [][] []\OT1/cmr/m/n/12 Zp2HDM model pro-duc-tion cross sec-tions [pb] cor-re-s
+pond-ing to mass points |
+ []
+
+)
 \tf@lot=\write5
 \openout5 = `ucdavisthesis_main.lot'.
 
@@ -380,15 +421,13 @@ LaTeX Warning: Citation `Chatrchyan:2012xdj' on page 10 undefined on input line
 
 LaTeX Warning: Citation `Aad:2012tfa' on page 10 undefined on input line 111.
 
-<figures/ZZMass_7Plus8TeV_70-180_3GeV.png, id=67, 598.235pt x 576.1525pt>
+<figures/ZZMass_7Plus8TeV_70-180_3GeV.png, id=66, 598.235pt x 576.1525pt>
 File: figures/ZZMass_7Plus8TeV_70-180_3GeV.png Graphic file (type png)
 
 <use figures/ZZMass_7Plus8TeV_70-180_3GeV.png>
 Package pdftex.def Info: figures/ZZMass_7Plus8TeV_70-180_3GeV.png used on input
  line 115.
 (pdftex.def)             Requested size: 216.81pt x 208.80377pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 116.
  [10]
 
 LaTeX Warning: Citation `Kapteyn:1922zz' on page 11 undefined on input line 129
@@ -409,8 +448,413 @@ LaTeX Warning: Citation `Rubin:1980zd' on page 11 undefined on input line 129.
 LaTeX Warning: Citation `Agashe:2014kda' on page 11 undefined on input line 129
 .
 
-[11 <./figures/ZZMass_7Plus8TeV_70-180_3GeV.png>]) [12]
-(./ucdavisthesis_main.bbl
+
+LaTeX Warning: Citation `Clowe:2003tk' on page 11 undefined on input line 131.
+
+
+LaTeX Warning: Citation `Agashe:2014kda' on page 11 undefined on input line 131
+.
+
+[11 <./figures/ZZMass_7Plus8TeV_70-180_3GeV.png>]
+
+LaTeX Warning: Citation `Koopmans:2002qh' on page 12 undefined on input line 13
+3.
+
+
+LaTeX Warning: Citation `Hoekstra:2002nf' on page 12 undefined on input line 13
+3.
+
+
+LaTeX Warning: Citation `Hu:2001bc' on page 12 undefined on input line 133.
+
+
+LaTeX Warning: Citation `Hu:1996qs' on page 12 undefined on input line 133.
+
+
+LaTeX Warning: Citation `Bertone:2004pz' on page 12 undefined on input line 133
+.
+
+
+LaTeX Warning: Citation `Bergstrom:2000pn' on page 12 undefined on input line 1
+33.
+
+
+LaTeX Warning: Citation `Tisserand:2006zx' on page 12 undefined on input line 1
+37.
+
+
+LaTeX Warning: Citation `Wyrzykowski:2011tr' on page 12 undefined on input line
+ 137.
+
+
+LaTeX Warning: Citation `Copi:1994ev' on page 12 undefined on input line 137.
+
+
+LaTeX Warning: Citation `Agashe:2014kda' on page 12 undefined on input line 137
+.
+
+
+LaTeX Warning: Citation `Bertone:2004pz' on page 12 undefined on input line 137
+.
+
+
+LaTeX Warning: Citation `Bertone:2004pz' on page 12 undefined on input line 139
+.
+
+
+LaTeX Warning: Citation `Dodelson:1993je' on page 12 undefined on input line 13
+9.
+
+
+LaTeX Warning: Citation `Rosenberg:2000wb' on page 12 undefined on input line 1
+39.
+
+
+LaTeX Warning: Citation `BirkedalHansen:2003mpa' on page 12 undefined on input 
+line 139.
+
+
+LaTeX Warning: Citation `Cheng:2003ju' on page 12 undefined on input line 139.
+
+[12]
+
+LaTeX Warning: Citation `Bertone:2004pz' on page 13 undefined on input line 141
+.
+
+
+LaTeX Warning: Citation `Jungman:1995df' on page 13 undefined on input line 141
+.
+
+
+LaTeX Warning: Citation `Kolb:1983fm' on page 13 undefined on input line 141.
+
+
+LaTeX Warning: Citation `Agashe:2014kda' on page 13 undefined on input line 141
+.
+
+
+LaTeX Warning: Citation `ArkaniHamed:1998rs' on page 13 undefined on input line
+ 141.
+
+
+LaTeX Warning: Citation `Randall:1999ee' on page 13 undefined on input line 141
+.
+
+
+LaTeX Warning: Citation `Appelquist:2000nn' on page 13 undefined on input line 
+141.
+
+
+LaTeX Warning: Citation `Cheng:2002iz' on page 13 undefined on input line 141.
+
+[13]
+
+LaTeX Warning: Citation `PhysRevLett.110.131302' on page 14 undefined on input 
+line 147.
+
+
+LaTeX Warning: Citation `0004-637X-742-2-78' on page 14 undefined on input line
+ 147.
+
+
+LaTeX Warning: Citation `Ackermann:2013uma' on page 14 undefined on input line 
+147.
+
+
+LaTeX Warning: Citation `Agashe:2014kda' on page 14 undefined on input line 147
+.
+
+
+LaTeX Warning: Citation `Bertone:2004pz' on page 14 undefined on input line 149
+.
+
+
+LaTeX Warning: Citation `Akerib:2016lao' on page 14 undefined on input line 149
+.
+
+[14]
+
+LaTeX Warning: Citation `Askew:2014kqa' on page 15 undefined on input line 151.
+
+
+[15]
+
+LaTeX Warning: Citation `Carpenter:2013xra' on page 16 undefined on input line 
+158.
+
+
+LaTeX Warning: Citation `Aad:2015zva' on page 16 undefined on input line 164.
+
+
+LaTeX Warning: Citation `Khachatryan:2014rra' on page 16 undefined on input lin
+e 164.
+
+
+LaTeX Warning: Citation `Aad:2014vea' on page 16 undefined on input line 164.
+
+
+LaTeX Warning: Citation `Khachatryan:2014uma' on page 16 undefined on input lin
+e 164.
+
+
+LaTeX Warning: Citation `Khachatryan:2015nua' on page 16 undefined on input lin
+e 164.
+
+
+LaTeX Warning: Citation `Aad:2014tda' on page 16 undefined on input line 164.
+
+
+LaTeX Warning: Citation `Chatrchyan:2012tea' on page 16 undefined on input line
+ 164.
+
+
+LaTeX Warning: Citation `Khachatryan:2014rwa' on page 16 undefined on input lin
+e 164.
+
+
+LaTeX Warning: Citation `Khachatryan:2014tva' on page 16 undefined on input lin
+e 164.
+
+
+LaTeX Warning: Citation `ATLAS:2014wra' on page 16 undefined on input line 164.
+
+
+
+LaTeX Warning: Citation `Aad:2014vka' on page 16 undefined on input line 164.
+
+
+LaTeX Warning: Citation `Aad:2013oja' on page 16 undefined on input line 164.
+
+
+LaTeX Warning: Citation `Khachatryan:2015bbl' on page 16 undefined on input lin
+e 164.
+
+
+LaTeX Warning: Citation `Carpenter:2013xra' on page 16 undefined on input line 
+164.
+
+
+LaTeX Warning: Citation `Berlin:2014cfa' on page 16 undefined on input line 164
+.
+
+
+LaTeX Warning: Citation `Abercrombie:2015wmb' on page 16 undefined on input lin
+e 166.
+
+[16] <figures/isr.png, id=90, 405.515pt x 405.515pt>
+File: figures/isr.png Graphic file (type png)
+ <use figures/isr.png>
+Package pdftex.def Info: figures/isr.png used on input line 172.
+(pdftex.def)             Requested size: 144.54pt x 144.54355pt.
+
+<figures/fsr.png, id=91, 477.785pt x 277.035pt>
+File: figures/fsr.png Graphic file (type png)
+ <use figures/fsr.png>
+Package pdftex.def Info: figures/fsr.png used on input line 178.
+(pdftex.def)             Requested size: 180.67499pt x 104.75867pt.
+
+
+LaTeX Warning: Citation `Aad:2015yga' on page 17 undefined on input line 186.
+
+
+LaTeX Warning: Citation `Aad:2015dva' on page 17 undefined on input line 186.
+
+
+LaTeX Warning: Citation `Atlas:2016Hbb' on page 17 undefined on input line 186.
+
+
+
+LaTeX Warning: Citation `CMS-AN-15-338' on page 17 undefined on input line 186.
+
+
+
+LaTeX Warning: Citation `CMS-AN-15-203' on page 17 undefined on input line 186.
+
+
+
+LaTeX Warning: Citation `CMS-AN-15-209' on page 17 undefined on input line 186.
+
+
+
+LaTeX Warning: Citation `CMS-AN-15-???' on page 17 undefined on input line 186.
+
+
+[17 <./figures/isr.png> <./figures/fsr.png>]
+
+LaTeX Warning: Citation `Chatrchyan:2013mxa' on page 18 undefined on input line
+ 188.
+
+
+LaTeX Warning: Citation `ATLAS:2013nma' on page 18 undefined on input line 188.
+
+
+
+LaTeX Warning: Citation `CMS-AN-15-277' on page 18 undefined on input line 188.
+
+
+
+LaTeX Warning: Citation `CMS-PAS-HIG-15-004' on page 18 undefined on input line
+ 188.
+
+
+LaTeX Warning: Citation `synchtwiki' on page 18 undefined on input line 188.
+
+
+LaTeX Warning: Citation `Carpenter:2013xra' on page 18 undefined on input line 
+190.
+
+
+LaTeX Warning: Citation `Carpenter:2013xra' on page 18 undefined on input line 
+190.
+
+
+LaTeX Warning: Citation `Berlin:2014cfa' on page 18 undefined on input line 190
+.
+
+
+LaTeX Warning: Citation `Abercrombie:2015wmb' on page 18 undefined on input lin
+e 190.
+
+
+LaTeX Warning: Citation `McDonald:1993ex' on page 18 undefined on input line 19
+8.
+
+
+LaTeX Warning: Citation `LopezHonorez:2012kv' on page 18 undefined on input lin
+e 198.
+
+[18]
+
+LaTeX Warning: Citation `Abercrombie:2015wmb' on page 19 undefined on input lin
+e 202.
+
+<figures/eftsig.png, id=100, 464.73625pt x 286.06876pt>
+File: figures/eftsig.png Graphic file (type png)
+
+<use figures/eftsig.png>
+Package pdftex.def Info: figures/eftsig.png used on input line 206.
+(pdftex.def)             Requested size: 216.81pt x 133.45709pt.
+
+
+LaTeX Warning: Citation `Carpenter:2013xra' on page 19 undefined on input line 
+211.
+
+[19 <./figures/eftsig.png>]
+
+LaTeX Warning: Citation `Berlin:2014cfa' on page 20 undefined on input line 252
+.
+
+
+LaTeX Warning: Citation `PhysRevD.86.010001' on page 20 undefined on input line
+ 252.
+
+
+LaTeX Warning: Citation `Aaltonen:2008dn' on page 20 undefined on input line 25
+2.
+
+
+LaTeX Warning: Citation `Chatrchyan:2013qha' on page 20 undefined on input line
+ 252.
+
+[20]
+Overfull \hbox (123.53459pt too wide) detected at line 269
+\OT1/cmr/m/n/12 ^^H[] = [] [] [](\OML/cmm/m/it/12 ^^L\OT1/cmr/m/n/12 )\OML/cmm/
+m/it/12 H[][] ^^W[] \OMS/cmsy/m/n/12 ^^@ []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 \
+OT1/cmr/m/n/12 )\OML/cmm/m/it/12 h \OT1/cmr/m/n/12 + [](\OML/cmm/m/it/12 \OT1/
+cmr/m/n/12 )\OML/cmm/m/it/12 H \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 i []\OT1/c
+mr/m/n/12 (\OML/cmm/m/it/12 ^^L\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 A[][] \OT1/cmr
+/m/n/12 ^^H[] = [] [] (\OML/cmm/m/it/12 ^^L\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 H[
+][] ^^W[] \OT1/cmr/m/n/12 + [](\OML/cmm/m/it/12 \OT1/cmr/m/n/12 )\OML/cmm/m/it
+/12 h \OT1/cmr/m/n/12 + [](\OML/cmm/m/it/12 \OT1/cmr/m/n/12 )\OML/cmm/m/it/12 
+H \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 i []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^L\
+OT1/cmr/m/n/12 )\OML/cmm/m/it/12 A[]|
+ []
+
+
+LaTeX Warning: Citation `Craig:2013hca' on page 21 undefined on input line 271.
+
+
+<figures/zp2hdmsig.png, id=109, 516.93124pt x 291.0875pt>
+File: figures/zp2hdmsig.png Graphic file (type png)
+
+<use figures/zp2hdmsig.png>
+Package pdftex.def Info: figures/zp2hdmsig.png used on input line 277.
+(pdftex.def)             Requested size: 216.81pt x 122.08713pt.
+
+
+LaTeX Warning: Citation `Carone:1994aa' on page 21 undefined on input line 314.
+
+
+
+LaTeX Warning: Citation `Agashe:2004bm' on page 21 undefined on input line 314.
+
+
+
+LaTeX Warning: Citation `FileviezPerez:2010gw' on page 21 undefined on input li
+ne 314.
+
+[21] [22 <./figures/zp2hdmsig.png>]
+<figures/zpsig.png, id=116, 499.8675pt x 278.03876pt>
+File: figures/zpsig.png Graphic file (type png)
+ <use figures/zpsig.png>
+Package pdftex.def Info: figures/zpsig.png used on input line 336.
+(pdftex.def)             Requested size: 216.81pt x 120.59375pt.
+
+
+LaTeX Warning: Citation `Chang:2006fp' on page 23 undefined on input line 370.
+
+
+LaTeX Warning: Citation `Pospelov:2007mp' on page 23 undefined on input line 37
+0.
+
+
+LaTeX Warning: Citation `Feldman:2007wj' on page 23 undefined on input line 370
+.
+
+
+LaTeX Warning: Citation `Feng:2008mu' on page 23 undefined on input line 370.
+
+
+LaTeX Warning: Citation `Gopalakrishna:2008dv' on page 23 undefined on input li
+ne 370.
+
+[23 <./figures/zpsig.png>]
+
+LaTeX Warning: Citation `MarchRussell:2008yu' on page 24 undefined on input lin
+e 413.
+
+[24] <figures/scsig.png, id=124, 501.875pt x 279.0425pt>
+File: figures/scsig.png Graphic file (type png)
+
+<use figures/scsig.png>
+Package pdftex.def Info: figures/scsig.png used on input line 447.
+(pdftex.def)             Requested size: 216.81pt x 120.54796pt.
+ [25] [26 <./figures/scsig.png>]
+Overfull \hbox (55.1509pt too wide) in paragraph at lines 481--491
+ [] |
+ []
+
+
+Overfull \hbox (451.47862pt too wide) in paragraph at lines 570--587
+ [] |
+ []
+
+
+Overfull \hbox (321.01718pt too wide) in paragraph at lines 593--605
+ [] |
+ []
+
+
+Overfull \hbox (389.96938pt too wide) in paragraph at lines 611--623
+ [] |
+ []
+
+
+Overfull \hbox (348.19203pt too wide) in paragraph at lines 629--641
+ [] |
+ []
+
+) [27] [28] [29] [30] (./ucdavisthesis_main.bbl
 Underfull \hbox (badness 1789) in paragraph at lines 30--35
 \OT1/cmr/m/it/12 nalen Phys.\OT1/cmr/m/n/12 , 17:891--921, 1905a.  doi: 10.1002
 /andp.200590006.  [An-nalen
@@ -456,7 +900,7 @@ Underfull \hbox (badness 1990) in paragraph at lines 95--100
 []\OT1/cmr/m/n/12 C. S. Wu, E. Am-bler,
  []
 
-[13
+[31
 
 
 ]
@@ -493,7 +937,7 @@ Underfull \hbox (badness 7667) in paragraph at lines 167--172
 ys-Rev.76.749.  URL
  []
 
-[14]
+[32]
 Underfull \hbox (badness 3930) in paragraph at lines 203--208
 \OT1/cmr/m/it/12 Rev.\OT1/cmr/m/n/12 , 75:1736--1755, Jun 1949b.  doi: 10.1103/
 Phys-Rev.75.1736.  URL
@@ -527,7 +971,7 @@ Overfull \hbox (1351.6927pt too wide) in paragraph at lines 248--259
 []|
  []
 
-[15]
+[33]
 Overfull \hbox (263.96918pt too wide) in paragraph at lines 263--270
 []|
  []
@@ -543,7 +987,7 @@ Underfull \hbox (badness 1147) in paragraph at lines 274--282
 i-sions.  \OT1/cmr/m/it/12 Phys.
  []
 
-) [16] [1] [2] (./ucdavisthesis_main.aux (./ucdavisthesis_Chap1.aux))
+) [34] [1] [2] (./ucdavisthesis_main.aux (./ucdavisthesis_Chap1.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 4.98pt have occurred.
@@ -551,32 +995,36 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 2793 strings out of 494985
- 38717 string characters out of 6180355
- 110260 words of memory out of 5000000
- 5939 multiletter control sequences out of 15000+600000
- 10589 words of font info for 37 fonts, out of 8000000 for 9000
+ 4009 strings out of 494985
+ 60514 string characters out of 6180355
+ 167097 words of memory out of 5000000
+ 7141 multiletter control sequences out of 15000+600000
+ 9973 words of font info for 35 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 37i,8n,23p,1813b,283s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,11n,39p,2182b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on ucdavisthesis_main.pdf (26 pages, 229200 bytes).
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on ucdavisthesis_main.pdf (44 pages, 316777 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
+ 215 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
