@@ -1,7 +1,11 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {1.1}{\ignorespaces 4l invariant mass distribution showing H discovery in the ZZ* decay channel. The red line shows the signal distribution for $m_H=126$ GeV. Figure taken from https://twiki.cern.ch/twiki/bin/view/CMSPublic/Hig12041TWiki\relax }}{11}
 \contentsline {figure}{\numberline {1.2}{\ignorespaces (a) Mono-X production topology for signatures with X emitted as ISR. (b) Mono-X production topology for signatures with X emitted from new physics vertex.\relax }}{17}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces \relax }}{19}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces \relax }}{22}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces \relax }}{23}
-\contentsline {figure}{\numberline {1.6}{\ignorespaces \relax }}{26}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Collider production diagram for mono-H EFTs.\relax }}{19}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Collider production diagram for Zp2HDM.\relax }}{21}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Collider production diagram for Z' models.\relax }}{23}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Collider production diagram for Scalar model.\relax }}{26}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Deconstructed view of the CMS subdetectors, with human figure for scale. From inside to out, the colored segments correspond to the following systems: light brown is the pixel tracker, cream is the strip tracker, green is the ECAL, orange is the HCAL, grey is the solenoid, red is the yoke with white muon chambers. \relax }}{38}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Schematic diagram of tracking detectors with radial distance of modules (shown as black lines) from center on the left axis, z-dimension on the bottom axis, and $\eta $ accross the top.\relax }}{40}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Deconstructed barrel pixel module showing module components.\relax }}{41}
