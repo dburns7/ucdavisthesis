@@ -54,16 +54,51 @@ The inner tracking detectors of CMS, supported by a 5.30 m long tube with an inn
 
 \begin{figure}[tbh]
 \centering
-\includegraphics[width=5in]{figures/pixelmodule.pdf}
+\includegraphics[width=4in]{figures/pixelmodule.pdf}
 \caption{Deconstructed barrel pixel module showing module components.}
 \label{fig:pixmodule}
 \end{figure}
 
-\indent The remaining modules of the pixel detector form the strip tracker. These are divided into the following sections: 
+\indent The remaining modules of the tracking detector form the strip tracker, which fills the volume between 20-116 cm radially, and $\pm118$ cm in z. These 15,148 modules are divided into the following sections: tracker inner barrel (TIB), with four layers, tracker outer barrel (TOB), with six layers, tracker inner disks (TID), with 6 layers, and tracker end caps (TEC), with 9 layers. The average particle occupancy at distances greater than 20 cm from the IP is low enough compared to regions closer to the beam line that the strip tracker is not required to have the same granularity as the pixel detector, thus, 29 different strip module designs, of different sizes and orientations are used. The physical principles behind the strip tracker are the same as the pixel detector; charged particles liberate conduction band electrons in the material, which drift toward read out sensors. To enhance the effect of the charge carriers drift in the magnetic field, the strip detectors are tilted, yielding a resolution around 30$\mu$m. Excluding defective modules, The detection efficienty of the strip tracker is nearly 100\% (Figure~\ref{fig:stripeff}) \ref{Chatrchyan:2014fea}.
+
+\begin{figure}[tbh]
+\centering
+\includegraphics[width=4in]{figures/stripeff.pdf}
+\caption{Average hit efficiencies of the strip tracker layers.}
+\label{fig:stripeff}
+\end{figure}
 
 \subsection{Electromagnetic calorimeter}
 
+The electromagnetic calorimeter (ECAL) consists of 61200 lead tungstate crystal modules in the barrel region (EB), covering $|\eta|<1.479$, and 7324 modules in each endcap (EE), covering $1.479<|\eta|<3$. The crystals are oriented radially, as shown in Figure~\ref{fig:ecal}, at angles around three degrees in the EB and two to eight degress in the EE from the vector to the IP to avoid cracks where particles would escape, arranged in various supercrystal geometries combined to form supermodules in the EB and two Dees on each endcap. The front faces of the EB crystals are at $r=1.29$m, and present a cross section around 22$\times$22 $\rm{mm}^2$. The EB extends to an outer radius of 1.77 m. The endcap envelopes are at $\pm315.4$cm relative to the IP in z. The crystals themselves have a truncated pyramidal shape, polished on all sides to increase internal reflection, except one face on EB crystals is depolished to account for nonuniformity in light production from the crystal shape. 
+
+\indent The ECAL is responsible for recovering the energy of electrons and photons from the showers of scintillation light they produce in the crystals. The accuracy of this measurement is of particular importance in the design of CMS since the H decay to photons and leptons are key channels in the H search, one of the primary purposes of CMS. The ECAL also contains preshower detectors in front of each set of endcap crystals, consisting of a thin layer of lead followed by a thin layer of silicon strip sensors to create and detect showers from minimum ionizing particles. The primary purpose of the preshower detectors are to identify and veto neutral pion production, in addition to improving the overall position resolution of the ECAL.
+
+\begin{figure}[tbh]
+\centering
+\includegraphics[width=4in]{figures/ecal.pdf}
+\caption{Schematic layout of the ECAL crystal modules.}
+\label{fig:ecal}
+\end{figure}
+
+\indent Lead tungstate crystals were chosen for the construction of the ECAL because of their hardness to the high radiation exposure, and the following properties which enable a compact detector with sufficiently high granularity: a high density of 8.28 g/$\rm{cm}^3$, a short radiation length of 0.89 cm, and a small Moliere radius of 2.2 cm. Additionally, the crystals have a fast scintillation decay time of about 25 ns, the same time between bunch crossings, enabling fast response and read out. At operating temperature, about 4.5 photoelectrons are collected in the attached photodetectors per MeV of incident particle energy from the blue-green scintillation light produced in the crystals. EB crystals are glued to avalanche photodiodes (APDs) while EE crystals are read by vacuum phototriodes (VPTs), each specially designed for the CMS ECAL, as shown in Figure~\ref{fig:crystalmodules}. 
+
+\begin{figure}[tbh]
+\centering
+\includegraphics[width=6in]{figures/crystalmodules.pdf}
+\caption{EB crystal with one depolished face attached to APD photodetector (left) and EE crystal attached to VPT (right).}
+\label{fig:crystalmodules}
+\end{figure}
+
+\indent The energy resolution of the ECAL depends on the energy of the incident particle, and can be parametrized as the sum of three terms:
+\begin{equation}
+\bigg(\frac{\sigma}{E}\bigg)^2 = \bigg(\frac{S}{\sqrt{E}}\bigg)^2 + \bigg(\frac{N}{E}\bigg)^2 + C^2
+\end{equation}
+The first term, called the stochastic term, arises from fluctuations in the lateral shower containment, photostatistics, and fluctuations in energy deposited in the preshower detector. The second term, called the noise term, arises from electronic, digitization, and pileup noise. The third term, called the constant term, arises from non-uniformity in light collection, calibration errors, and leakage from the back of the crystals. Test beam experiments using electron beams with momenta 20-250 GeV found approximate values of the parameters: $S=0.028$, $N=0.12$, and $0.003$. 
+
 \subsection{Hadronic calorimeter}
+
+
 
 \subsection{Muon detectors}
 

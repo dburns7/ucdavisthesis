@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  26 MAY 2016 18:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  1 JUN 2016 14:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1066,8 +1066,34 @@ File: figures/pixelmodule.pdf Graphic file (type pdf)
 
 <use figures/pixelmodule.pdf>
 Package pdftex.def Info: figures/pixelmodule.pdf used on input line 57.
-(pdftex.def)             Requested size: 433.62pt x 250.75323pt.
-) [40 <./figures/tracker.pdf>] [41 <./figures/pixelmodule.pdf>] (./ucdavisthesi
+(pdftex.def)             Requested size: 289.07999pt x 167.17012pt.
+
+
+LaTeX Warning: Reference `Chatrchyan:2014fea' on page 40 undefined on input lin
+e 62.
+
+[40 <./figures/tracker.pdf>]
+<figures/stripeff.pdf, id=215, 225.61852pt x 164.3773pt>
+File: figures/stripeff.pdf Graphic file (type pdf)
+
+<use figures/stripeff.pdf>
+Package pdftex.def Info: figures/stripeff.pdf used on input line 66.
+(pdftex.def)             Requested size: 289.07999pt x 210.63548pt.
+ [41 <./figures/pixelmodule.pdf>]
+<figures/ecal.pdf, id=255, 374.26605pt x 247.36063pt>
+File: figures/ecal.pdf Graphic file (type pdf)
+ <use figures/ecal.pdf>
+Package pdftex.def Info: figures/ecal.pdf used on input line 79.
+(pdftex.def)             Requested size: 289.07999pt x 191.06462pt.
+
+[42 <./figures/stripeff.pdf>]
+<figures/crystalmodules.pdf, id=315, 424.44963pt x 143.523pt>
+File: figures/crystalmodules.pdf Graphic file (type pdf)
+
+<use figures/crystalmodules.pdf>
+Package pdftex.def Info: figures/crystalmodules.pdf used on input line 88.
+(pdftex.def)             Requested size: 433.62pt x 146.62582pt.
+) [43 <./figures/ecal.pdf> <./figures/crystalmodules.pdf>] [44] (./ucdavisthesi
 s_main.bbl) [1
 
 ] (./ucdavisthesis_main.aux
@@ -1081,10 +1107,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4140 strings out of 494985
- 62626 string characters out of 6180355
- 167780 words of memory out of 5000000
- 7254 multiletter control sequences out of 15000+600000
+ 4159 strings out of 494985
+ 63033 string characters out of 6180355
+ 167813 words of memory out of 5000000
+ 7270 multiletter control sequences out of 15000+600000
  9804 words of font info for 34 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  38i,14n,39p,2182b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1102,15 +1128,17 @@ l12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symb
-ol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on ucdavisthesis_main.pdf (50 pages, 1022722 bytes).
+e/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/mathpazo/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/pa
+latino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri
+8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on ucdavisthesis_main.pdf (53 pages, 1458313 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
- 217 compressed objects within 3 object streams
+ 440 PDF objects out of 1000 (max. 8388607)
+ 312 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

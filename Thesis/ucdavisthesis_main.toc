@@ -27,6 +27,6 @@
 \contentsline {section}{\numberline {2.2}Compact Muon Solenoid}{37}
 \contentsline {subsection}{\numberline {2.2.1}Tracking detectors}{39}
 \contentsline {subsection}{\numberline {2.2.2}Electromagnetic calorimeter}{41}
-\contentsline {subsection}{\numberline {2.2.3}Hadronic calorimeter}{41}
-\contentsline {subsection}{\numberline {2.2.4}Muon detectors}{41}
-\contentsline {subsection}{\numberline {2.2.5}Trigger system}{41}
+\contentsline {subsection}{\numberline {2.2.3}Hadronic calorimeter}{44}
+\contentsline {subsection}{\numberline {2.2.4}Muon detectors}{44}
+\contentsline {subsection}{\numberline {2.2.5}Trigger system}{44}
