@@ -1,7 +1,7 @@
 \contentsline {section}{List of Figures}{iv}
-\contentsline {section}{List of Tables}{v}
-\contentsline {section}{Abstract}{vi}
-\contentsline {section}{Acknowledgments}{vii}
+\contentsline {section}{List of Tables}{vi}
+\contentsline {section}{Abstract}{vii}
+\contentsline {section}{Acknowledgments}{viii}
 \contentsline {chapter}{\numberline {1}Motivation and theoretical background}{1}
 \contentsline {section}{\numberline {1.1}The Standard Model}{1}
 \contentsline {subsection}{\numberline {1.1.1}Symmetries of nature}{1}
@@ -28,5 +28,5 @@
 \contentsline {subsection}{\numberline {2.2.1}Tracking detectors}{39}
 \contentsline {subsection}{\numberline {2.2.2}Electromagnetic calorimeter}{41}
 \contentsline {subsection}{\numberline {2.2.3}Hadronic calorimeter}{44}
-\contentsline {subsection}{\numberline {2.2.4}Muon detectors}{44}
-\contentsline {subsection}{\numberline {2.2.5}Trigger system}{44}
+\contentsline {subsection}{\numberline {2.2.4}Muon detectors}{46}
+\contentsline {subsection}{\numberline {2.2.5}Trigger}{49}

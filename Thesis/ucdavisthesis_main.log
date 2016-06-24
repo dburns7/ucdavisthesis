@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  1 JUN 2016 14:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  20 JUN 2016 16:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -285,13 +285,17 @@ Overfull \hbox (7.00931pt too wide) in paragraph at lines 2--2
 2041TWiki []  |
  []
 
-)
+
+LaTeX Warning: Reference `Baiatian:951395' on page 46 undefined on input line 1
+6.
+
+[4
+
+])
 \tf@lof=\write4
 \openout4 = `ucdavisthesis_main.lof'.
 
- [4
-
-] (./ucdavisthesis_main.lot
+ [5] (./ucdavisthesis_main.lot
 Overfull \hbox (2.89972pt too wide) in paragraph at lines 18--18
  [][] []\OT1/cmr/m/n/12 Zp2HDM model pro-duc-tion cross sec-tions [pb] cor-re-s
 pond-ing to mass points |
@@ -301,11 +305,11 @@ pond-ing to mass points |
 \tf@lot=\write5
 \openout5 = `ucdavisthesis_main.lot'.
 
- [5
+ [6
 
-] [6
+] [7
 
-] [7]
+] [8]
 \openout2 = `ucdavisthesis_Chap1.aux'.
 
  (./ucdavisthesis_Chap1.tex
@@ -553,7 +557,7 @@ LaTeX Warning: Citation `Chatrchyan:2012xdj' on page 10 undefined on input line
 
 LaTeX Warning: Citation `Aad:2012tfa' on page 10 undefined on input line 111.
 
-<figures/ZZMass_7Plus8TeV_70-180_3GeV.png, id=66, 598.235pt x 576.1525pt>
+<figures/ZZMass_7Plus8TeV_70-180_3GeV.png, id=69, 598.235pt x 576.1525pt>
 File: figures/ZZMass_7Plus8TeV_70-180_3GeV.png Graphic file (type png)
 
 <use figures/ZZMass_7Plus8TeV_70-180_3GeV.png>
@@ -774,13 +778,13 @@ LaTeX Warning: Citation `Berlin:2014cfa' on page 15 undefined on input line 164
 LaTeX Warning: Citation `Abercrombie:2015wmb' on page 16 undefined on input lin
 e 166.
 
-[16] <figures/isr.png, id=90, 405.515pt x 405.515pt>
+[16] <figures/isr.png, id=94, 405.515pt x 405.515pt>
 File: figures/isr.png Graphic file (type png)
  <use figures/isr.png>
 Package pdftex.def Info: figures/isr.png used on input line 172.
 (pdftex.def)             Requested size: 144.54pt x 144.54355pt.
 
-<figures/fsr.png, id=91, 477.785pt x 277.035pt>
+<figures/fsr.png, id=95, 477.785pt x 277.035pt>
 File: figures/fsr.png Graphic file (type png)
  <use figures/fsr.png>
 Package pdftex.def Info: figures/fsr.png used on input line 178.
@@ -860,7 +864,7 @@ e 198.
 LaTeX Warning: Citation `Abercrombie:2015wmb' on page 18 undefined on input lin
 e 202.
 
-[18] <figures/eftsig.png, id=100, 464.73625pt x 286.06876pt>
+[18] <figures/eftsig.png, id=103, 464.73625pt x 286.06876pt>
 File: figures/eftsig.png Graphic file (type png)
 
 <use figures/eftsig.png>
@@ -913,7 +917,7 @@ OT1/cmr/m/n/12 )\OML/cmm/m/it/12 A[]|
 LaTeX Warning: Citation `Craig:2013hca' on page 21 undefined on input line 271.
 
 
-<figures/zp2hdmsig.png, id=109, 516.93124pt x 291.0875pt>
+<figures/zp2hdmsig.png, id=112, 516.93124pt x 291.0875pt>
 File: figures/zp2hdmsig.png Graphic file (type png)
 
 <use figures/zp2hdmsig.png>
@@ -933,7 +937,7 @@ LaTeX Warning: Citation `FileviezPerez:2010gw' on page 21 undefined on input li
 ne 314.
 
 [21 <./figures/zp2hdmsig.png>]
-<figures/zpsig.png, id=113, 499.8675pt x 278.03876pt>
+<figures/zpsig.png, id=116, 499.8675pt x 278.03876pt>
 File: figures/zpsig.png Graphic file (type png)
  <use figures/zpsig.png>
 Package pdftex.def Info: figures/zpsig.png used on input line 336.
@@ -992,7 +996,7 @@ LaTeX Warning: Citation `Giardino:2013bma' on page 25 undefined on input line 4
 LaTeX Warning: Citation `Ellis:2013lra' on page 25 undefined on input line 443.
 
 
-<figures/scsig.png, id=124, 501.875pt x 279.0425pt>
+<figures/scsig.png, id=127, 501.875pt x 279.0425pt>
 File: figures/scsig.png Graphic file (type png)
  <use figures/scsig.png>
 Package pdftex.def Info: figures/scsig.png used on input line 447.
@@ -1047,21 +1051,21 @@ tes/2013/02/long-shutdown-|
 LaTeX Warning: Citation `1748-0221-3-08-S08004' on page 37 undefined on input l
 ine 27.
 
-[37] <figures/cms.jpg, id=167, 491.9178pt x 327.3831pt>
+[37] <figures/cms.jpg, id=170, 491.9178pt x 327.3831pt>
 File: figures/cms.jpg Graphic file (type jpg)
  <use figures/cms.jpg>
 Package pdftex.def Info: figures/cms.jpg used on input line 35.
 (pdftex.def)             Requested size: 433.62pt x 288.58757pt.
 
 [38 <./figures/cms.jpg>] [39]
-<figures/tracker.pdf, id=174, 437.85068pt x 207.63943pt>
+<figures/tracker.pdf, id=177, 437.85068pt x 207.63943pt>
 File: figures/tracker.pdf Graphic file (type pdf)
 
 <use figures/tracker.pdf>
 Package pdftex.def Info: figures/tracker.pdf used on input line 50.
 (pdftex.def)             Requested size: 433.62pt x 205.63336pt.
 
-<figures/pixelmodule.pdf, id=175, 440.60297pt x 254.78938pt>
+<figures/pixelmodule.pdf, id=178, 440.60297pt x 254.78938pt>
 File: figures/pixelmodule.pdf Graphic file (type pdf)
 
 <use figures/pixelmodule.pdf>
@@ -1073,28 +1077,94 @@ LaTeX Warning: Reference `Chatrchyan:2014fea' on page 40 undefined on input lin
 e 62.
 
 [40 <./figures/tracker.pdf>]
-<figures/stripeff.pdf, id=215, 225.61852pt x 164.3773pt>
+<figures/stripeff.pdf, id=219, 225.61852pt x 164.3773pt>
 File: figures/stripeff.pdf Graphic file (type pdf)
 
 <use figures/stripeff.pdf>
 Package pdftex.def Info: figures/stripeff.pdf used on input line 66.
 (pdftex.def)             Requested size: 289.07999pt x 210.63548pt.
  [41 <./figures/pixelmodule.pdf>]
-<figures/ecal.pdf, id=255, 374.26605pt x 247.36063pt>
+<figures/ecal.pdf, id=258, 374.26605pt x 247.36063pt>
 File: figures/ecal.pdf Graphic file (type pdf)
  <use figures/ecal.pdf>
 Package pdftex.def Info: figures/ecal.pdf used on input line 79.
 (pdftex.def)             Requested size: 289.07999pt x 191.06462pt.
 
 [42 <./figures/stripeff.pdf>]
-<figures/crystalmodules.pdf, id=315, 424.44963pt x 143.523pt>
+<figures/crystalmodules.pdf, id=318, 424.44963pt x 143.523pt>
 File: figures/crystalmodules.pdf Graphic file (type pdf)
 
 <use figures/crystalmodules.pdf>
 Package pdftex.def Info: figures/crystalmodules.pdf used on input line 88.
 (pdftex.def)             Requested size: 433.62pt x 146.62582pt.
-) [43 <./figures/ecal.pdf> <./figures/crystalmodules.pdf>] [44] (./ucdavisthesi
-s_main.bbl) [1
+ [43 <./figures/ecal.pdf> <./figures/crystalmodules.pdf>] <figures/hcal.pdf, id
+=379, 380.84964pt x 224.00589pt>
+File: figures/hcal.pdf Graphic file (type pdf)
+
+<use figures/hcal.pdf>
+Package pdftex.def Info: figures/hcal.pdf used on input line 105.
+(pdftex.def)             Requested size: 433.62pt x 255.04463pt.
+ [44]
+<figures/eres_hcal.pdf, id=383, 239.63896pt x 219.95757pt>
+File: figures/eres_hcal.pdf Graphic file (type pdf)
+
+<use figures/eres_hcal.pdf>
+Package pdftex.def Info: figures/eres_hcal.pdf used on input line 114.
+(pdftex.def)             Requested size: 289.07999pt x 265.35066pt.
+
+
+LaTeX Warning: Reference `Baiatian:951395' on page 45 undefined on input line 1
+15.
+
+
+LaTeX Warning: Reference `Baiatian:951395' on page 45 undefined on input line 1
+15.
+
+[45 <./figures/hcal.pdf>] [46 <./figures/eres_hcal.pdf>]
+<figures/DTs.pdf, id=480, 394.53792pt x 355.56407pt>
+File: figures/DTs.pdf Graphic file (type pdf)
+ <use figures/DTs.pdf>
+Package pdftex.def Info: figures/DTs.pdf used on input line 129.
+(pdftex.def)             Requested size: 289.07999pt x 260.52533pt.
+
+<figures/cscs.pdf, id=481, 391.63858pt x 209.70627pt>
+File: figures/cscs.pdf Graphic file (type pdf)
+ <use figures/cscs.pdf>
+Package pdftex.def Info: figures/cscs.pdf used on input line 138.
+(pdftex.def)             Requested size: 289.07999pt x 154.793pt.
+
+[47 <./figures/DTs.pdf>]
+<figures/rpcbarrel.pdf, id=544, 401.06805pt x 281.93211pt>
+File: figures/rpcbarrel.pdf Graphic file (type pdf)
+
+<use figures/rpcbarrel.pdf>
+Package pdftex.def Info: figures/rpcbarrel.pdf used on input line 149.
+(pdftex.def)             Requested size: 216.81pt x 152.40884pt.
+
+Overfull \hbox (11.92586pt too wide) in paragraph at lines 149--150
+ [][] |
+ []
+
+<figures/rpcendcap.pdf, id=545, 247.12686pt x 261.80048pt>
+File: figures/rpcendcap.pdf Graphic file (type pdf)
+
+<use figures/rpcendcap.pdf>
+Package pdftex.def Info: figures/rpcendcap.pdf used on input line 154.
+(pdftex.def)             Requested size: 180.67499pt x 191.40036pt.
+
+
+LaTeX Warning: Reference `1748-0221-7-10-P10002' on page 48 undefined on input 
+line 161.
+
+<figures/muonres.pdf, id=546, 272.90004pt x 189.89876pt>
+File: figures/muonres.pdf Graphic file (type pdf)
+
+<use figures/muonres.pdf>
+Package pdftex.def Info: figures/muonres.pdf used on input line 165.
+(pdftex.def)             Requested size: 361.34999pt x 251.46686pt.
+ [48 <./figures/cscs.pdf> <./figures/rpcbarrel.pdf> <./figures/rpcendcap.pdf>])
+ [49 <./figures/muonres.pdf>]
+(./ucdavisthesis_main.bbl) [1
 
 ] (./ucdavisthesis_main.aux
 (./ucdavisthesis_Chap1.aux) (./ucdavisthesis_Chap2.aux))
@@ -1107,38 +1177,41 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4159 strings out of 494985
- 63033 string characters out of 6180355
- 167813 words of memory out of 5000000
- 7270 multiletter control sequences out of 15000+600000
+ 4202 strings out of 494985
+ 63862 string characters out of 6180355
+ 167883 words of memory out of 5000000
+ 7306 multiletter control sequences out of 15000+600000
  9804 words of font info for 34 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  38i,14n,39p,2182b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-l12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/mathpazo/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/pa
-latino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri
-8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on ucdavisthesis_main.pdf (53 pages, 1458313 bytes).
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/mathpazo/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino
+/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.
+pfb>
+Output written on ucdavisthesis_main.pdf (59 pages, 2665418 bytes).
 PDF statistics:
- 440 PDF objects out of 1000 (max. 8388607)
- 312 compressed objects within 4 object streams
+ 735 PDF objects out of 1000 (max. 8388607)
+ 536 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
