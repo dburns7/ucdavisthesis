@@ -169,5 +169,23 @@ The final muon subsystem, the 480 rectangular barrel and trapezoidal endcap RPCs
 
 \subsection{Trigger}
 
-In order to reduce the O(100) MHz interaction rate from LHC proton collisions to a computationally managable O(100) kHz rate, a trigger system consisting of an Level-1 Trigger (L1T) and a High-Level Trigger (HLT), is employed. The L1T, summarized in Figure~\ref{fig:l1t}, uses mainly FPGA technology on the front-end electronics to compile local trigger primitives from calorimeter towers and muon tracks into regional triggers, which use pattern logic to identify objects like electrons/muons. The highest quality objects are piped to the global trigger, which decides, based on further calculations and input on the status of the sub-detectors, whether an event is rejected, or an L1 Accept signal is sent to the Timing, Trigger, and Control (TTC) system for reading out the front-end data buffers, with a latency of 3.2 $\mu$s. Next, the HLT, a software system
+In order to reduce the O(100) MHz interaction rate from LHC proton collisions to a computationally managable O(100) kHz rate, a trigger system consisting of an Level-1 Trigger (L1T) and a High-Level Trigger (HLT), is employed. The L1T, summarized in Figure~\ref{fig:l1t}, uses mainly FPGA technology on the front-end electronics to compile local trigger primitives from calorimeter towers and muon tracks into regional triggers, which use pattern logic to identify objects like electrons/muons. The highest quality objects are piped to the global trigger, which decides, based on further calculations and input on the status of the sub-detectors, whether an event is rejected, or an L1 Accept signal is sent to the Timing, Trigger, and Control (TTC) system for reading out the front-end data buffers, with a latency of 3.2 $\mu$s.
+
+\begin{figure}[tbh]
+\centering
+\includegraphics[width=5in]{figures/l1t.pdf}
+\caption{.}
+\label{fig:l1t}
+\end{figure}
+
+\indent After an event passes the L1T, the entire event data is read out by the data acquisition (DAQ) system, summarized in Figure~\ref{Fig:daq}. First, data is read out from the subdetector front-end buffers to the front-end drivers (FEDs), followed by the merging of FED fragments by the Event Builder and the submission of the complete event data to the HLT by the Event Filter. The HLT is a software system, which uses filtering and reconstruction algorithms to select events based on their physics object content, with different paths based on the different combinations of objects used in physics analyses. The HLT paths used in this analysis are based on combinations of high quality lepton objects, such as two muons or two electrons, and are discussed further in the next chapter. Data quality monitoring (DQM), is also carried out at this step, to ensure all subsystems are behaving properly and the data being collected is usable for analysis. Data passing the HLT is saved to storage and processed in the offline software system before being provided to analyzers for physics searches. 
+
+\begin{figure}[tbh]
+\centering
+\includegraphics[width=5in]{figures/daq.pdf}
+\caption{.}
+\label{fig:daq}
+\end{figure}
+
+\indent In order to verify that the live trigger system is performing as expected and to emulate the trigger system for the production of simulated events, an offline trigger software framework is developed and maintained in parallel with the hardware system. For each calorimeter and muon trigger subsystem, there is a corresponding software emulator that simulates the hardware decisions. The live DQM system used by trigger shifters compares the hardware output to the output of the emulators. In addition to DQM, the trigger software framework is used to calculate the L1T efficiencies, or the efficiency of detection for various reconstructed physics objects. The service work conducted in the process of completing this thesis consisted of contributing to the upgrade of the offline software to be based on calorimeter Layers instead of the regional (RCT) and global trigger (GCT) subsystems of the Run 1 legacy format described above, and the development of automated workflows for trigger DQM. The Run 2 calorimeter trigger system is based on two layers, Layer1, responsible for constructing towers from the energy deposits in ECAL and HCAL modules, and Layer2, which algorithmically builds physics objects from Layer1 towers. A staggered upgrade plan was carried out with the GCT replaced by Layer2 in 2015 (called Stage1) and the RCT to Layer1 in 2016 (called Stage2). During partial upgrades, data formats would be upconverted or downconverted before or after an upgrade stage where applicable to keep the entire workflow working. 
 
