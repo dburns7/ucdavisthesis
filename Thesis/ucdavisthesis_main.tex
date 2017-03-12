@@ -15,6 +15,10 @@
 \usepackage{subcaption}
 \usepackage{rotating}
 \usepackage{hypernat}
+\usepackage{adjustbox}
+\usepackage{hyperref}
+%\usepackage{abntcite}
+\usepackage{amsmath}
 
 %\usepackage[square,comma,numbers,sort&compress]{natbib}
 %\usepackage{hypernat}
@@ -39,6 +43,9 @@
 %\usepackage[sc]{mathpazo}
 %\usepackage{mathptmx}
 %\usepackage[varg]{txfonts}
+
+
+\usepackage[toc,page]{appendix}
 
 \hyphenation{dis-ser-ta-tion blue-print man-u-script pre-par-ing} %add hyphenation rules for words TeX doesn't know
 
@@ -117,6 +124,11 @@
 \include{ucdavisthesis_Chap1}
 \include{ucdavisthesis_Chap2}
 \include{ucdavisthesis_Chap3}
+
+\begin{appendices}
+\include{ucdavisthesis_Appen1}
+\end{appendices}
+
 
 \bibliography{ucdavisthesis}
 
