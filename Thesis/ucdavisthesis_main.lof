@@ -1,27 +1,4 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces 4l invariant mass distribution showing H discovery in the ZZ* decay channel. The red line shows the signal distribution for $m_H=126$ GeV.\relax }}{11}{figure.caption.5}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces (a) Mono-X production topology for signatures with X emitted as ISR. (b) Mono-X production topology for signatures with X emitted from new physics vertex.\relax }}{18}{figure.caption.6}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Collider production diagram for mono-H EFTs.\relax }}{20}{figure.caption.7}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Collider production diagram for Zp2HDM.\relax }}{22}{figure.caption.10}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Collider production diagram for Z' models.\relax }}{24}{figure.caption.12}
-\contentsline {figure}{\numberline {1.6}{\ignorespaces Collider production diagram for Scalar model.\relax }}{27}{figure.caption.15}
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Deconstructed view of the CMS subdetectors, with human figure for scale. From inside to out, the colored segments correspond to the following systems: light brown is the pixel tracker, cream is the strip tracker, green is the ECAL, orange is the HCAL, grey is the solenoid, red is the yoke with white muon chambers. \relax }}{34}{figure.caption.22}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Schematic diagram of tracking detectors with radial distance of modules (shown as black lines) from center on the left axis, z-dimension on the bottom axis, and $\eta $ accross the top.\relax }}{36}{figure.caption.23}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Deconstructed barrel pixel module showing module components.\relax }}{37}{figure.caption.24}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Average hit efficiencies of the strip tracker layers.\relax }}{38}{figure.caption.25}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Schematic layout of the ECAL crystal modules.\relax }}{39}{figure.caption.26}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces EB crystal with one depolished face attached to APD photodetector (left) and EE crystal attached to VPT (right).\relax }}{39}{figure.caption.27}
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Cross sectional view of one quadrant of CMS. The labeled sections are the subsytems of the HCAL, HB, HE, HO, and HF.\relax }}{41}{figure.caption.28}
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Energy resolution of HCAL systems for test beam pions \ref {Baiatian:951395}.\relax }}{42}{figure.caption.29}
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Schematic diagram showing DT chambers in light blue.\relax }}{43}{figure.caption.30}
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Schematic diagram showing CSC locations in red in a quadrant cutout of CMS.\relax }}{44}{figure.caption.31}
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Schematic diagram showing barrel RPC locations (left) and endcap RPCs (right) in a cross sectional cutout of CMS.\relax }}{44}{figure.caption.32}
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Transverse momentum resolution versus pseudorapidity for muons from Z decays.\relax }}{45}{figure.caption.33}
-\contentsline {figure}{\numberline {2.13}{\ignorespaces .\relax }}{46}{figure.caption.34}
-\contentsline {figure}{\numberline {2.14}{\ignorespaces .\relax }}{47}{figure.caption.35}
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Event display of hadronic jet in the x-y plane, with solid arcs at the ECAL and HCAL surfaces. The locations of clusters are given by the solid dots.\relax }}{50}{figure.caption.36}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Event display of hadronic jet in the $\eta -\phi $ plane for the ECAL (a) and HCAL (b). The locations of clusters are given by the solid dots.\relax }}{51}{figure.caption.37}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces MET reconstruction resolution.\relax }}{51}{figure.caption.38}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Trigger efficiency measured in data using $4\ell $ events collected by single lepton triggers for the $4e$ (top left), $4\mu $ (top right), $2e2\mu $ (bottom left) and $4\ell $ (bottom right) final states. \relax }}{4}{figure.caption.6}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Number of pileup vertices before and after reweighted is applied.\relax }}{7}{figure.caption.11}
 \addvspace {10\p@ }

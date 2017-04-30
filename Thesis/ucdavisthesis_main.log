@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  10 MAR 2017 11:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  30 APR 2017 11:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -382,44 +382,65 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen135
+)
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count146
+\ST@wd=\dimen136
+\ST@rightskip=\skip50
+\ST@leftskip=\skip51
+\ST@parfillskip=\skip52
+\ST@pageleft=\dimen137
+\ST@headht=\dimen138
+\ST@tailht=\dimen139
+\ST@pagesofar=\dimen140
+\ST@pboxht=\dimen141
+\ST@lineht=\dimen142
+\ST@stretchht=\dimen143
+\ST@prevht=\dimen144
+\ST@toadd=\dimen145
+\ST@dimen=\dimen146
+\ST@pbox=\box31
+)
 (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count146
-\c@@ppsavesec=\count147
-\c@@ppsaveapp=\count148
+\c@@pps=\count147
+\c@@ppsavesec=\count148
+\c@@ppsaveapp=\count149
 )
-(./ucdavisthesis_main.aux (./ucdavisthesis_Chap1.aux)
-(./ucdavisthesis_Chap2.aux) (./ucdavisthesis_Chap3.aux)
+(./ucdavisthesis_main.aux (./ucdavisthesis_Chap4.aux)
 (./ucdavisthesis_Appen1.aux))
 \openout1 = `ucdavisthesis_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count149
-\scratchdimen=\dimen135
-\scratchbox=\box31
-\nofMPsegments=\count150
-\nofMParguments=\count151
+\scratchcounter=\count150
+\scratchdimen=\dimen147
+\scratchbox=\box32
+\nofMPsegments=\count151
+\nofMParguments=\count152
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count152
-\MPscratchDim=\dimen136
-\MPnumerator=\count153
-\makeMPintoPDFobject=\count154
+\MPscratchCnt=\count153
+\MPscratchDim=\dimen148
+\MPnumerator=\count154
+\makeMPintoPDFobject=\count155
 \everyMPtoPDFconversion=\toks26
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -439,9 +460,10 @@ e
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
+Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring OFF on input line 113.
+\AtBeginShipoutBox=\box33
+Package hyperref Info: Link coloring OFF on input line 116.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -449,11 +471,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count155
+\c@section@level=\count156
 )
-LaTeX Info: Redefining \ref on input line 113.
-LaTeX Info: Redefining \pageref on input line 113.
-LaTeX Info: Redefining \nameref on input line 113.
+LaTeX Info: Redefining \ref on input line 116.
+LaTeX Info: Redefining \pageref on input line 116.
+LaTeX Info: Redefining \nameref on input line 116.
 
 (./ucdavisthesis_main.out) (./ucdavisthesis_main.out)
 \@outlinefile=\write3
@@ -463,53 +485,59 @@ LaTeX Info: Redefining \nameref on input line 113.
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 122.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 190.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 122.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 190.
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.122 \makeintropages
+l.190 \makeintropages
                       %Processes/produces the preliminary pages [1
 
-] [2
-
 ]
-(./ucdavisthesis_main.toc [3
-
-])
+(./ucdavisthesis_main.toc)
 \tf@toc=\write4
 \openout4 = `ucdavisthesis_main.toc'.
 
- [4] (./ucdavisthesis_main.lof
+ [2
 
-LaTeX Warning: Reference `Baiatian:951395' on page v undefined on input line 16
-.
-
-[5
-
-])
+] (./ucdavisthesis_main.lof)
 \tf@lof=\write5
 \openout5 = `ucdavisthesis_main.lof'.
 
- [6] (./ucdavisthesis_main.lot)
+ [3
+
+]
+(./ucdavisthesis_main.lot
+
+LaTeX Warning: Reference `tab:MMScalar' on page iv undefined on input line 10.
+
+
+LaTeX Warning: Reference `tab:MMVector' on page iv undefined on input line 11.
+
+
+LaTeX Warning: Reference `tab:MMVector' on page iv undefined on input line 12.
+
+
+LaTeX Warning: Reference `tab:MM2HDM' on page iv undefined on input line 13.
+
+)
 \tf@lot=\write6
 \openout6 = `ucdavisthesis_main.lot'.
 
- [7
+ [4
 
-] [8
+]
+No abstract.
+\openout2 = `ucdavisthesis_Chap4.aux'.
 
-] [9]
-\openout2 = `ucdavisthesis_Chap1.aux'.
-
- (./ucdavisthesis_Chap1.tex
+(./ucdavisthesis_Chap4.tex
 Chapter 1.
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <29.86> not available
@@ -518,226 +546,67 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <29.86> not available
 [1
 
 
-] [2] [3] [4] [5] [6] [7] [8] [9] [10]
-<figures/ZZMass_7Plus8TeV_70-180_3GeV.png, id=450, 598.235pt x 576.1525pt>
-File: figures/ZZMass_7Plus8TeV_70-180_3GeV.png Graphic file (type png)
-
-<use figures/ZZMass_7Plus8TeV_70-180_3GeV.png>
-Package pdftex.def Info: figures/ZZMass_7Plus8TeV_70-180_3GeV.png used on input
- line 125.
-(pdftex.def)             Requested size: 216.81pt x 208.80377pt.
- [11 <./figures/ZZMass_7Plus8TeV_70-180_3GeV.png>] [12] [13] [14] [15] [16] [17
 ]
-<figures/isr.png, id=592, 405.515pt x 405.515pt>
-File: figures/isr.png Graphic file (type png)
- <use figures/isr.png>
-Package pdftex.def Info: figures/isr.png used on input line 182.
-(pdftex.def)             Requested size: 144.54pt x 144.54355pt.
 
-<figures/fsr.png, id=593, 477.785pt x 277.035pt>
-File: figures/fsr.png Graphic file (type png)
- <use figures/fsr.png>
-Package pdftex.def Info: figures/fsr.png used on input line 188.
-(pdftex.def)             Requested size: 180.67499pt x 104.75867pt.
- [18 <./figures/isr.png> <./figures/fsr.png>] [19]
-<figures/eftsig.png, id=639, 464.73625pt x 286.06876pt>
-File: figures/eftsig.png Graphic file (type png)
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-<use figures/eftsig.png>
-Package pdftex.def Info: figures/eftsig.png used on input line 216.
-(pdftex.def)             Requested size: 216.81pt x 133.45709pt.
- [20 <./figures/eftsig.png>] [21]
-<figures/zp2hdmsig.png, id=671, 516.93124pt x 291.0875pt>
-File: figures/zp2hdmsig.png Graphic file (type png)
+[2] [3]
+<Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf, id=139, 569.12625pt x 384.43625pt>
+File: Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf Graphic file (type pdf)
+<use Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf>
+Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf used on inp
+ut line 155.
+(pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
 
-<use figures/zp2hdmsig.png>
-Package pdftex.def Info: figures/zp2hdmsig.png used on input line 289.
-(pdftex.def)             Requested size: 216.81pt x 122.08713pt.
- [22 <./figures/zp2hdmsig.png>] [23]
-<figures/zpsig.png, id=692, 499.8675pt x 278.03876pt>
-File: figures/zpsig.png Graphic file (type png)
- <use figures/zpsig.png>
-Package pdftex.def Info: figures/zpsig.png used on input line 348.
-(pdftex.def)             Requested size: 216.81pt x 120.59375pt.
+<Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf, id=140, 569.12625pt x 384.43625pt
+>
+File: Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf Graphic file (type pdf)
+ <use Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf>
+Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf used on in
+put line 156.
+(pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
 
-[24 <./figures/zpsig.png>] [25] [26]
-<figures/scsig.png, id=740, 501.875pt x 279.0425pt>
-File: figures/scsig.png Graphic file (type png)
- <use figures/scsig.png>
-Package pdftex.def Info: figures/scsig.png used on input line 459.
-(pdftex.def)             Requested size: 216.81pt x 120.54796pt.
+<Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf, id=141, 569.12625pt x 384.43625
+pt>
+File: Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf Graphic file (type pdf)
+ <use Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf>
+Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf used on 
+input line 157.
+(pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
 
-[27 <./figures/scsig.png>]) [28] [29]
-\openout2 = `ucdavisthesis_Chap2.aux'.
-
- (./ucdavisthesis_Chap2.tex
-Chapter 2.
-[30
+<Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf, id=142, 569.12625pt x 384.43625pt>
+File: Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf Graphic file (type pdf)
+<use Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf>
+Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf used on inp
+ut line 158.
+(pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
 
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-] [31] [32] [33] <figures/cms.jpg, id=800, 491.9178pt x 327.3831pt>
-File: figures/cms.jpg Graphic file (type jpg)
-
-<use figures/cms.jpg>
-Package pdftex.def Info: figures/cms.jpg used on input line 35.
-(pdftex.def)             Requested size: 433.62pt x 288.58757pt.
- [34 <./figures/cms.jpg>] [35]
-<figures/tracker.pdf, id=812, 437.85068pt x 207.63943pt>
-File: figures/tracker.pdf Graphic file (type pdf)
-
-<use figures/tracker.pdf>
-Package pdftex.def Info: figures/tracker.pdf used on input line 50.
-(pdftex.def)             Requested size: 433.62pt x 205.63336pt.
-
-<figures/pixelmodule.pdf, id=813, 440.60297pt x 254.78938pt>
-File: figures/pixelmodule.pdf Graphic file (type pdf)
-
-<use figures/pixelmodule.pdf>
-Package pdftex.def Info: figures/pixelmodule.pdf used on input line 57.
-(pdftex.def)             Requested size: 289.07999pt x 167.17012pt.
- [36 <./figures/tracker.pdf>]
-<figures/stripeff.pdf, id=855, 225.61852pt x 164.3773pt>
-File: figures/stripeff.pdf Graphic file (type pdf)
-
-<use figures/stripeff.pdf>
-Package pdftex.def Info: figures/stripeff.pdf used on input line 66.
-(pdftex.def)             Requested size: 289.07999pt x 210.63548pt.
- [37 <./figures/pixelmodule.pdf>]
-<figures/ecal.pdf, id=897, 374.26605pt x 247.36063pt>
-File: figures/ecal.pdf Graphic file (type pdf)
- <use figures/ecal.pdf>
-Package pdftex.def Info: figures/ecal.pdf used on input line 79.
-(pdftex.def)             Requested size: 289.07999pt x 191.06462pt.
-
-[38 <./figures/stripeff.pdf>]
-<figures/crystalmodules.pdf, id=960, 424.44963pt x 143.523pt>
-File: figures/crystalmodules.pdf Graphic file (type pdf)
-
-<use figures/crystalmodules.pdf>
-Package pdftex.def Info: figures/crystalmodules.pdf used on input line 88.
-(pdftex.def)             Requested size: 433.62pt x 146.62582pt.
- [39 <./figures/ecal.pdf> <./figures/crystalmodules.pdf>] <figures/hcal.pdf, id
-=1024, 380.84964pt x 224.00589pt>
-File: figures/hcal.pdf Graphic file (type pdf)
-
-<use figures/hcal.pdf>
-Package pdftex.def Info: figures/hcal.pdf used on input line 105.
-(pdftex.def)             Requested size: 433.62pt x 255.04463pt.
- [40]
-<figures/eres_hcal.pdf, id=1030, 239.63896pt x 219.95757pt>
-File: figures/eres_hcal.pdf Graphic file (type pdf)
-
-<use figures/eres_hcal.pdf>
-Package pdftex.def Info: figures/eres_hcal.pdf used on input line 114.
-(pdftex.def)             Requested size: 289.07999pt x 265.35066pt.
+[4 <./Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf, page is rotated 90 degrees> <
+./Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf, page is rotated 90 degrees> <./F
+igures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf, page is rotated 90 degrees> <./Fi
+gures/Trigger/Histo_TrigEff_ptMin_4l.pdf, page is rotated 90 degrees>] [5]
+Overfull \hbox (41.00069pt too wide) in paragraph at lines 268--290
+ [][] |
+ []
 
 
-LaTeX Warning: Reference `Baiatian:951395' on page 41 undefined on input line 1
-15.
+LaTeX Warning: Reference `fig:pu' on page 6 undefined on input line 297.
 
-
-LaTeX Warning: Reference `Baiatian:951395' on page 41 undefined on input line 1
-15.
-
-[41 <./figures/hcal.pdf>] [42 <./figures/eres_hcal.pdf>]
-<figures/DTs.pdf, id=1129, 394.53792pt x 355.56407pt>
-File: figures/DTs.pdf Graphic file (type pdf)
- <use figures/DTs.pdf>
-Package pdftex.def Info: figures/DTs.pdf used on input line 129.
-(pdftex.def)             Requested size: 289.07999pt x 260.52533pt.
-
-<figures/cscs.pdf, id=1131, 391.63858pt x 209.70627pt>
-File: figures/cscs.pdf Graphic file (type pdf)
- <use figures/cscs.pdf>
-Package pdftex.def Info: figures/cscs.pdf used on input line 138.
-(pdftex.def)             Requested size: 289.07999pt x 154.793pt.
-
-[43 <./figures/DTs.pdf>]
-<figures/rpcbarrel.pdf, id=1197, 401.06805pt x 281.93211pt>
-File: figures/rpcbarrel.pdf Graphic file (type pdf)
-
-<use figures/rpcbarrel.pdf>
-Package pdftex.def Info: figures/rpcbarrel.pdf used on input line 149.
-(pdftex.def)             Requested size: 180.67499pt x 127.00594pt.
-
-<figures/rpcendcap.pdf, id=1198, 247.12686pt x 261.80048pt>
-File: figures/rpcendcap.pdf Graphic file (type pdf)
-
-<use figures/rpcendcap.pdf>
-Package pdftex.def Info: figures/rpcendcap.pdf used on input line 154.
-(pdftex.def)             Requested size: 180.67499pt x 191.40036pt.
-
-
-LaTeX Warning: Reference `1748-0221-7-10-P10002' on page 44 undefined on input 
-line 161.
-
-<figures/muonres.pdf, id=1200, 272.90004pt x 189.89876pt>
+[6] <figures/muonres.pdf, id=362, 272.90004pt x 189.89876pt>
 File: figures/muonres.pdf Graphic file (type pdf)
 
 <use figures/muonres.pdf>
-Package pdftex.def Info: figures/muonres.pdf used on input line 165.
+Package pdftex.def Info: figures/muonres.pdf used on input line 301.
 (pdftex.def)             Requested size: 361.34999pt x 251.46686pt.
- [44 <./figures/cscs.pdf> <./figures/rpcbarrel.pdf> <./figures/rpcendcap.pdf>] 
-<figures/l1t.pdf, id=1286, 273.74512pt x 188.77306pt>
-File: figures/l1t.pdf Graphic file (type pdf)
-
-<use figures/l1t.pdf>
-Package pdftex.def Info: figures/l1t.pdf used on input line 176.
-(pdftex.def)             Requested size: 361.34999pt x 249.2071pt.
-
-
-LaTeX Warning: Reference `Fig:daq' on page 45 undefined on input line 181.
-
-[45 <./figures/muonres.pdf>]
-<figures/daq.pdf, id=1331, 288.89311pt x 121.20683pt>
-File: figures/daq.pdf Graphic file (type pdf)
- <use figures/daq.pdf>
-Package pdftex.def Info: figures/daq.pdf used on input line 185.
-(pdftex.def)             Requested size: 361.34999pt x 151.61542pt.
-
-[46 <./figures/l1t.pdf>]) [47 <./figures/daq.pdf>]
-\openout2 = `ucdavisthesis_Chap3.aux'.
-
- (./ucdavisthesis_Chap3.tex
-Chapter 3.
-[48
-
-
-
-] <figures/PFa.pdf, id=1422, 569.12625pt x 534.99875pt>
-File: figures/PFa.pdf Graphic file (type pdf)
-
-<use figures/PFa.pdf>
-Package pdftex.def Info: figures/PFa.pdf used on input line 16.
-(pdftex.def)             Requested size: 289.07999pt x 271.76001pt.
- <figures/PFb.pdf, id=1423, 569.12625pt x 533.995pt>
-File: figures/PFb.pdf Graphic file (type pdf)
-
-<use figures/PFb.pdf>
-Package pdftex.def Info: figures/PFb.pdf used on input line 24.
-(pdftex.def)             Requested size: 202.35622pt x 189.86696pt.
- <figures/PFc.pdf, id=1424, 569.12625pt x 533.995pt>
-File: figures/PFc.pdf Graphic file (type pdf)
-
-<use figures/PFc.pdf>
-Package pdftex.def Info: figures/PFc.pdf used on input line 29.
-(pdftex.def)             Requested size: 202.35622pt x 189.86696pt.
- [49]
-<figures/pfmetres.pdf, id=1430, 569.12625pt x 365.365pt>
-File: figures/pfmetres.pdf Graphic file (type pdf)
-
-<use figures/pfmetres.pdf>
-Package pdftex.def Info: figures/pfmetres.pdf used on input line 43.
-(pdftex.def)             Requested size: 289.07999pt x 185.59221pt.
- [50 <./figures/PFa.pdf, page is rotated 270 degrees>] [51 <./figures/PFb.pdf> 
-<./figures/PFc.pdf> <./figures/pfmetres.pdf, page is rotated 270 degrees>] [52]
-) [53]
+) [7 <./figures/muonres.pdf>]
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <29.86> not available
-(Font)              size <24.88> substituted on input line 128.
+(Font)              size <24.88> substituted on input line 198.
 
-[54
+[8
 
 
 
@@ -746,152 +615,47 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <29.86> not available
 
  (./ucdavisthesis_Appen1.tex
 Appendix A.
-) [55
+
+LaTeX Warning: Reference `tab:MMScalar' on page 9 undefined on input line 43.
 
 
-] [56] [57] [58] [59] [60] (./ucdavisthesis_main.bbl
-Underfull \hbox (badness 7981) in paragraph at lines 14--24
-\OT1/cmtt/m/n/12 / / rstl . royalsocietypublishing . org / content / 155 / 459 
-. short$[]\OT1/cmr/m/n/12 , []$\OT1/cmtt/m/n/12 arXiv : http :
- []
+LaTeX Warning: Reference `tab:MMScalar' on page 9 undefined on input line 43.
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 88--94
-[]\OT1/cmr/m/n/12 Carl D. An-der-son.  The pos-i-tive elec-tron.  \OT1/cmr/m/it
-/12 Phys. Rev.\OT1/cmr/m/n/12 , 43:491--494, Mar
- []
+LaTeX Warning: Reference `tab:MMVector' on page 9 undefined on input line 62.
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 96--106
-[]\OT1/cmr/m/n/12 P. A. M. Dirac.  The quan-tum the-ory of the emis-sion and ab
--sorp-tion
- []
+LaTeX Warning: Reference `tab:MMVector' on page 9 undefined on input line 62.
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 96--106
-\OT1/cmr/m/n/12 of ra-di-a-tion.  \OT1/cmr/m/it/12 Pro-ceed-ings of the Royal S
-o-ci-ety of Lon-don A: Math-e-mat-i-
- []
+LaTeX Warning: Reference `tab:MMVector' on page 9 undefined on input line 81.
 
 
-Underfull \hbox (badness 7981) in paragraph at lines 96--106
-\OT1/cmtt/m/n/12 / / rspa . royalsocietypublishing . org / content / 114 / 767 
-/ 243$[]\OT1/cmr/m/n/12 , []$\OT1/cmtt/m/n/12 arXiv : http : / /
- []
-
-[61
+LaTeX Warning: Reference `tab:MMVector' on page 9 undefined on input line 81.
 
 
-] [62]
-Underfull \hbox (badness 1337) in paragraph at lines 191--197
-[]\OT1/cmr/m/n/12 R. P. Feyn-man.  The the-ory of positrons.  \OT1/cmr/m/it/12 
-Phys. Rev.\OT1/cmr/m/n/12 , 76:749--759, Sep
- []
-
-[63] [64]
-Underfull \hbox (badness 10000) in paragraph at lines 413--416
-[]\OT1/cmr/m/n/12 2012.  URL: []$\OT1/cmtt/m/n/12 https : / / twiki . cern . ch
- / twiki / bin / view / CMSPublic /
- []
-
-[65]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¶ in font cmr12!
- [66] [67]
-Missing character: There is no Â in font cmr12!
-Missing character: There is no   in font cmr12!
- [68]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no “ in font cmr12!
- [69]
-Underfull \hbox (badness 1960) in paragraph at lines 797--807
-[]\OT1/cmr/m/n/12 Georges Aad et al.  Search for new phe-nom-ena in events with
- a pho-
- []
+LaTeX Warning: Reference `tab:MM2HDM' on page 9 undefined on input line 98.
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 797--807
-\OT1/cmr/m/n/12 ton and miss-ing trans-verse mo-men-tum in $\OML/cmm/m/it/12 pp
-$ \OT1/cmr/m/n/12 col-li-sions at $[] = 8$ TeV
- []
+LaTeX Warning: Reference `tab:MM2HDM' on page 9 undefined on input line 98.
+
+) [9
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 797--807
-\OT1/cmr/m/n/12 with the AT-LAS de-tec-tor.  \OT1/cmr/m/it/12 Phys. Rev.\OT1/cm
-r/m/n/12 , D91(1):012008, 2015.  [Er-ra-tum:
- []
-
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ‰ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ‰ in font cmr12!
-[70]
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no ’ in font cmr12!
- [71] [72]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ‰ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ‰ in font cmr12!
-
-Underfull \hbox (badness 1400) in paragraph at lines 1080--1088
-\OT1/cmr/m/n/12 cal gauge sym-me-tries.  \OT1/cmr/m/it/12 Phys. Rev.\OT1/cmr/m/
-n/12 , D82:011901, 2010.  [Er-ra-tum: Phys.
- []
+] [10] [11] [12] [13] [14] (./ucdavisthesis_main.bbl [15
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 1090--1098
-\OT1/cmr/m/n/12 Rev.D79,039902(2009)].  []$\OT1/cmtt/m/n/12 arXiv : hep-[]ph / 
-0608068$[]\OT1/cmr/m/n/12 , []$\OT1/cmtt/m/n/12 doi : 10 . 1103 / PhysRevD . 74
- .
- []
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
+ [16]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
 
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
-[73]
-Underfull \hbox (badness 10000) in paragraph at lines 1183--1186
-[]\OT1/cmr/m/n/12 2012.  URL: []$\OT1/cmtt/m/n/12 http : / / home . cern / abou
-t / updates / 2013 / 02 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1188--1191
-[]\OT1/cmr/m/n/12 2012.  URL: []$\OT1/cmtt/m/n/12 http : / / home . cern / abou
-t / engineering /
- []
-
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¶ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¶ in font cmr12!
-
-Underfull \hbox (badness 1189) in paragraph at lines 1216--1223
-[]\OT1/cmr/m/n/12 Johan Al-wall, Michel Her-quet, Fabio Mal-toni, Olivier Mat-t
-e-laer, and Tim
- []
-
-[74]) [75]pdfTeX warning (ext4): destination with the same identifier (name{pag
-e.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.138 ...tation committee during the examination.]
-                                                   [1]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
-
-(./ucdavisthesis_main.aux (./ucdavisthesis_Chap1.aux)
-(./ucdavisthesis_Chap2.aux) (./ucdavisthesis_Chap3.aux)
+(./ucdavisthesis_main.aux (./ucdavisthesis_Chap4.aux)
 (./ucdavisthesis_Appen1.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 140.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
 Package rerunfilecheck Info: File `ucdavisthesis_main.out' has not changed.
-(rerunfilecheck)             Checksum: 891CEF88F8ACB2051EBB076E680A9247;1718.
+(rerunfilecheck)             Checksum: C9EF67195D6D9E84568E7BD469E6EBE7;701.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -900,43 +664,42 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 9506 strings out of 494985
- 142889 string characters out of 6180355
- 271701 words of memory out of 5000000
- 12188 multiletter control sequences out of 15000+600000
- 10946 words of font info for 39 fonts, out of 8000000 for 9000
+ 9098 strings out of 494985
+ 135748 string characters out of 6180355
+ 264112 words of memory out of 5000000
+ 12075 multiletter control sequences out of 15000+600000
+ 10916 words of font info for 40 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 39i,21n,77p,2183b,550s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,15n,77p,1021b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/mathpazo/fplmr.pfb></usr/share/texlive/texmf-dist/fonts/typ
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/mathpazo/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/he
 lvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8
-a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
-/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ucdavisthesis_main.pdf (86 pages, 2913380 bytes).
+a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on ucdavisthesis_main.pdf (21 pages, 531607 bytes).
 PDF statistics:
- 2096 PDF objects out of 2487 (max. 8388607)
- 1784 compressed objects within 18 object streams
- 328 named destinations out of 1000 (max. 500000)
- 339 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 571 PDF objects out of 1000 (max. 8388607)
+ 409 compressed objects within 5 object streams
+ 61 named destinations out of 1000 (max. 500000)
+ 114 words of extra memory for PDF output out of 10000 (max. 10000000)
 

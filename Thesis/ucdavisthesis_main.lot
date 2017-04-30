@@ -1,21 +1,13 @@
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {1.1}{\ignorespaces The particles of the Standard Model.\relax }}{8}{table.caption.4}
-\contentsline {table}{\numberline {1.2}{\ignorespaces Effective Field Theory Models.\relax }}{21}{table.caption.8}
-\contentsline {table}{\numberline {1.3}{\ignorespaces Constraints on EFT parameters.\relax }}{21}{table.caption.9}
-\contentsline {table}{\numberline {1.4}{\ignorespaces Zp2HDM simplified model\relax }}{23}{table.caption.11}
-\contentsline {table}{\numberline {1.5}{\ignorespaces ZpBaryonic simplified model\relax }}{25}{table.caption.13}
-\contentsline {table}{\numberline {1.6}{\ignorespaces ZpHS simplified model\relax }}{26}{table.caption.14}
-\contentsline {table}{\numberline {1.7}{\ignorespaces Scalar simplified model\relax }}{27}{table.caption.16}
-\contentsline {table}{\numberline {1.8}{\ignorespaces Simplified Models.\relax }}{28}{table.caption.17}
-\contentsline {table}{\numberline {1.9}{\ignorespaces Constraints on simplified model parameters.\relax }}{28}{table.caption.18}
-\contentsline {table}{\numberline {1.10}{\ignorespaces Mass points for models with a vector mediator.\relax }}{29}{table.caption.19}
-\contentsline {table}{\numberline {1.11}{\ignorespaces Mass points for Zp2HDM.\relax }}{29}{table.caption.20}
-\contentsline {table}{\numberline {1.12}{\ignorespaces Mass points for models with a scalar mediator.\relax }}{29}{table.caption.21}
+\contentsline {table}{\numberline {1.1}{\ignorespaces Datasets used in the analysis. \relax }}{2}{table.caption.4}
+\contentsline {table}{\numberline {1.2}{\ignorespaces Trigger paths used in 2016 collision data.\relax }}{3}{table.caption.5}
+\contentsline {table}{\numberline {1.3}{\ignorespaces Trigger efficiencies measured using $4\ell $ events.\relax }}{5}{table.caption.7}
+\contentsline {table}{\numberline {1.4}{\ignorespaces Benchmark signal samples analyzed.\relax }}{5}{table.caption.8}
+\contentsline {table}{\numberline {1.5}{\ignorespaces Higgs signal samples and cross sections.\relax }}{6}{table.caption.9}
+\contentsline {table}{\numberline {1.6}{\ignorespaces Background Monte Carlo samples and cross sections.\relax }}{6}{table.caption.10}
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {A.1}{\ignorespaces EFT production cross sections [pb]\relax }}{56}{table.caption.40}
-\contentsline {table}{\numberline {A.2}{\ignorespaces Scalar production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMScalar}\relax }}{57}{table.caption.41}
-\contentsline {table}{\numberline {A.3}{\ignorespaces ZpBaryonic production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMVector}\relax }}{58}{table.caption.42}
-\contentsline {table}{\numberline {A.4}{\ignorespaces ZpHS production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMVector}\relax }}{59}{table.caption.43}
-\contentsline {table}{\numberline {A.5}{\ignorespaces Zp2HDM production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MM2HDM} \relax }}{60}{table.caption.44}
+\contentsline {table}{\numberline {A.1}{\ignorespaces EFT production cross sections [pb]\relax }}{10}{table.caption.13}
+\contentsline {table}{\numberline {A.2}{\ignorespaces Scalar production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMScalar}\relax }}{11}{table.caption.14}
+\contentsline {table}{\numberline {A.3}{\ignorespaces ZpBaryonic production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMVector}\relax }}{12}{table.caption.15}
+\contentsline {table}{\numberline {A.4}{\ignorespaces ZpHS production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMVector}\relax }}{13}{table.caption.16}
+\contentsline {table}{\numberline {A.5}{\ignorespaces Zp2HDM production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MM2HDM} \relax }}{14}{table.caption.17}

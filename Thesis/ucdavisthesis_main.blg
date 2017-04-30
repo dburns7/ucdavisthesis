@@ -2,93 +2,51 @@ This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ucdavisthesis_main.aux
 The style file: unsrturl.bst
-A level-1 auxiliary file: ucdavisthesis_Chap1.aux
-A level-1 auxiliary file: ucdavisthesis_Chap2.aux
-A level-1 auxiliary file: ucdavisthesis_Chap3.aux
+A level-1 auxiliary file: ucdavisthesis_Chap4.aux
 A level-1 auxiliary file: ucdavisthesis_Appen1.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: ucdavisthesis.bib
-Your field is more than 20000 characters---line 2100 of file ucdavisthesis.bib
- : Freitas Ferreira and M Gallinaro and M Husejko and A Jain and M Kazana and P Musella and R Nobrega and J Rasteiro Da Silva
- :                                                                                                                            and P Q
-I'm skipping whatever remains of this entry
-Warning--empty journal in Zweig:1981pd
-Warning--empty publisher in Zweig:1964jf
-Warning--empty author in CMS:HZZ
-Warning--empty title in CMS:HZZ
-Warning--empty journal in CMS:HZZ
-Warning--empty journal in Abercrombie:2015wmb
-Warning--empty journal in Atlas:2016Hbb
-Warning--empty author in CMS-AN-15-338
-Warning--empty institution in CMS-AN-15-338
-Warning--empty author in CMS-AN-15-203
-Warning--empty institution in CMS-AN-15-203
-Warning--empty author in CMS-AN-15-209
-Warning--empty institution in CMS-AN-15-209
-Warning--empty author in CMS-AN-15-???
-Warning--empty institution in CMS-AN-15-???
-Warning--empty author in ATLAS:2013nma
-Warning--empty journal in ATLAS:2013nma
-Warning--empty author in CMS-AN-15-277
-Warning--empty institution in CMS-AN-15-277
-Warning--empty institution in CMS-PAS-HIG-15-004
-Warning--empty note in synchtwiki
-Warning--empty journal in Craig:2013hca
-Warning--empty author in CMS:CERN1
-Warning--empty title in CMS:CERN1
-Warning--empty journal in CMS:CERN1
-Warning--empty author in CMS:CERN2
-Warning--empty title in CMS:CERN2
-Warning--empty journal in CMS:CERN2
-Warning--empty author in 1748-0221-3-08-S08004
-Warning--empty title in 1748-0221-3-08-S08004
-Warning--empty journal in 1748-0221-3-08-S08004
-Warning--empty year in 1748-0221-3-08-S08004
-Warning--empty author in CMS:2009nxa
-Warning--empty journal in CMS:2009nxa
-Warning--empty author and editor in documents:998155
-You've used 142 entries,
+You've used 13 entries,
             2522 wiz_defined-function locations,
-            1632 strings with 41467 characters,
-and the built_in function-call counts, 58758 in all, are:
-= -- 5346
-> -- 3226
-< -- 9
-+ -- 1053
-- -- 911
-* -- 4580
-:= -- 8351
-add.period$ -- 539
-call.type$ -- 142
-change.case$ -- 137
+            676 strings with 7362 characters,
+and the built_in function-call counts, 4886 in all, are:
+= -- 486
+> -- 192
+< -- 0
++ -- 60
+- -- 47
+* -- 375
+:= -- 687
+add.period$ -- 52
+call.type$ -- 13
+change.case$ -- 13
 chr.to.int$ -- 0
-cite$ -- 177
-duplicate$ -- 1373
-empty$ -- 5530
-format.name$ -- 911
-if$ -- 15345
+cite$ -- 13
+duplicate$ -- 117
+empty$ -- 490
+format.name$ -- 47
+if$ -- 1316
 int.to.chr$ -- 0
-int.to.str$ -- 142
-missing$ -- 140
-newline$ -- 825
-num.names$ -- 132
-pop$ -- 736
+int.to.str$ -- 13
+missing$ -- 13
+newline$ -- 81
+num.names$ -- 13
+pop$ -- 52
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 4034
+skip$ -- 380
 stack$ -- 0
-substring$ -- 2288
-swap$ -- 510
-text.length$ -- 9
+substring$ -- 135
+swap$ -- 65
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 35
-while$ -- 278
-width$ -- 145
-write$ -- 1853
-(There was 1 error message)
+warning$ -- 0
+while$ -- 26
+width$ -- 15
+write$ -- 184
