@@ -1,9 +1,31 @@
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {1.3}{\ignorespaces Summary of the experimental systematic uncertainties in the $\ensuremath {\ensuremath {H}\to 4\ell }$ measurements. \relax }}{7}{table.caption.11}
-\contentsline {table}{\numberline {1.4}{\ignorespaces Summary of the theory systematic uncertainties in the $\ensuremath {\ensuremath {H}\to 4\ell }$ measurements for the inclusive analysis\relax }}{8}{table.caption.12}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {A.1}{\ignorespaces EFT production cross sections [pb]\relax }}{17}{table.caption.22}
-\contentsline {table}{\numberline {A.2}{\ignorespaces Scalar production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMScalar}\relax }}{18}{table.caption.23}
-\contentsline {table}{\numberline {A.3}{\ignorespaces ZpBaryonic production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMVector}\relax }}{19}{table.caption.24}
-\contentsline {table}{\numberline {A.4}{\ignorespaces ZpHS production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMVector}\relax }}{20}{table.caption.25}
-\contentsline {table}{\numberline {A.5}{\ignorespaces Zp2HDM production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MM2HDM} \relax }}{21}{table.caption.26}
+\contentsline {table}{\numberline {2.1}{\ignorespaces Datasets used in the analysis. \relax }}{8}{table.caption.7}
+\contentsline {table}{\numberline {2.2}{\ignorespaces Trigger paths used in 2016 collision data.\relax }}{9}{table.caption.8}
+\contentsline {table}{\numberline {2.3}{\ignorespaces Trigger efficiencies measured using $4\ell $ events.\relax }}{11}{table.caption.10}
+\contentsline {table}{\numberline {2.4}{\ignorespaces Benchmark signal samples analyzed.\relax }}{11}{table.caption.11}
+\contentsline {table}{\numberline {2.5}{\ignorespaces Higgs signal samples and cross sections.\relax }}{12}{table.caption.12}
+\contentsline {table}{\numberline {2.6}{\ignorespaces Background Monte Carlo samples and cross sections.\relax }}{12}{table.caption.13}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Overview of input variables to the identification classifier. Variables not used in the run I MVA are marked with $(\mathord {\cdot })$.\relax }}{17}{table.caption.18}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Minimum BDT score required for passing the electron identification.\relax }}{17}{table.caption.19}
+\contentsline {table}{\numberline {3.3}{\ignorespaces The requirements for a muon to pass the Tracker High-$\ensuremath {p_{\rm {T}}}$ ID. Note that these are equivalent to the Muon POG High-$\ensuremath {p_{\rm {T}}}$ ID with the global track requirements removed. \relax }}{22}{table.caption.23}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Cross sections for \ensuremath {\ensuremath {q}\mathaccentV {bar}016{\ensuremath {q}}\to \ensuremath {Z}\ensuremath {Z}}\nobreakspace {} production at 13 \ensuremath {\mathrm {Te\kern -0.1em V}}\relax }}{36}{table.caption.37}
+\contentsline {table}{\numberline {5.2}{\ignorespaces The contribution of reducible background processes in the signal region predicted from measurements in data using the Opposite-Sign Leptons method. The predictions correspond to 35.9\ensuremath {\rm {\ fb}^{-1}}of data at 13 TeV.\relax }}{44}{table.caption.45}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces PLACEHOLDER Event yields after SM selection, with $m_{4l}>70$ GeV.\relax }}{48}{table.caption.47}
+\contentsline {table}{\numberline {6.2}{\ignorespaces PLACEHOLDER Cut flow for $4e$ channel. Example signal is Z'2HDM with $m_{Z'}=600$ GeV.\relax }}{48}{table.caption.48}
+\contentsline {table}{\numberline {6.3}{\ignorespaces PLACEHOLDER Cut flow for $4\mu $ channel. Example signal is Z'2HDM with $m_{Z'}=600$ GeV.\relax }}{49}{table.caption.49}
+\contentsline {table}{\numberline {6.4}{\ignorespaces PLACEHOLDER Cut flow for $2e2\mu $ channel. Example signal is Z'2HDM with $m_{Z'}=600$ GeV.\relax }}{49}{table.caption.50}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.3}{\ignorespaces Summary of the experimental systematic uncertainties in the $\ensuremath {\ensuremath {H}\to 4\ell }$ measurements. \relax }}{56}{table.caption.58}
+\contentsline {table}{\numberline {7.4}{\ignorespaces Summary of the theory systematic uncertainties in the $\ensuremath {\ensuremath {H}\to 4\ell }$ measurements for the inclusive analysis\relax }}{57}{table.caption.59}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces EFT production cross sections [pb]\relax }}{68}{table.caption.69}
+\contentsline {table}{\numberline {A.2}{\ignorespaces Scalar production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMScalar}\relax }}{69}{table.caption.70}
+\contentsline {table}{\numberline {A.3}{\ignorespaces ZpBaryonic production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMVector}\relax }}{70}{table.caption.71}
+\contentsline {table}{\numberline {A.4}{\ignorespaces ZpHS production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMVector}\relax }}{71}{table.caption.72}
+\contentsline {table}{\numberline {A.5}{\ignorespaces Zp2HDM production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MM2HDM} \relax }}{72}{table.caption.73}

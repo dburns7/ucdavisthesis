@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  30 APR 2017 17:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  1 MAY 2017 09:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -421,11 +421,39 @@ Package: appendix 2009/09/02 v1.2b extra appendix facilities
 \c@@ppsavesec=\count148
 \c@@ppsaveapp=\count149
 )
-(./ucdavisthesis_main.aux (./ucdavisthesis_Chap9.aux
+(./ucdavisthesis_main.aux (./ucdavisthesis_Chap3.aux)
+(./ucdavisthesis_Chap4.aux) (./ucdavisthesis_Chap5.aux)
+(./ucdavisthesis_Chap6.aux) (./ucdavisthesis_Chap7.aux)
+(./ucdavisthesis_Chap8.aux
 
 LaTeX Warning: Label `tab:yields' multiply defined.
 
-))
+
+LaTeX Warning: Label `tab:yields' multiply defined.
+
+
+LaTeX Warning: Label `tab:yields' multiply defined.
+
+) (./ucdavisthesis_Chap9.aux
+
+LaTeX Warning: Label `tab:yields' multiply defined.
+
+
+LaTeX Warning: Label `tab:yields' multiply defined.
+
+
+LaTeX Warning: Label `fig:limzp2hdmmu' multiply defined.
+
+
+LaTeX Warning: Label `fig:limzp2hdm' multiply defined.
+
+
+LaTeX Warning: Label `fig:limzpbaryonicmu' multiply defined.
+
+
+LaTeX Warning: Label `fig:limzpbaryonic' multiply defined.
+
+) (./ucdavisthesis_Chap10.aux) (./ucdavisthesis_Appen1.aux))
 \openout1 = `ucdavisthesis_main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
@@ -442,7 +470,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 118.
 LaTeX Font Info:    ... okay on input line 118.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 118.
 LaTeX Font Info:    ... okay on input line 118.
- (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count150
 \scratchdimen=\dimen147
@@ -514,78 +543,722 @@ l.203 \makeintropages
                       %Processes/produces the preliminary pages [1
 
 ]
-(./ucdavisthesis_main.toc)
+(./ucdavisthesis_main.toc [2
+
+])
 \tf@toc=\write4
 \openout4 = `ucdavisthesis_main.toc'.
 
- [2
+ [3] (./ucdavisthesis_main.lof
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+ [4
 
-] (./ucdavisthesis_main.lof)
+] [5] [6])
 \tf@lof=\write5
 \openout5 = `ucdavisthesis_main.lof'.
 
- [3
+
+[7] (./ucdavisthesis_main.lot [8
 
 ]
-(./ucdavisthesis_main.lot)
+
+LaTeX Warning: Reference `tab:MMScalar' on page ix undefined on input line 28.
+
+
+LaTeX Warning: Reference `tab:MMVector' on page ix undefined on input line 29.
+
+
+LaTeX Warning: Reference `tab:MMVector' on page ix undefined on input line 30.
+
+
+LaTeX Warning: Reference `tab:MM2HDM' on page ix undefined on input line 31.
+
+)
 \tf@lot=\write6
 \openout6 = `ucdavisthesis_main.lot'.
 
- [4
-
-]
+ [9]
 No abstract.
-\openout2 = `ucdavisthesis_Chap9.aux'.
+\openout2 = `ucdavisthesis_Chap3.aux'.
 
-(./ucdavisthesis_Chap9.tex
+(./ucdavisthesis_Chap3.tex
 Chapter 1.
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <29.86> not available
 (Font)              size <24.88> substituted on input line 1.
 
+
+LaTeX Warning: Citation `CMS:2009nxa' on page 1 undefined on input line 3.
+
 [1
+
+
+] <figures/PFa.pdf, id=502, 569.12625pt x 534.99875pt>
+File: figures/PFa.pdf Graphic file (type pdf)
+ <use figures/PFa.pdf>
+Package pdftex.def Info: figures/PFa.pdf used on input line 16.
+(pdftex.def)             Requested size: 289.07999pt x 271.76001pt.
+
+<figures/PFb.pdf, id=503, 569.12625pt x 533.995pt>
+File: figures/PFb.pdf Graphic file (type pdf)
+ <use figures/PFb.pdf>
+Package pdftex.def Info: figures/PFb.pdf used on input line 24.
+(pdftex.def)             Requested size: 202.35622pt x 189.86696pt.
+
+<figures/PFc.pdf, id=504, 569.12625pt x 533.995pt>
+File: figures/PFc.pdf Graphic file (type pdf)
+ <use figures/PFc.pdf>
+Package pdftex.def Info: figures/PFc.pdf used on input line 29.
+(pdftex.def)             Requested size: 202.35622pt x 189.86696pt.
+
+[2] <figures/pfmetres.pdf, id=510, 569.12625pt x 365.365pt>
+File: figures/pfmetres.pdf Graphic file (type pdf)
+
+<use figures/pfmetres.pdf>
+Package pdftex.def Info: figures/pfmetres.pdf used on input line 43.
+(pdftex.def)             Requested size: 289.07999pt x 185.59221pt.
+ [3 <./figures/PFa.pdf, page is rotated 270 degrees>] [4 <./figures/PFb.pdf> <.
+/figures/PFc.pdf> <./figures/pfmetres.pdf, page is rotated 270 degrees>]
+
+LaTeX Warning: Citation `1126-6708-2006-05-026' on page 5 undefined on input li
+ne 52.
+
+
+LaTeX Warning: Citation `Alwall2011' on page 5 undefined on input line 52.
+
+
+LaTeX Warning: Citation `Berger:2009ba' on page 5 undefined on input line 52.
+
+
+LaTeX Warning: Citation `Alioli:2010ab' on page 5 undefined on input line 52.
+
+
+LaTeX Warning: Citation `documents:998155' on page 5 undefined on input line 54
+.
+
+[5]) [6]
+\openout2 = `ucdavisthesis_Chap4.aux'.
+
+ (./ucdavisthesis_Chap4.tex
+Chapter 2.
+[7
+
 
 
 ]
 
-LaTeX Warning: Citation `mettwiki' on page 2 undefined on input line 55.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2]
+[8] [9]
+<Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf, id=647, 569.12625pt x 384.43625pt>
+File: Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf Graphic file (type pdf)
+<use Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf>
+Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf used on inp
+ut line 155.
+(pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
 
-LaTeX Warning: Reference `tab:' on page 3 undefined on input line 67.
+<Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf, id=648, 569.12625pt x 384.43625pt
+>
+File: Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf Graphic file (type pdf)
+ <use Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf>
+Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf used on in
+put line 156.
+(pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
+
+<Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf, id=649, 569.12625pt x 384.43625
+pt>
+File: Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf Graphic file (type pdf)
+ <use Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf>
+Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf used on 
+input line 157.
+(pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
+
+<Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf, id=650, 569.12625pt x 384.43625pt>
+File: Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf Graphic file (type pdf)
+<use Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf>
+Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf used on inp
+ut line 158.
+(pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
 
 
-LaTeX Warning: Reference `tab:' on page 3 undefined on input line 67.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `sec:zxIntr' on page 3 undefined on input line 128.
-
-[3]
-
-LaTeX Warning: Reference `sec:redbkgd' on page 4 undefined on input line 136.
+LaTeX Warning: Citation `Alioli:2008gx' on page 10 undefined on input line 210.
 
 
-LaTeX Warning: Reference `sec:observables' on page 4 undefined on input line 15
+
+LaTeX Warning: Citation `Nason:2004rx' on page 10 undefined on input line 210.
+
+
+LaTeX Warning: Citation `Frixione:2007vw' on page 10 undefined on input line 21
+0.
+
+
+LaTeX Warning: Citation `Bagnaschi:2011tu' on page 10 undefined on input line 2
+11.
+
+
+LaTeX Warning: Citation `Nason:2009ai' on page 10 undefined on input line 212.
+
+
+LaTeX Warning: Citation `Hartanto:2015uka' on page 10 undefined on input line 2
+12.
+
+
+LaTeX Warning: Citation `Luisoni:2013kna' on page 10 undefined on input line 21
+3.
+
+
+LaTeX Warning: Citation `Gao:2010qx' on page 10 undefined on input line 215.
+
+
+LaTeX Warning: Citation `Ball:2014uwa' on page 10 undefined on input line 221.
+
+[10 <./Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf, page is rotated 90 degrees> 
+<./Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf, page is rotated 90 degrees> <./
+Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf, page is rotated 90 degrees> <./F
+igures/Trigger/Histo_TrigEff_ptMin_4l.pdf, page is rotated 90 degrees>]
+
+LaTeX Warning: Citation `Nason:2013ydw' on page 11 undefined on input line 246.
+
+
+[11]
+
+LaTeX Warning: Citation `Alwall:2014hca' on page 12 undefined on input line 261
+.
+
+[12] <figures/muonres.pdf, id=845, 272.90004pt x 189.89876pt>
+File: figures/muonres.pdf Graphic file (type pdf)
+
+<use figures/muonres.pdf>
+Package pdftex.def Info: figures/muonres.pdf used on input line 302.
+(pdftex.def)             Requested size: 361.34999pt x 251.46686pt.
+) [13 <./figures/muonres.pdf>]
+\openout2 = `ucdavisthesis_Chap5.aux'.
+
+
+(./ucdavisthesis_Chap5.tex
+Chapter 3.
+
+LaTeX Warning: Citation `ElectronLegacy' on page 14 undefined on input line 18.
+
+
+
+<Figures/Electrons/ele_rec_scale_factors.pdf, id=904, 569.12625pt x 552.0625pt>
+File: Figures/Electrons/ele_rec_scale_factors.pdf Graphic file (type pdf)
+<use Figures/Electrons/ele_rec_scale_factors.pdf>
+Package pdftex.def Info: Figures/Electrons/ele_rec_scale_factors.pdf used on in
+put line 23.
+(pdftex.def)             Requested size: 273.1835pt x 265.00383pt.
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+ [14
+
+
+
+] [15 <./Figures/Electrons/ele_rec_scale_factors.pdf, page is rotated 90 degree
+s>]
+<Figures/Electrons/ele_ROC.png, id=944, 1296.34312pt x 856.70062pt>
+File: Figures/Electrons/ele_ROC.png Graphic file (type png)
+
+<use Figures/Electrons/ele_ROC.png>
+Package pdftex.def Info: Figures/Electrons/ele_ROC.png used on input line 62.
+(pdftex.def)             Requested size: 364.24236pt x 240.71115pt.
+
+<Figures/Electrons/ele_overtraining.png, id=946, 1075.01625pt x 767.86874pt>
+File: Figures/Electrons/ele_overtraining.png Graphic file (type png)
+
+<use Figures/Electrons/ele_overtraining.png>
+Package pdftex.def Info: Figures/Electrons/ele_overtraining.png used on input l
+ine 72.
+(pdftex.def)             Requested size: 227.6506pt x 162.60461pt.
+Missing character: There is no Â in font cmr8!
+Missing character: There is no   in font cmr8!
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16 <./Figures/Electrons/ele_ROC.png>] [17 <./Figures/Electrons/ele_overtrainin
+g.png>]
+
+LaTeX Warning: Citation `AN-15-277' on page 18 undefined on input line 167.
+
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+<Figures/Electrons/ele_energy_scale.pdf, id=961, 477.785pt x 349.305pt>
+File: Figures/Electrons/ele_energy_scale.pdf Graphic file (type pdf)
+
+<use Figures/Electrons/ele_energy_scale.pdf>
+Package pdftex.def Info: Figures/Electrons/ele_energy_scale.pdf used on input l
+ine 206.
+(pdftex.def)             Requested size: 180.67499pt x 132.08702pt.
+
+<Figures/Electrons/ele_energy_scale_per_lumi.pdf, id=962, 845.04686pt x 597.507
+86pt>
+File: Figures/Electrons/ele_energy_scale_per_lumi.pdf Graphic file (type pdf)
+ <use Figures/Electrons/ele_energy_scale_per_lumi.pdf>
+Package pdftex.def Info: Figures/Electrons/ele_energy_scale_per_lumi.pdf used o
+n input line 211.
+(pdftex.def)             Requested size: 180.67499pt x 127.75053pt.
+
+
+LaTeX Warning: Citation `AN-15-277' on page 18 undefined on input line 223.
+
+[18] [19 <./Figures/Electrons/ele_energy_scale.pdf> <./Figures/Electrons/ele_en
+ergy_scale_per_lumi.pdf, page is rotated 270 degrees>]
+<Figures/Electrons/ele_eff_pt.pdf, id=1040, 356.33125pt x 331.2375pt>
+File: Figures/Electrons/ele_eff_pt.pdf Graphic file (type pdf)
+
+<use Figures/Electrons/ele_eff_pt.pdf>
+Package pdftex.def Info: Figures/Electrons/ele_eff_pt.pdf used on input line 25
+9.
+(pdftex.def)             Requested size: 158.99377pt x 147.79697pt.
+
+<Figures/Electrons/gap_ele_eff_pt.pdf, id=1041, 568.1225pt x 527.9725pt>
+File: Figures/Electrons/gap_ele_eff_pt.pdf Graphic file (type pdf)
+
+<use Figures/Electrons/gap_ele_eff_pt.pdf>
+Package pdftex.def Info: Figures/Electrons/gap_ele_eff_pt.pdf used on input lin
+e 264.
+(pdftex.def)             Requested size: 158.99377pt x 147.75877pt.
+
+<Figures/Electrons/ele_eff_sf_unc.pdf, id=1042, 635.37375pt x 402.50375pt>
+File: Figures/Electrons/ele_eff_sf_unc.pdf Graphic file (type pdf)
+
+<use Figures/Electrons/ele_eff_sf_unc.pdf>
+Package pdftex.def Info: Figures/Electrons/ele_eff_sf_unc.pdf used on input lin
+e 284.
+(pdftex.def)             Requested size: 180.67499pt x 114.4568pt.
+
+<Figures/Electrons/gap_ele_eff_sf_unc.pdf, id=1043, 631.35875pt x 400.49625pt>
+File: Figures/Electrons/gap_ele_eff_sf_unc.pdf Graphic file (type pdf)
+
+<use Figures/Electrons/gap_ele_eff_sf_unc.pdf>
+Package pdftex.def Info: Figures/Electrons/gap_ele_eff_sf_unc.pdf used on input
+ line 289.
+(pdftex.def)             Requested size: 180.67499pt x 114.60706pt.
+ [20 <./Figures/Electrons/ele_eff_pt.pdf> <./Figures/Electrons/gap_ele_eff_pt.p
+df> <./Figures/Electrons/ele_eff_sf_unc.pdf> <./Figures/Electrons/gap_ele_eff_s
+f_unc.pdf>]
+
+LaTeX Warning: Citation `AN-15-277' on page 21 undefined on input line 318.
+
+[21]
+
+LaTeX Warning: Citation `AN-15-277' on page 22 undefined on input line 395.
+
+[22]
+
+LaTeX Warning: Citation `AN-15-277' on page 23 undefined on input line 407.
+
+
+LaTeX Warning: Citation `AN-15-277' on page 23 undefined on input line 428.
+
+<Figures/Muons/mu_Loose_barrel.pdf, id=1116, 569.12625pt x 689.57625pt>
+File: Figures/Muons/mu_Loose_barrel.pdf Graphic file (type pdf)
+
+<use Figures/Muons/mu_Loose_barrel.pdf>
+Package pdftex.def Info: Figures/Muons/mu_Loose_barrel.pdf used on input line 4
+38.
+(pdftex.def)             Requested size: 108.405pt x 131.34703pt.
+
+<Figures/Muons/mu_Loose_endcap.pdf, id=1117, 569.12625pt x 689.57625pt>
+File: Figures/Muons/mu_Loose_endcap.pdf Graphic file (type pdf)
+
+<use Figures/Muons/mu_Loose_endcap.pdf>
+Package pdftex.def Info: Figures/Muons/mu_Loose_endcap.pdf used on input line 4
+43.
+(pdftex.def)             Requested size: 108.405pt x 131.34703pt.
+
+<Figures/Muons/mu_Loose_pt7.pdf, id=1118, 569.12625pt x 689.57625pt>
+File: Figures/Muons/mu_Loose_pt7.pdf Graphic file (type pdf)
+
+<use Figures/Muons/mu_Loose_pt7.pdf>
+Package pdftex.def Info: Figures/Muons/mu_Loose_pt7.pdf used on input line 448.
+
+(pdftex.def)             Requested size: 108.405pt x 131.34703pt.
+
+<Figures/Muons/mu_SIP4_barrel.pdf, id=1120, 469.755pt x 569.12625pt>
+File: Figures/Muons/mu_SIP4_barrel.pdf Graphic file (type pdf)
+
+<use Figures/Muons/mu_SIP4_barrel.pdf>
+Package pdftex.def Info: Figures/Muons/mu_SIP4_barrel.pdf used on input line 48
+1.
+(pdftex.def)             Requested size: 108.405pt x 131.33049pt.
+
+<Figures/Muons/mu_SIP4_endcap.pdf, id=1121, 469.755pt x 569.12625pt>
+File: Figures/Muons/mu_SIP4_endcap.pdf Graphic file (type pdf)
+
+<use Figures/Muons/mu_SIP4_endcap.pdf>
+Package pdftex.def Info: Figures/Muons/mu_SIP4_endcap.pdf used on input line 48
+6.
+(pdftex.def)             Requested size: 108.405pt x 131.33049pt.
+
+<Figures/Muons/mu_SIP4_pt20.pdf, id=1122, 469.755pt x 569.12625pt>
+File: Figures/Muons/mu_SIP4_pt20.pdf Graphic file (type pdf)
+
+<use Figures/Muons/mu_SIP4_pt20.pdf>
+Package pdftex.def Info: Figures/Muons/mu_SIP4_pt20.pdf used on input line 491.
+
+(pdftex.def)             Requested size: 108.405pt x 131.33049pt.
+
+
+LaTeX Warning: Citation `AN-16-217' on page 23 undefined on input line 509.
+
+[23] [24 <./Figures/Muons/mu_Loose_barrel.pdf> <./Figures/Muons/mu_Loose_endcap
+.pdf> <./Figures/Muons/mu_Loose_pt7.pdf> <./Figures/Muons/mu_SIP4_barrel.pdf> <
+./Figures/Muons/mu_SIP4_endcap.pdf> <./Figures/Muons/mu_SIP4_pt20.pdf>]
+<Figures/Muons/mu_iso_barrel.pdf, id=1394, 569.12625pt x 689.57625pt>
+File: Figures/Muons/mu_iso_barrel.pdf Graphic file (type pdf)
+
+<use Figures/Muons/mu_iso_barrel.pdf>
+Package pdftex.def Info: Figures/Muons/mu_iso_barrel.pdf used on input line 517
+.
+(pdftex.def)             Requested size: 180.67499pt x 218.91171pt.
+
+<Figures/Muons/mu_iso_endcap.pdf, id=1395, 569.12625pt x 689.57625pt>
+File: Figures/Muons/mu_iso_endcap.pdf Graphic file (type pdf)
+
+<use Figures/Muons/mu_iso_endcap.pdf>
+Package pdftex.def Info: Figures/Muons/mu_iso_endcap.pdf used on input line 522
+.
+(pdftex.def)             Requested size: 180.67499pt x 218.91171pt.
+
+
+LaTeX Warning: Citation `CMS_AN_2015-215' on page 25 undefined on input line 54
 1.
 
-[4]
-<Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf, id=88, 569.12625pt x 552.0625p
-t>
+<Figures/Muons/trackingEffptl10.pdf, id=1397, 602.25pt x 602.25pt>
+File: Figures/Muons/trackingEffptl10.pdf Graphic file (type pdf)
+
+<use Figures/Muons/trackingEffptl10.pdf>
+Package pdftex.def Info: Figures/Muons/trackingEffptl10.pdf used on input line 
+551.
+(pdftex.def)             Requested size: 180.67499pt x 180.67639pt.
+
+<Figures/Muons/trackingEffptg10.pdf, id=1398, 602.25pt x 602.25pt>
+File: Figures/Muons/trackingEffptg10.pdf Graphic file (type pdf)
+
+<use Figures/Muons/trackingEffptg10.pdf>
+Package pdftex.def Info: Figures/Muons/trackingEffptg10.pdf used on input line 
+556.
+(pdftex.def)             Requested size: 180.67499pt x 180.67639pt.
+
+<Figures/Muons/mu_sf.pdf, id=1400, 722.7pt x 569.12625pt>
+File: Figures/Muons/mu_sf.pdf Graphic file (type pdf)
+
+<use Figures/Muons/mu_sf.pdf>
+Package pdftex.def Info: Figures/Muons/mu_sf.pdf used on input line 580.
+(pdftex.def)             Requested size: 180.67499pt x 142.2812pt.
+
+<Figures/Muons/mu_sf_unc.pdf, id=1401, 719.68875pt x 561.09625pt>
+File: Figures/Muons/mu_sf_unc.pdf Graphic file (type pdf)
+
+<use Figures/Muons/mu_sf_unc.pdf>
+Package pdftex.def Info: Figures/Muons/mu_sf_unc.pdf used on input line 585.
+(pdftex.def)             Requested size: 180.67499pt x 140.8559pt.
+ [25 <./Figures/Muons/mu_iso_barrel.pdf> <./Figures/Muons/mu_iso_endcap.pdf>] [
+26 <./Figures/Muons/trackingEffptl10.pdf> <./Figures/Muons/trackingEffptg10.pdf
+> <./Figures/Muons/mu_sf.pdf> <./Figures/Muons/mu_sf_unc.pdf>]
+
+LaTeX Warning: Citation `AN-15-277' on page 27 undefined on input line 618.
+
+
+LaTeX Warning: Citation `AN-16-217' on page 27 undefined on input line 618.
+
+
+LaTeX Warning: Reference `sec:categorization' on page 27 undefined on input lin
+e 624.
+
+[27]
+
+LaTeX Warning: Citation `btagReferenceEffsRun2' on page 28 undefined on input l
+ine 666.
+
+[28]
+
+LaTeX Warning: Citation `mettwiki' on page 29 undefined on input line 692.
+
+[29]
+
+LaTeX Warning: Citation `CMS-AN-15-203' on page 30 undefined on input line 709.
+
+
+<figures/hist_hPFMET_8.png, id=1554, 798.985pt x 574.145pt>
+File: figures/hist_hPFMET_8.png Graphic file (type png)
+
+<use figures/hist_hPFMET_8.png>
+Package pdftex.def Info: figures/hist_hPFMET_8.png used on input line 713.
+(pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
+ [30]
+<figures/hist_hDPHI_MAX_JET_MET_8.png, id=1562, 798.985pt x 574.145pt>
+File: figures/hist_hDPHI_MAX_JET_MET_8.png Graphic file (type png)
+
+<use figures/hist_hDPHI_MAX_JET_MET_8.png>
+Package pdftex.def Info: figures/hist_hDPHI_MAX_JET_MET_8.png used on input lin
+e 729.
+(pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
+
+<figures/hist_hDPHI_MIN_JET_MET_8.png, id=1563, 798.985pt x 574.145pt>
+File: figures/hist_hDPHI_MIN_JET_MET_8.png Graphic file (type png)
+
+<use figures/hist_hDPHI_MIN_JET_MET_8.png>
+Package pdftex.def Info: figures/hist_hDPHI_MIN_JET_MET_8.png used on input lin
+e 736.
+(pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
+) [31 <./figures/hist_hPFMET_8.png>]
+[32 <./figures/hist_hDPHI_MAX_JET_MET_8.png> <./figures/hist_hDPHI_MIN_JET_MET_
+8.png>]
+\openout2 = `ucdavisthesis_Chap6.aux'.
+
+ (./ucdavisthesis_Chap6.tex
+Chapter 4.
+[33
+
+
+
+] [34]
+
+LaTeX Warning: Reference `sec:observables' on page 35 undefined on input line 7
+4.
+
+) [35]
+\openout2 = `ucdavisthesis_Chap7.aux'.
+
+ (./ucdavisthesis_Chap7.tex
+Chapter 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 6.
+
+<Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf, id=1599, 569.12625pt x 552.0625pt>
+File: Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf Graphic file (type pdf)
+
+<use Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf>
+Package pdftex.def Info: Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf used on input line
+ 40.
+(pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
+
+<Figures/IrrBkg/K_ewk_qqZZ.pdf, id=1600, 569.12625pt x 523.9575pt>
+File: Figures/IrrBkg/K_ewk_qqZZ.pdf Graphic file (type pdf)
+
+<use Figures/IrrBkg/K_ewk_qqZZ.pdf>
+Package pdftex.def Info: Figures/IrrBkg/K_ewk_qqZZ.pdf used on input line 41.
+(pdftex.def)             Requested size: 218.54263pt x 201.20059pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 48.
+
+[36
+
+
+
+]
+<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf, id=1618, 569.12625pt x 552.0
+625pt>
+File: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf Graphic file (type pdf)
+ <use Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf>
+Package pdftex.def Info: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf used 
+on input line 64.
+(pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
+
+<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf, id=1619, 569.126
+25pt x 552.0625pt>
+File: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf Graphic file
+ (type pdf)
+
+<use Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf>
+Package pdftex.def Info: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xs
+ec.pdf used on input line 65.
+(pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
+
+<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf, id=1620, 569.
+12625pt x 552.0625pt>
+File: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf Graphic f
+ile (type pdf)
+
+<use Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf>
+Package pdftex.def Info: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kf
+actor.pdf used on input line 66.
+(pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
+ [37 <./Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf, page is rotated 90 degrees> <./Fig
+ures/IrrBkg/K_ewk_qqZZ.pdf, page is rotated 90 degrees>] [38 <./Figures/IrrBkg/
+cCompare_hnnlo_ggHZZ2l2l_xsec.pdf, page is rotated 90 degrees> <./Figures/IrrBk
+g/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf, page is rotated 90 degrees> <.
+/Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf, page is rotat
+ed 90 degrees>]
+<Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf, id=1858, 332.56656pt x 219.407
+06pt>
+File: Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf Graphic file (type pdf)
+ <use Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf>
+Package pdftex.def Info: Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf used on
+ input line 154.
+(pdftex.def)             Requested size: 180.67499pt x 119.19783pt.
+
+<Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf, id=1859, 320.86896pt x 214.82697pt
+>
+File: Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf Graphic file (type pdf)
+ <use Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf>
+Package pdftex.def Info: Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf used on inp
+ut line 159.
+(pdftex.def)             Requested size: 180.67499pt x 120.9677pt.
+ [39]
+<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf, id=1870, 569.12625pt x 552.0625pt>
+File: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf Graphic file (type pdf)
+
+<use Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf>
+Package pdftex.def Info: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf used on input 
+line 228.
+(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
+
+<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf, id=1871, 569.12625pt x 552.0625pt>
+File: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf Graphic file (type pdf)
+
+<use Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf>
+Package pdftex.def Info: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf used on input 
+line 229.
+(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
+
+<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf, id=1872, 569.12625pt x 552.0625pt>
+File: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf Graphic file (type pdf)
+
+<use Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf>
+Package pdftex.def Info: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf used on inpu
+t line 230.
+(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
+
+<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf, id=1873, 569.12625pt x 552.0625pt>
+File: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf Graphic file (type pdf)
+
+<use Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf>
+Package pdftex.def Info: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf used on inpu
+t line 231.
+(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
+
+<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf, id=1874, 569.12625pt x 552.0625pt>
+File: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf Graphic file (type pdf)
+
+<use Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf>
+Package pdftex.def Info: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf used on input 
+line 242.
+(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
+
+<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf, id=1875, 569.12625pt x 552.0625pt>
+File: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf Graphic file (type pdf)
+
+<use Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf>
+Package pdftex.def Info: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf used on input 
+line 243.
+(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
+
+<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf, id=1876, 569.12625pt x 552.0625pt>
+File: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf Graphic file (type pdf)
+
+<use Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf>
+Package pdftex.def Info: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf used on inpu
+t line 244.
+(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
+
+<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf, id=1877, 569.12625pt x 552.0625pt>
+File: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf Graphic file (type pdf)
+
+<use Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf>
+Package pdftex.def Info: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf used on inpu
+t line 245.
+(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
+ [40 <./Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf> <./Figures/RedBkg/FR_mu
+ons_ptl3_DataallTR.pdf>]
+[41 <./Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf, page is rotated 90 degrees> <./
+Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf, page is rotated 90 degrees> <./Figures
+/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf, page is rotated 90 degrees> <./Figures/RedB
+kg/HZZ_2P2Fuw_ZZMass_2e2m.pdf, page is rotated 90 degrees>] [42 <./Figures/RedB
+kg/HZZ_3P1Fuw_ZZMass_4m.pdf, page is rotated 90 degrees> <./Figures/RedBkg/HZZ_
+3P1Fuw_ZZMass_4e.pdf, page is rotated 90 degrees> <./Figures/RedBkg/HZZ_3P1Fuw_
+ZZMass_2m2e.pdf, page is rotated 90 degrees> <./Figures/RedBkg/HZZ_3P1Fuw_ZZMas
+s_2e2m.pdf, page is rotated 90 degrees>] [43]) [44]
+\openout2 = `ucdavisthesis_Chap8.aux'.
+
+ (./ucdavisthesis_Chap8.tex
+Chapter 6.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 7.
+
+[45
+
+
+
+] [46]
+File: figures/hist_hPFMET_8.png Graphic file (type png)
+ <use figures/hist_hPFMET_8.png>
+Package pdftex.def Info: figures/hist_hPFMET_8.png used on input line 44.
+(pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
+
+Overfull \hbox (84.97662pt too wide) in paragraph at lines 81--104
+ [] |
+ []
+
+
+Overfull \hbox (84.97662pt too wide) in paragraph at lines 110--133
+ [] |
+ []
+
+
+Overfull \hbox (79.10168pt too wide) in paragraph at lines 139--162
+ [] |
+ []
+
+) [47] [48] [49]
+\openout2 = `ucdavisthesis_Chap9.aux'.
+
+ (./ucdavisthesis_Chap9.tex
+Chapter 7.
+[50
+
+
+
+]
+
+LaTeX Warning: Citation `mettwiki' on page 51 undefined on input line 55.
+
+[51]
+
+LaTeX Warning: Reference `tab:' on page 52 undefined on input line 67.
+
+
+LaTeX Warning: Reference `tab:' on page 52 undefined on input line 67.
+
+[52]
+
+LaTeX Warning: Reference `sec:observables' on page 53 undefined on input line 1
+51.
+
+[53]
+<Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf, id=2375, 569.12625pt x 552.062
+5pt>
 File: Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf Graphic file (type pdf)
  <use Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf>
 Package pdftex.def Info: Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf used on
  input line 156.
 (pdftex.def)             Requested size: 200.33363pt x 194.32828pt.
 
-<Figures/Results/mass/lepScale_vs_pt_eta_e.pdf, id=89, 569.12625pt x 552.0625pt
->
+<Figures/Results/mass/lepScale_vs_pt_eta_e.pdf, id=2376, 569.12625pt x 552.0625
+pt>
 File: Figures/Results/mass/lepScale_vs_pt_eta_e.pdf Graphic file (type pdf)
  <use Figures/Results/mass/lepScale_vs_pt_eta_e.pdf>
 Package pdftex.def Info: Figures/Results/mass/lepScale_vs_pt_eta_e.pdf used on 
 input line 157.
 (pdftex.def)             Requested size: 200.33363pt x 194.32828pt.
 
-<Figures/Results/mass/m4lreco_4mu_dn.pdf, id=90, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4mu_dn.pdf, id=2377, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4mu_dn.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4mu_dn.pdf>
@@ -593,7 +1266,7 @@ Package pdftex.def Info: Figures/Results/mass/m4lreco_4mu_dn.pdf used on input
 line 167.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4mu.pdf, id=91, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4mu.pdf, id=2378, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4mu.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4mu.pdf>
@@ -601,7 +1274,7 @@ Package pdftex.def Info: Figures/Results/mass/m4lreco_4mu.pdf used on input lin
 e 168.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4mu_up.pdf, id=92, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4mu_up.pdf, id=2379, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4mu_up.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4mu_up.pdf>
@@ -609,7 +1282,7 @@ Package pdftex.def Info: Figures/Results/mass/m4lreco_4mu_up.pdf used on input
 line 169.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4e_dn.pdf, id=93, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4e_dn.pdf, id=2380, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4e_dn.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4e_dn.pdf>
@@ -617,7 +1290,7 @@ Package pdftex.def Info: Figures/Results/mass/m4lreco_4e_dn.pdf used on input l
 ine 170.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4e.pdf, id=94, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4e.pdf, id=2381, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4e.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4e.pdf>
@@ -625,51 +1298,37 @@ Package pdftex.def Info: Figures/Results/mass/m4lreco_4e.pdf used on input line
  171.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4e_up.pdf, id=95, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4e_up.pdf, id=2382, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4e_up.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4e_up.pdf>
 Package pdftex.def Info: Figures/Results/mass/m4lreco_4e_up.pdf used on input l
 ine 172.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
+ [54 <./Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf, page is rotated 90 degr
+ees> <./Figures/Results/mass/lepScale_vs_pt_eta_e.pdf, page is rotated 90 degre
+es>]
+
+LaTeX Warning: Citation `combinetwiki' on page 55 undefined on input line 300.
 
 
-LaTeX Warning: Reference `sec:irrbkgd' on page 5 undefined on input line 186.
-
-[5 <./Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf, page is rotated 90 degree
-s> <./Figures/Results/mass/lepScale_vs_pt_eta_e.pdf, page is rotated 90 degrees
->]
-
-LaTeX Warning: Citation `combinetwiki' on page 6 undefined on input line 300.
+LaTeX Warning: Citation `roostatstwiki' on page 55 undefined on input line 300.
 
 
-LaTeX Warning: Citation `roostatstwiki' on page 6 undefined on input line 300.
+
+LaTeX Warning: Citation `higgspagtwiki' on page 55 undefined on input line 300.
 
 
-LaTeX Warning: Citation `higgspagtwiki' on page 6 undefined on input line 300.
 
+LaTeX Warning: Citation `Cowan:2010js' on page 55 undefined on input line 300.
 
-LaTeX Warning: Citation `Cowan:2010js' on page 6 undefined on input line 300.
-
-[6 <./Figures/Results/mass/m4lreco_4mu_dn.pdf, page is rotated 90 degrees> <./F
-igures/Results/mass/m4lreco_4mu.pdf, page is rotated 90 degrees> <./Figures/Res
-ults/mass/m4lreco_4mu_up.pdf, page is rotated 90 degrees> <./Figures/Results/ma
-ss/m4lreco_4e_dn.pdf, page is rotated 90 degrees> <./Figures/Results/mass/m4lre
-co_4e.pdf, page is rotated 90 degrees> <./Figures/Results/mass/m4lreco_4e_up.pd
-f, page is rotated 90 degrees>] [7] [8] [9]
-
-LaTeX Warning: Reference `fig:limzp2hdmmu' on page 10 undefined on input line 3
-35.
-
-
-LaTeX Warning: Reference `fig:limzp2hdm' on page 10 undefined on input line 335
-.
-
-
-LaTeX Warning: Reference `cutandcountopt' on page 10 undefined on input line 33
-5.
-
-<figures/sigma_limits_4mu_Zp2HDM.png, id=481, 698.61pt x 473.77pt>
+[55 <./Figures/Results/mass/m4lreco_4mu_dn.pdf, page is rotated 90 degrees> <./
+Figures/Results/mass/m4lreco_4mu.pdf, page is rotated 90 degrees> <./Figures/Re
+sults/mass/m4lreco_4mu_up.pdf, page is rotated 90 degrees> <./Figures/Results/m
+ass/m4lreco_4e_dn.pdf, page is rotated 90 degrees> <./Figures/Results/mass/m4lr
+eco_4e.pdf, page is rotated 90 degrees> <./Figures/Results/mass/m4lreco_4e_up.p
+df, page is rotated 90 degrees>] [56] [57] [58]
+<figures/sigma_limits_4mu_Zp2HDM.png, id=2764, 698.61pt x 473.77pt>
 File: figures/sigma_limits_4mu_Zp2HDM.png Graphic file (type png)
 
 <use figures/sigma_limits_4mu_Zp2HDM.png>
@@ -682,21 +1341,8 @@ File: figures/sigma_limits_4mu_Zp2HDM.png Graphic file (type png)
 Package pdftex.def Info: figures/sigma_limits_4mu_Zp2HDM.png used on input line
  346.
 (pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
-
-
-LaTeX Warning: Reference `fig:limzpbaryonicmu' on page 10 undefined on input li
-ne 353.
-
-
-LaTeX Warning: Reference `fig:limzpbaryonic' on page 10 undefined on input line
- 353.
-
-
-LaTeX Warning: Reference `cutandcountopt' on page 10 undefined on input line 35
-3.
-
-[10 <./figures/sigma_limits_4mu_Zp2HDM.png>]
-<figures/sigma_limits_4mu_ZpBaryonic.png, id=490, 698.61pt x 473.77pt>
+ [59 <./figures/sigma_limits_4mu_Zp2HDM.png>]
+<figures/sigma_limits_4mu_ZpBaryonic.png, id=2773, 698.61pt x 473.77pt>
 File: figures/sigma_limits_4mu_ZpBaryonic.png Graphic file (type png)
 
 <use figures/sigma_limits_4mu_ZpBaryonic.png>
@@ -709,19 +1355,8 @@ File: figures/sigma_limits_4mu_ZpBaryonic.png Graphic file (type png)
 Package pdftex.def Info: figures/sigma_limits_4mu_ZpBaryonic.png used on input 
 line 364.
 (pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
-
-
-LaTeX Warning: Reference `fig:limzp2hdmmu' on page 11 undefined on input line 3
-73.
-
-
-LaTeX Warning: Reference `fig:limzp2hdm' on page 11 undefined on input line 373
-.
-
-
-LaTeX Warning: Reference `mvaopt' on page 11 undefined on input line 373.
-
 File: figures/sigma_limits_4mu_Zp2HDM.png Graphic file (type png)
+
 <use figures/sigma_limits_4mu_Zp2HDM.png>
 Package pdftex.def Info: figures/sigma_limits_4mu_Zp2HDM.png used on input line
  377.
@@ -732,19 +1367,8 @@ File: figures/sigma_limits_4mu_Zp2HDM.png Graphic file (type png)
 Package pdftex.def Info: figures/sigma_limits_4mu_Zp2HDM.png used on input line
  384.
 (pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
-
-
-LaTeX Warning: Reference `fig:limzpbaryonicmu' on page 11 undefined on input li
-ne 391.
-
-
-LaTeX Warning: Reference `fig:limzpbaryonic' on page 11 undefined on input line
- 391.
-
-
-LaTeX Warning: Reference `mvaopt' on page 11 undefined on input line 391.
-
 File: figures/sigma_limits_4mu_ZpBaryonic.png Graphic file (type png)
+
 <use figures/sigma_limits_4mu_ZpBaryonic.png>
 Package pdftex.def Info: figures/sigma_limits_4mu_ZpBaryonic.png used on input 
 line 395.
@@ -755,12 +1379,21 @@ File: figures/sigma_limits_4mu_ZpBaryonic.png Graphic file (type png)
 Package pdftex.def Info: figures/sigma_limits_4mu_ZpBaryonic.png used on input 
 line 402.
 (pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
-) [11] [12 <./figures/sigma_limits_4mu_ZpBaryonic.png>] [13] [14]
+) [60] [61 <./figures/sigma_limits_4mu_ZpBaryonic.png>] [62] [63]
+\openout2 = `ucdavisthesis_Chap10.aux'.
+
+ (./ucdavisthesis_Chap10.tex
+Chapter 8.
+[64
+
+
+
+]) [65]
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <29.86> not available
-(Font)              size <24.88> substituted on input line 216.
+(Font)              size <24.88> substituted on input line 217.
 
-[15
+[66
 
 
 
@@ -770,53 +1403,50 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <29.86> not available
  (./ucdavisthesis_Appen1.tex
 Appendix A.
 
-LaTeX Warning: Reference `tab:MMScalar' on page 16 undefined on input line 43.
+LaTeX Warning: Reference `tab:MMScalar' on page 67 undefined on input line 43.
 
 
-LaTeX Warning: Reference `tab:MMScalar' on page 16 undefined on input line 43.
+LaTeX Warning: Reference `tab:MMScalar' on page 67 undefined on input line 43.
 
 
-LaTeX Warning: Reference `tab:MMVector' on page 16 undefined on input line 62.
+LaTeX Warning: Reference `tab:MMVector' on page 67 undefined on input line 62.
 
 
-LaTeX Warning: Reference `tab:MMVector' on page 16 undefined on input line 62.
+LaTeX Warning: Reference `tab:MMVector' on page 67 undefined on input line 62.
 
 
-LaTeX Warning: Reference `tab:MMVector' on page 16 undefined on input line 81.
+LaTeX Warning: Reference `tab:MMVector' on page 67 undefined on input line 81.
 
 
-LaTeX Warning: Reference `tab:MMVector' on page 16 undefined on input line 81.
+LaTeX Warning: Reference `tab:MMVector' on page 67 undefined on input line 81.
 
 
-LaTeX Warning: Reference `tab:MM2HDM' on page 16 undefined on input line 98.
+LaTeX Warning: Reference `tab:MM2HDM' on page 67 undefined on input line 98.
 
 
-LaTeX Warning: Reference `tab:MM2HDM' on page 16 undefined on input line 98.
+LaTeX Warning: Reference `tab:MM2HDM' on page 67 undefined on input line 98.
 
-) [16
+) [67
 
 
-] [17] [18] [19] [20] [21] (./ucdavisthesis_main.bbl [22
+] [68] [69] [70] [71] [72] (./ucdavisthesis_main.bbl [73
 
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
- [23]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 229.
+ [74]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 229.
 
-(./ucdavisthesis_main.aux (./ucdavisthesis_Chap9.aux)
-(./ucdavisthesis_Appen1.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 228.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
+(./ucdavisthesis_main.aux (./ucdavisthesis_Chap3.aux)
+(./ucdavisthesis_Chap4.aux) (./ucdavisthesis_Chap5.aux)
+(./ucdavisthesis_Chap6.aux) (./ucdavisthesis_Chap7.aux)
+(./ucdavisthesis_Chap8.aux) (./ucdavisthesis_Chap9.aux)
+(./ucdavisthesis_Chap10.aux) (./ucdavisthesis_Appen1.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 229.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 229.
+Package rerunfilecheck Info: File `ucdavisthesis_main.out' has not changed.
+(rerunfilecheck)             Checksum: 2CB9924AE36D1F63B68834ADCB4F9F1C;3338.
 
-
-Package rerunfilecheck Warning: File `ucdavisthesis_main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ucdavisthesis_main.out':
-(rerunfilecheck)             Before: FD9DD9DD6041D6D42F20915595EF9AA2;352
-(rerunfilecheck)             After:  84B787C103BB7A48D7E9BA6DB7AC94E5;679.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 4.98pt have occurred.
@@ -829,33 +1459,40 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 9272 strings out of 494985
- 138640 string characters out of 6180355
- 263252 words of memory out of 5000000
- 12204 multiletter control sequences out of 15000+600000
- 14817 words of font info for 52 fonts, out of 8000000 for 9000
+ 9905 strings out of 494985
+ 153261 string characters out of 6180355
+ 285527 words of memory out of 5000000
+ 12560 multiletter control sequences out of 15000+600000
+ 19648 words of font info for 69 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 39i,15n,77p,1529b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,15n,77p,1603b,539s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on ucdavisthesis_main.pdf (28 pages, 387911 bytes).
+nts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathpaz
+o/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on ucdavisthesis_main.pdf (84 pages, 5292881 bytes).
 PDF statistics:
- 689 PDF objects out of 1000 (max. 8388607)
- 426 compressed objects within 5 object streams
- 88 named destinations out of 1000 (max. 500000)
- 99 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3010 PDF objects out of 3580 (max. 8388607)
+ 1869 compressed objects within 19 object streams
+ 254 named destinations out of 1000 (max. 500000)
+ 691 words of extra memory for PDF output out of 10000 (max. 10000000)
 
