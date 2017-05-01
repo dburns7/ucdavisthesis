@@ -5,7 +5,6 @@
 \subsection{Electron Reconstruction}
 \label{sec:eleReco}
 
-More details on electron reconstruction can be found in Ref.~\cite{ElectronLegacy}. 
 
 Electron candidates are preselected using loose cuts on track-cluster matching observables, so as to preserve the highest possible efficiency while rejecting part of the QCD background. To be considered for the analysis, electrons are required to have a
 transverse momentum $p^e_T >$ 7 GeV, a reconstructed $|\eta^e| <$ 2.5, and to satisfy a loose primary vertex 
@@ -14,9 +13,9 @@ Such electrons are called {\bf loose electrons}.
 
 The early runs in the 2016 data-taking exhibit an tracking inefficiency originating from a reduced hit reconstruction efficiency in the strip detector (``HIP" effect). 
 The resulting data-MC discrepancy is corrected using scale factors as is done for the electron selection with data efficiencies measured using the same tag-and-probe technique outlined later (see Section~\ref{sec:eleEffMeas}). 
-These studies are carried out by the EGM POG and the results are only summarised here.
+These studies are carried out by the EGM POG and the results are summarized here.
 
-The electron reconstruction scale factors are shown Fig.~\ref{fig:ele_rec_scale_factors} as a one-dimensional function of the super cluster $\eta$ only, as it was shown that the \pt dependence of the scale factor is negligible.
+The electron reconstruction scale factors are shown Fig.~\ref{fig:ele_rec_scale_factors} as a one-dimensional function of the super cluster $\eta$ only, as it was shown that the $\pt$ dependence of the scale factor is negligible. More details on electron reconstruction can be found in Ref.~\cite{ElectronLegacy}. 
 
 \begin{figure}[!htb]
 \vspace*{0.3cm}
@@ -31,15 +30,19 @@ The electron reconstruction scale factors are shown Fig.~\ref{fig:ele_rec_scale_
 \label{sec:eleID}
 
 Reconstructed electrons are identified by means of a Gradient Boosted Decision Tree (GBDT) multivariate classifier algorithm, which exploits observables from the electromagnetic cluster, the matching between the cluster and the electron track as well as observables based exclusively on tracking measurements. 
-The BDT has been retrained using CMSSW\_8\_0\_X samples.
+The BDT has been retrained using CMSSW\_8\_0\_X samples. The classifier is trained on Drell-Yan plus jets MC sample for both signal and background: 
 
-The classifier is trained on  Drell-Yan plus jets MC sample for both signal and background: 
-{
-\tiny  
-\begin{verbatim}
-/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISpring16DR80-PUSpring16_80X_mcRun2_asymptotic_2016_v3_ext1-v1/
-\end{verbatim}
-}
+%{
+%\resizebox{\textwidth}{!}{%
+%\tiny  
+%/DYJetsToLL\_M-50\_TuneCUETP8M1\_13TeV-madgraphMLM-pythia8/RunIISpring16DR80-PUSpring16\_80X\_mcRun2\_asymptotic\_2016\_v3\_ext1-v1/
+%}}
+%{
+%\tiny  
+%\begin{verbatim}
+%/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISpring16DR80-PUSpring16_80X_mcRun2_asymptotic_2016_v3_ext1-v1/
+%\end{verbatim}
+%}
 
 The impact of the retraining of the ID for the 2016 conditions is illustrated in the ROC curves shown in Fig.~\ref{fig:ele_ID_ROC}. Several studies to improve the performance of the MVA for the harsher 2016 running conditions were performed. 
 One study considered a new spitting of the BDT training bins, where electrons falling into the gap regions of the ECAL, e.g. the EB-EE transition region, where trained separately from the non-gap electrons. 
@@ -79,6 +82,7 @@ For the analysis, we define {\bf tight electrons} as the loose electrons that pa
  \begin{table}[h!]
 \scriptsize
     \centering
+\resizebox{\textwidth}{!}{%
     \begin{tabular}{c|l}
 \hline %----------------------------------------------------------------------------------------
 \hline %----------------------------------------------------------------------------------------
@@ -108,8 +112,8 @@ supercluster to the supercluster energy, $H/E$			\\
 
 \hline %----------------------------------------------------------------------------------------
 \hline %----------------------------------------------------------------------------------------
-     \end{tabular}
-\small
+     \end{tabular}}
+%\small
     \caption{Overview of input variables to the identification classifier. Variables not used in the run I MVA are marked with  $(\mathord{\cdot})$.}
     \label{tab:ele_ID_input_variables}
 \end{table}
@@ -137,14 +141,14 @@ $p_T > 10$ GeV       &  -0.870		& -0.838		& -0.763		\\
 \subsection{Electron Isolation}
 \label{sec:eleiso}
 
-The relative isolation for electrons is then defined as: 
+The relative isolation for electrons is defined as: 
 
 \begin{equation}
 \text{RelPFiso} = (\sum_{\text{charged}} p_T + \sum^{\text{corr}}_{\text{neutral}} p_T)/p_T^{\text{lepton}}  .
 \label{eqn:elepfrelisoeqn}
 \end{equation} 
 
-where the corrected neutral component of isolation is then computed using the formula :
+where the corrected neutral component of isolation is computed using the formula :
 
 \begin{equation}
 \label{eqn:neutralea}
@@ -165,7 +169,6 @@ chosen to be $\text{RelPFiso}(\Delta R = 0.3) < 0.35$.
 
 
 \subsection{Electron Energy Calibrations}
-\input{Objects/eleCalib.tex}
 
 Electrons in data are corrected for features in ECAL energy scale
 in bins of $\pt$ and $\left| \eta \right|$. Corrections are calculated
@@ -183,24 +186,38 @@ The electron energy scale is measured in data by fitting a Crystall-ball functio
 The energy scale for the full 2016 dataset is shown in Fig.~\ref{fig:ele_energy_scale}(a) and agrees with the MC with 100~MeV. 
 The stability of the energy scale across different run periods is shown in Fig.~\ref{fig:ele_energy_scale}(b), where the data is binned into approximately 500~pb luminosity blocks.
 
-\begin{figure}[!htb]
-\vspace*{0.3cm}
-\begin{center}
-\subfigure [] {\resizebox{7.5cm}{!}{\includegraphics{Figures/Electrons/ele_energy_scale.pdf}}}
-\subfigure [] {\resizebox{9.5cm}{!}{\includegraphics{Figures/Electrons/ele_energy_scale_per_lumi.pdf}}}
-\end{center}
-\caption{
-(a): electron energy scale measured in the $Z+\ell$ control region for EB and EE electrons. The results of the Crystall-ball fit are reported in the figure. 
-(b): lepton energy scales per 500~pb luminosity block. 
+%\begin{figure}[!htb]
+%\vspace*{0.3cm}
+%\begin{center}
+%\subfigure [] {\resizebox{7.5cm}{!}{\includegraphics{Figures/Electrons/ele_energy_scale.pdf}}}
+%\subfigure [] {\resizebox{9.5cm}{!}{\includegraphics{Figures/Electrons/ele_energy_scale_per_lumi.pdf}}}
+%\end{center}
+%\caption{
+%(a): electron energy scale measured in the $Z+\ell$ control region for EB and EE electrons. The results of the Crystall-ball fit are reported in the figure. 
+%(b): lepton energy scales per 500~pb luminosity block. 
+%}
+%\label{fig:ele_energy_scale}
+%\end{figure}
 
-}
+\begin{figure}[tbh]
+\centering
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics[width=2.5in]{Figures/Electrons/ele_energy_scale.pdf}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics[width=2.5in]{Figures/Electrons/ele_energy_scale_per_lumi.pdf}
+\caption{}
+\end{subfigure}
+\caption{(a): electron energy scale measured in the $Z+\ell$ control region for EB and EE electrons. The results of the Crystall-ball fit are reported in the figure. (b): lepton energy scales per 500~pb luminosity block.}
 \label{fig:ele_energy_scale}
 \end{figure}
 
-
 \subsection{Electron Efficiency Measurements}
 \label{sec:eleEffMeas}
-\input{Objects/eleEffMeas.tex}
+%\input{Objects/eleEffMeas.tex}
 
 The Tag-and-Probe study was performed on the single electron primary datasets listed in table \ref{tab:datasets_data} using the same golden JSON of 36.8 
 fb$^{-1}$ as for the main analysis. More details on the Tag-and-Probe method can be found in Ref.~\cite{AN-15-277}. 
@@ -223,25 +240,57 @@ In contrast to previous efficiency measurements, a template fit is used here. Th
 %\paragraph{Electron selection efficiency measurements}\mbox{}\\
 %\label{par:Efficiency_measurements}
 
-The electron selection efficiency is measured as a function of the probe electron $p_{T}$ and its SC $\eta$, and separately for electrons falling in the ECAL gaps. Figure \ref{fig:ele_sel_pt_turn_on} shows the $\p_{T}$ turn-on curves measured in data, and the final 2D scale factor is shown in Fig.~\ref{fig:ele_sel_scale_factors} together with the systematic uncertainties. These scale factors are very similar to the ICHEP figures, but more homogenous across $\eta$ and $p_{T}$ because of the higher statistics and the usage of more stable fitting routines in the new T\&P tool.
+The electron selection efficiency is measured as a function of the probe electron $\pt$ and its SC $\eta$, and separately for electrons falling in the ECAL gaps. Figure \ref{fig:ele_sel_pt_turn_on} shows the $\pt$ turn-on curves measured in data, and the final 2D scale factor is shown in Fig.~\ref{fig:ele_sel_scale_factors} together with the systematic uncertainties. These scale factors are very similar to the ICHEP figures, but more homogenous across $\eta$ and $\pt$ because of the higher statistics and the usage of more stable fitting routines in the new T\&P tool.
 
 
-\begin{figure}[!htb]
-\begin{center}
-    \subfigure [] {\resizebox{7.5cm}{!}{\includegraphics{Figures/Electrons/ele_eff_pt.pdf}}}
-    \subfigure [] {\resizebox{7.5cm}{!}{\includegraphics{Figures/Electrons/gap_ele_eff_pt.pdf}}}\\
+%\begin{figure}[!htb]
+%\begin{center}
+%    \subfigure [] {\resizebox{7.5cm}{!}{\includegraphics{Figures/Electrons/ele_eff_pt.pdf}}}
+%    \subfigure [] {\resizebox{7.5cm}{!}{\includegraphics{Figures/Electrons/gap_ele_eff_pt.pdf}}}\\
+%\caption{Electron selection efficiencies measured using the Tag-and-Probe technique described in the text, non-gap electrons (left) and gap electrons (right).}
+%\label{fig:ele_sel_pt_turn_on}
+%\end{center}
+%\end{figure}
+
+\begin{figure}[tbh]
+\centering
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics[width=2.2in]{Figures/Electrons/ele_eff_pt.pdf}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics[width=2.2in]{Figures/Electrons/gap_ele_eff_pt.pdf}
+\caption{}
+\end{subfigure}
 \caption{Electron selection efficiencies measured using the Tag-and-Probe technique described in the text, non-gap electrons (left) and gap electrons (right).}
 \label{fig:ele_sel_pt_turn_on}
-\end{center}
 \end{figure}
 
-\begin{figure}[!htb]
-\begin{center}
-    \subfigure [] {\resizebox{15cm}{!}{\includegraphics{Figures/Electrons/ele_eff_sf_unc.pdf}}}\\
-    \subfigure [] {\resizebox{15cm}{!}{\includegraphics{Figures/Electrons/gap_ele_eff_sf_unc.pdf}}}
-\caption{Electron selection efficiencies measured using the Tag-and-Probe technique described in the text, non-gap electrons (top) and gap electrons (bottom).}
+%\begin{figure}[!htb]
+%\begin{center}
+%    \subfigure [] {\resizebox{15cm}{!}{\includegraphics{Figures/Electrons/ele_eff_sf_unc.pdf}}}\\
+%    \subfigure [] {\resizebox{15cm}{!}{\includegraphics{Figures/Electrons/gap_ele_eff_sf_unc.pdf}}}
+%\caption{Electron selection efficiencies measured using the Tag-and-Probe technique described in the text, non-gap electrons (top) and gap electrons (bottom).}
+%\label{fig:ele_sel_scale_factors}
+%\end{center}
+%\end{figure}
+
+\begin{figure}[tbh]
+\centering
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics[width=2.5in]{Figures/Electrons/ele_eff_sf_unc.pdf}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics[width=2.5in]{Figures/Electrons/gap_ele_eff_sf_unc.pdf}
+\caption{}
+\end{subfigure}
+\caption{Electron selection efficiencies measured using the Tag-and-Probe technique described in the text, non-gap electrons (top) and gap electrons (bottom)}
 \label{fig:ele_sel_scale_factors}
-\end{center}
 \end{figure}
 
 
@@ -249,7 +298,7 @@ The electron selection efficiency is measured as a function of the probe electro
 %\label{par:Systematic_uncertainties}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
- The EGM recommendations on the evaluation of Tag-and-Probe uncertainties for efficiency measurements are followed. Specifically, we consider
+ The EGM recommendations on the evaluation of Tag-and-Probe uncertainties for efficiency measurements are followed. Specifically,
 
 \begin{itemize}
    \item Variation of the signal shape from a MC shape to an analytic shape (Crystal Ball) fitted to the MC
@@ -268,7 +317,7 @@ The total uncertainty for the measurement of the scale factors is the quadratic 
 
 More details on muon reconstruction can be found in Ref.~\cite{AN-15-277}.
 We define {\bf loose muons} as the muons that satisfy  
-$p_T > 5$, $|\eta| < 2.4$, $dxy< 0.5$, $dz < 1$, where $dxy$ and $dz$ are 
+$p_T > 5$, $|\eta| < 2.4$, $d_{xy}< 0.5$, $d_z < 1$, where $d_{xy}$ and $d_z$ are 
 defined w.r.t. the PV and using the 'muonBestTrack'. Muons have to be 
 reconstructed by either the Global Muon or Tracker Muon algorithm. Standalone 
 Muon tracks that are only reconstructed in the muon system are rejected.
@@ -291,11 +340,6 @@ corresponds to muons originating from $\cPZ$ bosons with $\pt > 500\GeV$.
 \begin{table}[h]
     \begin{small}
     \begin{center}
-    \caption{
-      The requirements for a muon to pass the Tracker High-$\pt$ ID. Note that
-      these are equivalent to the Muon POG High-$\pt$ ID with the global track 
-      requirements removed.
-      }
     \begin{tabular}{|l|l|}
       \hline
       Plain-text description         & Technical description                 \\
@@ -316,6 +360,11 @@ corresponds to muons originating from $\cPZ$ bosons with $\pt > 500\GeV$.
       Tracker hits                   & Hits in at least six tracker layers   \\
       \hline
     \end{tabular}
+    \caption{
+      The requirements for a muon to pass the Tracker High-$\pt$ ID. Note that
+      these are equivalent to the Muon POG High-$\pt$ ID with the global track 
+      requirements removed.
+      }
     \label{tab:highPtID}
     \end{center}
     \end{small}
@@ -347,7 +396,7 @@ The isolation working point for muons was optimized in Ref.~\cite{AN-15-277} and
 namely $\text{RelPFiso}(\Delta R = 0.3) < 0.35$. 
 
 
-\subsection{Muon Energy Calibrations}
+%\subsection{Muon Energy Calibrations}
 % \input{Objects/muCalib}
 
 \subsection{Muon Efficiency Measurements}
@@ -374,21 +423,44 @@ The probe in this measurement are tracks reconstructed in the inner tracker, and
 the passing probes are those that are also reconstructed as a global or tracker muon 
 and passing the Muon POG Loose muon identification.
 %
-Results for low \pt muons were derived using \JPsi events, with the same definitions
+Results for low $\pt$ muons were derived using \JPsi events, with the same definitions
 of probe and passing probes. The systematic uncertainties are estimated by varying the analytical signal and background shape models used to fit 
 the dimuon invariant mass. Details on the procedure can be found in Ref.~\cite{AN-15-277}. The efficiency and scale 
 factors used for low $\pt$ muons are the ones derived using single muon prompt-reco dataset.
 
 The efficiency in data and simulation is shown in Fig.~\ref{fig:MuonIDEff_1}. 
-\begin{figure}[htbp]
-  \begin{center}
-    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_Loose_barrel.pdf}}
-    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_Loose_endcap.pdf}}
-    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_Loose_pt7.pdf}}
+
+
+\begin{figure}[tbh]
+\centering
+\begin{subfigure}{0.25\textwidth}
+\centering
+\includegraphics[width=1.5in]{Figures/Muons/mu_Loose_barrel.pdf}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.25\textwidth}
+\centering
+\includegraphics[width=1.5in]{Figures/Muons/mu_Loose_endcap.pdf}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.25\textwidth}
+\centering
+\includegraphics[width=1.5in]{Figures/Muons/mu_Loose_pt7.pdf}
+\caption{}
+\end{subfigure}
     \caption{Muon reconstruction and identification efficiency at low \pt, measured with the tag\&probe method on \JPsi events, as function of \pt in the barrel (left) and endcaps (center), and as function of $\eta$ for $\pt > 7\GeV$ (right). In the upper panel, the larger error bars include also the systematical uncertainties, while the smaller ones are purely statistical. In the lower panel showing the ratio of the two efficiencies, the black error bars are for the statistical uncertainty, the orange rectangles for the systematical uncertainty and the violet rectangles include both uncertainties.}
-    \label{fig:MuonIDEff_1}
-\end{center}
+\label{fig:MuonIDEff_1}
 \end{figure}
+
+%\begin{figure}[htbp]
+%  \begin{center}
+%    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_Loose_barrel.pdf}}
+%    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_Loose_endcap.pdf}}
+%    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_Loose_pt7.pdf}}
+%    \caption{Muon reconstruction and identification efficiency at low \pt, measured with the tag\&probe method on \JPsi events, as function of \pt in the barrel (left) and endcaps (center), and as function of $\eta$ for $\pt > 7\GeV$ (right). In the upper panel, the larger error bars include also the systematical uncertainties, while the smaller ones are purely statistical. In the lower panel showing the ratio of the two efficiencies, the black error bars are for the statistical uncertainty, the orange rectangles for the systematical uncertainty and the violet rectangles include both uncertainties.}
+%    \label{fig:MuonIDEff_1}
+%\end{center}
+%\end{figure}
 
 \paragraph*{Impact parameter requirements}
 The measurement is performed using $\Z$ events. Events are selected with \verb=HLT_IsoMu20_v*= or \verb=HLT_IsoMu22_v*= triggers.
@@ -400,28 +472,68 @@ The results are shown in Fig.~\ref{fig:MuonIDEff_2}.
 %while some inefficiency is visible in the endcaps, especially at large values of $|\eta|$.
 %The data to simulation scale factor is found to be flat as function of \pt, so, similarly to what done
 %for the identification part, we apply a correction only as function of $\eta$.
-\begin{figure}[htbp]
-  \begin{center}
-    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_SIP4_barrel.pdf}}
-    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_SIP4_endcap.pdf}}
-    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_SIP4_pt20.pdf}}
-    \caption{Efficiency of the muon impact parameter requirements, measured with the tag\&probe method on \Z events, as function of \pt in the barrel (left) and endcaps (center), and as function of $\eta$ for $\pt > 20\GeV$ (right). In the upper panel, the larger error bars include also the systematical uncertainties, while the smaller ones are purely statistical. In the lower panel showing the ratio of the two efficiencies, the black error bars are for the statistical uncertainty, the orange rectangles for the systematical uncertainty and the violet rectangles include both uncertainties.}
-    \label{fig:MuonIDEff_2}
-\end{center}
+
+
+\begin{figure}[tbh]
+\centering
+\begin{subfigure}{0.25\textwidth}
+\centering
+\includegraphics[width=1.5in]{Figures/Muons/mu_SIP4_barrel.pdf}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.25\textwidth}
+\centering
+\includegraphics[width=1.5in]{Figures/Muons/mu_SIP4_endcap.pdf}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.25\textwidth}
+\centering
+\includegraphics[width=1.5in]{Figures/Muons/mu_SIP4_pt20.pdf}
+\caption{}
+\end{subfigure}
+\caption{Efficiency of the muon impact parameter requirements, measured with the tag\&probe method on \Z events, as function of \pt in the barrel (left) and endcaps (center), and as function of $\eta$ for $\pt > 20\GeV$ (right). In the upper panel, the larger error bars include also the systematical uncertainties, while the smaller ones are purely statistical. In the lower panel showing the ratio of the two efficiencies, the black error bars are for the statistical uncertainty, the orange rectangles for the systematical uncertainty and the violet rectangles include both uncertainties.}
+\label{fig:MuonIDEff_2}
 \end{figure}
+
+%\begin{figure}[htbp]
+%  \begin{center}
+%    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_SIP4_barrel.pdf}}
+%    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_SIP4_endcap.pdf}}
+%    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_SIP4_pt20.pdf}}
+%    \caption{Efficiency of the muon impact parameter requirements, measured with the tag\&probe method on \Z events, as function of \pt in the barrel (left) and endcaps (center), and as function of $\eta$ for $\pt > 20\GeV$ (right). In the upper panel, the larger error bars include also the systematical uncertainties, while the smaller ones are purely statistical. In the lower panel showing the ratio of the two efficiencies, the black error bars are for the statistical uncertainty, the orange rectangles for the systematical uncertainty and the violet rectangles include both uncertainties.}
+%    \label{fig:MuonIDEff_2}
+%\end{center}
+%\end{figure}
 
 \paragraph*{Isolation requirements}
-The isolation efficiency is measured using events from the $\Z$ decay for any \pt. The events are selected with either of \verb=HLT_IsoMu20_v*= or \verb=HLT_IsoMu22_v*= triggers. The isolation of the muons are calculated after recovery of the FSR photons and subtracting their contribution to the isolation cone of the muons. More detailed description of the method can be found in Ref.~\cite{AN-16-217}.
+The isolation efficiency is measured using events from the $\Z$ decay for any \pt, selected with either of \verb=HLT_IsoMu20_v*= or \verb=HLT_IsoMu22_v*= triggers. The isolation of the muons are calculated after recovery of the FSR photons and subtracting their contribution to the isolation cone of the muons. More detailed description of the method can be found in Ref.~\cite{AN-16-217}.
 
 The results are shown in Fig.~\ref{fig:MuonIDEff_3}.
-\begin{figure}[htbp]
-  \begin{center}
-    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_iso_barrel.pdf}}
-    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_iso_endcap.pdf}}
+
+\begin{figure}[tbh]
+\centering
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics[width=2.5in]{Figures/Muons/mu_iso_barrel.pdf}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics[width=2.5in]{Figures/Muons/mu_iso_endcap.pdf}
+\caption{}
+\end{subfigure}
     \caption{Efficiency of the muon isolation requirement, measured with the tag\&probe method on \Z events, as function of \pt in the barrel (left) and endcaps (right). In the upper panel, the larger error bars include also the systematical uncertainties, while the smaller ones are purely statistical. In the lower panel showing the ratio of the two efficiencies, the black error bars are for the statistical uncertainty, the orange rectangles for the systematical uncertainty and the violet rectangles include both uncertainties.}
-    \label{fig:MuonIDEff_3}
-\end{center}
+\label{fig:MuonIDEff_3}
 \end{figure}
+
+%\begin{figure}[htbp]
+%  \begin{center}
+%    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_iso_barrel.pdf}}
+%    \subfigure[]{\includegraphics[width=0.32\textwidth]{Figures/Muons/mu_iso_endcap.pdf}}
+%    \caption{Efficiency of the muon isolation requirement, measured with the tag\&probe method on \Z events, as function of \pt in the barrel (left) and endcaps (right). In the upper panel, the larger error bars include also the systematical uncertainties, while the smaller ones are purely statistical. In the lower panel showing the ratio of the two efficiencies, the black error bars are for the statistical uncertainty, the orange rectangles for the systematical uncertainty and the violet rectangles include both uncertainties.}
+%    \label{fig:MuonIDEff_3}
+%\end{center}
+%\end{figure}
 
 \paragraph*{Tracking}
 The efficiency to reconstruct a muon track in the inner detector is measured using as probes tracks
@@ -431,26 +543,60 @@ data to mc scale factors are measured from Z events as a function of $\eta$ for 
 used are from the ReReco version of the full dataset collected in 2016. 
 
 The tracking efficiency in data and simulation as a function of $\eta$ is shown in Fig.~\ref{fig:MuonIDEff_4}.
-\begin{figure}[htbp]
-  \begin{center}
-    \subfigure[]{\includegraphics[width=0.42\textwidth]{Figures/Muons/trackingEffptl10.pdf}}
-    \subfigure[]{\includegraphics[width=0.42\textwidth]{Figures/Muons/trackingEffptg10.pdf}}
+
+\begin{figure}[tbh]
+\centering
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics[width=2.5in]{Figures/Muons/trackingEffptl10.pdf}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics[width=2.5in]{Figures/Muons/trackingEffptg10.pdf}
+\caption{}
+\end{subfigure}
     \caption{Tracking efficiency in data and simulation as a function of $\eta$ for muon $\pt < 10\GeV$(left) and $\pt > 10\GeV$(right) with ReReco data.}
     \label{fig:MuonIDEff_4}
-\end{center}
 \end{figure}
+
+%\begin{figure}[htbp]
+%  \begin{center}
+%    \subfigure[]{\includegraphics[width=0.42\textwidth]{Figures/Muons/trackingEffptl10.pdf}}
+%    \subfigure[]{\includegraphics[width=0.42\textwidth]{Figures/Muons/trackingEffptg10.pdf}}
+%    \caption{Tracking efficiency in data and simulation as a function of $\eta$ for muon $\pt < 10\GeV$(left) and $\pt > 10\GeV$(right) with ReReco data.}
+%    \label{fig:MuonIDEff_4}
+%\end{center}
+%\end{figure}
 
 \paragraph*{Overall results}
 The product of all the data to simulation scale factors for muon tracking, reconstruction, identification, impact parameter and isolation requirements is shown in Fig.~\ref{fig:MuonIDEff_5}. 
 %The overall correction is about $-1\%$ or less for most \pt and $\eta$ values, increasing to about $-2\%$ in for muons below $10\GeV$ or with $|\eta|>2$.
-\begin{figure}[htbp]
-  \begin{center}
-    \includegraphics[width=0.45\textwidth]{Figures/Muons/mu_sf.pdf}
-    \includegraphics[width=0.45\textwidth]{Figures/Muons/mu_sf_unc.pdf}
+
+\begin{figure}[tbh]
+\centering
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics[width=2.5in]{Figures/Muons/mu_sf.pdf}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics[width=2.5in]{Figures/Muons/mu_sf_unc.pdf}
+\caption{}
+\end{subfigure}
     \caption{Left: Overall data to simulation scale factors for muons, as function of \pt and $\eta$. Right: Uncertainties on  data to simulation scale factors for muons, as function of \pt and $\eta$.}
     \label{fig:MuonIDEff_5}
-\end{center}
 \end{figure}
+
+%\begin{figure}[htbp]
+%  \begin{center}
+%    \includegraphics[width=0.45\textwidth]{Figures/Muons/mu_sf.pdf}
+%    \includegraphics[width=0.45\textwidth]{Figures/Muons/mu_sf_unc.pdf}
+%    \caption{Left: Overall data to simulation scale factors for muons, as function of \pt and $\eta$. Right: Uncertainties on  data to simulation scale factors for muons, as function of \pt and $\eta$.}
+%    \label{fig:MuonIDEff_5}
+%\end{center}
+%\end{figure}
 
 
 \section{Photons for FSR recovery}
@@ -464,7 +610,7 @@ Starting from the collection of 'PF photons' provided by the particle-flow algor
 \item The preselection of PF photons is done by requiring $p_{T,\gamma} > 2~\GeV$, $|\eta^{\gamma}| < 2.4$, and a relative Particle-flow isolation smaller than $1.8$. The latter variable is computed using a cone of radius $R=0.3$, a threshold of $0.2~\GeV$ on charged hadrons with a veto cone of $0.0001$, and $0.5~\GeV$ on neutral hadrons and photons with a veto cone of $0.01$, also including the contribution from pileup vertices (with the same radius and threshold as per charged isolation) .
 \item Supercluster veto: we remove all PF photons that match with any electron passing both the loose ID and SIP cuts. The matching is peformed by directly associating the two PF candidates.
 \item Photons are associated to the closest lepton in the event among all those pass both the loose ID and SIP cuts.
-\item We discard photons that do not satisfy the cuts $\Delta R(\gamma,l)/E_{T,\gamma}^2 < 0.012$, and $\Delta R(\gamma,l)<0.5$.
+\item We discard photons that fail the cuts $\Delta R(\gamma,l)/E_{T,\gamma}^2 < 0.012$, and $\Delta R(\gamma,l)<0.5$.
 \item If more than one photon is associated to the same lepton, the lowest-$\Delta R(\gamma,l)/E_{T,\gamma}^2$ is selected.
 \item For each FSR photon that was selected, we exclude that photon from the isolation sum of all the leptons in the event that pass both the loose ID and SIP cuts. This concerns the photons that are in the isolation cone and outside the isolation veto of said leptons ($\Delta R < 0.4$ AND $\Delta R > 0.01$ for muons and $\Delta R < 0.4$ AND ($\eta^{\text{SC}} < 1.479$ OR $\Delta R > 0.08$) for electrons).
 \end{enumerate}

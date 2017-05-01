@@ -1,11 +1,11 @@
 \BOOKMARK [1][-]{chapter*.2}{List of Figures}{}% 1
 \BOOKMARK [1][-]{chapter*.3}{List of Tables}{}% 2
-\BOOKMARK [0][-]{chapter.1}{Datasets and Monte Carlo Simulations}{}% 3
-\BOOKMARK [1][-]{section.1.1}{Data}{chapter.1}% 4
-\BOOKMARK [2][-]{subsection.1.1.1}{Triggers and Datasets}{section.1.1}% 5
-\BOOKMARK [2][-]{subsection.1.1.2}{Trigger Efficiency}{section.1.1}% 6
-\BOOKMARK [1][-]{section.1.2}{Simulation}{chapter.1}% 7
-\BOOKMARK [2][-]{subsection.1.2.1}{Signal Samples}{section.1.2}% 8
-\BOOKMARK [2][-]{subsection.1.2.2}{Background Samples}{section.1.2}% 9
-\BOOKMARK [0][-]{section*.12}{Appendices}{}% 10
+\BOOKMARK [0][-]{chapter.1}{Results}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Statistical analysis}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.1}{Systematic uncertainties}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.2}{Limit setting}{section.1.1}% 6
+\BOOKMARK [1][-]{section.1.2}{Results}{chapter.1}% 7
+\BOOKMARK [2][-]{subsection.1.2.1}{Cut-and-count based}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.2}{MVA based}{section.1.2}% 9
+\BOOKMARK [0][-]{section*.21}{Appendices}{}% 10
 \BOOKMARK [0][-]{Appendix.1.A}{Production Cross Sections for Benchmark Signal Models}{}% 11

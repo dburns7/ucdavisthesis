@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  30 APR 2017 11:12
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  30 APR 2017 17:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -404,32 +404,45 @@ Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \ST@dimen=\dimen146
 \ST@pbox=\box31
 )
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
 \c@@pps=\count147
 \c@@ppsavesec=\count148
 \c@@ppsaveapp=\count149
 )
-(./ucdavisthesis_main.aux (./ucdavisthesis_Chap4.aux)
-(./ucdavisthesis_Appen1.aux))
+(./ucdavisthesis_main.aux (./ucdavisthesis_Chap9.aux
+
+LaTeX Warning: Label `tab:yields' multiply defined.
+
+))
 \openout1 = `ucdavisthesis_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count150
 \scratchdimen=\dimen147
@@ -463,7 +476,7 @@ Package caption Info: rotating package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box33
-Package hyperref Info: Link coloring OFF on input line 116.
+Package hyperref Info: Link coloring OFF on input line 118.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -473,9 +486,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count156
 )
-LaTeX Info: Redefining \ref on input line 116.
-LaTeX Info: Redefining \pageref on input line 116.
-LaTeX Info: Redefining \nameref on input line 116.
+LaTeX Info: Redefining \ref on input line 118.
+LaTeX Info: Redefining \pageref on input line 118.
+LaTeX Info: Redefining \nameref on input line 118.
 
 (./ucdavisthesis_main.out) (./ucdavisthesis_main.out)
 \@outlinefile=\write3
@@ -485,19 +498,19 @@ LaTeX Info: Redefining \nameref on input line 116.
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 190.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 203.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 190.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 203.
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.190 \makeintropages
+l.203 \makeintropages
                       %Processes/produces the preliminary pages [1
 
 ]
@@ -514,20 +527,7 @@ l.190 \makeintropages
  [3
 
 ]
-(./ucdavisthesis_main.lot
-
-LaTeX Warning: Reference `tab:MMScalar' on page iv undefined on input line 10.
-
-
-LaTeX Warning: Reference `tab:MMVector' on page iv undefined on input line 11.
-
-
-LaTeX Warning: Reference `tab:MMVector' on page iv undefined on input line 12.
-
-
-LaTeX Warning: Reference `tab:MM2HDM' on page iv undefined on input line 13.
-
-)
+(./ucdavisthesis_main.lot)
 \tf@lot=\write6
 \openout6 = `ucdavisthesis_main.lot'.
 
@@ -535,9 +535,9 @@ LaTeX Warning: Reference `tab:MM2HDM' on page iv undefined on input line 13.
 
 ]
 No abstract.
-\openout2 = `ucdavisthesis_Chap4.aux'.
+\openout2 = `ucdavisthesis_Chap9.aux'.
 
-(./ucdavisthesis_Chap4.tex
+(./ucdavisthesis_Chap9.tex
 Chapter 1.
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <29.86> not available
@@ -548,65 +548,219 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <29.86> not available
 
 ]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Citation `mettwiki' on page 2 undefined on input line 55.
 
-[2] [3]
-<Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf, id=139, 569.12625pt x 384.43625pt>
-File: Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf Graphic file (type pdf)
-<use Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf>
-Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf used on inp
-ut line 155.
-(pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
+[2]
 
-<Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf, id=140, 569.12625pt x 384.43625pt
+LaTeX Warning: Reference `tab:' on page 3 undefined on input line 67.
+
+
+LaTeX Warning: Reference `tab:' on page 3 undefined on input line 67.
+
+
+LaTeX Warning: Reference `sec:zxIntr' on page 3 undefined on input line 128.
+
+[3]
+
+LaTeX Warning: Reference `sec:redbkgd' on page 4 undefined on input line 136.
+
+
+LaTeX Warning: Reference `sec:observables' on page 4 undefined on input line 15
+1.
+
+[4]
+<Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf, id=88, 569.12625pt x 552.0625p
+t>
+File: Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf Graphic file (type pdf)
+ <use Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf>
+Package pdftex.def Info: Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf used on
+ input line 156.
+(pdftex.def)             Requested size: 200.33363pt x 194.32828pt.
+
+<Figures/Results/mass/lepScale_vs_pt_eta_e.pdf, id=89, 569.12625pt x 552.0625pt
 >
-File: Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf Graphic file (type pdf)
- <use Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf>
-Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf used on in
-put line 156.
-(pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
-
-<Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf, id=141, 569.12625pt x 384.43625
-pt>
-File: Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf Graphic file (type pdf)
- <use Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf>
-Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf used on 
+File: Figures/Results/mass/lepScale_vs_pt_eta_e.pdf Graphic file (type pdf)
+ <use Figures/Results/mass/lepScale_vs_pt_eta_e.pdf>
+Package pdftex.def Info: Figures/Results/mass/lepScale_vs_pt_eta_e.pdf used on 
 input line 157.
-(pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
+(pdftex.def)             Requested size: 200.33363pt x 194.32828pt.
 
-<Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf, id=142, 569.12625pt x 384.43625pt>
-File: Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf Graphic file (type pdf)
-<use Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf>
-Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf used on inp
-ut line 158.
-(pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
+<Figures/Results/mass/m4lreco_4mu_dn.pdf, id=90, 569.12625pt x 552.0625pt>
+File: Figures/Results/mass/m4lreco_4mu_dn.pdf Graphic file (type pdf)
+
+<use Figures/Results/mass/m4lreco_4mu_dn.pdf>
+Package pdftex.def Info: Figures/Results/mass/m4lreco_4mu_dn.pdf used on input 
+line 167.
+(pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
+
+<Figures/Results/mass/m4lreco_4mu.pdf, id=91, 569.12625pt x 552.0625pt>
+File: Figures/Results/mass/m4lreco_4mu.pdf Graphic file (type pdf)
+
+<use Figures/Results/mass/m4lreco_4mu.pdf>
+Package pdftex.def Info: Figures/Results/mass/m4lreco_4mu.pdf used on input lin
+e 168.
+(pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
+
+<Figures/Results/mass/m4lreco_4mu_up.pdf, id=92, 569.12625pt x 552.0625pt>
+File: Figures/Results/mass/m4lreco_4mu_up.pdf Graphic file (type pdf)
+
+<use Figures/Results/mass/m4lreco_4mu_up.pdf>
+Package pdftex.def Info: Figures/Results/mass/m4lreco_4mu_up.pdf used on input 
+line 169.
+(pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
+
+<Figures/Results/mass/m4lreco_4e_dn.pdf, id=93, 569.12625pt x 552.0625pt>
+File: Figures/Results/mass/m4lreco_4e_dn.pdf Graphic file (type pdf)
+
+<use Figures/Results/mass/m4lreco_4e_dn.pdf>
+Package pdftex.def Info: Figures/Results/mass/m4lreco_4e_dn.pdf used on input l
+ine 170.
+(pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
+
+<Figures/Results/mass/m4lreco_4e.pdf, id=94, 569.12625pt x 552.0625pt>
+File: Figures/Results/mass/m4lreco_4e.pdf Graphic file (type pdf)
+
+<use Figures/Results/mass/m4lreco_4e.pdf>
+Package pdftex.def Info: Figures/Results/mass/m4lreco_4e.pdf used on input line
+ 171.
+(pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
+
+<Figures/Results/mass/m4lreco_4e_up.pdf, id=95, 569.12625pt x 552.0625pt>
+File: Figures/Results/mass/m4lreco_4e_up.pdf Graphic file (type pdf)
+
+<use Figures/Results/mass/m4lreco_4e_up.pdf>
+Package pdftex.def Info: Figures/Results/mass/m4lreco_4e_up.pdf used on input l
+ine 172.
+(pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `sec:irrbkgd' on page 5 undefined on input line 186.
 
-[4 <./Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf, page is rotated 90 degrees> <
-./Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf, page is rotated 90 degrees> <./F
-igures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf, page is rotated 90 degrees> <./Fi
-gures/Trigger/Histo_TrigEff_ptMin_4l.pdf, page is rotated 90 degrees>] [5]
-Overfull \hbox (41.00069pt too wide) in paragraph at lines 268--290
- [][] |
- []
+[5 <./Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf, page is rotated 90 degree
+s> <./Figures/Results/mass/lepScale_vs_pt_eta_e.pdf, page is rotated 90 degrees
+>]
+
+LaTeX Warning: Citation `combinetwiki' on page 6 undefined on input line 300.
 
 
-LaTeX Warning: Reference `fig:pu' on page 6 undefined on input line 297.
+LaTeX Warning: Citation `roostatstwiki' on page 6 undefined on input line 300.
 
-[6] <figures/muonres.pdf, id=362, 272.90004pt x 189.89876pt>
-File: figures/muonres.pdf Graphic file (type pdf)
 
-<use figures/muonres.pdf>
-Package pdftex.def Info: figures/muonres.pdf used on input line 301.
-(pdftex.def)             Requested size: 361.34999pt x 251.46686pt.
-) [7 <./figures/muonres.pdf>]
+LaTeX Warning: Citation `higgspagtwiki' on page 6 undefined on input line 300.
+
+
+LaTeX Warning: Citation `Cowan:2010js' on page 6 undefined on input line 300.
+
+[6 <./Figures/Results/mass/m4lreco_4mu_dn.pdf, page is rotated 90 degrees> <./F
+igures/Results/mass/m4lreco_4mu.pdf, page is rotated 90 degrees> <./Figures/Res
+ults/mass/m4lreco_4mu_up.pdf, page is rotated 90 degrees> <./Figures/Results/ma
+ss/m4lreco_4e_dn.pdf, page is rotated 90 degrees> <./Figures/Results/mass/m4lre
+co_4e.pdf, page is rotated 90 degrees> <./Figures/Results/mass/m4lreco_4e_up.pd
+f, page is rotated 90 degrees>] [7] [8] [9]
+
+LaTeX Warning: Reference `fig:limzp2hdmmu' on page 10 undefined on input line 3
+35.
+
+
+LaTeX Warning: Reference `fig:limzp2hdm' on page 10 undefined on input line 335
+.
+
+
+LaTeX Warning: Reference `cutandcountopt' on page 10 undefined on input line 33
+5.
+
+<figures/sigma_limits_4mu_Zp2HDM.png, id=481, 698.61pt x 473.77pt>
+File: figures/sigma_limits_4mu_Zp2HDM.png Graphic file (type png)
+
+<use figures/sigma_limits_4mu_Zp2HDM.png>
+Package pdftex.def Info: figures/sigma_limits_4mu_Zp2HDM.png used on input line
+ 339.
+(pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
+File: figures/sigma_limits_4mu_Zp2HDM.png Graphic file (type png)
+
+<use figures/sigma_limits_4mu_Zp2HDM.png>
+Package pdftex.def Info: figures/sigma_limits_4mu_Zp2HDM.png used on input line
+ 346.
+(pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
+
+
+LaTeX Warning: Reference `fig:limzpbaryonicmu' on page 10 undefined on input li
+ne 353.
+
+
+LaTeX Warning: Reference `fig:limzpbaryonic' on page 10 undefined on input line
+ 353.
+
+
+LaTeX Warning: Reference `cutandcountopt' on page 10 undefined on input line 35
+3.
+
+[10 <./figures/sigma_limits_4mu_Zp2HDM.png>]
+<figures/sigma_limits_4mu_ZpBaryonic.png, id=490, 698.61pt x 473.77pt>
+File: figures/sigma_limits_4mu_ZpBaryonic.png Graphic file (type png)
+
+<use figures/sigma_limits_4mu_ZpBaryonic.png>
+Package pdftex.def Info: figures/sigma_limits_4mu_ZpBaryonic.png used on input 
+line 357.
+(pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
+File: figures/sigma_limits_4mu_ZpBaryonic.png Graphic file (type png)
+
+<use figures/sigma_limits_4mu_ZpBaryonic.png>
+Package pdftex.def Info: figures/sigma_limits_4mu_ZpBaryonic.png used on input 
+line 364.
+(pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
+
+
+LaTeX Warning: Reference `fig:limzp2hdmmu' on page 11 undefined on input line 3
+73.
+
+
+LaTeX Warning: Reference `fig:limzp2hdm' on page 11 undefined on input line 373
+.
+
+
+LaTeX Warning: Reference `mvaopt' on page 11 undefined on input line 373.
+
+File: figures/sigma_limits_4mu_Zp2HDM.png Graphic file (type png)
+<use figures/sigma_limits_4mu_Zp2HDM.png>
+Package pdftex.def Info: figures/sigma_limits_4mu_Zp2HDM.png used on input line
+ 377.
+(pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
+File: figures/sigma_limits_4mu_Zp2HDM.png Graphic file (type png)
+
+<use figures/sigma_limits_4mu_Zp2HDM.png>
+Package pdftex.def Info: figures/sigma_limits_4mu_Zp2HDM.png used on input line
+ 384.
+(pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
+
+
+LaTeX Warning: Reference `fig:limzpbaryonicmu' on page 11 undefined on input li
+ne 391.
+
+
+LaTeX Warning: Reference `fig:limzpbaryonic' on page 11 undefined on input line
+ 391.
+
+
+LaTeX Warning: Reference `mvaopt' on page 11 undefined on input line 391.
+
+File: figures/sigma_limits_4mu_ZpBaryonic.png Graphic file (type png)
+<use figures/sigma_limits_4mu_ZpBaryonic.png>
+Package pdftex.def Info: figures/sigma_limits_4mu_ZpBaryonic.png used on input 
+line 395.
+(pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
+File: figures/sigma_limits_4mu_ZpBaryonic.png Graphic file (type png)
+
+<use figures/sigma_limits_4mu_ZpBaryonic.png>
+Package pdftex.def Info: figures/sigma_limits_4mu_ZpBaryonic.png used on input 
+line 402.
+(pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
+) [11] [12 <./figures/sigma_limits_4mu_ZpBaryonic.png>] [13] [14]
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <29.86> not available
-(Font)              size <24.88> substituted on input line 198.
+(Font)              size <24.88> substituted on input line 216.
 
-[8
+[15
 
 
 
@@ -616,47 +770,53 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <29.86> not available
  (./ucdavisthesis_Appen1.tex
 Appendix A.
 
-LaTeX Warning: Reference `tab:MMScalar' on page 9 undefined on input line 43.
+LaTeX Warning: Reference `tab:MMScalar' on page 16 undefined on input line 43.
 
 
-LaTeX Warning: Reference `tab:MMScalar' on page 9 undefined on input line 43.
+LaTeX Warning: Reference `tab:MMScalar' on page 16 undefined on input line 43.
 
 
-LaTeX Warning: Reference `tab:MMVector' on page 9 undefined on input line 62.
+LaTeX Warning: Reference `tab:MMVector' on page 16 undefined on input line 62.
 
 
-LaTeX Warning: Reference `tab:MMVector' on page 9 undefined on input line 62.
+LaTeX Warning: Reference `tab:MMVector' on page 16 undefined on input line 62.
 
 
-LaTeX Warning: Reference `tab:MMVector' on page 9 undefined on input line 81.
+LaTeX Warning: Reference `tab:MMVector' on page 16 undefined on input line 81.
 
 
-LaTeX Warning: Reference `tab:MMVector' on page 9 undefined on input line 81.
+LaTeX Warning: Reference `tab:MMVector' on page 16 undefined on input line 81.
 
 
-LaTeX Warning: Reference `tab:MM2HDM' on page 9 undefined on input line 98.
+LaTeX Warning: Reference `tab:MM2HDM' on page 16 undefined on input line 98.
 
 
-LaTeX Warning: Reference `tab:MM2HDM' on page 9 undefined on input line 98.
+LaTeX Warning: Reference `tab:MM2HDM' on page 16 undefined on input line 98.
 
-) [9
+) [16
 
 
-] [10] [11] [12] [13] [14] (./ucdavisthesis_main.bbl [15
+] [17] [18] [19] [20] [21] (./ucdavisthesis_main.bbl [22
 
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
- [16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
+ [23]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
 
-(./ucdavisthesis_main.aux (./ucdavisthesis_Chap4.aux)
+(./ucdavisthesis_main.aux (./ucdavisthesis_Chap9.aux)
 (./ucdavisthesis_Appen1.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
-Package rerunfilecheck Info: File `ucdavisthesis_main.out' has not changed.
-(rerunfilecheck)             Checksum: C9EF67195D6D9E84568E7BD469E6EBE7;701.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 228.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
 
+
+Package rerunfilecheck Warning: File `ucdavisthesis_main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `ucdavisthesis_main.out':
+(rerunfilecheck)             Before: FD9DD9DD6041D6D42F20915595EF9AA2;352
+(rerunfilecheck)             After:  84B787C103BB7A48D7E9BA6DB7AC94E5;679.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 4.98pt have occurred.
@@ -665,41 +825,37 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 9098 strings out of 494985
- 135748 string characters out of 6180355
- 264112 words of memory out of 5000000
- 12075 multiletter control sequences out of 15000+600000
- 10916 words of font info for 40 fonts, out of 8000000 for 9000
+ 9272 strings out of 494985
+ 138640 string characters out of 6180355
+ 263252 words of memory out of 5000000
+ 12204 multiletter control sequences out of 15000+600000
+ 14817 words of font info for 52 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 39i,15n,77p,1021b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/mathpazo/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/he
-lvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8
-a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ucdavisthesis_main.pdf (21 pages, 531607 bytes).
+ 39i,15n,77p,1529b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on ucdavisthesis_main.pdf (28 pages, 387911 bytes).
 PDF statistics:
- 571 PDF objects out of 1000 (max. 8388607)
- 409 compressed objects within 5 object streams
- 61 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 689 PDF objects out of 1000 (max. 8388607)
+ 426 compressed objects within 5 object streams
+ 88 named destinations out of 1000 (max. 500000)
+ 99 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -47,7 +47,7 @@ NNLO  & 324.0$^{+2\%}_{-3\%}$   & 141.2$^{+2\%}_{-2\%}$ \\
 
 \subsection{\ggZZ~ Modelling}
 
-Event simulation for the $\ggZZ$ background is done at LO with the generator \MCFM~7.0~\cite{MCFM,Campbell:2011bn,Campbell:2013una}.
+Event simulation for the $\ggZZ$ background is done at LO with the generator MCFM 7.0 \cite{MCFM,Campbell:2011bn,Campbell:2013una}.
 Although no exact calculation exists beyond the LO for the $\ggZZ$ background, 
 it has been recently shown~\cite{Bonvini:1304.3053} 
 that the soft collinear approximation is able to describe the background cross section and the 
@@ -64,15 +64,24 @@ along with the NNLO, NLO and LO cross sections at the SM $\PH$ boson decay width
 \includegraphics[width=0.48\linewidth]{Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf}
 \includegraphics[width=0.48\linewidth]{Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf}\\
 \includegraphics[width=0.48\linewidth]{Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf}
-\caption{$\Pg\Pg\to\PH\to2\ell2\ell^\prime$ cross sections at NNLO, NLO and LO at each $\PH$ boson pole mass using the SM $\PH$ boson decay width  (top \cmsLeft) or at the fixed and small decay width of $4.07$~MeV (top \cmsRight). The cross sections using the fixed value are used to obtain the K factor for both the signal and the continuum background contributions as a function of $\mllll$ (bottom).
+\caption{$\Pg\Pg\to\PH\to2\ell2\ell^\prime$ cross sections at NNLO, NLO and LO at each $\PH$ boson pole mass using the SM $\PH$ boson decay width  (top) or at the fixed and small decay width of $4.07$~MeV (top). The cross sections using the fixed value are used to obtain the K factor for both the signal and the continuum background contributions as a function of $\mllll$ (bottom).
 }
 \label{fig:ggHZZXsecKfactor}
 \end{figure}
 
+%\begin{figure}[!htb]
+%\centering
+%\includegraphics[width=0.48\linewidth]{Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf}
+%\includegraphics[width=0.48\linewidth]{Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf}\\
+%\includegraphics[width=0.48\linewidth]{Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf}
+%\caption{$\Pg\Pg\to\PH\to2\ell2\ell^\prime$ cross sections at NNLO, NLO and LO at each $\PH$ boson pole mass using the SM $\PH$ boson decay width  (top \cmsLeft) or at the fixed and small decay width of $4.07$~MeV (top \cmsRight). The cross sections using the fixed value are used to obtain the K factor for both the signal and the continuum background contributions as a function of $\mllll$ (bottom).
+%}
+%\label{fig:ggHZZXsecKfactor}
+%\end{figure}
 
 \section{Reducible Background}
 \label{sec:zxIntr}
-\input{Background/zxIntr.tex}
+%\input{Background/zxIntr.tex}
 
 The reducible background for the $H\to ZZ\to 4\ell $ analysis, hereafter called $Z+X$, originates from processes which contain one or more non-prompt leptons in the four-lepton final state. 
 The main sources of non-prompt leptons are non-isolated electrons and muons coming from decays of heavy-flavour mesons, mis-reconstructed jets (usually originating from light-flavour quarks) and electrons from $\gamma$ conversions. 
@@ -138,18 +147,38 @@ The electron and muon fake rates are measured within
 $|M_{inv}(\ell_{1},\ell_{2}) - M_{Z}| < 7 $~GeV and $E_{\mathrm{T}}^\text{miss}  < $ 25~GeV are 
 shown in Figure~\ref{fig:os_fakerates}. 
 
-\begin{figure}[!htb]
-\begin{center}
-    \subfigure [] {\includegraphics [width=0.45\textwidth]{Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf}}
-    \subfigure [] {\includegraphics [width=0.45\textwidth]{Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf}}
+\begin{figure}[tbh]
+\centering
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics[width=2.5in]{Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics[width=2.5in]{Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf}
+\caption{}
+\end{subfigure}
   \caption{
 Fake rates as a function of the probe $p_T$ for  electrons (a) and muons (b) which satisfy the loose selection criteria, measured in
 a $Z(\ell\ell)+\ell$ sample in the $13$~TeV data.
 The barrel selection includes electrons (muons) up to $|\eta|$ = 1.479 (1.2).
 }
 \label{fig:os_fakerates}
-\end{center}
 \end{figure}
+
+%\begin{figure}[!htb]
+%\begin{center}
+%    \subfigure [] {\includegraphics [width=0.45\textwidth]{Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf}}
+%    \subfigure [] {\includegraphics [width=0.45\textwidth]{Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf}}
+%  \caption{
+%Fake rates as a function of the probe $p_T$ for  electrons (a) and muons (b) which satisfy the loose selection criteria, measured in
+%a $Z(\ell\ell)+\ell$ sample in the $13$~TeV data.
+%The barrel selection includes electrons (muons) up to $|\eta|$ = 1.479 (1.2).
+%}
+%\label{fig:os_fakerates}
+%\end{center}
+%\end{figure}
 
 
 

@@ -1,93 +1,15 @@
 \begin{thebibliography}{10}
 
-\bibitem{Alioli:2008gx}
-S.~Alioli, P.~Nason, C.~Oleari, and E.~Re.
-\newblock {NLO vector-boson production matched with shower in POWHEG}.
-\newblock {\em JHEP}, 07:060, 2008.
-\newblock \href {http://arxiv.org/abs/0805.4802} {\path{arXiv:0805.4802}},
-  \href {http://dx.doi.org/10.1088/1126-6708/2008/07/060}
-  {\path{doi:10.1088/1126-6708/2008/07/060}}.
-
-\bibitem{Nason:2004rx}
-Paolo Nason.
-\newblock {A new method for combining NLO QCD with shower Monte Carlo
-  algorithms}.
-\newblock {\em JHEP}, 11:040, 2004.
-\newblock \href {http://arxiv.org/abs/hep-ph/0409146}
-  {\path{arXiv:hep-ph/0409146}}, \href
-  {http://dx.doi.org/10.1088/1126-6708/2004/11/040}
-  {\path{doi:10.1088/1126-6708/2004/11/040}}.
-
-\bibitem{Frixione:2007vw}
-Stefano Frixione, Paolo Nason, and Carlo Oleari.
-\newblock {Matching NLO QCD computations with parton shower simulations: the
-  POWHEG method}.
-\newblock {\em JHEP}, 11:070, 2007.
-\newblock \href {http://arxiv.org/abs/0709.2092} {\path{arXiv:0709.2092}},
-  \href {http://dx.doi.org/10.1088/1126-6708/2007/11/070}
-  {\path{doi:10.1088/1126-6708/2007/11/070}}.
-
-\bibitem{Bagnaschi:2011tu}
-E.~Bagnaschi, G.~Degrassi, P.~Slavich, and A.~Vicini.
-\newblock {Higgs production via gluon fusion in the POWHEG approach in the SM
-  and in the MSSM}.
-\newblock {\em JHEP}, 02:088, 2012.
-\newblock \href {http://arxiv.org/abs/1111.2854} {\path{arXiv:1111.2854}},
-  \href {http://dx.doi.org/10.1007/JHEP02(2012)088}
-  {\path{doi:10.1007/JHEP02(2012)088}}.
-
-\bibitem{Nason:2009ai}
-Paolo Nason and Carlo Oleari.
-\newblock {NLO Higgs boson production via vector-boson fusion matched with
-  shower in POWHEG}.
-\newblock {\em JHEP}, 02:037, 2010.
-\newblock \href {http://arxiv.org/abs/0911.5299} {\path{arXiv:0911.5299}},
-  \href {http://dx.doi.org/10.1007/JHEP02(2010)037}
-  {\path{doi:10.1007/JHEP02(2010)037}}.
-
-\bibitem{Hartanto:2015uka}
-Heribertus~B. Hartanto, Barbara Jager, Laura Reina, and Doreen Wackeroth.
-\newblock {Higgs boson production in association with top quarks in the POWHEG
-  BOX}.
-\newblock {\em Phys. Rev.}, D91(9):094003, 2015.
-\newblock \href {http://arxiv.org/abs/1501.04498} {\path{arXiv:1501.04498}},
-  \href {http://dx.doi.org/10.1103/PhysRevD.91.094003}
-  {\path{doi:10.1103/PhysRevD.91.094003}}.
-
-\bibitem{Luisoni:2013kna}
-Gionata Luisoni, Paolo Nason, Carlo Oleari, and Francesco Tramontano.
-\newblock {$HW^{\pm}$/HZ + 0 and 1 jet at NLO with the POWHEG BOX interfaced to
-  GoSam and their merging within MiNLO}.
-\newblock {\em JHEP}, 10:083, 2013.
-\newblock \href {http://arxiv.org/abs/1306.2542} {\path{arXiv:1306.2542}},
-  \href {http://dx.doi.org/10.1007/JHEP10(2013)083}
-  {\path{doi:10.1007/JHEP10(2013)083}}.
-
-\bibitem{Gao:2010qx}
-Yanyan Gao, Andrei~V. Gritsan, Zijin Guo, Kirill Melnikov, Markus Schulze, and
-  Nhan~V. Tran.
-\newblock {Spin determination of single-produced resonances at hadron
-  colliders}.
-\newblock {\em Phys. Rev. D}, 81:075022, 2010.
-\newblock \href {http://arxiv.org/abs/1001.3396} {\path{arXiv:1001.3396}},
-  \href {http://dx.doi.org/10.1103/PhysRevD.81.075022}
-  {\path{doi:10.1103/PhysRevD.81.075022}}.
-
-\bibitem{Ball:2014uwa}
-Richard~D. Ball et~al.
-\newblock {Parton distributions for the LHC Run II}.
-\newblock {\em JHEP}, 04:040, 2015.
-\newblock \href {http://arxiv.org/abs/1410.8849} {\path{arXiv:1410.8849}},
-  \href {http://dx.doi.org/10.1007/JHEP04(2015)040}
-  {\path{doi:10.1007/JHEP04(2015)040}}.
-
-\bibitem{Nason:2013ydw}
-Paolo Nason and Giulia Zanderighi.
-\newblock {$W^+ W^-$ , $W Z$ and $Z Z$ production in the POWHEG-BOX-V2}.
-\newblock {\em Eur. Phys. J.}, C74(1):2702, 2014.
-\newblock \href {http://arxiv.org/abs/1311.1365} {\path{arXiv:1311.1365}},
-  \href {http://dx.doi.org/10.1140/epjc/s10052-013-2702-5}
-  {\path{doi:10.1140/epjc/s10052-013-2702-5}}.
+\bibitem{Grazzini2015407}
+Massimiliano Grazzini, Stefan Kallweit, and Dirk Rathlev.
+\newblock {ZZ production at the LHC: Fiducial cross sections and distributions
+  in NNLO QCD}.
+\newblock {\em Phys. Lett. B}, 750:407 -- 410, 2015.
+\newblock URL:
+  \url{http://www.sciencedirect.com/science/article/pii/S0370269315007303},
+  \href {http://arxiv.org/abs/1507.06257} {\path{arXiv:1507.06257}}, \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.physletb.2015.09.055}
+  {\path{doi:http://dx.doi.org/10.1016/j.physletb.2015.09.055}}.
 
 \bibitem{MCFM}
 John~M. Campbell and R.~K. Ellis.
@@ -96,6 +18,14 @@ John~M. Campbell and R.~K. Ellis.
 \newblock \href {http://arxiv.org/abs/1007.3492} {\path{arXiv:1007.3492}},
   \href {http://dx.doi.org/10.1016/j.nuclphysbps.2010.08.011}
   {\path{doi:10.1016/j.nuclphysbps.2010.08.011}}.
+
+\bibitem{Campbell:2011bn}
+John~M. Campbell, R.~Keith Ellis, and Ciaran Williams.
+\newblock {Vector boson pair production at the LHC}.
+\newblock {\em JHEP}, 07:018, 2011.
+\newblock \href {http://arxiv.org/abs/1105.0020} {\path{arXiv:1105.0020}},
+  \href {http://dx.doi.org/10.1007/JHEP07(2011)018}
+  {\path{doi:10.1007/JHEP07(2011)018}}.
 
 \bibitem{Campbell:2013una}
 John~M. Campbell, R.~Keith Ellis, and Ciaran Williams.
@@ -106,15 +36,73 @@ John~M. Campbell, R.~Keith Ellis, and Ciaran Williams.
   \href {http://dx.doi.org/10.1007/JHEP04(2014)060}
   {\path{doi:10.1007/JHEP04(2014)060}}.
 
-\bibitem{Alwall:2014hca}
-J.~Alwall, R.~Frederix, S.~Frixione, V.~Hirschi, F.~Maltoni, O.~Mattelaer,
-  H.~S. Shao, T.~Stelzer, P.~Torrielli, and M.~Zaro.
-\newblock {The automated computation of tree-level and next-to-leading order
-  differential cross sections, and their matching to parton shower
-  simulations}.
-\newblock {\em JHEP}, 07:079, 2014.
-\newblock \href {http://arxiv.org/abs/1405.0301} {\path{arXiv:1405.0301}},
-  \href {http://dx.doi.org/10.1007/JHEP07(2014)079}
-  {\path{doi:10.1007/JHEP07(2014)079}}.
+\bibitem{Bonvini:1304.3053}
+Marco Bonvini, Fabrizio Caola, Stefano Forte, Kirill Melnikov, and Giovanni
+  Ridolfi.
+\newblock {Signal-background interference effects in $gg \to H \to WW$ beyond
+  leading order}.
+\newblock {\em Phys. Rev. D}, 88:034032, 2013.
+\newblock \href {http://arxiv.org/abs/1304.3053} {\path{arXiv:1304.3053}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.88.034032}
+  {\path{doi:10.1103/PhysRevD.88.034032}}.
+
+\bibitem{Melnikov:2015laa}
+Kirill Melnikov and Matthew Dowling.
+\newblock {Production of two Z-bosons in gluon fusion in the heavy top quark
+  approximation}.
+\newblock {\em Phys. Lett. B}, 744:43, 2015.
+\newblock \href {http://arxiv.org/abs/1503.01274} {\path{arXiv:1503.01274}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2015.03.030}
+  {\path{doi:10.1016/j.physletb.2015.03.030}}.
+
+\bibitem{Li:2015jva}
+Chong~Sheng Li, Hai~Tao Li, Ding~Yu Shao, and Jian Wang.
+\newblock {Soft gluon resummation in the signal-background interference process
+  of $gg(\to h^*) \to ZZ$~}.
+\newblock 2015.
+\newblock \href {http://arxiv.org/abs/1504.02388} {\path{arXiv:1504.02388}}.
+
+\bibitem{Passarino:1312.2397v1}
+Giampiero Passarino.
+\newblock {Higgs CAT}.
+\newblock {\em Eur. Phys. J. C}, 74:2866, 2014.
+\newblock \href {http://arxiv.org/abs/1312.2397} {\path{arXiv:1312.2397}},
+  \href {http://dx.doi.org/10.1140/epjc/s10052-014-2866-7}
+  {\path{doi:10.1140/epjc/s10052-014-2866-7}}.
+
+\bibitem{Catani:2007vq}
+Stefano Catani and Massimiliano Grazzini.
+\newblock {An NNLO subtraction formalism in hadron collisions and its
+  application to Higgs boson production at the LHC}.
+\newblock {\em Phys. Rev. Lett.}, 98:222002, 2007.
+\newblock \href {http://arxiv.org/abs/hep-ph/0703012}
+  {\path{arXiv:hep-ph/0703012}}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.98.222002}
+  {\path{doi:10.1103/PhysRevLett.98.222002}}.
+
+\bibitem{Grazzini:2008tf}
+Massimiliano Grazzini.
+\newblock {NNLO predictions for the Higgs boson signal in the H ---> WW --->
+  lnu lnu and H ---> ZZ ---> 4l decay channels}.
+\newblock {\em JHEP}, 02:043, 2008.
+\newblock \href {http://arxiv.org/abs/0801.3232} {\path{arXiv:0801.3232}},
+  \href {http://dx.doi.org/10.1088/1126-6708/2008/02/043}
+  {\path{doi:10.1088/1126-6708/2008/02/043}}.
+
+\bibitem{Grazzini:2013mca}
+Massimiliano Grazzini and Hayk Sargsyan.
+\newblock {Heavy-quark mass effects in Higgs boson production at the LHC}.
+\newblock {\em JHEP}, 09:129, 2013.
+\newblock \href {http://arxiv.org/abs/1306.4581} {\path{arXiv:1306.4581}},
+  \href {http://dx.doi.org/10.1007/JHEP09(2013)129}
+  {\path{doi:10.1007/JHEP09(2013)129}}.
+
+\bibitem{Heinemeyer:2013tqa}
+{LHC Higgs Cross Section Working Group}.
+\newblock {Handbook of LHC Higgs Cross Sections: 3. Higgs Properties}.
+\newblock CERN Report CERN-2013-004, 2013.
+\newblock \href {http://arxiv.org/abs/1307.1347} {\path{arXiv:1307.1347}},
+  \href {http://dx.doi.org/10.5170/CERN-2013-004}
+  {\path{doi:10.5170/CERN-2013-004}}.
 
 \end{thebibliography}

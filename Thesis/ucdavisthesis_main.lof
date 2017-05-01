@@ -1,4 +1,12 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Trigger efficiency measured in data using $4\ell $ events collected by single lepton triggers for the $4e$ (top left), $4\mu $ (top right), $2e2\mu $ (bottom left) and $4\ell $ (bottom right) final states. \relax }}{4}{figure.caption.6}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Number of pileup vertices before and after reweighted is applied.\relax }}{7}{figure.caption.11}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Difference between the ${\rm Z}\rightarrow \ell \ell $ mass peak positions in data and simulation normalized by the nominal $\ensuremath {Z}$ boson mass obtained as a function of the $\ensuremath {p_{\rm {T}}}$ and $|\eta |$ of one of the leptons regardless of the second for muons (left) and electrons (right). \relax }}{5}{figure.caption.9}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Different $\ensuremath {m_{4\ell }}$ distributions after propagating the biases in Fig.\nobreakspace {}\ref {fig:lepScale} to Higgs boson events. The change in the mean of the double crystal ball is used to determine the systematic uncertainty due to the lepton momentum scale. The middle plot shows the nominal distribution, while the left (right) plots show the down (up) systematic variations. The $4\mu $ channel is shown in the top row and the $4e$ channel is shown in the bottom row. \relax }}{6}{figure.caption.10}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces PLACEHOLDER 1D $\mu $ limits for $m_{A0} = 300$ GeV for Zp2HDM.\relax }}{10}{figure.caption.13}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces PLACEHOLDER 1D cross section times BR limits for $m_{A0} = 300$ GeV for Zp2HDM.\relax }}{11}{figure.caption.14}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces PLACEHOLDER 1D $\mu $ limits for $m_{\chi } = 1$ GeV for ZpBaryonic.\relax }}{12}{figure.caption.15}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces PLACEHOLDER 1D cross section times BR limits for $m_{\chi } = 1$ GeV for ZpBaryonic.\relax }}{12}{figure.caption.16}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces PLACEHOLDER 1D $\mu $ limits for $m_{A0} = 300$ GeV for Zp2HDM.\relax }}{13}{figure.caption.17}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces PLACEHOLDER 1D cross section times BR limits for $m_{A0} = 300$ GeV for Zp2HDM.\relax }}{13}{figure.caption.18}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces PLACEHOLDER 1D $\mu $ limits for $m_{\chi } = 1$ GeV for ZpBaryonic.\relax }}{14}{figure.caption.19}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces PLACEHOLDER 1D cross section times BR limits for $m_{\chi } = 1$ GeV for ZpBaryonic.\relax }}{14}{figure.caption.20}
 \addvspace {10\p@ }
