@@ -1,4 +1,1404 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
+
+\bibitem{Noether:1918zz}
+Emmy Noether.
+\newblock {Invariant Variation Problems}.
+\newblock {\em Gott. Nachr.}, 1918:235--257, 1918.
+\newblock [Transp. Theory Statist. Phys.1,186(1971)].
+\newblock \href {http://arxiv.org/abs/physics/0503066}
+  {\path{arXiv:physics/0503066}}, \href
+  {http://dx.doi.org/10.1080/00411457108231446}
+  {\path{doi:10.1080/00411457108231446}}.
+
+\bibitem{Maxwell01011865}
+J.~Clerk Maxwell.
+\newblock A dynamical theory of the electromagnetic field.
+\newblock {\em Philosophical Transactions of the Royal Society of London},
+  155:459--512, 1865.
+\newblock URL:
+  \url{http://rstl.royalsocietypublishing.org/content/155/459.short}, \href
+  {http://arxiv.org/abs/http://rstl.royalsocietypublishing.org/content/155/459.full.pdf+html}
+  {\path{arXiv:http://rstl.royalsocietypublishing.org/content/155/459.full.pdf+html}},
+  \href {http://dx.doi.org/10.1098/rstl.1865.0008}
+  {\path{doi:10.1098/rstl.1865.0008}}.
+
+\bibitem{Lorentz}
+H.~A. {Lorentz}.
+\newblock {Simplified Theory of Electrical and Optical Phenomena in Moving
+  Systems}.
+\newblock {\em Koninklijke Nederlandse Akademie van Wetenschappen Proceedings
+  Series B Physical Sciences}, 1:427--442, 1898.
+
+\bibitem{Noether:1918zz2}
+Emmy Noether.
+\newblock {Invariant Variation Problems}.
+\newblock {\em Gott. Nachr.}, 1918:235--257, 1918.
+\newblock [Transp. Theory Statist. Phys.1,186(1971)].
+\newblock \href {http://arxiv.org/abs/physics/0503066}
+  {\path{arXiv:physics/0503066}}, \href
+  {http://dx.doi.org/10.1080/00411457108231446}
+  {\path{doi:10.1080/00411457108231446}}.
+
+\bibitem{Einstein:1905ve}
+Albert Einstein.
+\newblock {On the electrodynamics of moving bodies}.
+\newblock {\em Annalen Phys.}, 17:891--921, 1905.
+\newblock [Annalen Phys.14,194(2005)].
+\newblock \href {http://dx.doi.org/10.1002/andp.200590006}
+  {\path{doi:10.1002/andp.200590006}}.
+
+\bibitem{Einstein:1914bt}
+Albert Einstein.
+\newblock {On the Foundations of the Generalized Theory of Relativity and the
+  Theory of Gravitation}.
+\newblock {\em Phys. Z.}, 15:176--180, 1914.
+
+\bibitem{PhysRev.21.483}
+Arthur~H. Compton.
+\newblock A quantum theory of the scattering of x-rays by light elements.
+\newblock {\em Phys. Rev.}, 21:483--502, May 1923.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRev.21.483}, \href
+  {http://dx.doi.org/10.1103/PhysRev.21.483}
+  {\path{doi:10.1103/PhysRev.21.483}}.
+
+\bibitem{Einstein:1905cc}
+Albert Einstein.
+\newblock {Concerning an heuristic point of view toward the emission and
+  transformation of light}.
+\newblock {\em Annalen Phys.}, 17:132--148, 1905.
+
+\bibitem{Davisson:1927ta}
+C.~Davisson and L.~H. Germer.
+\newblock {Diffraction of Electrons by a Crystal of Nickel}.
+\newblock {\em Phys. Rev.}, 30:705--740, 1927.
+\newblock \href {http://dx.doi.org/10.1103/PhysRev.30.705}
+  {\path{doi:10.1103/PhysRev.30.705}}.
+
+\bibitem{Shankar}
+R.~Shankar.
+\newblock {\em Principles of Quantum Mechanics}.
+\newblock Plenum Press, New York, 2 edition, 1994.
+
+\bibitem{Diracqm}
+P.A.M. Dirac.
+\newblock {\em The Principles of Quantum Mechanics}.
+\newblock Oxford University Press, 4 edition, 1967.
+
+\bibitem{PhysRev.43.491}
+Carl~D. Anderson.
+\newblock The positive electron.
+\newblock {\em Phys. Rev.}, 43:491--494, Mar 1933.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRev.43.491}, \href
+  {http://dx.doi.org/10.1103/PhysRev.43.491}
+  {\path{doi:10.1103/PhysRev.43.491}}.
+
+\bibitem{Dirac243}
+P.~A.~M. Dirac.
+\newblock The quantum theory of the emission and absorption of radiation.
+\newblock {\em Proceedings of the Royal Society of London A: Mathematical,
+  Physical and Engineering Sciences}, 114(767):243--265, 1927.
+\newblock URL:
+  \url{http://rspa.royalsocietypublishing.org/content/114/767/243}, \href
+  {http://arxiv.org/abs/http://rspa.royalsocietypublishing.org/content/114/767/243.full.pdf}
+  {\path{arXiv:http://rspa.royalsocietypublishing.org/content/114/767/243.full.pdf}},
+  \href {http://dx.doi.org/10.1098/rspa.1927.0039}
+  {\path{doi:10.1098/rspa.1927.0039}}.
+
+\bibitem{Bettini}
+Alessandro Bettini.
+\newblock {\em Introduction to Elementary Particle Physics}.
+\newblock Cambridge University Press, 2 edition, 2014.
+
+\bibitem{PhysRev.105.1413}
+C.~S. Wu, E.~Ambler, R.~W. Hayward, D.~D. Hoppes, and R.~P. Hudson.
+\newblock Experimental test of parity conservation in beta decay.
+\newblock {\em Phys. Rev.}, 105:1413--1415, Feb 1957.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRev.105.1413}, \href
+  {http://dx.doi.org/10.1103/PhysRev.105.1413}
+  {\path{doi:10.1103/PhysRev.105.1413}}.
+
+\bibitem{PhysRevLett.13.138}
+J.~H. Christenson, J.~W. Cronin, V.~L. Fitch, and R.~Turlay.
+\newblock Evidence for the $2\ensuremath{\pi}$ decay of the $k_{2}^{0}$ meson.
+\newblock {\em Phys. Rev. Lett.}, 13:138--140, Jul 1964.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.13.138}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.13.138}
+  {\path{doi:10.1103/PhysRevLett.13.138}}.
+
+\bibitem{PhysRev.82.914}
+Julian Schwinger.
+\newblock The theory of quantized fields. i.
+\newblock {\em Phys. Rev.}, 82:914--927, Jun 1951.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRev.82.914}, \href
+  {http://dx.doi.org/10.1103/PhysRev.82.914}
+  {\path{doi:10.1103/PhysRev.82.914}}.
+
+\bibitem{Luders:1954zz}
+Gerhart Luders.
+\newblock {On the Equivalence of Invariance under Time Reversal and under
+  Particle-Antiparticle Conjugation for Relativistic Field Theories}.
+\newblock {\em Kong. Dan. Vid. Sel. Mat. Fys. Med.}, 28N5:1--17, 1954.
+
+\bibitem{PhysRev.50.263}
+Carl~D. Anderson and Seth~H. Neddermeyer.
+\newblock Cloud chamber observations of cosmic rays at 4300 meters elevation
+  and near sea-level.
+\newblock {\em Phys. Rev.}, 50:263--271, Aug 1936.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRev.50.263}, \href
+  {http://dx.doi.org/10.1103/PhysRev.50.263}
+  {\path{doi:10.1103/PhysRev.50.263}}.
+
+\bibitem{Lattes:1947mx}
+C.~M.~G. Lattes, G.~P.~S. Occhialini, and C.~F. Powell.
+\newblock {Observations on the Tracks of Slow Mesons in Photographic Emulsions.
+  1}.
+\newblock {\em Nature}, 160:453--456, 1947.
+\newblock \href {http://dx.doi.org/10.1038/160453a0}
+  {\path{doi:10.1038/160453a0}}.
+
+\bibitem{1956Sci...124..103C}
+C.~L. {Cowan}, Jr., F.~{Reines}, F.~B. {Harrison}, H.~W. {Kruse}, and A.~D.
+  {McGuire}.
+\newblock {Detection of the Free Neutrino: A Confirmation}.
+\newblock {\em Science}, 124:103--104, July 1956.
+\newblock \href {http://dx.doi.org/10.1126/science.124.3212.103}
+  {\path{doi:10.1126/science.124.3212.103}}.
+
+\bibitem{GellMann:1964nj}
+Murray Gell-Mann.
+\newblock {A Schematic Model of Baryons and Mesons}.
+\newblock {\em Phys. Lett.}, 8:214--215, 1964.
+\newblock \href {http://dx.doi.org/10.1016/S0031-9163(64)92001-3}
+  {\path{doi:10.1016/S0031-9163(64)92001-3}}.
+
+\bibitem{PhysRev.73.416}
+Julian Schwinger.
+\newblock On quantum-electrodynamics and the magnetic moment of the electron.
+\newblock {\em Phys. Rev.}, 73:416--417, Feb 1948.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRev.73.416}, \href
+  {http://dx.doi.org/10.1103/PhysRev.73.416}
+  {\path{doi:10.1103/PhysRev.73.416}}.
+
+\bibitem{PhysRev.74.1439}
+Julian Schwinger.
+\newblock Quantum electrodynamics. i. a covariant formulation.
+\newblock {\em Phys. Rev.}, 74:1439--1461, Nov 1948.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRev.74.1439}, \href
+  {http://dx.doi.org/10.1103/PhysRev.74.1439}
+  {\path{doi:10.1103/PhysRev.74.1439}}.
+
+\bibitem{PhysRev.76.749}
+R.~P. Feynman.
+\newblock The theory of positrons.
+\newblock {\em Phys. Rev.}, 76:749--759, Sep 1949.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRev.76.749}, \href
+  {http://dx.doi.org/10.1103/PhysRev.76.749}
+  {\path{doi:10.1103/PhysRev.76.749}}.
+
+\bibitem{PhysRev.76.769}
+R.~P. Feynman.
+\newblock Space-time approach to quantum electrodynamics.
+\newblock {\em Phys. Rev.}, 76:769--789, Sep 1949.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRev.76.769}, \href
+  {http://dx.doi.org/10.1103/PhysRev.76.769}
+  {\path{doi:10.1103/PhysRev.76.769}}.
+
+\bibitem{PhysRev.80.440}
+R.~P. Feynman.
+\newblock Mathematical formulation of the quantum theory of electromagnetic
+  interaction.
+\newblock {\em Phys. Rev.}, 80:440--457, Nov 1950.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRev.80.440}, \href
+  {http://dx.doi.org/10.1103/PhysRev.80.440}
+  {\path{doi:10.1103/PhysRev.80.440}}.
+
+\bibitem{Tomonaga:1946zz}
+S.~Tomonaga.
+\newblock {On a relativistically invariant formulation of the quantum theory of
+  wave fields}.
+\newblock {\em Prog. Theor. Phys.}, 1:27--42, 1946.
+\newblock \href {http://dx.doi.org/10.1143/PTP.1.27}
+  {\path{doi:10.1143/PTP.1.27}}.
+
+\bibitem{PhysRev.75.486}
+F.~J. Dyson.
+\newblock The radiation theories of tomonaga, schwinger, and feynman.
+\newblock {\em Phys. Rev.}, 75:486--502, Feb 1949.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRev.75.486}, \href
+  {http://dx.doi.org/10.1103/PhysRev.75.486}
+  {\path{doi:10.1103/PhysRev.75.486}}.
+
+\bibitem{PhysRev.75.1736}
+F.~J. Dyson.
+\newblock The $s$ matrix in quantum electrodynamics.
+\newblock {\em Phys. Rev.}, 75:1736--1755, Jun 1949.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRev.75.1736}, \href
+  {http://dx.doi.org/10.1103/PhysRev.75.1736}
+  {\path{doi:10.1103/PhysRev.75.1736}}.
+
+\bibitem{Zweig:1981pd}
+G.~Zweig.
+\newblock {An SU(3) model for strong interaction symmetry and its breaking.
+  Version 1}.
+\newblock 1964.
+
+\bibitem{Zweig:1964jf}
+G.~Zweig.
+\newblock {An SU(3) model for strong interaction symmetry and its breaking.
+  Version 2}.
+\newblock In D.B. Lichtenberg and Simon~Peter Rosen, editors, {\em DEVELOPMENTS
+  IN THE QUARK THEORY OF HADRONS. VOL. 1. 1964 - 1978}, pages 22--101. 1964.
+\newblock URL: \url{https://inspirehep.net/record/4674/files/cern-th-412.pdf}.
+
+\bibitem{PhysRevLett.30.1346}
+H.~David Politzer.
+\newblock Reliable perturbative results for strong interactions?
+\newblock {\em Phys. Rev. Lett.}, 30:1346--1349, Jun 1973.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.30.1346}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.30.1346}
+  {\path{doi:10.1103/PhysRevLett.30.1346}}.
+
+\bibitem{PhysRevD.8.3633}
+David~J. Gross and Frank Wilczek.
+\newblock Asymptotically free gauge theories. i.
+\newblock {\em Phys. Rev. D}, 8:3633--3652, Nov 1973.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevD.8.3633}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.8.3633}
+  {\path{doi:10.1103/PhysRevD.8.3633}}.
+
+\bibitem{Fermi:1933jpa}
+Enrico Fermi.
+\newblock {Tentativo di una teoria dell'emissione dei raggi beta}.
+\newblock {\em Ric. Sci.}, 4:491--495, 1933.
+
+\bibitem{PhysRevLett.33.1406}
+J.~E. Augustin, A.~M. Boyarski, M.~Breidenbach, F.~Bulos, J.~T. Dakin, G.~J.
+  Feldman, G.~E. Fischer, D.~Fryberger, G.~Hanson, B.~Jean-Marie, R.~R. Larsen,
+  V.~L\"uth, H.~L. Lynch, D.~Lyon, C.~C. Morehouse, J.~M. Paterson, M.~L. Perl,
+  B.~Richter, P.~Rapidis, R.~F. Schwitters, W.~M. Tanenbaum, F.~Vannucci, G.~S.
+  Abrams, D.~Briggs, W.~Chinowsky, C.~E. Friedberg, G.~Goldhaber, R.~J.
+  Hollebeek, J.~A. Kadyk, B.~Lulu, F.~Pierre, G.~H. Trilling, J.~S. Whitaker,
+  J.~Wiss, and J.~E. Zipse.
+\newblock Discovery of a narrow resonance in ${e}^{+}{e}^{-}$ annihilation.
+\newblock {\em Phys. Rev. Lett.}, 33:1406--1408, Dec 1974.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.33.1406}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.33.1406}
+  {\path{doi:10.1103/PhysRevLett.33.1406}}.
+
+\bibitem{PhysRevLett.33.1404}
+J.~J. Aubert, U.~Becker, P.~J. Biggs, J.~Burger, M.~Chen, G.~Everhart,
+  P.~Goldhagen, J.~Leong, T.~McCorriston, T.~G. Rhoades, M.~Rohde, Samuel C.~C.
+  Ting, Sau~Lan Wu, and Y.~Y. Lee.
+\newblock Experimental observation of a heavy particle $j$.
+\newblock {\em Phys. Rev. Lett.}, 33:1404--1406, Dec 1974.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.33.1404}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.33.1404}
+  {\path{doi:10.1103/PhysRevLett.33.1404}}.
+
+\bibitem{PhysRevLett.39.252}
+S.~W. Herb, D.~C. Hom, L.~M. Lederman, J.~C. Sens, H.~D. Snyder, J.~K. Yoh,
+  J.~A. Appel, B.~C. Brown, C.~N. Brown, W.~R. Innes, K.~Ueno, T.~Yamanouchi,
+  A.~S. Ito, H.~J\"ostlein, D.~M. Kaplan, and R.~D. Kephart.
+\newblock Observation of a dimuon resonance at 9.5 gev in 400-gev
+  proton-nucleus collisions.
+\newblock {\em Phys. Rev. Lett.}, 39:252--255, Aug 1977.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.39.252}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.39.252}
+  {\path{doi:10.1103/PhysRevLett.39.252}}.
+
+\bibitem{Barnes:1964pd}
+V.~E. Barnes et~al.
+\newblock {Observation of a Hyperon with Strangeness -3}.
+\newblock {\em Phys. Rev. Lett.}, 12:204--206, 1964.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.12.204}
+  {\path{doi:10.1103/PhysRevLett.12.204}}.
+
+\bibitem{Glashow:1961tr}
+S.~L. Glashow.
+\newblock {Partial Symmetries of Weak Interactions}.
+\newblock {\em Nucl. Phys.}, 22:579--588, 1961.
+\newblock \href {http://dx.doi.org/10.1016/0029-5582(61)90469-2}
+  {\path{doi:10.1016/0029-5582(61)90469-2}}.
+
+\bibitem{PhysRevLett.19.1264}
+Steven Weinberg.
+\newblock A model of leptons.
+\newblock {\em Phys. Rev. Lett.}, 19:1264--1266, Nov 1967.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.19.1264}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.19.1264}
+  {\path{doi:10.1103/PhysRevLett.19.1264}}.
+
+\bibitem{Weyl:1927vd}
+H.~Weyl.
+\newblock {Quantum mechanics and group theory}.
+\newblock {\em Z. Phys.}, 46:1, 1927.
+\newblock \href {http://dx.doi.org/10.1007/BF02055756}
+  {\path{doi:10.1007/BF02055756}}.
+
+\bibitem{peskinschroeder}
+Daniel V.~Schroeder Michael E.~Peskin.
+\newblock {\em An Introduction to Quantum Field Theory}.
+\newblock Addison-Wesley Publishing Company, 1 edition, 1995.
+
+\bibitem{PhysRevLett.13.321}
+F.~Englert and R.~Brout.
+\newblock Broken symmetry and the mass of gauge vector mesons.
+\newblock {\em Phys. Rev. Lett.}, 13:321--323, Aug 1964.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.13.321}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.13.321}
+  {\path{doi:10.1103/PhysRevLett.13.321}}.
+
+\bibitem{Higgs:1964ia}
+Peter~W. Higgs.
+\newblock {Broken symmetries, massless particles and gauge fields}.
+\newblock {\em Phys. Lett.}, 12:132--133, 1964.
+\newblock \href {http://dx.doi.org/10.1016/0031-9163(64)91136-9}
+  {\path{doi:10.1016/0031-9163(64)91136-9}}.
+
+\bibitem{PhysRevLett.13.508}
+Peter~W. Higgs.
+\newblock Broken symmetries and the masses of gauge bosons.
+\newblock {\em Phys. Rev. Lett.}, 13:508--509, Oct 1964.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.13.508}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.13.508}
+  {\path{doi:10.1103/PhysRevLett.13.508}}.
+
+\bibitem{PhysRevLett.13.585}
+G.~S. Guralnik, C.~R. Hagen, and T.~W.~B. Kibble.
+\newblock Global conservation laws and massless particles.
+\newblock {\em Phys. Rev. Lett.}, 13:585--587, Nov 1964.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.13.585}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.13.585}
+  {\path{doi:10.1103/PhysRevLett.13.585}}.
+
+\bibitem{PhysRev.145.1156}
+Peter~W. Higgs.
+\newblock Spontaneous symmetry breakdown without massless bosons.
+\newblock {\em Phys. Rev.}, 145:1156--1163, May 1966.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRev.145.1156}, \href
+  {http://dx.doi.org/10.1103/PhysRev.145.1156}
+  {\path{doi:10.1103/PhysRev.145.1156}}.
+
+\bibitem{Kibble:1967sv}
+T.~W.~B. Kibble.
+\newblock {Symmetry breaking in nonAbelian gauge theories}.
+\newblock {\em Phys. Rev.}, 155:1554--1561, 1967.
+\newblock \href {http://dx.doi.org/10.1103/PhysRev.155.1554}
+  {\path{doi:10.1103/PhysRev.155.1554}}.
+
+\bibitem{Griffithsqm}
+David Griffiths.
+\newblock {\em Introduction to Elementary Particles}.
+\newblock John Wiley and Sons, INC., 1 edition, 1987.
+
+\bibitem{Chatrchyan:2012xdj}
+Serguei Chatrchyan et~al.
+\newblock {Observation of a new boson at a mass of 125 GeV with the CMS
+  experiment at the LHC}.
+\newblock {\em Phys. Lett.}, B716:30--61, 2012.
+\newblock \href {http://arxiv.org/abs/1207.7235} {\path{arXiv:1207.7235}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2012.08.021}
+  {\path{doi:10.1016/j.physletb.2012.08.021}}.
+
+\bibitem{Aad:2012tfa}
+Georges Aad et~al.
+\newblock {Observation of a new particle in the search for the Standard Model
+  Higgs boson with the ATLAS detector at the LHC}.
+\newblock {\em Phys. Lett.}, B716:1--29, 2012.
+\newblock \href {http://arxiv.org/abs/1207.7214} {\path{arXiv:1207.7214}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2012.08.020}
+  {\path{doi:10.1016/j.physletb.2012.08.020}}.
+
+\bibitem{CMS:HZZ}
+2012.
+\newblock URL:
+  \url{https://twiki.cern.ch/twiki/bin/view/CMSPublic/Hig12041TWiki}.
+
+\bibitem{Kapteyn:1922zz}
+J.~C. Kapteyn.
+\newblock {First Attempt at a Theory of the Arrangement and Motion of the
+  Sidereal System}.
+\newblock {\em Astrophys. J.}, 55:302--328, 1922.
+\newblock \href {http://dx.doi.org/10.1086/142670} {\path{doi:10.1086/142670}}.
+
+\bibitem{Zwicky:1937zza}
+F.~Zwicky.
+\newblock {On the Masses of Nebulae and of Clusters of Nebulae}.
+\newblock {\em Astrophys. J.}, 86:217--246, 1937.
+\newblock \href {http://dx.doi.org/10.1086/143864} {\path{doi:10.1086/143864}}.
+
+\bibitem{Rubin:1970zza}
+Vera~C. Rubin and W.~Kent Ford, Jr.
+\newblock {Rotation of the Andromeda Nebula from a Spectroscopic Survey of
+  Emission Regions}.
+\newblock {\em Astrophys. J.}, 159:379--403, 1970.
+\newblock \href {http://dx.doi.org/10.1086/150317} {\path{doi:10.1086/150317}}.
+
+\bibitem{Rubin:1980zd}
+V.~C. Rubin, N.~Thonnard, and W.~K. Ford, Jr.
+\newblock {Rotational properties of 21 SC galaxies with a large range of
+  luminosities and radii, from NGC 4605 /R = 4kpc/ to UGC 2885 /R = 122 kpc/}.
+\newblock {\em Astrophys. J.}, 238:471, 1980.
+\newblock \href {http://dx.doi.org/10.1086/158003} {\path{doi:10.1086/158003}}.
+
+\bibitem{Agashe:2014kda}
+K.~A. Olive et~al.
+\newblock {Review of Particle Physics}.
+\newblock {\em Chin. Phys.}, C38:090001, 2014.
+\newblock \href {http://dx.doi.org/10.1088/1674-1137/38/9/090001}
+  {\path{doi:10.1088/1674-1137/38/9/090001}}.
+
+\bibitem{Clowe:2003tk}
+Douglas Clowe, Anthony Gonzalez, and Maxim Markevitch.
+\newblock {Weak lensing mass reconstruction of the interacting cluster
+  1E0657-558: Direct evidence for the existence of dark matter}.
+\newblock {\em Astrophys. J.}, 604:596--603, 2004.
+\newblock \href {http://arxiv.org/abs/astro-ph/0312273}
+  {\path{arXiv:astro-ph/0312273}}, \href {http://dx.doi.org/10.1086/381970}
+  {\path{doi:10.1086/381970}}.
+
+\bibitem{Koopmans:2002qh}
+L.~V.~E. Koopmans and T.~Treu.
+\newblock {The structure and dynamics of luminous and dark matter in the
+  early-type lens galaxy of 0047-281 at z=0.485}.
+\newblock {\em Astrophys. J.}, 583:606--615, 2003.
+\newblock \href {http://arxiv.org/abs/astro-ph/0205281}
+  {\path{arXiv:astro-ph/0205281}}, \href {http://dx.doi.org/10.1086/345423}
+  {\path{doi:10.1086/345423}}.
+
+\bibitem{Hoekstra:2002nf}
+Henk Hoekstra, Howard Yee, and Mike Gladders.
+\newblock {Current status of weak gravitational lensing}.
+\newblock {\em New Astron. Rev.}, 46:767--781, 2002.
+\newblock \href {http://arxiv.org/abs/astro-ph/0205205}
+  {\path{arXiv:astro-ph/0205205}}, \href
+  {http://dx.doi.org/10.1016/S1387-6473(02)00245-2}
+  {\path{doi:10.1016/S1387-6473(02)00245-2}}.
+
+\bibitem{Hu:2001bc}
+Wayne Hu and Scott Dodelson.
+\newblock {Cosmic microwave background anisotropies}.
+\newblock {\em Ann. Rev. Astron. Astrophys.}, 40:171--216, 2002.
+\newblock \href {http://arxiv.org/abs/astro-ph/0110414}
+  {\path{arXiv:astro-ph/0110414}}, \href
+  {http://dx.doi.org/10.1146/annurev.astro.40.060401.093926}
+  {\path{doi:10.1146/annurev.astro.40.060401.093926}}.
+
+\bibitem{Hu:1996qs}
+Wayne Hu, Naoshi Sugiyama, and Joseph Silk.
+\newblock {The Physics of microwave background anisotropies}.
+\newblock {\em Nature}, 386:37--43, 1997.
+\newblock \href {http://arxiv.org/abs/astro-ph/9604166}
+  {\path{arXiv:astro-ph/9604166}}, \href {http://dx.doi.org/10.1038/386037a0}
+  {\path{doi:10.1038/386037a0}}.
+
+\bibitem{Bertone:2004pz}
+Gianfranco Bertone, Dan Hooper, and Joseph Silk.
+\newblock {Particle dark matter: Evidence, candidates and constraints}.
+\newblock {\em Phys. Rept.}, 405:279--390, 2005.
+\newblock \href {http://arxiv.org/abs/hep-ph/0404175}
+  {\path{arXiv:hep-ph/0404175}}, \href
+  {http://dx.doi.org/10.1016/j.physrep.2004.08.031}
+  {\path{doi:10.1016/j.physrep.2004.08.031}}.
+
+\bibitem{Bergstrom:2000pn}
+Lars Bergström.
+\newblock {Nonbaryonic dark matter: Observational evidence and detection
+  methods}.
+\newblock {\em Rept. Prog. Phys.}, 63:793, 2000.
+\newblock \href {http://arxiv.org/abs/hep-ph/0002126}
+  {\path{arXiv:hep-ph/0002126}}, \href
+  {http://dx.doi.org/10.1088/0034-4885/63/5/2r3}
+  {\path{doi:10.1088/0034-4885/63/5/2r3}}.
+
+\bibitem{Tisserand:2006zx}
+P.~Tisserand et~al.
+\newblock {Limits on the Macho Content of the Galactic Halo from the EROS-2
+  Survey of the Magellanic Clouds}.
+\newblock {\em Astron. Astrophys.}, 469:387--404, 2007.
+\newblock \href {http://arxiv.org/abs/astro-ph/0607207}
+  {\path{arXiv:astro-ph/0607207}}, \href
+  {http://dx.doi.org/10.1051/0004-6361:20066017}
+  {\path{doi:10.1051/0004-6361:20066017}}.
+
+\bibitem{Wyrzykowski:2011tr}
+L.~Wyrzykowski et~al.
+\newblock {The OGLE View of Microlensing towards the Magellanic Clouds. IV.
+  OGLE-III SMC Data and Final Conclusions on MACHOs}.
+\newblock {\em Mon. Not. Roy. Astron. Soc.}, 416:2949, 2011.
+\newblock \href {http://arxiv.org/abs/1106.2925} {\path{arXiv:1106.2925}},
+  \href {http://dx.doi.org/10.1111/j.1365-2966.2011.19243.x}
+  {\path{doi:10.1111/j.1365-2966.2011.19243.x}}.
+
+\bibitem{Copi:1994ev}
+Craig~J. Copi, David~N. Schramm, and Michael~S. Turner.
+\newblock {Big bang nucleosynthesis and the baryon density of the universe}.
+\newblock {\em Science}, 267:192--199, 1995.
+\newblock \href {http://arxiv.org/abs/astro-ph/9407006}
+  {\path{arXiv:astro-ph/9407006}}, \href
+  {http://dx.doi.org/10.1126/science.7809624}
+  {\path{doi:10.1126/science.7809624}}.
+
+\bibitem{Dodelson:1993je}
+Scott Dodelson and Lawrence~M. Widrow.
+\newblock {Sterile-neutrinos as dark matter}.
+\newblock {\em Phys. Rev. Lett.}, 72:17--20, 1994.
+\newblock \href {http://arxiv.org/abs/hep-ph/9303287}
+  {\path{arXiv:hep-ph/9303287}}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.72.17}
+  {\path{doi:10.1103/PhysRevLett.72.17}}.
+
+\bibitem{Rosenberg:2000wb}
+L.~J. Rosenberg and K.~A. van Bibber.
+\newblock {Searches for invisible axions}.
+\newblock {\em Phys. Rept.}, 325:1--39, 2000.
+\newblock \href {http://dx.doi.org/10.1016/S0370-1573(99)00045-9}
+  {\path{doi:10.1016/S0370-1573(99)00045-9}}.
+
+\bibitem{BirkedalHansen:2003mpa}
+Andreas Birkedal-Hansen and Jay~G. Wacker.
+\newblock {Scalar dark matter from theory space}.
+\newblock {\em Phys. Rev.}, D69:065022, 2004.
+\newblock \href {http://arxiv.org/abs/hep-ph/0306161}
+  {\path{arXiv:hep-ph/0306161}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.69.065022}
+  {\path{doi:10.1103/PhysRevD.69.065022}}.
+
+\bibitem{Cheng:2003ju}
+Hsin-Chia Cheng and Ian Low.
+\newblock {TeV symmetry and the little hierarchy problem}.
+\newblock {\em JHEP}, 09:051, 2003.
+\newblock \href {http://arxiv.org/abs/hep-ph/0308199}
+  {\path{arXiv:hep-ph/0308199}}, \href
+  {http://dx.doi.org/10.1088/1126-6708/2003/09/051}
+  {\path{doi:10.1088/1126-6708/2003/09/051}}.
+
+\bibitem{Jungman:1995df}
+Gerard Jungman, Marc Kamionkowski, and Kim Griest.
+\newblock {Supersymmetric dark matter}.
+\newblock {\em Phys. Rept.}, 267:195--373, 1996.
+\newblock \href {http://arxiv.org/abs/hep-ph/9506380}
+  {\path{arXiv:hep-ph/9506380}}, \href
+  {http://dx.doi.org/10.1016/0370-1573(95)00058-5}
+  {\path{doi:10.1016/0370-1573(95)00058-5}}.
+
+\bibitem{Kolb:1983fm}
+Edward~W. Kolb and Richard Slansky.
+\newblock {Dimensional Reduction in the Early Universe: Where Have the Massive
+  Particles Gone?}
+\newblock {\em Phys. Lett.}, B135:378, 1984.
+\newblock \href {http://dx.doi.org/10.1016/0370-2693(84)90298-3}
+  {\path{doi:10.1016/0370-2693(84)90298-3}}.
+
+\bibitem{ArkaniHamed:1998rs}
+Nima Arkani-Hamed, Savas Dimopoulos, and G.~R. Dvali.
+\newblock {The Hierarchy problem and new dimensions at a millimeter}.
+\newblock {\em Phys. Lett.}, B429:263--272, 1998.
+\newblock \href {http://arxiv.org/abs/hep-ph/9803315}
+  {\path{arXiv:hep-ph/9803315}}, \href
+  {http://dx.doi.org/10.1016/S0370-2693(98)00466-3}
+  {\path{doi:10.1016/S0370-2693(98)00466-3}}.
+
+\bibitem{Randall:1999ee}
+Lisa Randall and Raman Sundrum.
+\newblock {A Large mass hierarchy from a small extra dimension}.
+\newblock {\em Phys. Rev. Lett.}, 83:3370--3373, 1999.
+\newblock \href {http://arxiv.org/abs/hep-ph/9905221}
+  {\path{arXiv:hep-ph/9905221}}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.83.3370}
+  {\path{doi:10.1103/PhysRevLett.83.3370}}.
+
+\bibitem{Appelquist:2000nn}
+Thomas Appelquist, Hsin-Chia Cheng, and Bogdan~A. Dobrescu.
+\newblock {Bounds on universal extra dimensions}.
+\newblock {\em Phys. Rev.}, D64:035002, 2001.
+\newblock \href {http://arxiv.org/abs/hep-ph/0012100}
+  {\path{arXiv:hep-ph/0012100}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.64.035002}
+  {\path{doi:10.1103/PhysRevD.64.035002}}.
+
+\bibitem{Cheng:2002iz}
+Hsin-Chia Cheng, Konstantin~T. Matchev, and Martin Schmaltz.
+\newblock {Radiative corrections to Kaluza-Klein masses}.
+\newblock {\em Phys. Rev.}, D66:036005, 2002.
+\newblock \href {http://arxiv.org/abs/hep-ph/0204342}
+  {\path{arXiv:hep-ph/0204342}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.66.036005}
+  {\path{doi:10.1103/PhysRevD.66.036005}}.
+
+\bibitem{PhysRevLett.110.131302}
+M.~G. Aartsen, R.~Abbasi, Y.~Abdou, M.~Ackermann, J.~Adams, J.~A. Aguilar,
+  M.~Ahlers, D.~Altmann, J.~Auffenberg, X.~Bai, M.~Baker, S.~W. Barwick,
+  V.~Baum, R.~Bay, K.~Beattie, J.~J. Beatty, S.~Bechet, J.~Becker~Tjus, K.-H.
+  Becker, M.~Bell, M.~L. Benabderrahmane, S.~BenZvi, J.~Berdermann,
+  P.~Berghaus, D.~Berley, E.~Bernardini, A.~Bernhard, D.~Bertrand, D.~Z.
+  Besson, D.~Bindig, M.~Bissok, E.~Blaufuss, J.~Blumenthal, D.~J. Boersma,
+  S.~Bohaichuk, C.~Bohm, D.~Bose, S.~B\"oser, O.~Botner, L.~Brayeur, A.~M.
+  Brown, R.~Bruijn, J.~Brunner, S.~Buitink, M.~Carson, J.~Casey, M.~Casier,
+  D.~Chirkin, B.~Christy, K.~Clark, F.~Clevermann, S.~Cohen, D.~F. Cowen, A.~H.
+  Cruz~Silva, M.~Danninger, J.~Daughhetee, J.~C. Davis, C.~De~Clercq,
+  S.~De~Ridder, P.~Desiati, G.~de~Vries-Uiterweerd, M.~de~With, T.~DeYoung,
+  J.~C. D\'{\i}az-V\'elez, J.~Dreyer, M.~Dunkman, R.~Eagan, B.~Eberhardt,
+  J.~Eisch, R.~W. Ellsworth, O.~Engdeg\aa{}rd, S.~Euler, P.~A. Evenson,
+  O.~Fadiran, A.~R. Fazely, A.~Fedynitch, J.~Feintzeig, T.~Feusels,
+  K.~Filimonov, C.~Finley, T.~Fischer-Wasels, S.~Flis, A.~Franckowiak,
+  R.~Franke, K.~Frantzen, T.~Fuchs, T.~K. Gaisser, J.~Gallagher, L.~Gerhardt,
+  L.~Gladstone, T.~Gl\"usenkamp, A.~Goldschmidt, G.~Golup, J.~A. Goodman,
+  D.~G\'ora, D.~Grant, A.~Gro\ss{}, M.~Gurtner, C.~Ha, A.~Haj~Ismail,
+  A.~Hallgren, F.~Halzen, K.~Hanson, D.~Heereman, P.~Heimann, D.~Heinen,
+  K.~Helbing, R.~Hellauer, S.~Hickford, G.~C. Hill, K.~D. Hoffman, R.~Hoffmann,
+  A.~Homeier, K.~Hoshina, W.~Huelsnitz, P.~O. Hulth, K.~Hultqvist, S.~Hussain,
+  A.~Ishihara, E.~Jacobi, J.~Jacobsen, G.~S. Japaridze, K.~Jero, O.~Jlelati,
+  B.~Kaminsky, A.~Kappes, T.~Karg, A.~Karle, J.~L. Kelley, J.~Kiryluk,
+  F.~Kislat, J.~Kl\"as, S.~R. Klein, J.-H. K\"ohne, G.~Kohnen, H.~Kolanoski,
+  L.~K\"opke, C.~Kopper, S.~Kopper, D.~J. Koskinen, M.~Kowalski, M.~Krasberg,
+  G.~Kroll, J.~Kunnen, N.~Kurahashi, T.~Kuwabara, M.~Labare, H.~Landsman, M.~J.
+  Larson, M.~Lesiak-Bzdak, J.~Leute, J.~L\"unemann, J.~Madsen, R.~Maruyama,
+  K.~Mase, H.~S. Matis, F.~McNally, K.~Meagher, M.~Merck, P.~M\'esz\'aros,
+  T.~Meures, S.~Miarecki, E.~Middell, N.~Milke, J.~Miller, L.~Mohrmann,
+  T.~Montaruli, R.~Morse, R.~Nahnhauer, U.~Naumann, H.~Niederhausen, S.~C.
+  Nowicki, D.~R. Nygren, A.~Obertacke, S.~Odrowski, A.~Olivas, M.~Olivo,
+  A.~O'Murchadha, L.~Paul, J.~A. Pepper, C.~P\'erez de~los Heros, C.~Pfendner,
+  D.~Pieloth, N.~Pirk, J.~Posselt, P.~B. Price, G.~T. Przybylski, L.~R\"adel,
+  K.~Rawlins, P.~Redl, E.~Resconi, W.~Rhode, M.~Ribordy, M.~Richman, B.~Riedel,
+  J.~P. Rodrigues, C.~Rott, T.~Ruhe, B.~Ruzybayev, D.~Ryckbosch, S.~M. Saba,
+  T.~Salameh, H.-G. Sander, M.~Santander, S.~Sarkar, K.~Schatto, M.~Scheel,
+  F.~Scheriau, T.~Schmidt, M.~Schmitz, S.~Schoenen, S.~Sch\"oneberg,
+  L.~Sch\"onherr, A.~Sch\"onwald, A.~Schukraft, L.~Schulte, O.~Schulz,
+  D.~Seckel, S.~H. Seo, Y.~Sestayo, S.~Seunarine, C.~Sheremata, M.~W.~E. Smith,
+  M.~Soiron, D.~Soldin, G.~M. Spiczak, C.~Spiering, M.~Stamatikos, T.~Stanev,
+  A.~Stasik, T.~Stezelberger, R.~G. Stokstad, A.~St\"o\ss{}l, E.~A. Strahler,
+  R.~Str\"om, G.~W. Sullivan, H.~Taavola, I.~Taboada, A.~Tamburro,
+  S.~Ter-Antonyan, S.~Tilav, P.~A. Toale, S.~Toscano, M.~Usner, D.~van~der
+  Drift, N.~van Eijndhoven, A.~Van~Overloop, J.~van Santen, M.~Vehring,
+  M.~Voge, M.~Vraeghe, C.~Walck, T.~Waldenmaier, M.~Wallraff, R.~Wasserman, Ch.
+  Weaver, M.~Wellons, C.~Wendt, S.~Westerhoff, N.~Whitehorn, K.~Wiebe, C.~H.
+  Wiebusch, D.~R. Williams, H.~Wissing, M.~Wolf, T.~R. Wood, K.~Woschnagg,
+  C.~Xu, D.~L. Xu, X.~W. Xu, J.~P. Yanez, G.~Yodh, S.~Yoshida, P.~Zarzhitsky,
+  J.~Ziemann, S.~Zierke, A.~Zilles, and M.~Zoll.
+\newblock Search for dark matter annihilations in the sun with the 79-string
+  icecube detector.
+\newblock {\em Phys. Rev. Lett.}, 110:131302, Mar 2013.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.110.131302},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.110.131302}
+  {\path{doi:10.1103/PhysRevLett.110.131302}}.
+
+\bibitem{0004-637X-742-2-78}
+T.~Tanaka, K.~Abe, Y.~Hayato, T.~Iida, J.~Kameda, Y.~Koshio, Y.~Kouzuma,
+  M.~Miura, S.~Moriyama, M.~Nakahata, S.~Nakayama, Y.~Obayashi, H.~Sekiya,
+  M.~Shiozawa, Y.~Suzuki, A.~Takeda, Y.~Takenaga, K.~Ueno, K.~Ueshima,
+  S.~Yamada, T.~Yokozawa, C.~Ishihara, S.~Hazama, H.~Kaji, T.~Kajita,
+  K.~Kaneyuki, T.~McLachlan, K.~Okumura, Y.~Shimizu, N.~Tanimoto, F.~Dufour,
+  E.~Kearns, M.~Litos, J.~L. Raaf, J.~L. Stone, L.~R. Sulak, J.~P. Cravens,
+  K.~Bays, W.~R. Kropp, S.~Mine, C.~Regis, M.~B. Smy, H.~W. Sobel, K.~S.
+  Ganezer, J.~Hill, W.~E. Keig, J.~S. Jang, J.~Y. Kim, I.~T. Lim, J.~B. Albert,
+  K.~Scholberg, C.~W. Walter, R.~Wendell, T.~Wongjirad, T.~Ishizuka, S.~Tasaka,
+  J.~G. Learned, S.~Matsuno, S.~Smith, K.~Martens, M.~Vagins, Y.~Watanabe,
+  T.~Hasegawa, T.~Ishida, T.~Ishii, T.~Kobayashi, T.~Nakadaira, K.~Nakamura,
+  K.~Nishikawa, H.~Nishino, Y.~Oyama, K.~Sakashita, T.~Sekiguchi, T.~Tsukamoto,
+  A.~T. Suzuki, Y.~Takeuchi, M.~Ikeda, A.~Minamino, T.~Nakaya, L.~Labarga,
+  Y.~Fukuda, Y.~Itow, G.~Mitsuka, C.~K. Jung, C.~McGrew, G.~Lopez,
+  C.~Yanagisawa, N.~Tamura, H.~Ishino, A.~Kibayashi, M.~Sakuda, Y.~Kuno,
+  M.~Yoshida, S.~B. Kim, B.~S. Yang, H.~Okazawa, Y.~Choi, K.~Nishijima,
+  Y.~Yokosawa, M.~Koshiba, Y.~Totsuka, M.~Yokoyama, S.~Chen, Y.~Heng, Z.~Yang,
+  H.~Zhang, D.~Kielczewska, P.~Mijakowski, K.~Connolly, M.~Dziomba, E.~Thrane,
+  R.~J. Wilkes, and (The Super-Kamiokande Collaboration).
+\newblock An indirect search for weakly interacting massive particles in the
+  sun using 3109.6 days of upward-going muons in super-kamiokande.
+\newblock {\em The Astrophysical Journal}, 742(2):78, 2011.
+\newblock URL: \url{http://stacks.iop.org/0004-637X/742/i=2/a=78}.
+
+\bibitem{Ackermann:2013uma}
+M.~Ackermann et~al.
+\newblock {Search for gamma-ray spectral lines with the Fermi large area
+  telescope and dark matter implications}.
+\newblock {\em Phys. Rev.}, D88:082002, 2013.
+\newblock \href {http://arxiv.org/abs/1305.5597} {\path{arXiv:1305.5597}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.88.082002}
+  {\path{doi:10.1103/PhysRevD.88.082002}}.
+
+\bibitem{Akerib:2016lao}
+D.~S. Akerib et~al.
+\newblock {Results on the Spin-Dependent Scattering of Weakly Interacting
+  Massive Particles on Nucleons from the Run 3 Data of the LUX Experiment}.
+\newblock {\em Phys. Rev. Lett.}, 116(16):161302, 2016.
+\newblock \href {http://arxiv.org/abs/1602.03489} {\path{arXiv:1602.03489}},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.116.161302}
+  {\path{doi:10.1103/PhysRevLett.116.161302}}.
+
+\bibitem{Askew:2014kqa}
+Andrew Askew, Sushil Chauhan, Bjorn Penning, William Shepherd, and Mani
+  Tripathi.
+\newblock {Searching for Dark Matter at Hadron Colliders}.
+\newblock {\em Int. J. Mod. Phys.}, A29:1430041, 2014.
+\newblock \href {http://arxiv.org/abs/1406.5662} {\path{arXiv:1406.5662}},
+  \href {http://dx.doi.org/10.1142/S0217751X14300415}
+  {\path{doi:10.1142/S0217751X14300415}}.
+
+\bibitem{Carpenter:2013xra}
+Linda Carpenter, Anthony DiFranzo, Michael Mulhearn, Chase Shimmin, Sean Tulin,
+  and Daniel Whiteson.
+\newblock {Mono-Higgs-boson: A new collider probe of dark matter}.
+\newblock {\em Phys. Rev.}, D89(7):075017, 2014.
+\newblock \href {http://arxiv.org/abs/1312.2592} {\path{arXiv:1312.2592}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.89.075017}
+  {\path{doi:10.1103/PhysRevD.89.075017}}.
+
+\bibitem{Aad:2015zva}
+Georges Aad et~al.
+\newblock {Search for new phenomena in final states with an energetic jet and
+  large missing transverse momentum in pp collisions at $\sqrt{s}=$8 TeV with
+  the ATLAS detector}.
+\newblock {\em Eur. Phys. J.}, C75(7):299, 2015.
+\newblock [Erratum: Eur. Phys. J.C75,no.9,408(2015)].
+\newblock \href {http://arxiv.org/abs/1502.01518} {\path{arXiv:1502.01518}},
+  \href {http://dx.doi.org/10.1140/epjc/s10052-015-3517-3,
+  10.1140/epjc/s10052-015-3639-7} {\path{doi:10.1140/epjc/s10052-015-3517-3,
+  10.1140/epjc/s10052-015-3639-7}}.
+
+\bibitem{Khachatryan:2014rra}
+Vardan Khachatryan et~al.
+\newblock {Search for dark matter, extra dimensions, and unparticles in monojet
+  events in proton–proton collisions at $\sqrt{s} = 8$ TeV}.
+\newblock {\em Eur. Phys. J.}, C75(5):235, 2015.
+\newblock \href {http://arxiv.org/abs/1408.3583} {\path{arXiv:1408.3583}},
+  \href {http://dx.doi.org/10.1140/epjc/s10052-015-3451-4}
+  {\path{doi:10.1140/epjc/s10052-015-3451-4}}.
+
+\bibitem{Aad:2014vea}
+Georges Aad et~al.
+\newblock {Search for dark matter in events with heavy quarks and missing
+  transverse momentum in $pp$ collisions with the ATLAS detector}.
+\newblock {\em Eur. Phys. J.}, C75(2):92, 2015.
+\newblock \href {http://arxiv.org/abs/1410.4031} {\path{arXiv:1410.4031}},
+  \href {http://dx.doi.org/10.1140/epjc/s10052-015-3306-z}
+  {\path{doi:10.1140/epjc/s10052-015-3306-z}}.
+
+\bibitem{Khachatryan:2014uma}
+Vardan Khachatryan et~al.
+\newblock {Search for Monotop Signatures in Proton-Proton Collisions at $\sqrt
+  s =$ 8 TeV}.
+\newblock {\em Phys. Rev. Lett.}, 114(10):101801, 2015.
+\newblock \href {http://arxiv.org/abs/1410.1149} {\path{arXiv:1410.1149}},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.114.101801}
+  {\path{doi:10.1103/PhysRevLett.114.101801}}.
+
+\bibitem{Khachatryan:2015nua}
+Vardan Khachatryan et~al.
+\newblock {Search for the production of dark matter in association with
+  top-quark pairs in the single-lepton final state in proton-proton collisions
+  at sqrt(s) = 8 TeV}.
+\newblock {\em JHEP}, 06:121, 2015.
+\newblock \href {http://arxiv.org/abs/1504.03198} {\path{arXiv:1504.03198}},
+  \href {http://dx.doi.org/10.1007/JHEP06(2015)121}
+  {\path{doi:10.1007/JHEP06(2015)121}}.
+
+\bibitem{Aad:2014tda}
+Georges Aad et~al.
+\newblock {Search for new phenomena in events with a photon and missing
+  transverse momentum in $pp$ collisions at $\sqrt{s}=8$ TeV with the ATLAS
+  detector}.
+\newblock {\em Phys. Rev.}, D91(1):012008, 2015.
+\newblock [Erratum: Phys. Rev.D92,no.5,059903(2015)].
+\newblock \href {http://arxiv.org/abs/1411.1559} {\path{arXiv:1411.1559}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.92.059903,
+  10.1103/PhysRevD.91.012008} {\path{doi:10.1103/PhysRevD.92.059903,
+  10.1103/PhysRevD.91.012008}}.
+
+\bibitem{Chatrchyan:2012tea}
+Serguei Chatrchyan et~al.
+\newblock {Search for Dark Matter and Large Extra Dimensions in pp Collisions
+  Yielding a Photon and Missing Transverse Energy}.
+\newblock {\em Phys. Rev. Lett.}, 108:261803, 2012.
+\newblock \href {http://arxiv.org/abs/1204.0821} {\path{arXiv:1204.0821}},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.108.261803}
+  {\path{doi:10.1103/PhysRevLett.108.261803}}.
+
+\bibitem{Khachatryan:2014rwa}
+Vardan Khachatryan et~al.
+\newblock {Search for new phenomena in monophoton final states in proton-proton
+  collisions at $\sqrt s =$ 8 TeV}.
+\newblock {\em Phys. Lett.}, B755:102--124, 2016.
+\newblock \href {http://arxiv.org/abs/1410.8812} {\path{arXiv:1410.8812}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2016.01.057}
+  {\path{doi:10.1016/j.physletb.2016.01.057}}.
+
+\bibitem{Khachatryan:2014tva}
+Vardan Khachatryan et~al.
+\newblock {Search for physics beyond the standard model in final states with a
+  lepton and missing transverse energy in proton-proton collisions at sqrt(s) =
+  8 TeV}.
+\newblock {\em Phys. Rev.}, D91(9):092005, 2015.
+\newblock \href {http://arxiv.org/abs/1408.2745} {\path{arXiv:1408.2745}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.91.092005}
+  {\path{doi:10.1103/PhysRevD.91.092005}}.
+
+\bibitem{ATLAS:2014wra}
+Georges Aad et~al.
+\newblock {Search for new particles in events with one lepton and missing
+  transverse momentum in $pp$ collisions at $\sqrt{s}$ = 8 TeV with the ATLAS
+  detector}.
+\newblock {\em JHEP}, 09:037, 2014.
+\newblock \href {http://arxiv.org/abs/1407.7494} {\path{arXiv:1407.7494}},
+  \href {http://dx.doi.org/10.1007/JHEP09(2014)037}
+  {\path{doi:10.1007/JHEP09(2014)037}}.
+
+\bibitem{Aad:2014vka}
+Georges Aad et~al.
+\newblock {Search for dark matter in events with a Z boson and missing
+  transverse momentum in pp collisions at $\sqrt{s}$=8 TeV with the ATLAS
+  detector}.
+\newblock {\em Phys. Rev.}, D90(1):012004, 2014.
+\newblock \href {http://arxiv.org/abs/1404.0051} {\path{arXiv:1404.0051}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.90.012004}
+  {\path{doi:10.1103/PhysRevD.90.012004}}.
+
+\bibitem{Aad:2013oja}
+Georges Aad et~al.
+\newblock {Search for dark matter in events with a hadronically decaying W or Z
+  boson and missing transverse momentum in $pp$ collisions at $\sqrt{s} =$ 8
+  TeV with the ATLAS detector}.
+\newblock {\em Phys. Rev. Lett.}, 112(4):041802, 2014.
+\newblock \href {http://arxiv.org/abs/1309.4017} {\path{arXiv:1309.4017}},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.112.041802}
+  {\path{doi:10.1103/PhysRevLett.112.041802}}.
+
+\bibitem{Khachatryan:2015bbl}
+Vardan Khachatryan et~al.
+\newblock {Search for dark matter and unparticles produced in association with
+  a Z boson in proton-proton collisions at $\sqrt s=$ 8  TeV}.
+\newblock {\em Phys. Rev.}, D93(5):052011, 2016.
+\newblock \href {http://arxiv.org/abs/1511.09375} {\path{arXiv:1511.09375}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.93.052011}
+  {\path{doi:10.1103/PhysRevD.93.052011}}.
+
+\bibitem{Berlin:2014cfa}
+Asher Berlin, Tongyan Lin, and Lian-Tao Wang.
+\newblock {Mono-Higgs Detection of Dark Matter at the LHC}.
+\newblock {\em JHEP}, 06:078, 2014.
+\newblock \href {http://arxiv.org/abs/1402.7074} {\path{arXiv:1402.7074}},
+  \href {http://dx.doi.org/10.1007/JHEP06(2014)078}
+  {\path{doi:10.1007/JHEP06(2014)078}}.
+
+\bibitem{Abercrombie:2015wmb}
+Daniel Abercrombie et~al.
+\newblock {Dark Matter Benchmark Models for Early LHC Run-2 Searches: Report of
+  the ATLAS/CMS Dark Matter Forum}.
+\newblock 2015.
+\newblock \href {http://arxiv.org/abs/1507.00966} {\path{arXiv:1507.00966}}.
+
+\bibitem{Aad:2015yga}
+Georges Aad et~al.
+\newblock {Search for Dark Matter in Events with Missing Transverse Momentum
+  and a Higgs Boson Decaying to Two Photons in $pp$ Collisions at $\sqrt{s}=8$
+  TeV with the ATLAS Detector}.
+\newblock {\em Phys. Rev. Lett.}, 115(13):131801, 2015.
+\newblock \href {http://arxiv.org/abs/1506.01081} {\path{arXiv:1506.01081}},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.115.131801}
+  {\path{doi:10.1103/PhysRevLett.115.131801}}.
+
+\bibitem{Aad:2015dva}
+Georges Aad et~al.
+\newblock {Search for dark matter produced in association with a Higgs boson
+  decaying to two bottom quarks in $pp$ collisions at $\sqrt{s} = 8$ TeV with
+  the ATLAS detector}.
+\newblock {\em Phys. Rev.}, D93(7):072007, 2016.
+\newblock \href {http://arxiv.org/abs/1510.06218} {\path{arXiv:1510.06218}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.93.072007}
+  {\path{doi:10.1103/PhysRevD.93.072007}}.
+
+\bibitem{Atlas:2016Hbb}
+The~ATLAS collaboration.
+\newblock {Search for Dark Matter in association with a Higgs boson decaying to
+  $b$-quarks in $pp$ collisions at $\sqrt{s} = 13$ TeV with the ATLAS
+  detector}.
+\newblock 2016.
+
+\bibitem{CMS-AN-15-338}
+Search for dark matter produced in association with a higgs boson decaying to a
+  pir of w+w- bosons in pp collisions at 13 tev.
+\newblock CMS Analysis Note 2015/338, 2015.
+
+\bibitem{CMS-AN-15-203}
+Search for dark matter produced in association with a higgs boson decaying to
+  two photons.
+\newblock CMS Analysis Note 2015/203, 2015.
+
+\bibitem{CMS-AN-15-209}
+Search for dark matter candidate in higgs to bb + missing transverse energy
+  (met) (mono-h) final state.
+\newblock CMS Analysis Note 2015/209, 2015.
+
+\bibitem{CMS-AN-15-???}
+tautau.
+\newblock CMS Analysis Note 2015/???, 2015.
+
+\bibitem{Chatrchyan:2013mxa}
+Serguei Chatrchyan et~al.
+\newblock {Measurement of the properties of a Higgs boson in the four-lepton
+  final state}.
+\newblock {\em Phys. Rev.}, D89(9):092007, 2014.
+\newblock \href {http://arxiv.org/abs/1312.5353} {\path{arXiv:1312.5353}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.89.092007}
+  {\path{doi:10.1103/PhysRevD.89.092007}}.
+
+\bibitem{ATLAS:2013nma}
+{Measurements of the properties of the Higgs-like boson in the four lepton
+  decay channel with the ATLAS detector using 25 fb−1 of proton-proton
+  collision data}.
+\newblock 2013.
+
+\bibitem{CMS-AN-15-277}
+Measurement of the properties of the higgs boson in the four-lepton final state
+  at s = 13 tev.
+\newblock CMS Analysis Note 2015/277, 2015.
+
+\bibitem{CMS-PAS-HIG-15-004}
+{CMS Collaboration}.
+\newblock Studies of higgs boson production in the four-lepton final state at
+  $\sqrt{s}$ = 13 tev.
+\newblock CMS Physics Analysis Summary CMS-PAS-HIG-15-004, 2015.
+\newblock URL: \url{http://cdsweb.cern.ch/record/1279362}.
+
+\bibitem{synchtwiki}
+{CMS Collaborations}.
+\newblock H->4l synchronization for 2015.
+\newblock URL:
+  \url{https://twiki.cern.ch/twiki/bin/view/CMS/HiggsZZ4l2015Sync}.
+
+\bibitem{McDonald:1993ex}
+John McDonald.
+\newblock {Gauge singlet scalars as cold dark matter}.
+\newblock {\em Phys. Rev.}, D50:3637--3649, 1994.
+\newblock \href {http://arxiv.org/abs/hep-ph/0702143}
+  {\path{arXiv:hep-ph/0702143}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.50.3637}
+  {\path{doi:10.1103/PhysRevD.50.3637}}.
+
+\bibitem{LopezHonorez:2012kv}
+Laura Lopez-Honorez, Thomas Schwetz, and Jure Zupan.
+\newblock {Higgs portal, fermionic dark matter, and a Standard Model like Higgs
+  at 125 GeV}.
+\newblock {\em Phys. Lett.}, B716:179--185, 2012.
+\newblock \href {http://arxiv.org/abs/1203.2064} {\path{arXiv:1203.2064}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2012.07.017}
+  {\path{doi:10.1016/j.physletb.2012.07.017}}.
+
+\bibitem{Belanger:2013kya}
+G.~Belanger, B.~Dumont, U.~Ellwanger, J.~F. Gunion, and S.~Kraml.
+\newblock {Status of invisible Higgs decays}.
+\newblock {\em Phys. Lett.}, B723:340--347, 2013.
+\newblock \href {http://arxiv.org/abs/1302.5694} {\path{arXiv:1302.5694}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2013.05.024}
+  {\path{doi:10.1016/j.physletb.2013.05.024}}.
+
+\bibitem{PhysRevD.86.010001}
+J.~Beringer, J.~F. Arguin, R.~M. Barnett, K.~Copic, O.~Dahl, D.~E. Groom, C.~J.
+  Lin, J.~Lys, H.~Murayama, C.~G. Wohl, W.~M. Yao, P.~A. Zyla, C.~Amsler,
+  M.~Antonelli, D.~M. Asner, H.~Baer, H.~R. Band, T.~Basaglia, C.~W. Bauer,
+  J.~J. Beatty, V.~I. Belousov, E.~Bergren, G.~Bernardi, W.~Bertl, S.~Bethke,
+  H.~Bichsel, O.~Biebel, E.~Blucher, S.~Blusk, G.~Brooijmans, O.~Buchmueller,
+  R.~N. Cahn, M.~Carena, A.~Ceccucci, D.~Chakraborty, M.~C. Chen, R.~S.
+  Chivukula, G.~Cowan, G.~D'Ambrosio, T.~Damour, D.~de~Florian, A.~de~Gouv\^ea,
+  T.~DeGrand, P.~de~Jong, G.~Dissertori, B.~Dobrescu, M.~Doser, M.~Drees, D.~A.
+  Edwards, S.~Eidelman, J.~Erler, V.~V. Ezhela, W.~Fetscher, B.~D. Fields,
+  B.~Foster, T.~K. Gaisser, L.~Garren, H.~J. Gerber, G.~Gerbier, T.~Gherghetta,
+  S.~Golwala, M.~Goodman, C.~Grab, A.~V. Gritsan, J.~F. Grivaz, M.~Gr\"unewald,
+  A.~Gurtu, T.~Gutsche, H.~E. Haber, K.~Hagiwara, C.~Hagmann, C.~Hanhart,
+  S.~Hashimoto, K.~G. Hayes, M.~Heffner, B.~Heltsley, J.~J. Hern\'andez-Rey,
+  K.~Hikasa, A.~H\"ocker, J.~Holder, A.~Holtkamp, J.~Huston, J.~D. Jackson,
+  K.~F. Johnson, T.~Junk, D.~Karlen, D.~Kirkby, S.~R. Klein, E.~Klempt, R.~V.
+  Kowalewski, F.~Krauss, M.~Kreps, B.~Krusche, Yu.~V. Kuyanov, Y.~Kwon,
+  O.~Lahav, J.~Laiho, P.~Langacker, A.~Liddle, Z.~Ligeti, T.~M. Liss,
+  L.~Littenberg, K.~S. Lugovsky, S.~B. Lugovsky, T.~Mannel, A.~V. Manohar,
+  W.~J. Marciano, A.~D. Martin, A.~Masoni, J.~Matthews, D.~Milstead, R.~Miquel,
+  K.~M\"onig, F.~Moortgat, K.~Nakamura, M.~Narain, P.~Nason, S.~Navas,
+  M.~Neubert, P.~Nevski, Y.~Nir, K.~A. Olive, L.~Pape, J.~Parsons,
+  C.~Patrignani, J.~A. Peacock, S.~T. Petcov, A.~Piepke, A.~Pomarol, G.~Punzi,
+  A.~Quadt, S.~Raby, G.~Raffelt, B.~N. Ratcliff, P.~Richardson, S.~Roesler,
+  S.~Rolli, A.~Romaniouk, L.~J. Rosenberg, J.~L. Rosner, C.~T. Sachrajda,
+  Y.~Sakai, G.~P. Salam, S.~Sarkar, F.~Sauli, O.~Schneider, K.~Scholberg,
+  D.~Scott, W.~G. Seligman, M.~H. Shaevitz, S.~R. Sharpe, M.~Silari,
+  T.~Sj\"ostrand, P.~Skands, J.~G. Smith, G.~F. Smoot, S.~Spanier, H.~Spieler,
+  A.~Stahl, T.~Stanev, S.~L. Stone, T.~Sumiyoshi, M.~J. Syphers, F.~Takahashi,
+  M.~Tanabashi, J.~Terning, M.~Titov, N.~P. Tkachenko, N.~A. T\"ornqvist,
+  D.~Tovey, G.~Valencia, K.~van Bibber, G.~Venanzoni, M.~G. Vincter, P.~Vogel,
+  A.~Vogt, W.~Walkowiak, C.~W. Walter, D.~R. Ward, T.~Watari, G.~Weiglein,
+  E.~J. Weinberg, L.~R. Wiencke, L.~Wolfenstein, J.~Womersley, C.~L. Woody,
+  R.~L. Workman, A.~Yamamoto, G.~P. Zeller, O.~V. Zenin, J.~Zhang, R.~Y. Zhu,
+  G.~Harper, V.~S. Lugovsky, and P.~Schaffner.
+\newblock Review of particle physics*.
+\newblock {\em Phys. Rev. D}, 86:010001, Jul 2012.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevD.86.010001}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.86.010001}
+  {\path{doi:10.1103/PhysRevD.86.010001}}.
+
+\bibitem{Aaltonen:2008dn}
+T.~Aaltonen et~al.
+\newblock {Search for new particles decaying into dijets in proton-antiproton
+  collisions at s**(1/2) = 1.96-TeV}.
+\newblock {\em Phys. Rev.}, D79:112002, 2009.
+\newblock \href {http://arxiv.org/abs/0812.4036} {\path{arXiv:0812.4036}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.79.112002}
+  {\path{doi:10.1103/PhysRevD.79.112002}}.
+
+\bibitem{Chatrchyan:2013qha}
+Serguei Chatrchyan et~al.
+\newblock {Search for narrow resonances using the dijet mass spectrum in pp
+  collisions at $\sqrt{s}$=8  TeV}.
+\newblock {\em Phys. Rev.}, D87(11):114015, 2013.
+\newblock \href {http://arxiv.org/abs/1302.4794} {\path{arXiv:1302.4794}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.87.114015}
+  {\path{doi:10.1103/PhysRevD.87.114015}}.
+
+\bibitem{Craig:2013hca}
+Nathaniel Craig, Jamison Galloway, and Scott Thomas.
+\newblock {Searching for Signs of the Second Higgs Doublet}.
+\newblock 2013.
+\newblock \href {http://arxiv.org/abs/1305.2424} {\path{arXiv:1305.2424}}.
+
+\bibitem{Carone:1994aa}
+Christopher~D. Carone and Hitoshi Murayama.
+\newblock {Possible light U(1) gauge boson coupled to baryon number}.
+\newblock {\em Phys. Rev. Lett.}, 74:3122--3125, 1995.
+\newblock \href {http://arxiv.org/abs/hep-ph/9411256}
+  {\path{arXiv:hep-ph/9411256}}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.74.3122}
+  {\path{doi:10.1103/PhysRevLett.74.3122}}.
+
+\bibitem{Agashe:2004bm}
+Kaustubh Agashe and Geraldine Servant.
+\newblock {Baryon number in warped GUTs: Model building and (dark matter
+  related) phenomenology}.
+\newblock {\em JCAP}, 0502:002, 2005.
+\newblock \href {http://arxiv.org/abs/hep-ph/0411254}
+  {\path{arXiv:hep-ph/0411254}}, \href
+  {http://dx.doi.org/10.1088/1475-7516/2005/02/002}
+  {\path{doi:10.1088/1475-7516/2005/02/002}}.
+
+\bibitem{FileviezPerez:2010gw}
+Pavel Fileviez~Perez and Mark~B. Wise.
+\newblock {Baryon and lepton number as local gauge symmetries}.
+\newblock {\em Phys. Rev.}, D82:011901, 2010.
+\newblock [Erratum: Phys. Rev.D82,079901(2010)].
+\newblock \href {http://arxiv.org/abs/1002.1754} {\path{arXiv:1002.1754}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.82.079901,
+  10.1103/PhysRevD.82.011901} {\path{doi:10.1103/PhysRevD.82.079901,
+  10.1103/PhysRevD.82.011901}}.
+
+\bibitem{Chang:2006fp}
+We-Fu Chang, John~N. Ng, and Jackson M.~S. Wu.
+\newblock {A Very Narrow Shadow Extra Z-boson at Colliders}.
+\newblock {\em Phys. Rev.}, D74:095005, 2006.
+\newblock [Erratum: Phys. Rev.D79,039902(2009)].
+\newblock \href {http://arxiv.org/abs/hep-ph/0608068}
+  {\path{arXiv:hep-ph/0608068}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.74.095005, 10.1103/PhysRevD.79.039902}
+  {\path{doi:10.1103/PhysRevD.74.095005, 10.1103/PhysRevD.79.039902}}.
+
+\bibitem{Pospelov:2007mp}
+Maxim Pospelov, Adam Ritz, and Mikhail~B. Voloshin.
+\newblock {Secluded WIMP Dark Matter}.
+\newblock {\em Phys. Lett.}, B662:53--61, 2008.
+\newblock \href {http://arxiv.org/abs/0711.4866} {\path{arXiv:0711.4866}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2008.02.052}
+  {\path{doi:10.1016/j.physletb.2008.02.052}}.
+
+\bibitem{Feldman:2007wj}
+Daniel Feldman, Zuowei Liu, and Pran Nath.
+\newblock {The Stueckelberg Z-prime Extension with Kinetic Mixing and
+  Milli-Charged Dark Matter From the Hidden Sector}.
+\newblock {\em Phys. Rev.}, D75:115001, 2007.
+\newblock \href {http://arxiv.org/abs/hep-ph/0702123}
+  {\path{arXiv:hep-ph/0702123}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.75.115001}
+  {\path{doi:10.1103/PhysRevD.75.115001}}.
+
+\bibitem{Feng:2008mu}
+Jonathan~L. Feng, Huitzu Tu, and Hai-Bo Yu.
+\newblock {Thermal Relics in Hidden Sectors}.
+\newblock {\em JCAP}, 0810:043, 2008.
+\newblock \href {http://arxiv.org/abs/0808.2318} {\path{arXiv:0808.2318}},
+  \href {http://dx.doi.org/10.1088/1475-7516/2008/10/043}
+  {\path{doi:10.1088/1475-7516/2008/10/043}}.
+
+\bibitem{Gopalakrishna:2008dv}
+Shrihari Gopalakrishna, Sunghoon Jung, and James~D. Wells.
+\newblock {Higgs boson decays to four fermions through an abelian hidden
+  sector}.
+\newblock {\em Phys. Rev.}, D78:055002, 2008.
+\newblock \href {http://arxiv.org/abs/0801.3456} {\path{arXiv:0801.3456}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.78.055002}
+  {\path{doi:10.1103/PhysRevD.78.055002}}.
+
+\bibitem{MarchRussell:2008yu}
+John March-Russell, Stephen~M. West, Daniel Cumberbatch, and Dan Hooper.
+\newblock {Heavy Dark Matter Through the Higgs Portal}.
+\newblock {\em JHEP}, 07:058, 2008.
+\newblock \href {http://arxiv.org/abs/0801.3440} {\path{arXiv:0801.3440}},
+  \href {http://dx.doi.org/10.1088/1126-6708/2008/07/058}
+  {\path{doi:10.1088/1126-6708/2008/07/058}}.
+
+\bibitem{Falkowski:2013dza}
+Adam Falkowski, Francesco Riva, and Alfredo Urbano.
+\newblock {Higgs at last}.
+\newblock {\em JHEP}, 11:111, 2013.
+\newblock \href {http://arxiv.org/abs/1303.1812} {\path{arXiv:1303.1812}},
+  \href {http://dx.doi.org/10.1007/JHEP11(2013)111}
+  {\path{doi:10.1007/JHEP11(2013)111}}.
+
+\bibitem{Djouadi:2013qya}
+Abdelhak Djouadi and Grégory Moreau.
+\newblock {The couplings of the Higgs boson and its CP properties from fits of
+  the signal strengths and their ratios at the 7+8 TeV LHC}.
+\newblock {\em Eur. Phys. J.}, C73(9):2512, 2013.
+\newblock \href {http://arxiv.org/abs/1303.6591} {\path{arXiv:1303.6591}},
+  \href {http://dx.doi.org/10.1140/epjc/s10052-013-2512-9}
+  {\path{doi:10.1140/epjc/s10052-013-2512-9}}.
+
+\bibitem{Giardino:2013bma}
+Pier~Paolo Giardino, Kristjan Kannike, Isabella Masina, Martti Raidal, and
+  Alessandro Strumia.
+\newblock {The universal Higgs fit}.
+\newblock {\em JHEP}, 05:046, 2014.
+\newblock \href {http://arxiv.org/abs/1303.3570} {\path{arXiv:1303.3570}},
+  \href {http://dx.doi.org/10.1007/JHEP05(2014)046}
+  {\path{doi:10.1007/JHEP05(2014)046}}.
+
+\bibitem{Ellis:2013lra}
+John Ellis and Tevong You.
+\newblock {Updated Global Analysis of Higgs Couplings}.
+\newblock {\em JHEP}, 06:103, 2013.
+\newblock \href {http://arxiv.org/abs/1303.3879} {\path{arXiv:1303.3879}},
+  \href {http://dx.doi.org/10.1007/JHEP06(2013)103}
+  {\path{doi:10.1007/JHEP06(2013)103}}.
+
+\bibitem{1748-0221-3-08-S08001}
+Lyndon Evans and Philip Bryant.
+\newblock Lhc machine.
+\newblock {\em Journal of Instrumentation}, 3(08):S08001, 2008.
+\newblock URL: \url{http://stacks.iop.org/1748-0221/3/i=08/a=S08001}.
+
+\bibitem{CMS:CERN1}
+2012.
+\newblock URL:
+  \url{http://home.cern/about/updates/2013/02/long-shutdown-1-exciting-times-ahead}.
+
+\bibitem{CMS:CERN2}
+2012.
+\newblock URL:
+  \url{http://home.cern/about/engineering/restarting-lhc-why-13-tev}.
+
+\bibitem{1748-0221-3-08-S08004}
+
+
+\bibitem{Chatrchyan:2014fea}
+Serguei Chatrchyan et~al.
+\newblock {Description and performance of track and primary-vertex
+  reconstruction with the CMS tracker}.
+\newblock {\em JINST}, 9(10):P10009, 2014.
+\newblock \href {http://arxiv.org/abs/1405.6569} {\path{arXiv:1405.6569}},
+  \href {http://dx.doi.org/10.1088/1748-0221/9/10/P10009}
+  {\path{doi:10.1088/1748-0221/9/10/P10009}}.
+
+\bibitem{CMS:2009nxa}
+{Particle-Flow Event Reconstruction in CMS and Performance for Jets, Taus, and
+  MET}.
+\newblock 2009.
+
+\bibitem{1126-6708-2006-05-026}
+Torbjörn Sjöstrand, Stephen Mrenna, and Peter Skands.
+\newblock Pythia 6.4 physics and manual.
+\newblock {\em Journal of High Energy Physics}, 2006(05):026, 2006.
+\newblock URL: \url{http://stacks.iop.org/1126-6708/2006/i=05/a=026}.
+
+\bibitem{Alwall2011}
+Johan Alwall, Michel Herquet, Fabio Maltoni, Olivier Mattelaer, and Tim
+  Stelzer.
+\newblock Madgraph 5: going beyond.
+\newblock {\em Journal of High Energy Physics}, 2011(6):1--40, 2011.
+\newblock URL: \url{http://dx.doi.org/10.1007/JHEP06(2011)128}, \href
+  {http://dx.doi.org/10.1007/JHEP06(2011)128}
+  {\path{doi:10.1007/JHEP06(2011)128}}.
+
+\bibitem{Berger:2009ba}
+C.~F. Berger, Z.~Bern, Lance~J. Dixon, Fernando Febres~Cordero, D.~Forde,
+  T.~Gleisberg, H.~Ita, D.~A. Kosower, and D.~Maitre.
+\newblock {Multi-jet cross sections at NLO with BlackHat and Sherpa}.
+\newblock In {\em {QCD and high energy interactions. Proceedings, 44th
+  Rencontres de Moriond, La Thuile, Italy, March 14-21, 2009}}, pages 265--268,
+  2009.
+\newblock URL:
+  \url{http://www-public.slac.stanford.edu/sciDoc/docMeta.aspx?slacPubNumber=slac-pub-13630},
+  \href {http://arxiv.org/abs/0905.2735} {\path{arXiv:0905.2735}}.
+
+\bibitem{Alioli:2010ab}
+Simone Alioli.
+\newblock {NLO and Parton Showers: The POWHEG-BOX}.
+\newblock In {\em {Physics at the LHC2010. Proceedings, 5th Conference,
+  PLHC2010, Hamburg, Germany, June 7-12, 2010}}, pages 204--208, 2010.
+\newblock URL:
+  \url{https://inspirehep.net/record/867509/files/arXiv:1009.2348.pdf}, \href
+  {http://arxiv.org/abs/1009.2348} {\path{arXiv:1009.2348}}.
+
+\bibitem{documents:998155}
+{\em {Geant4 user's documents}}.
+\newblock CERN, Geneva, 1998.
+\newblock URL: \url{https://cds.cern.ch/record/998155}.
+
+\bibitem{Alioli:2008gx}
+S.~Alioli, P.~Nason, C.~Oleari, and E.~Re.
+\newblock {NLO vector-boson production matched with shower in POWHEG}.
+\newblock {\em JHEP}, 07:060, 2008.
+\newblock \href {http://arxiv.org/abs/0805.4802} {\path{arXiv:0805.4802}},
+  \href {http://dx.doi.org/10.1088/1126-6708/2008/07/060}
+  {\path{doi:10.1088/1126-6708/2008/07/060}}.
+
+\bibitem{Nason:2004rx}
+Paolo Nason.
+\newblock {A new method for combining NLO QCD with shower Monte Carlo
+  algorithms}.
+\newblock {\em JHEP}, 11:040, 2004.
+\newblock \href {http://arxiv.org/abs/hep-ph/0409146}
+  {\path{arXiv:hep-ph/0409146}}, \href
+  {http://dx.doi.org/10.1088/1126-6708/2004/11/040}
+  {\path{doi:10.1088/1126-6708/2004/11/040}}.
+
+\bibitem{Frixione:2007vw}
+Stefano Frixione, Paolo Nason, and Carlo Oleari.
+\newblock {Matching NLO QCD computations with parton shower simulations: the
+  POWHEG method}.
+\newblock {\em JHEP}, 11:070, 2007.
+\newblock \href {http://arxiv.org/abs/0709.2092} {\path{arXiv:0709.2092}},
+  \href {http://dx.doi.org/10.1088/1126-6708/2007/11/070}
+  {\path{doi:10.1088/1126-6708/2007/11/070}}.
+
+\bibitem{Bagnaschi:2011tu}
+E.~Bagnaschi, G.~Degrassi, P.~Slavich, and A.~Vicini.
+\newblock {Higgs production via gluon fusion in the POWHEG approach in the SM
+  and in the MSSM}.
+\newblock {\em JHEP}, 02:088, 2012.
+\newblock \href {http://arxiv.org/abs/1111.2854} {\path{arXiv:1111.2854}},
+  \href {http://dx.doi.org/10.1007/JHEP02(2012)088}
+  {\path{doi:10.1007/JHEP02(2012)088}}.
+
+\bibitem{Nason:2009ai}
+Paolo Nason and Carlo Oleari.
+\newblock {NLO Higgs boson production via vector-boson fusion matched with
+  shower in POWHEG}.
+\newblock {\em JHEP}, 02:037, 2010.
+\newblock \href {http://arxiv.org/abs/0911.5299} {\path{arXiv:0911.5299}},
+  \href {http://dx.doi.org/10.1007/JHEP02(2010)037}
+  {\path{doi:10.1007/JHEP02(2010)037}}.
+
+\bibitem{Hartanto:2015uka}
+Heribertus~B. Hartanto, Barbara Jager, Laura Reina, and Doreen Wackeroth.
+\newblock {Higgs boson production in association with top quarks in the POWHEG
+  BOX}.
+\newblock {\em Phys. Rev.}, D91(9):094003, 2015.
+\newblock \href {http://arxiv.org/abs/1501.04498} {\path{arXiv:1501.04498}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.91.094003}
+  {\path{doi:10.1103/PhysRevD.91.094003}}.
+
+\bibitem{Luisoni:2013kna}
+Gionata Luisoni, Paolo Nason, Carlo Oleari, and Francesco Tramontano.
+\newblock {$HW^{\pm}$/HZ + 0 and 1 jet at NLO with the POWHEG BOX interfaced to
+  GoSam and their merging within MiNLO}.
+\newblock {\em JHEP}, 10:083, 2013.
+\newblock \href {http://arxiv.org/abs/1306.2542} {\path{arXiv:1306.2542}},
+  \href {http://dx.doi.org/10.1007/JHEP10(2013)083}
+  {\path{doi:10.1007/JHEP10(2013)083}}.
+
+\bibitem{Gao:2010qx}
+Yanyan Gao, Andrei~V. Gritsan, Zijin Guo, Kirill Melnikov, Markus Schulze, and
+  Nhan~V. Tran.
+\newblock {Spin determination of single-produced resonances at hadron
+  colliders}.
+\newblock {\em Phys. Rev. D}, 81:075022, 2010.
+\newblock \href {http://arxiv.org/abs/1001.3396} {\path{arXiv:1001.3396}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.81.075022}
+  {\path{doi:10.1103/PhysRevD.81.075022}}.
+
+\bibitem{Ball:2014uwa}
+Richard~D. Ball et~al.
+\newblock {Parton distributions for the LHC Run II}.
+\newblock {\em JHEP}, 04:040, 2015.
+\newblock \href {http://arxiv.org/abs/1410.8849} {\path{arXiv:1410.8849}},
+  \href {http://dx.doi.org/10.1007/JHEP04(2015)040}
+  {\path{doi:10.1007/JHEP04(2015)040}}.
+
+\bibitem{Nason:2013ydw}
+Paolo Nason and Giulia Zanderighi.
+\newblock {$W^+ W^-$ , $W Z$ and $Z Z$ production in the POWHEG-BOX-V2}.
+\newblock {\em Eur. Phys. J.}, C74(1):2702, 2014.
+\newblock \href {http://arxiv.org/abs/1311.1365} {\path{arXiv:1311.1365}},
+  \href {http://dx.doi.org/10.1140/epjc/s10052-013-2702-5}
+  {\path{doi:10.1140/epjc/s10052-013-2702-5}}.
+
+\bibitem{MCFM}
+John~M. Campbell and R.~K. Ellis.
+\newblock {MCFM for the Tevatron and the LHC}.
+\newblock {\em Nucl. Phys. Proc. Suppl.}, 205:10, 2010.
+\newblock \href {http://arxiv.org/abs/1007.3492} {\path{arXiv:1007.3492}},
+  \href {http://dx.doi.org/10.1016/j.nuclphysbps.2010.08.011}
+  {\path{doi:10.1016/j.nuclphysbps.2010.08.011}}.
+
+\bibitem{Campbell:2013una}
+John~M. Campbell, R.~Keith Ellis, and Ciaran Williams.
+\newblock {Bounding the Higgs width at the LHC using full analytic results for
+  $gg -> e^- e^+ \mu^- \mu^+$}.
+\newblock {\em JHEP}, 04:060, 2014.
+\newblock \href {http://arxiv.org/abs/1311.3589} {\path{arXiv:1311.3589}},
+  \href {http://dx.doi.org/10.1007/JHEP04(2014)060}
+  {\path{doi:10.1007/JHEP04(2014)060}}.
+
+\bibitem{Alwall:2014hca}
+J.~Alwall, R.~Frederix, S.~Frixione, V.~Hirschi, F.~Maltoni, O.~Mattelaer,
+  H.~S. Shao, T.~Stelzer, P.~Torrielli, and M.~Zaro.
+\newblock {The automated computation of tree-level and next-to-leading order
+  differential cross sections, and their matching to parton shower
+  simulations}.
+\newblock {\em JHEP}, 07:079, 2014.
+\newblock \href {http://arxiv.org/abs/1405.0301} {\path{arXiv:1405.0301}},
+  \href {http://dx.doi.org/10.1007/JHEP07(2014)079}
+  {\path{doi:10.1007/JHEP07(2014)079}}.
+
+\bibitem{ElectronLegacy}
+Vardan Khachatryan et~al.
+\newblock {Performance of electron reconstruction and selection with the CMS
+  detector in proton-proton collisions at $\sqrt{s}=8$\TeV}.
+\newblock {\em JINST}, 10:P06005, 2015.
+\newblock \href {http://dx.doi.org/10.1088/1748-0221/10/06/P06005}
+  {\path{doi:10.1088/1748-0221/10/06/P06005}}.
+
+\bibitem{AN-15-277}
+Measurement of the properties of the higgs boson in the four-lepton final state
+  at $\sqrt{s}$ = 13 tev.
+\newblock CMS Physics Analysis Note CMS-AN-15-277, 2016.
+
+\bibitem{AN-16-217}
+New results on the study of higgs boson production in the four-lepton final
+  state at $\sqrt{s}$ = 13 tev.
+\newblock CMS Physics Analysis Note CMS-AN-16-217, 2016.
+
+\bibitem{CMS_AN_2015-215}
+E.~Brondolin and G.~Petrucciani.
+\newblock Measurement of the muon-tracking efficiency using the tag and probe
+  method on 2015 runii data.
+\newblock {\em CMS AN}, 2015/215, 2015.
+
+\bibitem{btagReferenceEffsRun2}
+BtagPOG.
+\newblock Usage of b/c tag objects for 13 tev data in 2016 and 80x mc.
+\newblock {\em CMS Twiki}, 2016.
+\newblock URL:
+  \url{https://twiki.cern.ch/twiki/bin/viewauth/CMS/BtagRecommendation80XReReco}.
+
+\bibitem{mettwiki}
+{CMS Collaboration}.
+\newblock Met filter recommendations for run ii.
+\newblock URL:
+  \url{https://twiki.cern.ch/twiki/bin/viewauth/CMS/MissingETOptionalFiltersRun2}.
 
 \bibitem{Grazzini2015407}
 Massimiliano Grazzini, Stefan Kallweit, and Dirk Rathlev.
@@ -11,14 +1411,6 @@ Massimiliano Grazzini, Stefan Kallweit, and Dirk Rathlev.
   {http://dx.doi.org/http://dx.doi.org/10.1016/j.physletb.2015.09.055}
   {\path{doi:http://dx.doi.org/10.1016/j.physletb.2015.09.055}}.
 
-\bibitem{MCFM}
-John~M. Campbell and R.~K. Ellis.
-\newblock {MCFM for the Tevatron and the LHC}.
-\newblock {\em Nucl. Phys. Proc. Suppl.}, 205:10, 2010.
-\newblock \href {http://arxiv.org/abs/1007.3492} {\path{arXiv:1007.3492}},
-  \href {http://dx.doi.org/10.1016/j.nuclphysbps.2010.08.011}
-  {\path{doi:10.1016/j.nuclphysbps.2010.08.011}}.
-
 \bibitem{Campbell:2011bn}
 John~M. Campbell, R.~Keith Ellis, and Ciaran Williams.
 \newblock {Vector boson pair production at the LHC}.
@@ -26,15 +1418,6 @@ John~M. Campbell, R.~Keith Ellis, and Ciaran Williams.
 \newblock \href {http://arxiv.org/abs/1105.0020} {\path{arXiv:1105.0020}},
   \href {http://dx.doi.org/10.1007/JHEP07(2011)018}
   {\path{doi:10.1007/JHEP07(2011)018}}.
-
-\bibitem{Campbell:2013una}
-John~M. Campbell, R.~Keith Ellis, and Ciaran Williams.
-\newblock {Bounding the Higgs width at the LHC using full analytic results for
-  $gg -> e^- e^+ \mu^- \mu^+$}.
-\newblock {\em JHEP}, 04:060, 2014.
-\newblock \href {http://arxiv.org/abs/1311.3589} {\path{arXiv:1311.3589}},
-  \href {http://dx.doi.org/10.1007/JHEP04(2014)060}
-  {\path{doi:10.1007/JHEP04(2014)060}}.
 
 \bibitem{Bonvini:1304.3053}
 Marco Bonvini, Fabrizio Caola, Stefano Forte, Kirill Melnikov, and Giovanni
@@ -104,5 +1487,31 @@ Massimiliano Grazzini and Hayk Sargsyan.
 \newblock \href {http://arxiv.org/abs/1307.1347} {\path{arXiv:1307.1347}},
   \href {http://dx.doi.org/10.5170/CERN-2013-004}
   {\path{doi:10.5170/CERN-2013-004}}.
+
+\bibitem{combinetwiki}
+{CMS Collaboration}.
+\newblock Documentation of the roostats -based statistics tools for higgs pag.
+\newblock URL:
+  \url{https://twiki.cern.ch/twiki/bin/viewauth/CMS/SWGuideHiggsAnalysisCombinedLimit}.
+
+\bibitem{roostatstwiki}
+{LHC experiments and ROOT team}.
+\newblock Welcome to the roostats wiki.
+\newblock URL: \url{https://twiki.cern.ch/twiki/bin/view/RooStats/WebHome}.
+
+\bibitem{higgspagtwiki}
+{CMS Collaboration}.
+\newblock Cms higgs physics analysis group (higgs pag).
+\newblock URL: \url{https://twiki.cern.ch/twiki/bin/view/CMS/HiggsWG}.
+
+\bibitem{Cowan:2010js}
+Glen Cowan, Kyle Cranmer, Eilam Gross, and Ofer Vitells.
+\newblock {Asymptotic formulae for likelihood-based tests of new physics}.
+\newblock {\em Eur. Phys. J.}, C71:1554, 2011.
+\newblock [Erratum: Eur. Phys. J.C73,2501(2013)].
+\newblock \href {http://arxiv.org/abs/1007.1727} {\path{arXiv:1007.1727}},
+  \href {http://dx.doi.org/10.1140/epjc/s10052-011-1554-0,
+  10.1140/epjc/s10052-013-2501-z} {\path{doi:10.1140/epjc/s10052-011-1554-0,
+  10.1140/epjc/s10052-013-2501-z}}.
 
 \end{thebibliography}

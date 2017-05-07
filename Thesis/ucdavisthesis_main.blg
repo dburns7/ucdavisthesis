@@ -2,54 +2,263 @@ This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ucdavisthesis_main.aux
 The style file: unsrturl.bst
-A level-1 auxiliary file: ucdavisthesis_Chap7.aux
+A level-1 auxiliary file: ucdavisthesis_Chap1.aux
+A level-1 auxiliary file: ucdavisthesis_Chap2.aux
+A level-1 auxiliary file: ucdavisthesis_Chap3.aux
+A level-1 auxiliary file: ucdavisthesis_Chap5.aux
+A level-1 auxiliary file: ucdavisthesis_Chap6.aux
+A level-1 auxiliary file: ucdavisthesis_Chap9.aux
+A level-1 auxiliary file: ucdavisthesis_Chap10.aux
 A level-1 auxiliary file: ucdavisthesis_Appen1.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: ucdavisthesis.bib
+Your field is more than 20000 characters---line 2100 of file ucdavisthesis.bib
+ : Freitas Ferreira and M Gallinaro and M Husejko and A Jain and M Kazana and P Musella and R Nobrega and J Rasteiro Da Silva
+ :                                                                                                                            and P Q
+I'm skipping whatever remains of this entry
+Repeated entry---line 2742 of file ucdavisthesis.bib
+ : @article{Chatrchyan:2012xdj
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2758 of file ucdavisthesis.bib
+ : @article{Aad:2012tfa
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2775 of file ucdavisthesis.bib
+ : @article{Carpenter:2013xra
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2791 of file ucdavisthesis.bib
+ : @article{Berlin:2014cfa
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2804 of file ucdavisthesis.bib
+ : @article{Aad:2015zva
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2824 of file ucdavisthesis.bib
+ : @article{Khachatryan:2014rra
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2842 of file ucdavisthesis.bib
+ : @article{Aad:2014vea
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2860 of file ucdavisthesis.bib
+ : @article{Khachatryan:2014uma
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2877 of file ucdavisthesis.bib
+ : @article{Khachatryan:2015nua
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2894 of file ucdavisthesis.bib
+ : @article{Aad:2014tda
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2913 of file ucdavisthesis.bib
+ : @article{Chatrchyan:2012tea
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2930 of file ucdavisthesis.bib
+ : @article{Khachatryan:2014rwa
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2946 of file ucdavisthesis.bib
+ : @article{Khachatryan:2014tva
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2964 of file ucdavisthesis.bib
+ : @article{ATLAS:2014wra
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2981 of file ucdavisthesis.bib
+ : @article{Aad:2014vka
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2999 of file ucdavisthesis.bib
+ : @article{Aad:2013oja
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3018 of file ucdavisthesis.bib
+ : @article{Khachatryan:2015bbl
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3036 of file ucdavisthesis.bib
+ : @article{Atlas:2016Hbb
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3046 of file ucdavisthesis.bib
+ : @article{Aad:2015dva
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3064 of file ucdavisthesis.bib
+ : @article{Aad:2015yga
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3082 of file ucdavisthesis.bib
+ : @techreport{CMS-AN-15-338
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3089 of file ucdavisthesis.bib
+ : @techreport{CMS-AN-15-209
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3097 of file ucdavisthesis.bib
+ : @techreport{CMS-AN-15-203
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3104 of file ucdavisthesis.bib
+ : @techreport{CMS-AN-15-???
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3111 of file ucdavisthesis.bib
+ : @article{Chatrchyan:2013mxa
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3128 of file ucdavisthesis.bib
+ : @article{ATLAS:2013nma
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3144 of file ucdavisthesis.bib
+ : @techreport{CMS-AN-15-277
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3151 of file ucdavisthesis.bib
+ : @techreport{CMS-PAS-HIG-15-004
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3160 of file ucdavisthesis.bib
+ : @unpublished{synchtwiki
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3165 of file ucdavisthesis.bib
+ : @article{Abercrombie:2015wmb
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3330 of file ucdavisthesis.bib
+ : @article{Aaltonen:2008dn
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3346 of file ucdavisthesis.bib
+ : @article{Chatrchyan:2013qha
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3363 of file ucdavisthesis.bib
+ : @article{Carone:1994aa
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3378 of file ucdavisthesis.bib
+ : @article{Agashe:2004bm
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3393 of file ucdavisthesis.bib
+ : @article{FileviezPerez:2010gw
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3512 of file ucdavisthesis.bib
+ : @article{Higgs:1964ia
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3562 of file ucdavisthesis.bib
+ : @article{Kibble:1967sv
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3589 of file ucdavisthesis.bib
+ : @article{Aad:2012tfa
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4192 of file ucdavisthesis.bib
+ : @article{Cowan:2010js
+ :                      ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Zweig:1981pd
+Warning--empty publisher in Zweig:1964jf
+Warning--empty author in CMS:HZZ
+Warning--empty title in CMS:HZZ
+Warning--empty journal in CMS:HZZ
+Warning--empty journal in Abercrombie:2015wmb
+Warning--empty journal in Atlas:2016Hbb
+Warning--empty author in CMS-AN-15-338
+Warning--empty institution in CMS-AN-15-338
+Warning--empty author in CMS-AN-15-203
+Warning--empty institution in CMS-AN-15-203
+Warning--empty author in CMS-AN-15-209
+Warning--empty institution in CMS-AN-15-209
+Warning--empty author in CMS-AN-15-???
+Warning--empty institution in CMS-AN-15-???
+Warning--empty author in ATLAS:2013nma
+Warning--empty journal in ATLAS:2013nma
+Warning--empty author in CMS-AN-15-277
+Warning--empty institution in CMS-AN-15-277
+Warning--empty institution in CMS-PAS-HIG-15-004
+Warning--empty note in synchtwiki
+Warning--empty journal in Craig:2013hca
+Warning--empty author in CMS:CERN1
+Warning--empty title in CMS:CERN1
+Warning--empty journal in CMS:CERN1
+Warning--empty author in CMS:CERN2
+Warning--empty title in CMS:CERN2
+Warning--empty journal in CMS:CERN2
+Warning--empty author in 1748-0221-3-08-S08004
+Warning--empty title in 1748-0221-3-08-S08004
+Warning--empty journal in 1748-0221-3-08-S08004
+Warning--empty year in 1748-0221-3-08-S08004
+Warning--empty author in CMS:2009nxa
+Warning--empty journal in CMS:2009nxa
+Warning--empty author and editor in documents:998155
+Warning--empty author in AN-15-277
+Warning--empty institution in AN-15-277
+Warning--empty author in AN-16-217
+Warning--empty institution in AN-16-217
+Warning--empty note in mettwiki
 Warning--empty note in Li:2015jva
 Warning--empty institution in Heinemeyer:2013tqa
-You've used 12 entries,
+Warning--empty note in combinetwiki
+Warning--empty note in roostatstwiki
+Warning--empty note in higgspagtwiki
+You've used 175 entries,
             2522 wiz_defined-function locations,
-            672 strings with 7060 characters,
-and the built_in function-call counts, 4225 in all, are:
-= -- 439
-> -- 130
-< -- 1
-+ -- 41
-- -- 29
-* -- 304
-:= -- 584
-add.period$ -- 48
-call.type$ -- 12
-change.case$ -- 12
+            1850 strings with 47810 characters,
+and the built_in function-call counts, 69556 in all, are:
+= -- 6443
+> -- 3591
+< -- 12
++ -- 1170
+- -- 995
+* -- 5308
+:= -- 9788
+add.period$ -- 663
+call.type$ -- 175
+change.case$ -- 170
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 103
-empty$ -- 438
-format.name$ -- 29
-if$ -- 1156
+cite$ -- 220
+duplicate$ -- 1649
+empty$ -- 6664
+format.name$ -- 995
+if$ -- 18342
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 10
-newline$ -- 75
-num.names$ -- 12
-pop$ -- 51
+int.to.str$ -- 175
+missing$ -- 165
+newline$ -- 1015
+num.names$ -- 163
+pop$ -- 890
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 338
+skip$ -- 4924
 stack$ -- 0
-substring$ -- 123
-swap$ -- 57
-text.length$ -- 1
+substring$ -- 2561
+swap$ -- 634
+text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 22
-width$ -- 14
-write$ -- 167
-(There were 2 warnings)
+warning$ -- 45
+while$ -- 332
+width$ -- 178
+write$ -- 2276
+(There were 40 error messages)
