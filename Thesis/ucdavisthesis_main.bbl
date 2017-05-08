@@ -1,5 +1,21 @@
 \begin{thebibliography}{100}
 
+\bibitem{Carpenter:2013xra}
+Linda Carpenter, Anthony DiFranzo, Michael Mulhearn, Chase Shimmin, Sean Tulin,
+  and Daniel Whiteson.
+\newblock {Mono-Higgs-boson: A new collider probe of dark matter}.
+\newblock {\em Phys. Rev.}, D89(7):075017, 2014.
+\newblock \href {http://arxiv.org/abs/1312.2592} {\path{arXiv:1312.2592}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.89.075017}
+  {\path{doi:10.1103/PhysRevD.89.075017}}.
+
+\bibitem{Abercrombie:2015wmb}
+Daniel Abercrombie et~al.
+\newblock {Dark Matter Benchmark Models for Early LHC Run-2 Searches: Report of
+  the ATLAS/CMS Dark Matter Forum}.
+\newblock 2015.
+\newblock \href {http://arxiv.org/abs/1507.00966} {\path{arXiv:1507.00966}}.
+
 \bibitem{Noether:1918zz}
 Emmy Noether.
 \newblock {Invariant Variation Problems}.
@@ -735,15 +751,6 @@ Andrew Askew, Sushil Chauhan, Bjorn Penning, William Shepherd, and Mani
   \href {http://dx.doi.org/10.1142/S0217751X14300415}
   {\path{doi:10.1142/S0217751X14300415}}.
 
-\bibitem{Carpenter:2013xra}
-Linda Carpenter, Anthony DiFranzo, Michael Mulhearn, Chase Shimmin, Sean Tulin,
-  and Daniel Whiteson.
-\newblock {Mono-Higgs-boson: A new collider probe of dark matter}.
-\newblock {\em Phys. Rev.}, D89(7):075017, 2014.
-\newblock \href {http://arxiv.org/abs/1312.2592} {\path{arXiv:1312.2592}},
-  \href {http://dx.doi.org/10.1103/PhysRevD.89.075017}
-  {\path{doi:10.1103/PhysRevD.89.075017}}.
-
 \bibitem{Aad:2015zva}
 Georges Aad et~al.
 \newblock {Search for new phenomena in final states with an energetic jet and
@@ -879,13 +886,6 @@ Asher Berlin, Tongyan Lin, and Lian-Tao Wang.
 \newblock \href {http://arxiv.org/abs/1402.7074} {\path{arXiv:1402.7074}},
   \href {http://dx.doi.org/10.1007/JHEP06(2014)078}
   {\path{doi:10.1007/JHEP06(2014)078}}.
-
-\bibitem{Abercrombie:2015wmb}
-Daniel Abercrombie et~al.
-\newblock {Dark Matter Benchmark Models for Early LHC Run-2 Searches: Report of
-  the ATLAS/CMS Dark Matter Forum}.
-\newblock 2015.
-\newblock \href {http://arxiv.org/abs/1507.00966} {\path{arXiv:1507.00966}}.
 
 \bibitem{Aad:2015yga}
 Georges Aad et~al.
@@ -1179,6 +1179,11 @@ Lyndon Evans and Philip Bryant.
 \newblock {\em Journal of Instrumentation}, 3(08):S08001, 2008.
 \newblock URL: \url{http://stacks.iop.org/1748-0221/3/i=08/a=S08001}.
 
+\bibitem{CMS:CERN3}
+2008.
+\newblock URL:
+  \url{http://press.cern/press-releases/2008/10/cern-releases-analysis-lhc-incident}.
+
 \bibitem{CMS:CERN1}
 2012.
 \newblock URL:
@@ -1200,6 +1205,13 @@ Serguei Chatrchyan et~al.
 \newblock \href {http://arxiv.org/abs/1405.6569} {\path{arXiv:1405.6569}},
   \href {http://dx.doi.org/10.1088/1748-0221/9/10/P10009}
   {\path{doi:10.1088/1748-0221/9/10/P10009}}.
+
+\bibitem{1748-0221-7-10-P10002}
+The~CMS collaboration.
+\newblock Performance of cms muon reconstruction in pp collision events at √s
+  = 7 tev.
+\newblock {\em Journal of Instrumentation}, 7(10):P10002, 2012.
+\newblock URL: \url{http://stacks.iop.org/1748-0221/7/i=10/a=P10002}.
 
 \bibitem{CMS:2009nxa}
 {Particle-Flow Event Reconstruction in CMS and Performance for Jets, Taus, and

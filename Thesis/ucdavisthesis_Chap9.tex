@@ -327,82 +327,43 @@ where $\sigma_{\rm{norm}}$ is the cross section used to normalize the signal yie
 
 \section{Cross Section Limits}
 
-After the event selection is optimized and all of the uncertainties are accounted for, limits are set on the signal strength parameter, $\mu$, and presented in two ways. For each model, the limits are shown for $\mu$, to be easily compared with the limits obtained by the other H decay channels, and as cross section limit versus mass plots. These results are found for both the cut-and-count and MVA based strategies. Until the selection is frozen and the data unblinded, only expected limits will be plotted in the SR.
+After the event selection is optimized and all of the uncertainties are accounted for, limits are set on the signal strength parameter, $\mu$, which is scaled according to Equation~\ref{eq:mu} to obtain the cross section limit. For each model, these results are found for both the cut-and-count and MVA based strategies. For Zp2HDM, the one-dimensional slice of mass points fixing $m_{A^0} = 300$ $\GeV$ is selected for the limit plots since this region has the highest cross section and the largest branching fraction to DM production. For ZpBaryonic, the one-dimensional slice of mass points fixing $m_{\chi} = 1$ $\GeV$ is selected for the limits plots since this region has the highest cross section.
 
 \subsection{Cut-and-count based}
 
-\subsubsection{Zp2HDM}
+The one-dimensional limits, obtained using the optimized selection given in Section~\ref{cutandcountopt}, are presented for $\sigma_{95\% \rm{CL}}\times BR$ in Figure~\ref{fig:limzp2hdm} for Zp2HDM and Figure~\ref{fig:limzpbaryonic} for ZpBaryonic. In both models, the observed limits do not deviate more than one standard deviation from the expected limits, indicated the absence of a large excess of events in the signal region above the SM prediction. Since the limit curves lie above the theoretical cross section curves, no benchmark points can be excluded using this analysis alone. However, when the Zp2HDM results are combined with those from the other $H$ decay channels, there is sufficient sensitivity to exclude a large portion of the parameter space, up to mediator masses in the $\TeV$ range. These are the first results obtained for ZpBaryonic from any of the mono-$H$ analyses. Since the ZpBaryonic theoretical cross section curve is flat up to around 1 $\TeV$, any small increase in sensitivity by combining with other analyses will allow for the exclusion of these benchmark models. 
 
-The 1D slice of mass points fixing $m_{A0} = 300$ GeV is selected for the limits plots since this region has the highest cross section and the largest branching fraction to DM production. The 1D limits are presented for $\mu$ in Figure~\ref{fig:limzp2hdmmu} and $\sigma_{95\% \rm{CL}}*BR$ in Figure~\ref{fig:limzp2hdm}, obtained using the optimized selection given in Section~\ref{cutandcountopt}.  
-
-\begin{figure}[tbh]
-\centering
-\includegraphics[width=5in]{figures/sigma_limits_4mu_Zp2HDM.png}
-\caption{PLACEHOLDER 1D $\mu$ limits for $m_{A0} = 300$ GeV for Zp2HDM.}
-\label{fig:limzp2hdmmu}
-\end{figure}
+The limiting factor in improving the sensitivity of the limits obtained with this strategy is the signal efficiency. The cross section limit is directly proportional to the signal selection efficiency, and each additional cut reduces the signal efficiency by a few percent or more. From Table~\ref{tab:smyields}, the largest fraction of signal events is lost during the tight lepton and $Z$ selection steps, even before the mono-$H$ selection is applied. One method of improving the sensitivity of this analysis is to loosen the tight lepton selection criteria. In addition to allowing more signal to pass a looser cut, more background would also pass. However, since MET is such a powerful discriminating variable, the additional backgrounds could potentially be reduced by a harder MET cut. Defining a new working point for the selection of tight leptons would require remeasuring lepton systematics and background estimates from data, and the validation of modeling in additional control regions. This analysis is left to a future study.
 
 \begin{figure}[tbh]
 \centering
 \includegraphics[width=5in]{figures/sigma_limits_4mu_Zp2HDM.png}
-\caption{PLACEHOLDER 1D cross section times BR limits for $m_{A0} = 300$ GeV for Zp2HDM.}
+\caption{One-dimensional cross section times branching fraction limits for the Zp2HDM simplified model using the cut-and-count based event selection strategy.}
 \label{fig:limzp2hdm}
 \end{figure}
 
-\subsubsection{ZpBaryonic}
-
-The 1D slice of mass points fixing $m_{\chi} = 1$ GeV is selected for the limits plots since this region has the highest cross section. The 1D limits are presented for $\mu$ in Figure~\ref{fig:limzpbaryonicmu} and $\sigma_{95\% \rm{CL}}*BR$ in Figure~\ref{fig:limzpbaryonic}, obtained using the optimized selection given in Section~\ref{cutandcountopt}.  
-
 \begin{figure}[tbh]
 \centering
 \includegraphics[width=5in]{figures/sigma_limits_4mu_ZpBaryonic.png}
-\caption{PLACEHOLDER 1D $\mu$ limits for $m_{\chi} = 1$ GeV for ZpBaryonic.}
-\label{fig:limzpbaryonicmu}
-\end{figure}
-
-\begin{figure}[tbh]
-\centering
-\includegraphics[width=5in]{figures/sigma_limits_4mu_ZpBaryonic.png}
-\caption{PLACEHOLDER 1D cross section times BR limits for $m_{\chi} = 1$ GeV for ZpBaryonic.}
+\caption{One-dimensional cross section times branching fraction limits for the ZpBaryonic simplified model using the cut-and-count based event selection strategy.}
 \label{fig:limzpbaryonic}
 \end{figure}
 
 \subsection{MVA based}
 
-\subsubsection{Zp2HDM}
-
-The 1D limits are presented for $\mu$ in Figure~\ref{fig:limzp2hdmmu} and $\sigma_{95\% \rm{CL}}*BR$ in Figure~\ref{fig:limzp2hdm}, obtained using the optimized selection given in Section~\ref{mvaopt}.
+The one-dimensional limits, obtained using the optimized selection given in Section~\ref{mvaopt}, are presented for $\sigma_{95\% \rm{CL}}\times BR$ in Figure~\ref{fig:limzp2hdmmva} for Zp2HDM and Figure~\ref{fig:limzpbaryonicmva} for ZpBaryonic. The sensitivity obtained using the MVA approach is the same as for the cut-and-count approach. This does not indicate a poor performance of the MVA strategy, but rather reiterates the strong discriminating power of MET used in the cut-and-count strategy. Again, the signal efficiency is the limiting factor in improving the sensitivity. Since there are no additional cuts beyond the SM selection in this selection strategy, the SM selection itself would need to be modified, requiring additional study. 
 
 \begin{figure}[tbh]
 \centering
 \includegraphics[width=5in]{figures/sigma_limits_4mu_Zp2HDM.png}
-\caption{PLACEHOLDER 1D $\mu$ limits for $m_{A0} = 300$ GeV for Zp2HDM.}
-\label{fig:limzp2hdmmu}
-\end{figure}
-
-\begin{figure}[tbh]
-\centering
-\includegraphics[width=5in]{figures/sigma_limits_4mu_Zp2HDM.png}
-\caption{PLACEHOLDER 1D cross section times BR limits for $m_{A0} = 300$ GeV for Zp2HDM.}
-\label{fig:limzp2hdm}
-\end{figure}
-
-\subsubsection{ZpBaryonic}
-
-The 1D limits are presented for $\mu$ in Figure~\ref{fig:limzpbaryonicmu} and $\sigma_{95\% \rm{CL}}*BR$ in Figure~\ref{fig:limzpbaryonic}, obtained using the optimized selection given in Section~\ref{mvaopt}.
-
-\begin{figure}[tbh]
-\centering
-\includegraphics[width=5in]{figures/sigma_limits_4mu_ZpBaryonic.png}
-\caption{PLACEHOLDER 1D $\mu$ limits for $m_{\chi} = 1$ GeV for ZpBaryonic.}
-\label{fig:limzpbaryonicmu}
+\caption{One-dimensional cross section times branching fraction limits for the Zp2HDM simplified model using the MVA based event selection strategy.}
+\label{fig:limzp2hdmmva}
 \end{figure}
 
 \begin{figure}[tbh]
 \centering
 \includegraphics[width=5in]{figures/sigma_limits_4mu_ZpBaryonic.png}
-\caption{PLACEHOLDER 1D cross section times BR limits for $m_{\chi} = 1$ GeV for ZpBaryonic.}
-\label{fig:limzpbaryonic}
+\caption{One-dimensional cross section times branching fraction limits for the ZpBaryonic simplified model using the MVA based event selection strategy.}
+\label{fig:limzpbaryonicmva}
 \end{figure}
-
 

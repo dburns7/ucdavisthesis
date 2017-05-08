@@ -1,37 +1,40 @@
+\select@language {english}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {1.1}{\ignorespaces Effective Field Theory Models.\relax }}{21}{table.caption.8}
-\contentsline {table}{\numberline {1.2}{\ignorespaces Constraints on EFT parameters.\relax }}{21}{table.caption.9}
-\contentsline {table}{\numberline {1.3}{\ignorespaces Zp2HDM simplified model\relax }}{23}{table.caption.11}
-\contentsline {table}{\numberline {1.4}{\ignorespaces ZpBaryonic simplified model\relax }}{25}{table.caption.13}
-\contentsline {table}{\numberline {1.5}{\ignorespaces ZpHS simplified model\relax }}{26}{table.caption.14}
-\contentsline {table}{\numberline {1.6}{\ignorespaces Scalar simplified model\relax }}{27}{table.caption.16}
-\contentsline {table}{\numberline {1.7}{\ignorespaces Simplified Models.\relax }}{28}{table.caption.17}
-\contentsline {table}{\numberline {1.8}{\ignorespaces Constraints on simplified model parameters.\relax }}{28}{table.caption.18}
-\contentsline {table}{\numberline {1.9}{\ignorespaces Mass points for models with a vector mediator.\relax }}{29}{table.caption.19}
-\contentsline {table}{\numberline {1.10}{\ignorespaces Mass points for Zp2HDM.\relax }}{29}{table.caption.20}
-\contentsline {table}{\numberline {1.11}{\ignorespaces Mass points for models with a scalar mediator.\relax }}{29}{table.caption.21}
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces Datasets used in the analysis. \relax }}{54}{table.caption.39}
-\contentsline {table}{\numberline {3.2}{\ignorespaces Trigger paths used in 2016 collision data.\relax }}{55}{table.caption.40}
-\contentsline {table}{\numberline {3.3}{\ignorespaces Trigger efficiencies measured using $4\ell $ events.\relax }}{56}{table.caption.42}
-\contentsline {table}{\numberline {3.4}{\ignorespaces Benchmark signal samples analyzed.\relax }}{57}{table.caption.43}
-\contentsline {table}{\numberline {3.5}{\ignorespaces Higgs signal samples and cross sections.\relax }}{57}{table.caption.44}
-\contentsline {table}{\numberline {3.6}{\ignorespaces Background Monte Carlo samples and cross sections.\relax }}{58}{table.caption.45}
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces Overview of input variables to the identification classifier. Variables not used in the run I MVA are marked with $(\mathord {\cdot })$.\relax }}{63}{table.caption.50}
-\contentsline {table}{\numberline {4.2}{\ignorespaces Minimum BDT score required for passing the electron identification.\relax }}{63}{table.caption.51}
-\contentsline {table}{\numberline {4.3}{\ignorespaces The requirements for a muon to pass the Tracker High-$\ensuremath {p_{\rm {T}}}$ ID. Note that these are equivalent to the Muon POG High-$\ensuremath {p_{\rm {T}}}$ ID with the global track requirements removed. \relax }}{68}{table.caption.55}
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {5.1}{\ignorespaces Cross sections for \ensuremath {\ensuremath {q}\mathaccentV {bar}016{\ensuremath {q}}\to \ensuremath {Z}\ensuremath {Z}}\nobreakspace {} production at 13 \ensuremath {\mathrm {Te\kern -0.1em V}}\relax }}{86}{table.caption.74}
-\contentsline {table}{\numberline {5.2}{\ignorespaces The contribution of reducible background processes in the signal region predicted from measurements in data using the Opposite-Sign Leptons method. The predictions correspond to 35.9\ensuremath {\rm {\ fb}^{-1}}of data at 13 TeV.\relax }}{94}{table.caption.82}
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {6.3}{\ignorespaces Summary of the experimental systematic uncertainties in the $\ensuremath {\ensuremath {H}\to 4\ell }$ measurements. \relax }}{101}{table.caption.90}
-\contentsline {table}{\numberline {6.4}{\ignorespaces Summary of the theory systematic uncertainties in the $\ensuremath {\ensuremath {H}\to 4\ell }$ measurements for the inclusive analysis\relax }}{102}{table.caption.91}
+\contentsline {table}{\numberline {1.1}{\ignorespaces Effective Field Theory Models \cite {Carpenter:2013xra}.\relax }}{20}{table.caption.8}
+\contentsline {table}{\numberline {1.2}{\ignorespaces Constraints on effective field theory model parameters \cite {Carpenter:2013xra}.\relax }}{21}{table.caption.9}
+\contentsline {table}{\numberline {1.3}{\ignorespaces New particles and parameters of the Zp2HDM simplified model \cite {Carpenter:2013xra}\relax }}{23}{table.caption.11}
+\contentsline {table}{\numberline {1.4}{\ignorespaces New particles and parameters of the ZpBaryonic simplified model \cite {Carpenter:2013xra}\relax }}{24}{table.caption.13}
+\contentsline {table}{\numberline {1.5}{\ignorespaces New particles and parameters of the ZpHS simplified model \cite {Carpenter:2013xra}\relax }}{25}{table.caption.14}
+\contentsline {table}{\numberline {1.6}{\ignorespaces New particles and parameters of the Scalar simplified model \cite {Carpenter:2013xra}\relax }}{27}{table.caption.16}
+\contentsline {table}{\numberline {1.7}{\ignorespaces Benchmark parameter choices for the simplified models \cite {Carpenter:2013xra, Abercrombie:2015wmb}.\relax }}{28}{table.caption.17}
+\contentsline {table}{\numberline {1.8}{\ignorespaces Benchmark mass points for models with a vector mediator \cite {Abercrombie:2015wmb}.\relax }}{28}{table.caption.18}
+\contentsline {table}{\numberline {1.9}{\ignorespaces Theoretical and experimental constraints on simplified model parameters \cite {Carpenter:2013xra, Abercrombie:2015wmb}.\relax }}{28}{table.caption.19}
+\contentsline {table}{\numberline {1.10}{\ignorespaces Benchmark mass points for the Zp2HDM simplified model \cite {Abercrombie:2015wmb}.\relax }}{29}{table.caption.20}
+\contentsline {table}{\numberline {1.11}{\ignorespaces Benchmark mass points for models with a scalar mediator \cite {Abercrombie:2015wmb}.\relax }}{29}{table.caption.21}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {A.1}{\ignorespaces EFT production cross sections [pb]\relax }}{113}{table.caption.101}
-\contentsline {table}{\numberline {A.2}{\ignorespaces Scalar production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMScalar}\relax }}{114}{table.caption.102}
-\contentsline {table}{\numberline {A.3}{\ignorespaces ZpBaryonic production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMVector}\relax }}{115}{table.caption.103}
-\contentsline {table}{\numberline {A.4}{\ignorespaces ZpHS production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MMVector}\relax }}{116}{table.caption.104}
-\contentsline {table}{\numberline {A.5}{\ignorespaces Zp2HDM production cross sections [pb] corresponding to mass points in Table\nobreakspace {}\ref {tab:MM2HDM} \relax }}{117}{table.caption.105}
+\contentsline {table}{\numberline {3.1}{\ignorespaces Datasets used in the analysis. \relax }}{55}{table.caption.39}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Trigger paths used in 2016 collision data.\relax }}{56}{table.caption.40}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Trigger efficiencies measured using $4\ell $ events.\relax }}{57}{table.caption.42}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Benchmark signal samples analyzed.\relax }}{58}{table.caption.43}
+\contentsline {table}{\numberline {3.5}{\ignorespaces Higgs signal samples and cross sections.\relax }}{58}{table.caption.44}
+\contentsline {table}{\numberline {3.6}{\ignorespaces Background Monte Carlo samples and cross sections.\relax }}{59}{table.caption.45}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Overview of input variables to the identification classifier. Variables not used in the run I MVA are marked with $(\mathord {\cdot })$.\relax }}{64}{table.caption.50}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Minimum BDT score required for passing the electron identification.\relax }}{64}{table.caption.51}
+\contentsline {table}{\numberline {4.3}{\ignorespaces The requirements for a muon to pass the Tracker High-$\ensuremath {p_{\rm {T}}}$ ID. Note that these are equivalent to the Muon POG High-$\ensuremath {p_{\rm {T}}}$ ID with the global track requirements removed. \relax }}{69}{table.caption.55}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Cross sections for \ensuremath {\ensuremath {q}\mathaccentV {bar}016{\ensuremath {q}}\to \ensuremath {Z}\ensuremath {Z}}~ production at 13 \ensuremath {\mathrm {Te\kern -0.1em V}}\relax }}{87}{table.caption.74}
+\contentsline {table}{\numberline {5.2}{\ignorespaces The contribution of reducible background processes in the signal region predicted from measurements in data using the Opposite-Sign Leptons method. The predictions correspond to 35.9\ensuremath {\rm {\ fb}^{-1}}of data at 13 TeV.\relax }}{95}{table.caption.82}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Cut-flow table for the $4\mu $ channel. An example signal of Zp2HDM with $m_{Z'}=600$ GeV is shown in the second to last column.\relax }}{95}{table.caption.83}
+\contentsline {table}{\numberline {5.4}{\ignorespaces Final signal region yields using the cut-and-count selection strategy for the $4\mu $ channel. An example signal of Zp2HDM with $m_{Z'}=600$ GeV is shown in the second to last column.\relax }}{96}{table.caption.84}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Summary of the experimental systematic uncertainties in the $\ensuremath {\ensuremath {H}\to 4\ell }$ measurements. \relax }}{102}{table.caption.90}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Summary of the theory systematic uncertainties in the $\ensuremath {\ensuremath {H}\to 4\ell }$ measurements for the inclusive analysis\relax }}{103}{table.caption.91}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces EFT production cross sections [pb]\relax }}{113}{table.caption.97}
+\contentsline {table}{\numberline {A.2}{\ignorespaces Scalar production cross sections [pb] corresponding to mass points in Table~\ref {tab:MMScalar}\relax }}{114}{table.caption.98}
+\contentsline {table}{\numberline {A.3}{\ignorespaces ZpBaryonic production cross sections [pb] corresponding to mass points in Table~\ref {tab:MMVector}\relax }}{115}{table.caption.99}
+\contentsline {table}{\numberline {A.4}{\ignorespaces ZpHS production cross sections [pb] corresponding to mass points in Table~\ref {tab:MMVector}\relax }}{116}{table.caption.100}
+\contentsline {table}{\numberline {A.5}{\ignorespaces Zp2HDM production cross sections [pb] corresponding to mass points in Table~\ref {tab:MM2HDM} \relax }}{117}{table.caption.101}

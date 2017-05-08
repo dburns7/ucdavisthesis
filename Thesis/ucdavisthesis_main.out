@@ -1,61 +1,64 @@
 \BOOKMARK [1][-]{chapter*.2}{List of Figures}{}% 1
 \BOOKMARK [1][-]{chapter*.3}{List of Tables}{}% 2
-\BOOKMARK [0][-]{chapter.1}{Motivation and theoretical background}{}% 3
-\BOOKMARK [1][-]{section.1.1}{The Standard Model}{chapter.1}% 4
-\BOOKMARK [2][-]{subsection.1.1.1}{Symmetries of nature}{section.1.1}% 5
-\BOOKMARK [2][-]{subsection.1.1.2}{Particle content}{section.1.1}% 6
-\BOOKMARK [1][-]{section.1.2}{Dark matter}{chapter.1}% 7
-\BOOKMARK [2][-]{subsection.1.2.1}{Background}{section.1.2}% 8
-\BOOKMARK [1][-]{section.1.3}{Beyond the Standard Model}{chapter.1}% 9
-\BOOKMARK [2][-]{subsection.1.3.1}{Collider searches for DM}{section.1.3}% 10
-\BOOKMARK [2][-]{subsection.1.3.2}{Signal Models}{section.1.3}% 11
-\BOOKMARK [0][-]{chapter.2}{Experimental apparatus}{}% 12
-\BOOKMARK [1][-]{section.2.1}{Large Hadron Collider}{chapter.2}% 13
-\BOOKMARK [1][-]{section.2.2}{Compact Muon Solenoid}{chapter.2}% 14
-\BOOKMARK [2][-]{subsection.2.2.1}{Tracking detectors}{section.2.2}% 15
-\BOOKMARK [2][-]{subsection.2.2.2}{Electromagnetic calorimeter}{section.2.2}% 16
-\BOOKMARK [2][-]{subsection.2.2.3}{Hadronic calorimeter}{section.2.2}% 17
-\BOOKMARK [2][-]{subsection.2.2.4}{Muon detectors}{section.2.2}% 18
-\BOOKMARK [2][-]{subsection.2.2.5}{Trigger}{section.2.2}% 19
-\BOOKMARK [0][-]{chapter.3}{Event reconstruction and simulation}{}% 20
-\BOOKMARK [1][-]{section.3.1}{Particle reconstruction}{chapter.3}% 21
-\BOOKMARK [1][-]{section.3.2}{Monte Carlo event simulation}{chapter.3}% 22
-\BOOKMARK [1][-]{section.3.3}{Datasets}{chapter.3}% 23
-\BOOKMARK [2][-]{subsection.3.3.1}{Data}{section.3.3}% 24
-\BOOKMARK [2][-]{subsection.3.3.2}{Simulation}{section.3.3}% 25
-\BOOKMARK [0][-]{chapter.4}{Physics Objects}{}% 26
-\BOOKMARK [1][-]{section.4.1}{Electrons}{chapter.4}% 27
-\BOOKMARK [2][-]{subsection.4.1.1}{Electron Reconstruction}{section.4.1}% 28
-\BOOKMARK [2][-]{subsection.4.1.2}{Electron Identification}{section.4.1}% 29
-\BOOKMARK [2][-]{subsection.4.1.3}{Electron Isolation}{section.4.1}% 30
-\BOOKMARK [2][-]{subsection.4.1.4}{Electron Energy Calibrations}{section.4.1}% 31
-\BOOKMARK [2][-]{subsection.4.1.5}{Electron Efficiency Measurements}{section.4.1}% 32
-\BOOKMARK [1][-]{section.4.2}{Muons}{chapter.4}% 33
-\BOOKMARK [2][-]{subsection.4.2.1}{Muon Reconstruction and Identification}{section.4.2}% 34
-\BOOKMARK [2][-]{subsection.4.2.2}{Muon Isolation}{section.4.2}% 35
-\BOOKMARK [2][-]{subsection.4.2.3}{Muon Efficiency Measurements}{section.4.2}% 36
-\BOOKMARK [1][-]{section.4.3}{Photons for FSR recovery}{chapter.4}% 37
-\BOOKMARK [1][-]{section.4.4}{Jets}{chapter.4}% 38
-\BOOKMARK [1][-]{section.4.5}{MET}{chapter.4}% 39
-\BOOKMARK [0][-]{chapter.5}{Signal and Control Regions}{}% 40
-\BOOKMARK [1][-]{section.5.1}{Event Selection}{chapter.5}% 41
-\BOOKMARK [2][-]{subsection.5.1.1}{Trigger Selection}{section.5.1}% 42
-\BOOKMARK [2][-]{subsection.5.1.2}{Vertex Selection}{section.5.1}% 43
-\BOOKMARK [2][-]{subsection.5.1.3}{ZZ Candidate Selection}{section.5.1}% 44
-\BOOKMARK [2][-]{subsection.5.1.4}{Choice of the best ZZ Candidate}{section.5.1}% 45
-\BOOKMARK [1][-]{section.5.2}{Signal region and blinding}{chapter.5}% 46
-\BOOKMARK [2][-]{subsection.5.2.1}{Cut-and-count based signal region}{section.5.2}% 47
-\BOOKMARK [2][-]{subsection.5.2.2}{MVA based signal region}{section.5.2}% 48
-\BOOKMARK [1][-]{section.5.3}{Background Modeling}{chapter.5}% 49
-\BOOKMARK [2][-]{subsection.5.3.1}{Irreducible Backgrounds}{section.5.3}% 50
-\BOOKMARK [2][-]{subsection.5.3.2}{Reducible Background}{section.5.3}% 51
-\BOOKMARK [0][-]{chapter.6}{Results}{}% 52
-\BOOKMARK [1][-]{section.6.1}{Statistical analysis}{chapter.6}% 53
-\BOOKMARK [2][-]{subsection.6.1.1}{Systematic uncertainties}{section.6.1}% 54
-\BOOKMARK [2][-]{subsection.6.1.2}{Limit setting}{section.6.1}% 55
-\BOOKMARK [1][-]{section.6.2}{Cross Section Limits}{chapter.6}% 56
-\BOOKMARK [2][-]{subsection.6.2.1}{Cut-and-count based}{section.6.2}% 57
-\BOOKMARK [2][-]{subsection.6.2.2}{MVA based}{section.6.2}% 58
-\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 59
-\BOOKMARK [0][-]{section*.100}{Appendices}{}% 60
-\BOOKMARK [0][-]{Appendix.1.A}{Production Cross Sections for Benchmark Signal Models}{}% 61
+\BOOKMARK [1][-]{chapter*.3}{Abstract}{}% 3
+\BOOKMARK [1][-]{chapter*.3}{Acknowledgments}{}% 4
+\BOOKMARK [0][-]{chapter.1}{Motivation and theoretical background}{}% 5
+\BOOKMARK [1][-]{section.1.1}{The Standard Model}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.1.1}{Symmetries of nature}{section.1.1}% 7
+\BOOKMARK [2][-]{subsection.1.1.2}{Particle content}{section.1.1}% 8
+\BOOKMARK [1][-]{section.1.2}{Dark matter}{chapter.1}% 9
+\BOOKMARK [2][-]{subsection.1.2.1}{Background}{section.1.2}% 10
+\BOOKMARK [1][-]{section.1.3}{Beyond the Standard Model}{chapter.1}% 11
+\BOOKMARK [2][-]{subsection.1.3.1}{Collider searches for DM}{section.1.3}% 12
+\BOOKMARK [2][-]{subsection.1.3.2}{Signal Models}{section.1.3}% 13
+\BOOKMARK [0][-]{chapter.2}{Experimental apparatus}{}% 14
+\BOOKMARK [1][-]{section.2.1}{Large Hadron Collider}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.2}{Compact Muon Solenoid}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.2.1}{Tracking detectors}{section.2.2}% 17
+\BOOKMARK [2][-]{subsection.2.2.2}{Electromagnetic calorimeter}{section.2.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.3}{Hadronic calorimeter}{section.2.2}% 19
+\BOOKMARK [2][-]{subsection.2.2.4}{Muon detectors}{section.2.2}% 20
+\BOOKMARK [2][-]{subsection.2.2.5}{Trigger}{section.2.2}% 21
+\BOOKMARK [0][-]{chapter.3}{Event reconstruction and simulation}{}% 22
+\BOOKMARK [1][-]{section.3.1}{Particle reconstruction}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.2}{Monte Carlo event simulation}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.3}{Datasets}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.1}{Data}{section.3.3}% 26
+\BOOKMARK [2][-]{subsection.3.3.2}{Simulation}{section.3.3}% 27
+\BOOKMARK [0][-]{chapter.4}{Physics Objects}{}% 28
+\BOOKMARK [1][-]{section.4.1}{Electrons}{chapter.4}% 29
+\BOOKMARK [2][-]{subsection.4.1.1}{Electron Reconstruction}{section.4.1}% 30
+\BOOKMARK [2][-]{subsection.4.1.2}{Electron Identification}{section.4.1}% 31
+\BOOKMARK [2][-]{subsection.4.1.3}{Electron Isolation}{section.4.1}% 32
+\BOOKMARK [2][-]{subsection.4.1.4}{Electron Energy Calibrations}{section.4.1}% 33
+\BOOKMARK [2][-]{subsection.4.1.5}{Electron Efficiency Measurements}{section.4.1}% 34
+\BOOKMARK [1][-]{section.4.2}{Muons}{chapter.4}% 35
+\BOOKMARK [2][-]{subsection.4.2.1}{Muon Reconstruction and Identification}{section.4.2}% 36
+\BOOKMARK [2][-]{subsection.4.2.2}{Muon Isolation}{section.4.2}% 37
+\BOOKMARK [2][-]{subsection.4.2.3}{Muon Efficiency Measurements}{section.4.2}% 38
+\BOOKMARK [1][-]{section.4.3}{Photons for FSR recovery}{chapter.4}% 39
+\BOOKMARK [1][-]{section.4.4}{Jets}{chapter.4}% 40
+\BOOKMARK [1][-]{section.4.5}{MET}{chapter.4}% 41
+\BOOKMARK [0][-]{chapter.5}{Signal and Control Regions}{}% 42
+\BOOKMARK [1][-]{section.5.1}{Event Selection}{chapter.5}% 43
+\BOOKMARK [2][-]{subsection.5.1.1}{Trigger Selection}{section.5.1}% 44
+\BOOKMARK [2][-]{subsection.5.1.2}{Vertex Selection}{section.5.1}% 45
+\BOOKMARK [2][-]{subsection.5.1.3}{ZZ Candidate Selection}{section.5.1}% 46
+\BOOKMARK [2][-]{subsection.5.1.4}{Choice of the best ZZ Candidate}{section.5.1}% 47
+\BOOKMARK [1][-]{section.5.2}{Signal region and blinding}{chapter.5}% 48
+\BOOKMARK [2][-]{subsection.5.2.1}{Cut-and-count based signal region}{section.5.2}% 49
+\BOOKMARK [2][-]{subsection.5.2.2}{MVA based signal region}{section.5.2}% 50
+\BOOKMARK [1][-]{section.5.3}{Background Modeling}{chapter.5}% 51
+\BOOKMARK [2][-]{subsection.5.3.1}{Irreducible Backgrounds}{section.5.3}% 52
+\BOOKMARK [2][-]{subsection.5.3.2}{Reducible Background}{section.5.3}% 53
+\BOOKMARK [1][-]{section.5.4}{Event Yields}{chapter.5}% 54
+\BOOKMARK [0][-]{chapter.6}{Results}{}% 55
+\BOOKMARK [1][-]{section.6.1}{Statistical analysis}{chapter.6}% 56
+\BOOKMARK [2][-]{subsection.6.1.1}{Systematic uncertainties}{section.6.1}% 57
+\BOOKMARK [2][-]{subsection.6.1.2}{Limit setting}{section.6.1}% 58
+\BOOKMARK [1][-]{section.6.2}{Cross Section Limits}{chapter.6}% 59
+\BOOKMARK [2][-]{subsection.6.2.1}{Cut-and-count based}{section.6.2}% 60
+\BOOKMARK [2][-]{subsection.6.2.2}{MVA based}{section.6.2}% 61
+\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 62
+\BOOKMARK [0][-]{section*.96}{Appendices}{}% 63
+\BOOKMARK [0][-]{Appendix.1.A}{Production Cross Sections for Benchmark Signal Models}{}% 64
