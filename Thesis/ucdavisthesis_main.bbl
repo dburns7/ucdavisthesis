@@ -238,7 +238,7 @@ S.~Tomonaga.
 
 \bibitem{PhysRev.75.486}
 F.~J. Dyson.
-\newblock The radiation theories of tomonaga, schwinger, and feynman.
+\newblock The radiation theories of {T}omonaga, {S}chwinger, and {F}eynman.
 \newblock {\em Phys. Rev.}, 75:486--502, Feb 1949.
 \newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRev.75.486}, \href
   {http://dx.doi.org/10.1103/PhysRev.75.486}
@@ -262,8 +262,8 @@ G.~Zweig.
 G.~Zweig.
 \newblock {An SU(3) model for strong interaction symmetry and its breaking.
   Version 2}.
-\newblock In D.B. Lichtenberg and Simon~Peter Rosen, editors, {\em DEVELOPMENTS
-  IN THE QUARK THEORY OF HADRONS. VOL. 1. 1964 - 1978}, pages 22--101. 1964.
+\newblock In D.B. Lichtenberg and Simon~Peter Rosen, editors, {\em Developments
+  in the quark theory of hadrons. VOL. 1. 1964 - 1978}, pages 22--101. 1964.
 \newblock URL: \url{https://inspirehep.net/record/4674/files/cern-th-412.pdf}.
 
 \bibitem{PhysRevLett.30.1346}
@@ -288,13 +288,7 @@ Enrico Fermi.
 \newblock {\em Ric. Sci.}, 4:491--495, 1933.
 
 \bibitem{PhysRevLett.33.1406}
-J.~E. Augustin, A.~M. Boyarski, M.~Breidenbach, F.~Bulos, J.~T. Dakin, G.~J.
-  Feldman, G.~E. Fischer, D.~Fryberger, G.~Hanson, B.~Jean-Marie, R.~R. Larsen,
-  V.~L\"uth, H.~L. Lynch, D.~Lyon, C.~C. Morehouse, J.~M. Paterson, M.~L. Perl,
-  B.~Richter, P.~Rapidis, R.~F. Schwitters, W.~M. Tanenbaum, F.~Vannucci, G.~S.
-  Abrams, D.~Briggs, W.~Chinowsky, C.~E. Friedberg, G.~Goldhaber, R.~J.
-  Hollebeek, J.~A. Kadyk, B.~Lulu, F.~Pierre, G.~H. Trilling, J.~S. Whitaker,
-  J.~Wiss, and J.~E. Zipse.
+J.~et~al. Augustin.
 \newblock Discovery of a narrow resonance in ${e}^{+}{e}^{-}$ annihilation.
 \newblock {\em Phys. Rev. Lett.}, 33:1406--1408, Dec 1974.
 \newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.33.1406}, \href
@@ -302,9 +296,7 @@ J.~E. Augustin, A.~M. Boyarski, M.~Breidenbach, F.~Bulos, J.~T. Dakin, G.~J.
   {\path{doi:10.1103/PhysRevLett.33.1406}}.
 
 \bibitem{PhysRevLett.33.1404}
-J.~J. Aubert, U.~Becker, P.~J. Biggs, J.~Burger, M.~Chen, G.~Everhart,
-  P.~Goldhagen, J.~Leong, T.~McCorriston, T.~G. Rhoades, M.~Rohde, Samuel C.~C.
-  Ting, Sau~Lan Wu, and Y.~Y. Lee.
+J.~et~al. Aubert.
 \newblock Experimental observation of a heavy particle $j$.
 \newblock {\em Phys. Rev. Lett.}, 33:1404--1406, Dec 1974.
 \newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.33.1404}, \href
@@ -643,82 +635,16 @@ Hsin-Chia Cheng, Konstantin~T. Matchev, and Martin Schmaltz.
   {\path{doi:10.1103/PhysRevD.66.036005}}.
 
 \bibitem{PhysRevLett.110.131302}
-M.~G. Aartsen, R.~Abbasi, Y.~Abdou, M.~Ackermann, J.~Adams, J.~A. Aguilar,
-  M.~Ahlers, D.~Altmann, J.~Auffenberg, X.~Bai, M.~Baker, S.~W. Barwick,
-  V.~Baum, R.~Bay, K.~Beattie, J.~J. Beatty, S.~Bechet, J.~Becker~Tjus, K.-H.
-  Becker, M.~Bell, M.~L. Benabderrahmane, S.~BenZvi, J.~Berdermann,
-  P.~Berghaus, D.~Berley, E.~Bernardini, A.~Bernhard, D.~Bertrand, D.~Z.
-  Besson, D.~Bindig, M.~Bissok, E.~Blaufuss, J.~Blumenthal, D.~J. Boersma,
-  S.~Bohaichuk, C.~Bohm, D.~Bose, S.~B\"oser, O.~Botner, L.~Brayeur, A.~M.
-  Brown, R.~Bruijn, J.~Brunner, S.~Buitink, M.~Carson, J.~Casey, M.~Casier,
-  D.~Chirkin, B.~Christy, K.~Clark, F.~Clevermann, S.~Cohen, D.~F. Cowen, A.~H.
-  Cruz~Silva, M.~Danninger, J.~Daughhetee, J.~C. Davis, C.~De~Clercq,
-  S.~De~Ridder, P.~Desiati, G.~de~Vries-Uiterweerd, M.~de~With, T.~DeYoung,
-  J.~C. D\'{\i}az-V\'elez, J.~Dreyer, M.~Dunkman, R.~Eagan, B.~Eberhardt,
-  J.~Eisch, R.~W. Ellsworth, O.~Engdeg\aa{}rd, S.~Euler, P.~A. Evenson,
-  O.~Fadiran, A.~R. Fazely, A.~Fedynitch, J.~Feintzeig, T.~Feusels,
-  K.~Filimonov, C.~Finley, T.~Fischer-Wasels, S.~Flis, A.~Franckowiak,
-  R.~Franke, K.~Frantzen, T.~Fuchs, T.~K. Gaisser, J.~Gallagher, L.~Gerhardt,
-  L.~Gladstone, T.~Gl\"usenkamp, A.~Goldschmidt, G.~Golup, J.~A. Goodman,
-  D.~G\'ora, D.~Grant, A.~Gro\ss{}, M.~Gurtner, C.~Ha, A.~Haj~Ismail,
-  A.~Hallgren, F.~Halzen, K.~Hanson, D.~Heereman, P.~Heimann, D.~Heinen,
-  K.~Helbing, R.~Hellauer, S.~Hickford, G.~C. Hill, K.~D. Hoffman, R.~Hoffmann,
-  A.~Homeier, K.~Hoshina, W.~Huelsnitz, P.~O. Hulth, K.~Hultqvist, S.~Hussain,
-  A.~Ishihara, E.~Jacobi, J.~Jacobsen, G.~S. Japaridze, K.~Jero, O.~Jlelati,
-  B.~Kaminsky, A.~Kappes, T.~Karg, A.~Karle, J.~L. Kelley, J.~Kiryluk,
-  F.~Kislat, J.~Kl\"as, S.~R. Klein, J.-H. K\"ohne, G.~Kohnen, H.~Kolanoski,
-  L.~K\"opke, C.~Kopper, S.~Kopper, D.~J. Koskinen, M.~Kowalski, M.~Krasberg,
-  G.~Kroll, J.~Kunnen, N.~Kurahashi, T.~Kuwabara, M.~Labare, H.~Landsman, M.~J.
-  Larson, M.~Lesiak-Bzdak, J.~Leute, J.~L\"unemann, J.~Madsen, R.~Maruyama,
-  K.~Mase, H.~S. Matis, F.~McNally, K.~Meagher, M.~Merck, P.~M\'esz\'aros,
-  T.~Meures, S.~Miarecki, E.~Middell, N.~Milke, J.~Miller, L.~Mohrmann,
-  T.~Montaruli, R.~Morse, R.~Nahnhauer, U.~Naumann, H.~Niederhausen, S.~C.
-  Nowicki, D.~R. Nygren, A.~Obertacke, S.~Odrowski, A.~Olivas, M.~Olivo,
-  A.~O'Murchadha, L.~Paul, J.~A. Pepper, C.~P\'erez de~los Heros, C.~Pfendner,
-  D.~Pieloth, N.~Pirk, J.~Posselt, P.~B. Price, G.~T. Przybylski, L.~R\"adel,
-  K.~Rawlins, P.~Redl, E.~Resconi, W.~Rhode, M.~Ribordy, M.~Richman, B.~Riedel,
-  J.~P. Rodrigues, C.~Rott, T.~Ruhe, B.~Ruzybayev, D.~Ryckbosch, S.~M. Saba,
-  T.~Salameh, H.-G. Sander, M.~Santander, S.~Sarkar, K.~Schatto, M.~Scheel,
-  F.~Scheriau, T.~Schmidt, M.~Schmitz, S.~Schoenen, S.~Sch\"oneberg,
-  L.~Sch\"onherr, A.~Sch\"onwald, A.~Schukraft, L.~Schulte, O.~Schulz,
-  D.~Seckel, S.~H. Seo, Y.~Sestayo, S.~Seunarine, C.~Sheremata, M.~W.~E. Smith,
-  M.~Soiron, D.~Soldin, G.~M. Spiczak, C.~Spiering, M.~Stamatikos, T.~Stanev,
-  A.~Stasik, T.~Stezelberger, R.~G. Stokstad, A.~St\"o\ss{}l, E.~A. Strahler,
-  R.~Str\"om, G.~W. Sullivan, H.~Taavola, I.~Taboada, A.~Tamburro,
-  S.~Ter-Antonyan, S.~Tilav, P.~A. Toale, S.~Toscano, M.~Usner, D.~van~der
-  Drift, N.~van Eijndhoven, A.~Van~Overloop, J.~van Santen, M.~Vehring,
-  M.~Voge, M.~Vraeghe, C.~Walck, T.~Waldenmaier, M.~Wallraff, R.~Wasserman, Ch.
-  Weaver, M.~Wellons, C.~Wendt, S.~Westerhoff, N.~Whitehorn, K.~Wiebe, C.~H.
-  Wiebusch, D.~R. Williams, H.~Wissing, M.~Wolf, T.~R. Wood, K.~Woschnagg,
-  C.~Xu, D.~L. Xu, X.~W. Xu, J.~P. Yanez, G.~Yodh, S.~Yoshida, P.~Zarzhitsky,
-  J.~Ziemann, S.~Zierke, A.~Zilles, and M.~Zoll.
+M.~et~al. Aartsen.
 \newblock Search for dark matter annihilations in the sun with the 79-string
-  icecube detector.
+  {I}ce{C}ube detector.
 \newblock {\em Phys. Rev. Lett.}, 110:131302, Mar 2013.
 \newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.110.131302},
   \href {http://dx.doi.org/10.1103/PhysRevLett.110.131302}
   {\path{doi:10.1103/PhysRevLett.110.131302}}.
 
 \bibitem{0004-637X-742-2-78}
-T.~Tanaka, K.~Abe, Y.~Hayato, T.~Iida, J.~Kameda, Y.~Koshio, Y.~Kouzuma,
-  M.~Miura, S.~Moriyama, M.~Nakahata, S.~Nakayama, Y.~Obayashi, H.~Sekiya,
-  M.~Shiozawa, Y.~Suzuki, A.~Takeda, Y.~Takenaga, K.~Ueno, K.~Ueshima,
-  S.~Yamada, T.~Yokozawa, C.~Ishihara, S.~Hazama, H.~Kaji, T.~Kajita,
-  K.~Kaneyuki, T.~McLachlan, K.~Okumura, Y.~Shimizu, N.~Tanimoto, F.~Dufour,
-  E.~Kearns, M.~Litos, J.~L. Raaf, J.~L. Stone, L.~R. Sulak, J.~P. Cravens,
-  K.~Bays, W.~R. Kropp, S.~Mine, C.~Regis, M.~B. Smy, H.~W. Sobel, K.~S.
-  Ganezer, J.~Hill, W.~E. Keig, J.~S. Jang, J.~Y. Kim, I.~T. Lim, J.~B. Albert,
-  K.~Scholberg, C.~W. Walter, R.~Wendell, T.~Wongjirad, T.~Ishizuka, S.~Tasaka,
-  J.~G. Learned, S.~Matsuno, S.~Smith, K.~Martens, M.~Vagins, Y.~Watanabe,
-  T.~Hasegawa, T.~Ishida, T.~Ishii, T.~Kobayashi, T.~Nakadaira, K.~Nakamura,
-  K.~Nishikawa, H.~Nishino, Y.~Oyama, K.~Sakashita, T.~Sekiguchi, T.~Tsukamoto,
-  A.~T. Suzuki, Y.~Takeuchi, M.~Ikeda, A.~Minamino, T.~Nakaya, L.~Labarga,
-  Y.~Fukuda, Y.~Itow, G.~Mitsuka, C.~K. Jung, C.~McGrew, G.~Lopez,
-  C.~Yanagisawa, N.~Tamura, H.~Ishino, A.~Kibayashi, M.~Sakuda, Y.~Kuno,
-  M.~Yoshida, S.~B. Kim, B.~S. Yang, H.~Okazawa, Y.~Choi, K.~Nishijima,
-  Y.~Yokosawa, M.~Koshiba, Y.~Totsuka, M.~Yokoyama, S.~Chen, Y.~Heng, Z.~Yang,
-  H.~Zhang, D.~Kielczewska, P.~Mijakowski, K.~Connolly, M.~Dziomba, E.~Thrane,
-  R.~J. Wilkes, and (The Super-Kamiokande Collaboration).
+T.~Tanaka et~al. (The Super-Kamiokande~Collaboration).
 \newblock An indirect search for weakly interacting massive particles in the
   sun using 3109.6 days of upward-going muons in super-kamiokande.
 \newblock {\em The Astrophysical Journal}, 742(2):78, 2011.
@@ -915,23 +841,22 @@ The~ATLAS collaboration.
 \newblock 2016.
 
 \bibitem{CMS-AN-15-338}
-Search for dark matter produced in association with a higgs boson decaying to a
-  pir of w+w- bosons in pp collisions at 13 tev.
+CMS collaboration.
+\newblock Search for dark matter produced in association with a higgs boson
+  decaying to a pir of w+w- bosons in pp collisions at 13 tev.
 \newblock CMS Analysis Note 2015/338, 2015.
 
 \bibitem{CMS-AN-15-203}
-Search for dark matter produced in association with a higgs boson decaying to
-  two photons.
+CMS collaboration.
+\newblock Search for dark matter produced in association with a higgs boson
+  decaying to two photons.
 \newblock CMS Analysis Note 2015/203, 2015.
 
 \bibitem{CMS-AN-15-209}
-Search for dark matter candidate in higgs to bb + missing transverse energy
-  (met) (mono-h) final state.
+CMS collaboration.
+\newblock Search for dark matter candidate in higgs to bb + missing transverse
+  energy (met) (mono-h) final state.
 \newblock CMS Analysis Note 2015/209, 2015.
-
-\bibitem{CMS-AN-15-???}
-tautau.
-\newblock CMS Analysis Note 2015/???, 2015.
 
 \bibitem{Chatrchyan:2013mxa}
 Serguei Chatrchyan et~al.
@@ -943,14 +868,16 @@ Serguei Chatrchyan et~al.
   {\path{doi:10.1103/PhysRevD.89.092007}}.
 
 \bibitem{ATLAS:2013nma}
-{Measurements of the properties of the Higgs-like boson in the four lepton
-  decay channel with the ATLAS detector using 25 fb−1 of proton-proton
+ATLAS collaboration.
+\newblock {Measurements of the properties of the Higgs-like boson in the four
+  lepton decay channel with the ATLAS detector using 25 fb−1 of proton-proton
   collision data}.
 \newblock 2013.
 
 \bibitem{CMS-AN-15-277}
-Measurement of the properties of the higgs boson in the four-lepton final state
-  at s = 13 tev.
+CMS Collaboration.
+\newblock Measurement of the properties of the higgs boson in the four-lepton
+  final state at s = 13 tev.
 \newblock CMS Analysis Note 2015/277, 2015.
 
 \bibitem{CMS-PAS-HIG-15-004}
@@ -962,7 +889,7 @@ Measurement of the properties of the higgs boson in the four-lepton final state
 
 \bibitem{synchtwiki}
 {CMS Collaborations}.
-\newblock H->4l synchronization for 2015.
+\newblock H4l synchronization for 2015.
 \newblock URL:
   \url{https://twiki.cern.ch/twiki/bin/view/CMS/HiggsZZ4l2015Sync}.
 
@@ -993,40 +920,7 @@ G.~Belanger, B.~Dumont, U.~Ellwanger, J.~F. Gunion, and S.~Kraml.
   {\path{doi:10.1016/j.physletb.2013.05.024}}.
 
 \bibitem{PhysRevD.86.010001}
-J.~Beringer, J.~F. Arguin, R.~M. Barnett, K.~Copic, O.~Dahl, D.~E. Groom, C.~J.
-  Lin, J.~Lys, H.~Murayama, C.~G. Wohl, W.~M. Yao, P.~A. Zyla, C.~Amsler,
-  M.~Antonelli, D.~M. Asner, H.~Baer, H.~R. Band, T.~Basaglia, C.~W. Bauer,
-  J.~J. Beatty, V.~I. Belousov, E.~Bergren, G.~Bernardi, W.~Bertl, S.~Bethke,
-  H.~Bichsel, O.~Biebel, E.~Blucher, S.~Blusk, G.~Brooijmans, O.~Buchmueller,
-  R.~N. Cahn, M.~Carena, A.~Ceccucci, D.~Chakraborty, M.~C. Chen, R.~S.
-  Chivukula, G.~Cowan, G.~D'Ambrosio, T.~Damour, D.~de~Florian, A.~de~Gouv\^ea,
-  T.~DeGrand, P.~de~Jong, G.~Dissertori, B.~Dobrescu, M.~Doser, M.~Drees, D.~A.
-  Edwards, S.~Eidelman, J.~Erler, V.~V. Ezhela, W.~Fetscher, B.~D. Fields,
-  B.~Foster, T.~K. Gaisser, L.~Garren, H.~J. Gerber, G.~Gerbier, T.~Gherghetta,
-  S.~Golwala, M.~Goodman, C.~Grab, A.~V. Gritsan, J.~F. Grivaz, M.~Gr\"unewald,
-  A.~Gurtu, T.~Gutsche, H.~E. Haber, K.~Hagiwara, C.~Hagmann, C.~Hanhart,
-  S.~Hashimoto, K.~G. Hayes, M.~Heffner, B.~Heltsley, J.~J. Hern\'andez-Rey,
-  K.~Hikasa, A.~H\"ocker, J.~Holder, A.~Holtkamp, J.~Huston, J.~D. Jackson,
-  K.~F. Johnson, T.~Junk, D.~Karlen, D.~Kirkby, S.~R. Klein, E.~Klempt, R.~V.
-  Kowalewski, F.~Krauss, M.~Kreps, B.~Krusche, Yu.~V. Kuyanov, Y.~Kwon,
-  O.~Lahav, J.~Laiho, P.~Langacker, A.~Liddle, Z.~Ligeti, T.~M. Liss,
-  L.~Littenberg, K.~S. Lugovsky, S.~B. Lugovsky, T.~Mannel, A.~V. Manohar,
-  W.~J. Marciano, A.~D. Martin, A.~Masoni, J.~Matthews, D.~Milstead, R.~Miquel,
-  K.~M\"onig, F.~Moortgat, K.~Nakamura, M.~Narain, P.~Nason, S.~Navas,
-  M.~Neubert, P.~Nevski, Y.~Nir, K.~A. Olive, L.~Pape, J.~Parsons,
-  C.~Patrignani, J.~A. Peacock, S.~T. Petcov, A.~Piepke, A.~Pomarol, G.~Punzi,
-  A.~Quadt, S.~Raby, G.~Raffelt, B.~N. Ratcliff, P.~Richardson, S.~Roesler,
-  S.~Rolli, A.~Romaniouk, L.~J. Rosenberg, J.~L. Rosner, C.~T. Sachrajda,
-  Y.~Sakai, G.~P. Salam, S.~Sarkar, F.~Sauli, O.~Schneider, K.~Scholberg,
-  D.~Scott, W.~G. Seligman, M.~H. Shaevitz, S.~R. Sharpe, M.~Silari,
-  T.~Sj\"ostrand, P.~Skands, J.~G. Smith, G.~F. Smoot, S.~Spanier, H.~Spieler,
-  A.~Stahl, T.~Stanev, S.~L. Stone, T.~Sumiyoshi, M.~J. Syphers, F.~Takahashi,
-  M.~Tanabashi, J.~Terning, M.~Titov, N.~P. Tkachenko, N.~A. T\"ornqvist,
-  D.~Tovey, G.~Valencia, K.~van Bibber, G.~Venanzoni, M.~G. Vincter, P.~Vogel,
-  A.~Vogt, W.~Walkowiak, C.~W. Walter, D.~R. Ward, T.~Watari, G.~Weiglein,
-  E.~J. Weinberg, L.~R. Wiencke, L.~Wolfenstein, J.~Womersley, C.~L. Woody,
-  R.~L. Workman, A.~Yamamoto, G.~P. Zeller, O.~V. Zenin, J.~Zhang, R.~Y. Zhu,
-  G.~Harper, V.~S. Lugovsky, and P.~Schaffner.
+J.~et~al. Beringer.
 \newblock Review of particle physics*.
 \newblock {\em Phys. Rev. D}, 86:010001, Jul 2012.
 \newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevD.86.010001}, \href
@@ -1195,7 +1089,10 @@ Lyndon Evans and Philip Bryant.
   \url{http://home.cern/about/engineering/restarting-lhc-why-13-tev}.
 
 \bibitem{1748-0221-3-08-S08004}
-
+The~CMS Collaboration.
+\newblock The cms experiment at the cern lhc.
+\newblock {\em Journal of Instrumentation}, 3(08):S08004, 2008.
+\newblock URL: \url{http://stacks.iop.org/1748-0221/3/i=08/a=S08004}.
 
 \bibitem{Chatrchyan:2014fea}
 Serguei Chatrchyan et~al.

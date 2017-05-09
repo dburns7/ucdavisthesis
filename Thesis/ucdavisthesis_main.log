@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  8 MAY 2017 00:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  9 MAY 2017 14:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -470,20 +470,20 @@ Package csquotes Info: ... found 'babel' package.
 (./ucdavisthesis_Appen1.aux))
 \openout1 = `ucdavisthesis_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -519,7 +519,7 @@ Package caption Info: rotating package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box33
-Package hyperref Info: Link coloring OFF on input line 126.
+Package hyperref Info: Link coloring OFF on input line 137.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -529,32 +529,32 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count163
 )
-LaTeX Info: Redefining \ref on input line 126.
-LaTeX Info: Redefining \pageref on input line 126.
-LaTeX Info: Redefining \nameref on input line 126.
+LaTeX Info: Redefining \ref on input line 137.
+LaTeX Info: Redefining \pageref on input line 137.
+LaTeX Info: Redefining \nameref on input line 137.
 
 (./ucdavisthesis_main.out) (./ucdavisthesis_main.out)
 \@outlinefile=\write3
 \openout3 = `ucdavisthesis_main.out'.
 
-Package csquotes Info: Making character " active on input line 126.
+Package csquotes Info: Making character " active on input line 137.
  [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 212.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 223.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 212.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 223.
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.212 \makeintropages
+l.223 \makeintropages
                       %Processes/produces the preliminary pages [1
 
 ] [2
@@ -578,7 +578,7 @@ Overfull \hbox (15.82588pt too wide) in paragraph at lines 60--60
 tion lim-its for the Zp2HDM 
  []
 
-
+[10]
 Overfull \hbox (15.82588pt too wide) in paragraph at lines 62--62
  [][] [][]\OT1/cmr/m/n/12 One-dimensional cross sec-tion times branch-ing frac-
 tion lim-its for the Zp2HDM 
@@ -588,15 +588,15 @@ tion lim-its for the Zp2HDM
 \tf@lof=\write5
 \openout5 = `ucdavisthesis_main.lof'.
 
- [10] (./ucdavisthesis_main.lot [11
+ [11] (./ucdavisthesis_main.lot [12
 
 ])
 \tf@lot=\write6
 \openout6 = `ucdavisthesis_main.lot'.
 
- [12] [13
+ [13] [14
 
-] [14]
+] [15] [16]
 \openout2 = `ucdavisthesis_Chap1.aux'.
 
 
@@ -613,14 +613,14 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <29.86> not available
 
 pdfTeX warning: pdflatex (file ./figures/smparticles.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<figures/smparticles.pdf, id=822, 505.89pt x 433.62pt>
+<figures/smparticles.pdf, id=842, 505.89pt x 433.62pt>
 File: figures/smparticles.pdf Graphic file (type pdf)
 
 <use figures/smparticles.pdf>
 Package pdftex.def Info: figures/smparticles.pdf used on input line 65.
 (pdftex.def)             Requested size: 361.34999pt x 309.73158pt.
  [8] [9 <./figures/smparticles.pdf>] [10]
-<figures/ZZMass_7Plus8TeV_70-180_3GeV.png, id=874, 598.235pt x 576.1525pt>
+<figures/ZZMass_7Plus8TeV_70-180_3GeV.png, id=894, 598.235pt x 576.1525pt>
 File: figures/ZZMass_7Plus8TeV_70-180_3GeV.png Graphic file (type png)
 
 <use figures/ZZMass_7Plus8TeV_70-180_3GeV.png>
@@ -628,41 +628,41 @@ Package pdftex.def Info: figures/ZZMass_7Plus8TeV_70-180_3GeV.png used on input
  line 111.
 (pdftex.def)             Requested size: 216.81pt x 208.80377pt.
  [11 <./figures/ZZMass_7Plus8TeV_70-180_3GeV.png>] [12] [13] [14] [15] [16]
-<figures/isr.png, id=996, 405.515pt x 405.515pt>
+<figures/isr.png, id=1016, 405.515pt x 405.515pt>
 File: figures/isr.png Graphic file (type png)
  <use figures/isr.png>
 Package pdftex.def Info: figures/isr.png used on input line 168.
 (pdftex.def)             Requested size: 144.54pt x 144.54355pt.
 
-<figures/fsr.png, id=997, 477.785pt x 277.035pt>
+<figures/fsr.png, id=1017, 477.785pt x 277.035pt>
 File: figures/fsr.png Graphic file (type png)
  <use figures/fsr.png>
 Package pdftex.def Info: figures/fsr.png used on input line 174.
 (pdftex.def)             Requested size: 180.67499pt x 104.75867pt.
- [17]
-[18 <./figures/isr.png> <./figures/fsr.png>]
-<figures/eftsig.png, id=1055, 464.73625pt x 286.06876pt>
+
+[17] [18 <./figures/isr.png> <./figures/fsr.png>]
+<figures/eftsig.png, id=1073, 464.73625pt x 286.06876pt>
 File: figures/eftsig.png Graphic file (type png)
 
 <use figures/eftsig.png>
 Package pdftex.def Info: figures/eftsig.png used on input line 198.
 (pdftex.def)             Requested size: 216.81pt x 133.45709pt.
  [19] [20 <./figures/eftsig.png>] [21]
-<figures/zp2hdmsig.png, id=1098, 516.93124pt x 291.0875pt>
+<figures/zp2hdmsig.png, id=1117, 516.93124pt x 291.0875pt>
 File: figures/zp2hdmsig.png Graphic file (type png)
 
 <use figures/zp2hdmsig.png>
 Package pdftex.def Info: figures/zp2hdmsig.png used on input line 270.
 (pdftex.def)             Requested size: 216.81pt x 122.08713pt.
  [22 <./figures/zp2hdmsig.png>]
-<figures/zpsig.png, id=1118, 499.8675pt x 278.03876pt>
+<figures/zpsig.png, id=1136, 499.8675pt x 278.03876pt>
 File: figures/zpsig.png Graphic file (type png)
  <use figures/zpsig.png>
 Package pdftex.def Info: figures/zpsig.png used on input line 327.
 (pdftex.def)             Requested size: 216.81pt x 120.59375pt.
 
 [23] [24 <./figures/zpsig.png>] [25]
-<figures/scsig.png, id=1169, 501.875pt x 279.0425pt>
+<figures/scsig.png, id=1187, 501.875pt x 279.0425pt>
 File: figures/scsig.png Graphic file (type png)
  <use figures/scsig.png>
 Package pdftex.def Info: figures/scsig.png used on input line 432.
@@ -677,14 +677,14 @@ Chapter 2.
 
 
 
-] [31] [32] [33] <figures/cms.jpg, id=1254, 491.9178pt x 327.3831pt>
+] [31] [32] [33] <figures/cms.jpg, id=1273, 491.9178pt x 327.3831pt>
 File: figures/cms.jpg Graphic file (type jpg)
 
 <use figures/cms.jpg>
 Package pdftex.def Info: figures/cms.jpg used on input line 37.
 (pdftex.def)             Requested size: 433.62pt x 288.58757pt.
  [34] [35 <./figures/cms.jpg>]
-<figures/tracker.pdf, id=1266, 437.85068pt x 207.63943pt>
+<figures/tracker.pdf, id=1284, 437.85068pt x 207.63943pt>
 File: figures/tracker.pdf Graphic file (type pdf)
 
 <use figures/tracker.pdf>
@@ -695,61 +695,61 @@ Overfull \hbox (14.45378pt too wide) in paragraph at lines 50--51
  [][] 
  []
 
-<figures/pixelmodule.pdf, id=1267, 440.60297pt x 254.78938pt>
+<figures/pixelmodule.pdf, id=1285, 440.60297pt x 254.78938pt>
 File: figures/pixelmodule.pdf Graphic file (type pdf)
 
 <use figures/pixelmodule.pdf>
 Package pdftex.def Info: figures/pixelmodule.pdf used on input line 57.
 (pdftex.def)             Requested size: 397.48499pt x 229.85648pt.
  [36 <./figures/tracker.pdf>]
-<figures/stripeff.pdf, id=1309, 225.61852pt x 164.3773pt>
+<figures/stripeff.pdf, id=1327, 225.61852pt x 164.3773pt>
 File: figures/stripeff.pdf Graphic file (type pdf)
 
 <use figures/stripeff.pdf>
 Package pdftex.def Info: figures/stripeff.pdf used on input line 66.
 (pdftex.def)             Requested size: 361.34999pt x 263.29247pt.
  [37 <./figures/pixelmodule.pdf>] [38 <./figures/stripeff.pdf>] <figures/ecal.p
-df, id=1412, 374.26605pt x 247.36063pt>
+df, id=1431, 374.26605pt x 247.36063pt>
 File: figures/ecal.pdf Graphic file (type pdf)
 
 <use figures/ecal.pdf>
 Package pdftex.def Info: figures/ecal.pdf used on input line 79.
 (pdftex.def)             Requested size: 361.34999pt x 238.8336pt.
 
-<figures/crystalmodules.pdf, id=1414, 424.44963pt x 143.523pt>
+<figures/crystalmodules.pdf, id=1433, 424.44963pt x 143.523pt>
 File: figures/crystalmodules.pdf Graphic file (type pdf)
 
 <use figures/crystalmodules.pdf>
 Package pdftex.def Info: figures/crystalmodules.pdf used on input line 88.
 (pdftex.def)             Requested size: 433.62pt x 146.62582pt.
  [39 <./figures/ecal.pdf>]
-<figures/hcal.pdf, id=1444, 380.84964pt x 224.00589pt>
+<figures/hcal.pdf, id=1463, 380.84964pt x 224.00589pt>
 File: figures/hcal.pdf Graphic file (type pdf)
  <use figures/hcal.pdf>
 Package pdftex.def Info: figures/hcal.pdf used on input line 105.
 (pdftex.def)             Requested size: 433.62pt x 255.04463pt.
 
 [40 <./figures/crystalmodules.pdf>] [41 <./figures/hcal.pdf>]
-<figures/eres_hcal.pdf, id=1541, 239.63896pt x 219.95757pt>
+<figures/eres_hcal.pdf, id=1559, 239.63896pt x 219.95757pt>
 File: figures/eres_hcal.pdf Graphic file (type pdf)
 
 <use figures/eres_hcal.pdf>
 Package pdftex.def Info: figures/eres_hcal.pdf used on input line 114.
 (pdftex.def)             Requested size: 289.07999pt x 265.35066pt.
  [42 <./figures/eres_hcal.pdf>]
-<figures/DTs.pdf, id=1583, 394.53792pt x 355.56407pt>
+<figures/DTs.pdf, id=1601, 394.53792pt x 355.56407pt>
 File: figures/DTs.pdf Graphic file (type pdf)
  <use figures/DTs.pdf>
 Package pdftex.def Info: figures/DTs.pdf used on input line 129.
 (pdftex.def)             Requested size: 361.34999pt x 325.65802pt.
 
-<figures/cscs.pdf, id=1585, 391.63858pt x 209.70627pt>
+<figures/cscs.pdf, id=1603, 391.63858pt x 209.70627pt>
 File: figures/cscs.pdf Graphic file (type pdf)
  <use figures/cscs.pdf>
 Package pdftex.def Info: figures/cscs.pdf used on input line 138.
 (pdftex.def)             Requested size: 289.07999pt x 154.793pt.
 
-[43] <figures/rpcbarrel.pdf, id=1591, 401.06805pt x 281.93211pt>
+[43] <figures/rpcbarrel.pdf, id=1609, 401.06805pt x 281.93211pt>
 File: figures/rpcbarrel.pdf Graphic file (type pdf)
 
 <use figures/rpcbarrel.pdf>
@@ -760,7 +760,7 @@ Overfull \hbox (11.92586pt too wide) in paragraph at lines 149--150
  [][] 
  []
 
-<figures/rpcendcap.pdf, id=1592, 247.12686pt x 261.80048pt>
+<figures/rpcendcap.pdf, id=1610, 247.12686pt x 261.80048pt>
 File: figures/rpcendcap.pdf Graphic file (type pdf)
 
 <use figures/rpcendcap.pdf>
@@ -772,28 +772,25 @@ Overfull \hbox (11.92586pt too wide) in paragraph at lines 154--155
  []
 
 [44 <./figures/DTs.pdf> <./figures/cscs.pdf>]
-<figures/muonres.pdf, id=1693, 272.90004pt x 189.89876pt>
+<figures/muonres.pdf, id=1712, 272.90004pt x 189.89876pt>
 File: figures/muonres.pdf Graphic file (type pdf)
 
 <use figures/muonres.pdf>
 Package pdftex.def Info: figures/muonres.pdf used on input line 165.
 (pdftex.def)             Requested size: 361.34999pt x 251.46686pt.
 
-<figures/l1t.pdf, id=1695, 273.74512pt x 188.77306pt>
+<figures/l1t.pdf, id=1714, 273.74512pt x 188.77306pt>
 File: figures/l1t.pdf Graphic file (type pdf)
  <use figures/l1t.pdf>
 Package pdftex.def Info: figures/l1t.pdf used on input line 176.
 (pdftex.def)             Requested size: 361.34999pt x 249.2071pt.
 
-
-LaTeX Warning: Reference `Fig:daq' on page 45 undefined on input line 181.
-
 [45 <./figures/rpcbarrel.pdf> <./figures/rpcendcap.pdf>]
-<figures/daq.pdf, id=1747, 288.89311pt x 121.20683pt>
+<figures/daq.pdf, id=1768, 288.89311pt x 121.20683pt>
 File: figures/daq.pdf Graphic file (type pdf)
  <use figures/daq.pdf>
 Package pdftex.def Info: figures/daq.pdf used on input line 185.
-(pdftex.def)             Requested size: 361.34999pt x 151.61542pt.
+(pdftex.def)             Requested size: 397.48499pt x 166.77548pt.
 
 [46 <./figures/muonres.pdf>] [47 <./figures/l1t.pdf> <./figures/daq.pdf>])
 [48]
@@ -805,42 +802,39 @@ Chapter 3.
 
 
 
-] <figures/PFa.pdf, id=1882, 569.12625pt x 534.99875pt>
+] <figures/PFa.pdf, id=1901, 569.12625pt x 534.99875pt>
 File: figures/PFa.pdf Graphic file (type pdf)
 
 <use figures/PFa.pdf>
 Package pdftex.def Info: figures/PFa.pdf used on input line 16.
 (pdftex.def)             Requested size: 289.07999pt x 271.76001pt.
- <figures/PFb.pdf, id=1883, 569.12625pt x 533.995pt>
+ <figures/PFb.pdf, id=1902, 569.12625pt x 533.995pt>
 File: figures/PFb.pdf Graphic file (type pdf)
 
 <use figures/PFb.pdf>
 Package pdftex.def Info: figures/PFb.pdf used on input line 24.
 (pdftex.def)             Requested size: 202.35622pt x 189.86696pt.
- <figures/PFc.pdf, id=1884, 569.12625pt x 533.995pt>
+ <figures/PFc.pdf, id=1903, 569.12625pt x 533.995pt>
 File: figures/PFc.pdf Graphic file (type pdf)
 
 <use figures/PFc.pdf>
 Package pdftex.def Info: figures/PFc.pdf used on input line 29.
 (pdftex.def)             Requested size: 202.35622pt x 189.86696pt.
  [50]
-<figures/pfmetres.pdf, id=1890, 569.12625pt x 365.365pt>
+<figures/pfmetres.pdf, id=1910, 569.12625pt x 365.365pt>
 File: figures/pfmetres.pdf Graphic file (type pdf)
 
 <use figures/pfmetres.pdf>
 Package pdftex.def Info: figures/pfmetres.pdf used on input line 43.
-(pdftex.def)             Requested size: 289.07999pt x 185.59221pt.
+(pdftex.def)             Requested size: 325.215pt x 208.78984pt.
  [51 <./figures/PFa.pdf, page is rotated 270 degrees>] [52 <./figures/PFb.pdf> 
 <./figures/PFc.pdf> <./figures/pfmetres.pdf, page is rotated 270 degrees>] [53]
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+ [54]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[54] [55]
-<Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf, id=2025, 569.12625pt x 384.43625pt
+[55] [56]
+<Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf, id=2051, 569.12625pt x 384.43625pt
 >
 File: Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf Graphic file (type pdf)
  <use Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf>
@@ -848,7 +842,7 @@ Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf used on inp
 ut line 210.
 (pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
 
-<Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf, id=2026, 569.12625pt x 384.43625p
+<Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf, id=2052, 569.12625pt x 384.43625p
 t>
 File: Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf Graphic file (type pdf)
  <use Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf>
@@ -856,7 +850,7 @@ Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf used on in
 put line 211.
 (pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
 
-<Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf, id=2027, 569.12625pt x 384.4362
+<Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf, id=2053, 569.12625pt x 384.4362
 5pt>
 File: Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf Graphic file (type pdf)
  <use Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf>
@@ -864,59 +858,74 @@ Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf used on
 input line 212.
 (pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
 
-<Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf, id=2028, 569.12625pt x 384.43625pt
+<Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf, id=2054, 569.12625pt x 384.43625pt
 >
 File: Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf Graphic file (type pdf)
  <use Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf>
 Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf used on inp
 ut line 213.
 (pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
- [56] [57 <./Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf, page is rotated 90 deg
-rees> <./Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf, page is rotated 90 degree
-s> <./Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf, page is rotated 90 degrees
-> <./Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf, page is rotated 90 degrees>] [
-58]
-<figures/hist_hPUvertices.png, id=2246, 798.985pt x 574.145pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (6.86066pt too wide) in paragraph at lines 242--243
+\OT1/cmr/m/n/12 The sig-nal sam-ples used are cen-trally pro-duced for the benc
+h-marks de-fined in Sec-tion []1.3.2.7[]
+ []
+
+[57 <./Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf, page is rotated 90 degrees> 
+<./Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf, page is rotated 90 degrees> <./
+Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf, page is rotated 90 degrees> <./F
+igures/Trigger/Histo_TrigEff_ptMin_4l.pdf, page is rotated 90 degrees>]
+Overfull \hbox (0.76971pt too wide) in paragraph at lines 299--304
+[]\OT1/cmr/m/n/12 Production of $\OML/cmm/m/it/12 ZZ$ \OT1/cmr/m/n/12 via quark
+-antiquark an-ni-hi-la-tion is gen-er-ated at NLO us-ing \OT1/cmr/m/sc/12 powhe
+g
+ []
+
+[58] [59] <figures/hist_hPUvertices.png, id=2275, 798.985pt x 574.145pt>
 File: figures/hist_hPUvertices.png Graphic file (type png)
 
 <use figures/hist_hPUvertices.png>
-Package pdftex.def Info: figures/hist_hPUvertices.png used on input line 358.
+Package pdftex.def Info: figures/hist_hPUvertices.png used on input line 356.
 (pdftex.def)             Requested size: 234.87749pt x 168.77557pt.
 
-Overfull \hbox (7.22688pt too wide) in paragraph at lines 358--359
+Overfull \hbox (7.22688pt too wide) in paragraph at lines 356--357
  [][] 
  []
 
-<figures/hist_hPUvertices_ReWeighted.png, id=2247, 798.985pt x 574.145pt>
+<figures/hist_hPUvertices_ReWeighted.png, id=2276, 798.985pt x 574.145pt>
 File: figures/hist_hPUvertices_ReWeighted.png Graphic file (type png)
 
 <use figures/hist_hPUvertices_ReWeighted.png>
 Package pdftex.def Info: figures/hist_hPUvertices_ReWeighted.png used on input 
-line 363.
+line 361.
 (pdftex.def)             Requested size: 234.87749pt x 168.77557pt.
 
-Overfull \hbox (7.22688pt too wide) in paragraph at lines 363--364
+Overfull \hbox (7.22688pt too wide) in paragraph at lines 361--362
  [][] 
  []
 
 
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 356--366
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 354--364
 []$[]$ $[]$ 
  []
 
-) [59] [60 <./figures/hist_hPUvertices.png> <./figures/hist_hPUvertices_ReWeigh
-ted.png>]
+) [60 <./figures/hist_hPUvertices.png> <./figures/hist_hPUvertices_ReWeighted.p
+ng>]
 \openout2 = `ucdavisthesis_Chap5.aux'.
 
  (./ucdavisthesis_Chap5.tex
 Chapter 4.
 
-<Figures/Electrons/ele_rec_scale_factors.pdf, id=2265, 569.12625pt x 552.0625pt
+<Figures/Electrons/ele_rec_scale_factors.pdf, id=2285, 569.12625pt x 552.0625pt
 >
 File: Figures/Electrons/ele_rec_scale_factors.pdf Graphic file (type pdf)
  <use Figures/Electrons/ele_rec_scale_factors.pdf>
 Package pdftex.def Info: Figures/Electrons/ele_rec_scale_factors.pdf used on in
-put line 23.
+put line 22.
 (pdftex.def)             Requested size: 273.1835pt x 265.00383pt.
 Missing character: There is no Â in font cmr12!
 Missing character: There is no   in font cmr12!
@@ -928,528 +937,593 @@ Missing character: There is no   in font cmr12!
 
 ] [62 <./Figures/Electrons/ele_rec_scale_factors.pdf, page is rotated 90 degree
 s>]
-<Figures/Electrons/ele_ROC.png, id=2305, 1296.34312pt x 856.70062pt>
+<Figures/Electrons/ele_ROC.png, id=2326, 1296.34312pt x 856.70062pt>
 File: Figures/Electrons/ele_ROC.png Graphic file (type png)
 
 <use Figures/Electrons/ele_ROC.png>
-Package pdftex.def Info: Figures/Electrons/ele_ROC.png used on input line 62.
-(pdftex.def)             Requested size: 364.24236pt x 240.71115pt.
+Package pdftex.def Info: Figures/Electrons/ele_ROC.png used on input line 61.
+(pdftex.def)             Requested size: 409.7683pt x 270.80331pt.
 
-<Figures/Electrons/ele_overtraining.png, id=2307, 1075.01625pt x 767.86874pt>
+<Figures/Electrons/ele_overtraining.png, id=2328, 1075.01625pt x 767.86874pt>
 File: Figures/Electrons/ele_overtraining.png Graphic file (type png)
 
 <use Figures/Electrons/ele_overtraining.png>
 Package pdftex.def Info: Figures/Electrons/ele_overtraining.png used on input l
-ine 72.
+ine 71.
 (pdftex.def)             Requested size: 227.6506pt x 162.60461pt.
 Missing character: There is no Â in font cmr8!
 Missing character: There is no   in font cmr8!
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[63 <./Figures/Electrons/ele_ROC.png>] [64 <./Figures/Electrons/ele_overtrainin
-g.png>]
+ [63 <./Figures/Electrons/ele_ROC.png>] [64 <./Figures/Electrons/ele_overtraini
+ng.png>]
 Missing character: There is no Â in font cmr12!
 Missing character: There is no   in font cmr12!
 
-<Figures/Electrons/ele_energy_scale.pdf, id=2324, 477.785pt x 349.305pt>
+<Figures/Electrons/ele_energy_scale.pdf, id=2344, 477.785pt x 349.305pt>
 File: Figures/Electrons/ele_energy_scale.pdf Graphic file (type pdf)
 
 <use Figures/Electrons/ele_energy_scale.pdf>
 Package pdftex.def Info: Figures/Electrons/ele_energy_scale.pdf used on input l
-ine 206.
-(pdftex.def)             Requested size: 180.67499pt x 132.08702pt.
+ine 202.
+(pdftex.def)             Requested size: 289.07999pt x 211.34349pt.
 
-<Figures/Electrons/ele_energy_scale_per_lumi.pdf, id=2325, 845.04686pt x 597.50
+<Figures/Electrons/ele_energy_scale_per_lumi.pdf, id=2345, 845.04686pt x 597.50
 786pt>
 File: Figures/Electrons/ele_energy_scale_per_lumi.pdf Graphic file (type pdf)
  <use Figures/Electrons/ele_energy_scale_per_lumi.pdf>
 Package pdftex.def Info: Figures/Electrons/ele_energy_scale_per_lumi.pdf used o
-n input line 211.
-(pdftex.def)             Requested size: 180.67499pt x 127.75053pt.
+n input line 207.
+(pdftex.def)             Requested size: 325.215pt x 229.9455pt.
  [65] [66 <./Figures/Electrons/ele_energy_scale.pdf> <./Figures/Electrons/ele_e
 nergy_scale_per_lumi.pdf, page is rotated 270 degrees>]
-<Figures/Electrons/ele_eff_pt.pdf, id=2404, 356.33125pt x 331.2375pt>
+<Figures/Electrons/ele_eff_pt.pdf, id=2424, 356.33125pt x 331.2375pt>
 File: Figures/Electrons/ele_eff_pt.pdf Graphic file (type pdf)
 
 <use Figures/Electrons/ele_eff_pt.pdf>
 Package pdftex.def Info: Figures/Electrons/ele_eff_pt.pdf used on input line 25
-9.
-(pdftex.def)             Requested size: 158.99377pt x 147.79697pt.
+3.
+(pdftex.def)             Requested size: 252.94499pt x 235.12971pt.
 
-<Figures/Electrons/gap_ele_eff_pt.pdf, id=2405, 568.1225pt x 527.9725pt>
+<Figures/Electrons/gap_ele_eff_pt.pdf, id=2425, 568.1225pt x 527.9725pt>
 File: Figures/Electrons/gap_ele_eff_pt.pdf Graphic file (type pdf)
 
 <use Figures/Electrons/gap_ele_eff_pt.pdf>
 Package pdftex.def Info: Figures/Electrons/gap_ele_eff_pt.pdf used on input lin
-e 264.
-(pdftex.def)             Requested size: 158.99377pt x 147.75877pt.
+e 258.
+(pdftex.def)             Requested size: 252.94499pt x 235.07188pt.
 
-<Figures/Electrons/ele_eff_sf_unc.pdf, id=2406, 635.37375pt x 402.50375pt>
+<Figures/Electrons/ele_eff_sf_unc.pdf, id=2426, 635.37375pt x 402.50375pt>
 File: Figures/Electrons/ele_eff_sf_unc.pdf Graphic file (type pdf)
 
 <use Figures/Electrons/ele_eff_sf_unc.pdf>
 Package pdftex.def Info: Figures/Electrons/ele_eff_sf_unc.pdf used on input lin
-e 284.
-(pdftex.def)             Requested size: 180.67499pt x 114.4568pt.
+e 278.
+(pdftex.def)             Requested size: 361.34999pt x 228.91975pt.
 
-<Figures/Electrons/gap_ele_eff_sf_unc.pdf, id=2407, 631.35875pt x 400.49625pt>
+<Figures/Electrons/gap_ele_eff_sf_unc.pdf, id=2427, 631.35875pt x 400.49625pt>
 File: Figures/Electrons/gap_ele_eff_sf_unc.pdf Graphic file (type pdf)
 
 <use Figures/Electrons/gap_ele_eff_sf_unc.pdf>
 Package pdftex.def Info: Figures/Electrons/gap_ele_eff_sf_unc.pdf used on input
- line 289.
-(pdftex.def)             Requested size: 180.67499pt x 114.60706pt.
- [67 <./Figures/Electrons/ele_eff_pt.pdf> <./Figures/Electrons/gap_ele_eff_pt.p
-df> <./Figures/Electrons/ele_eff_sf_unc.pdf> <./Figures/Electrons/gap_ele_eff_s
-f_unc.pdf>] [68] [69]
-<Figures/Muons/mu_Loose_barrel.pdf, id=2482, 569.12625pt x 689.57625pt>
+ line 283.
+(pdftex.def)             Requested size: 361.34999pt x 229.22023pt.
+ [67] [68 <./Figures/Electrons/ele_eff_pt.pdf> <./Figures/Electrons/gap_ele_eff
+_pt.pdf>] [69 <./Figures/Electrons/ele_eff_sf_unc.pdf> <./Figures/Electrons/gap
+_ele_eff_sf_unc.pdf>] [70]
+<Figures/Muons/mu_Loose_barrel.pdf, id=2505, 569.12625pt x 689.57625pt>
 File: Figures/Muons/mu_Loose_barrel.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_Loose_barrel.pdf>
 Package pdftex.def Info: Figures/Muons/mu_Loose_barrel.pdf used on input line 4
-38.
-(pdftex.def)             Requested size: 108.405pt x 131.34703pt.
+11.
+(pdftex.def)             Requested size: 144.54pt x 175.12936pt.
 
-<Figures/Muons/mu_Loose_endcap.pdf, id=2483, 569.12625pt x 689.57625pt>
+Overfull \hbox (7.94824pt too wide) in paragraph at lines 411--412
+ [][] 
+ []
+
+<Figures/Muons/mu_Loose_endcap.pdf, id=2506, 569.12625pt x 689.57625pt>
 File: Figures/Muons/mu_Loose_endcap.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_Loose_endcap.pdf>
 Package pdftex.def Info: Figures/Muons/mu_Loose_endcap.pdf used on input line 4
-43.
-(pdftex.def)             Requested size: 108.405pt x 131.34703pt.
+16.
+(pdftex.def)             Requested size: 144.54pt x 175.12936pt.
 
-<Figures/Muons/mu_Loose_pt7.pdf, id=2484, 569.12625pt x 689.57625pt>
+Overfull \hbox (7.94824pt too wide) in paragraph at lines 416--417
+ [][] 
+ []
+
+<Figures/Muons/mu_Loose_pt7.pdf, id=2507, 569.12625pt x 689.57625pt>
 File: Figures/Muons/mu_Loose_pt7.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_Loose_pt7.pdf>
-Package pdftex.def Info: Figures/Muons/mu_Loose_pt7.pdf used on input line 448.
+Package pdftex.def Info: Figures/Muons/mu_Loose_pt7.pdf used on input line 421.
 
-(pdftex.def)             Requested size: 108.405pt x 131.34703pt.
+(pdftex.def)             Requested size: 144.54pt x 175.12936pt.
 
-<Figures/Muons/mu_SIP4_barrel.pdf, id=2486, 469.755pt x 569.12625pt>
+Overfull \hbox (7.94824pt too wide) in paragraph at lines 421--422
+ [][] 
+ []
+
+[71] <Figures/Muons/mu_SIP4_barrel.pdf, id=2515, 469.755pt x 569.12625pt>
 File: Figures/Muons/mu_SIP4_barrel.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_SIP4_barrel.pdf>
-Package pdftex.def Info: Figures/Muons/mu_SIP4_barrel.pdf used on input line 48
-1.
-(pdftex.def)             Requested size: 108.405pt x 131.33049pt.
+Package pdftex.def Info: Figures/Muons/mu_SIP4_barrel.pdf used on input line 45
+3.
+(pdftex.def)             Requested size: 144.54pt x 175.116pt.
 
-<Figures/Muons/mu_SIP4_endcap.pdf, id=2487, 469.755pt x 569.12625pt>
+Overfull \hbox (7.94824pt too wide) in paragraph at lines 453--454
+ [][] 
+ []
+
+<Figures/Muons/mu_SIP4_endcap.pdf, id=2516, 469.755pt x 569.12625pt>
 File: Figures/Muons/mu_SIP4_endcap.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_SIP4_endcap.pdf>
-Package pdftex.def Info: Figures/Muons/mu_SIP4_endcap.pdf used on input line 48
-6.
-(pdftex.def)             Requested size: 108.405pt x 131.33049pt.
+Package pdftex.def Info: Figures/Muons/mu_SIP4_endcap.pdf used on input line 45
+8.
+(pdftex.def)             Requested size: 144.54pt x 175.116pt.
 
-<Figures/Muons/mu_SIP4_pt20.pdf, id=2488, 469.755pt x 569.12625pt>
+Overfull \hbox (7.94824pt too wide) in paragraph at lines 458--459
+ [][] 
+ []
+
+<Figures/Muons/mu_SIP4_pt20.pdf, id=2517, 469.755pt x 569.12625pt>
 File: Figures/Muons/mu_SIP4_pt20.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_SIP4_pt20.pdf>
-Package pdftex.def Info: Figures/Muons/mu_SIP4_pt20.pdf used on input line 491.
+Package pdftex.def Info: Figures/Muons/mu_SIP4_pt20.pdf used on input line 463.
 
-(pdftex.def)             Requested size: 108.405pt x 131.33049pt.
- [70] [71 <./Figures/Muons/mu_Loose_barrel.pdf> <./Figures/Muons/mu_Loose_endca
-p.pdf> <./Figures/Muons/mu_Loose_pt7.pdf> <./Figures/Muons/mu_SIP4_barrel.pdf> 
-<./Figures/Muons/mu_SIP4_endcap.pdf> <./Figures/Muons/mu_SIP4_pt20.pdf>]
-<Figures/Muons/mu_iso_barrel.pdf, id=2763, 569.12625pt x 689.57625pt>
+(pdftex.def)             Requested size: 144.54pt x 175.116pt.
+
+Overfull \hbox (7.94824pt too wide) in paragraph at lines 463--464
+ [][] 
+ []
+
+<Figures/Muons/mu_iso_barrel.pdf, id=2520, 569.12625pt x 689.57625pt>
 File: Figures/Muons/mu_iso_barrel.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_iso_barrel.pdf>
-Package pdftex.def Info: Figures/Muons/mu_iso_barrel.pdf used on input line 517
+Package pdftex.def Info: Figures/Muons/mu_iso_barrel.pdf used on input line 488
 .
-(pdftex.def)             Requested size: 180.67499pt x 218.91171pt.
+(pdftex.def)             Requested size: 216.81pt x 262.69406pt.
 
-<Figures/Muons/mu_iso_endcap.pdf, id=2764, 569.12625pt x 689.57625pt>
+Overfull \hbox (11.92586pt too wide) in paragraph at lines 488--489
+ [][] 
+ []
+
+<Figures/Muons/mu_iso_endcap.pdf, id=2521, 569.12625pt x 689.57625pt>
 File: Figures/Muons/mu_iso_endcap.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_iso_endcap.pdf>
-Package pdftex.def Info: Figures/Muons/mu_iso_endcap.pdf used on input line 522
+Package pdftex.def Info: Figures/Muons/mu_iso_endcap.pdf used on input line 493
 .
-(pdftex.def)             Requested size: 180.67499pt x 218.91171pt.
+(pdftex.def)             Requested size: 216.81pt x 262.69406pt.
 
-<Figures/Muons/trackingEffptl10.pdf, id=2767, 602.25pt x 602.25pt>
+Overfull \hbox (11.92586pt too wide) in paragraph at lines 493--494
+ [][] 
+ []
+
+[72 <./Figures/Muons/mu_Loose_barrel.pdf> <./Figures/Muons/mu_Loose_endcap.pdf>
+ <./Figures/Muons/mu_Loose_pt7.pdf>]
+<Figures/Muons/trackingEffptl10.pdf, id=2660, 602.25pt x 602.25pt>
 File: Figures/Muons/trackingEffptl10.pdf Graphic file (type pdf)
 
 <use Figures/Muons/trackingEffptl10.pdf>
 Package pdftex.def Info: Figures/Muons/trackingEffptl10.pdf used on input line 
-551.
-(pdftex.def)             Requested size: 180.67499pt x 180.67639pt.
+520.
+(pdftex.def)             Requested size: 216.81pt x 216.80983pt.
 
-<Figures/Muons/trackingEffptg10.pdf, id=2768, 602.25pt x 602.25pt>
+Overfull \hbox (11.92586pt too wide) in paragraph at lines 520--521
+ [][] 
+ []
+
+<Figures/Muons/trackingEffptg10.pdf, id=2661, 602.25pt x 602.25pt>
 File: Figures/Muons/trackingEffptg10.pdf Graphic file (type pdf)
 
 <use Figures/Muons/trackingEffptg10.pdf>
 Package pdftex.def Info: Figures/Muons/trackingEffptg10.pdf used on input line 
-556.
-(pdftex.def)             Requested size: 180.67499pt x 180.67639pt.
+525.
+(pdftex.def)             Requested size: 216.81pt x 216.80983pt.
 
-<Figures/Muons/mu_sf.pdf, id=2770, 722.7pt x 569.12625pt>
+Overfull \hbox (11.92586pt too wide) in paragraph at lines 525--526
+ [][] 
+ []
+
+<Figures/Muons/mu_sf.pdf, id=2663, 722.7pt x 569.12625pt>
 File: Figures/Muons/mu_sf.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_sf.pdf>
-Package pdftex.def Info: Figures/Muons/mu_sf.pdf used on input line 580.
-(pdftex.def)             Requested size: 180.67499pt x 142.2812pt.
+Package pdftex.def Info: Figures/Muons/mu_sf.pdf used on input line 549.
+(pdftex.def)             Requested size: 216.81pt x 170.73918pt.
 
-<Figures/Muons/mu_sf_unc.pdf, id=2771, 719.68875pt x 561.09625pt>
+Overfull \hbox (11.92586pt too wide) in paragraph at lines 549--550
+ [][] 
+ []
+
+<Figures/Muons/mu_sf_unc.pdf, id=2664, 719.68875pt x 561.09625pt>
 File: Figures/Muons/mu_sf_unc.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_sf_unc.pdf>
-Package pdftex.def Info: Figures/Muons/mu_sf_unc.pdf used on input line 585.
-(pdftex.def)             Requested size: 180.67499pt x 140.8559pt.
- [72 <./Figures/Muons/mu_iso_barrel.pdf> <./Figures/Muons/mu_iso_endcap.pdf>] [
-73 <./Figures/Muons/trackingEffptl10.pdf> <./Figures/Muons/trackingEffptg10.pdf
-> <./Figures/Muons/mu_sf.pdf> <./Figures/Muons/mu_sf_unc.pdf>]
+Package pdftex.def Info: Figures/Muons/mu_sf_unc.pdf used on input line 554.
+(pdftex.def)             Requested size: 216.81pt x 169.03223pt.
 
-LaTeX Warning: Reference `sec:categorization' on page 74 undefined on input lin
-e 624.
+Overfull \hbox (11.92586pt too wide) in paragraph at lines 554--555
+ [][] 
+ []
 
-[74] [75] [76] <figures/hist_hPFMET_8.png, id=2931, 798.985pt x 574.145pt>
+[73 <./Figures/Muons/mu_SIP4_barrel.pdf> <./Figures/Muons/mu_SIP4_endcap.pdf> <
+./Figures/Muons/mu_SIP4_pt20.pdf>] [74 <./Figures/Muons/mu_iso_barrel.pdf> <./F
+igures/Muons/mu_iso_endcap.pdf>] [75 <./Figures/Muons/trackingEffptl10.pdf> <./
+Figures/Muons/trackingEffptg10.pdf> <./Figures/Muons/mu_sf.pdf> <./Figures/Muon
+s/mu_sf_unc.pdf>] [76] [77]
+Overfull \hbox (1.58858pt too wide) in paragraph at lines 661--670
+\OT1/cmr/m/n/12 [[]]: HB-HENoise-Filter, HB-HENoi-seIsoFil-ter, EcalDead-Cell-T
+rig-ger-Prim-i-tive-Filter, good-
+ []
+
+
+Overfull \hbox (0.10802pt too wide) in paragraph at lines 661--670
+\OT1/cmr/m/n/12 Ver-tices, ee-Bad-Sc-Fil-ter, glob-alTightHalo2016Filter, BadPF
+-Muon-Fil-ter, and Bad-Charged-
+ []
+
+[78] <figures/hist_hPFMET_8.png, id=2959, 798.985pt x 574.145pt>
 File: figures/hist_hPFMET_8.png Graphic file (type png)
 
 <use figures/hist_hPFMET_8.png>
-Package pdftex.def Info: figures/hist_hPFMET_8.png used on input line 713.
+Package pdftex.def Info: figures/hist_hPFMET_8.png used on input line 679.
 (pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
- [77]
-<figures/hist_hDPHI_MAX_JET_MET_8.png, id=2941, 798.985pt x 574.145pt>
+
+<figures/hist_hDPHI_MAX_JET_MET_8.png, id=2962, 798.985pt x 574.145pt>
 File: figures/hist_hDPHI_MAX_JET_MET_8.png Graphic file (type png)
 
 <use figures/hist_hDPHI_MAX_JET_MET_8.png>
 Package pdftex.def Info: figures/hist_hDPHI_MAX_JET_MET_8.png used on input lin
-e 729.
+e 689.
 (pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
 
-<figures/hist_hDPHI_MIN_JET_MET_8.png, id=2942, 798.985pt x 574.145pt>
+<figures/hist_hDPHI_MIN_JET_MET_8.png, id=2963, 798.985pt x 574.145pt>
 File: figures/hist_hDPHI_MIN_JET_MET_8.png Graphic file (type png)
 
 <use figures/hist_hDPHI_MIN_JET_MET_8.png>
 Package pdftex.def Info: figures/hist_hDPHI_MIN_JET_MET_8.png used on input lin
-e 736.
+e 696.
 (pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
-) [78 <./figures/hist_hPFMET_8.png>]
-[79 <./figures/hist_hDPHI_MAX_JET_MET_8.png> <./figures/hist_hDPHI_MIN_JET_MET_
-8.png>]
+
+Overfull \hbox (43.51509pt too wide) in paragraph at lines 701--702
+[]\OT1/cmr/m/n/12 For jets with a high trans-verse mo-men-tum, $\OML/cmm/m/it/1
+2 > \OT1/cmr/m/n/12 50 []$, it is re-quired that $\OML/cmm/m/it/12 max\OMS/cmsy
+/m/n/12 j\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 ^^^\OT1/cmr/m/n/12 (\OML/cmm/m/it/
+12 jet; E[]\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 j \OML/cmm/m/it/12 <
+ []
+
+[79 <./figures/hist_hPFMET_8.png>]) [80 <./figures/hist_hDPHI_MAX_JET_MET_8.png
+>] [81 <./figures/hist_hDPHI_MIN_JET_MET_8.png>]
 \openout2 = `ucdavisthesis_Chap6.aux'.
 
  (./ucdavisthesis_Chap6.tex
 Chapter 5.
-[80
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 19.
+
+[82
 
 
 
-] <figures/hist_hMZ1_8.png, id=2965, 798.985pt x 574.145pt>
+] <figures/hist_hMZ1_8.png, id=2991, 798.985pt x 574.145pt>
 File: figures/hist_hMZ1_8.png Graphic file (type png)
 
 <use figures/hist_hMZ1_8.png>
-Package pdftex.def Info: figures/hist_hMZ1_8.png used on input line 44.
-(pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
+Package pdftex.def Info: figures/hist_hMZ1_8.png used on input line 43.
+(pdftex.def)             Requested size: 397.48499pt x 285.62627pt.
 
-<figures/hist_hMZ2_8.png, id=2966, 798.985pt x 574.145pt>
+<figures/hist_hMZ2_8.png, id=2992, 798.985pt x 574.145pt>
 File: figures/hist_hMZ2_8.png Graphic file (type png)
 
 <use figures/hist_hMZ2_8.png>
-Package pdftex.def Info: figures/hist_hMZ2_8.png used on input line 51.
-(pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
- [81 <./figures/hist_hMZ1_8.png>] [82 <./figures/hist_hMZ2_8.png>] <figures/his
-t_hM4l_8_log.png, id=2980, 798.985pt x 574.145pt>
+Package pdftex.def Info: figures/hist_hMZ2_8.png used on input line 50.
+(pdftex.def)             Requested size: 397.48499pt x 285.62627pt.
+ [83 <./figures/hist_hMZ1_8.png>] [84 <./figures/hist_hMZ2_8.png>] <figures/his
+t_hM4l_8_log.png, id=3005, 798.985pt x 574.145pt>
 File: figures/hist_hM4l_8_log.png Graphic file (type png)
 
 <use figures/hist_hM4l_8_log.png>
-Package pdftex.def Info: figures/hist_hM4l_8_log.png used on input line 85.
-(pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
+Package pdftex.def Info: figures/hist_hM4l_8_log.png used on input line 84.
+(pdftex.def)             Requested size: 397.48499pt x 285.62627pt.
 
-<figures/hist_hM4l_8_linear.png, id=2981, 798.985pt x 574.145pt>
+<figures/hist_hM4l_8_linear.png, id=3006, 798.985pt x 574.145pt>
 File: figures/hist_hM4l_8_linear.png Graphic file (type png)
 
 <use figures/hist_hM4l_8_linear.png>
-Package pdftex.def Info: figures/hist_hM4l_8_linear.png used on input line 92.
-(pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
+Package pdftex.def Info: figures/hist_hM4l_8_linear.png used on input line 91.
+(pdftex.def)             Requested size: 397.48499pt x 285.62627pt.
 
 
-LaTeX Warning: Reference `sec:observables' on page 83 undefined on input line 1
-04.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 96.
 
-[83 <./figures/hist_hM4l_8_log.png>] [84 <./figures/hist_hM4l_8_linear.png>]
-[85]
-File: figures/hist_hPFMET_8.png Graphic file (type png)
- <use figures/hist_hPFMET_8.png>
-Package pdftex.def Info: figures/hist_hPFMET_8.png used on input line 152.
-(pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
- [86]
-<Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf, id=3005, 569.12625pt x 552.0625pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 96.
+
+[85 <./figures/hist_hM4l_8_log.png>] [86 <./figures/hist_hM4l_8_linear.png>]
+[87] <figures/f_Dm4lmet_1D_log.png, id=3023, 499.8675pt x 476.78125pt>
+File: figures/f_Dm4lmet_1D_log.png Graphic file (type png)
+
+<use figures/f_Dm4lmet_1D_log.png>
+Package pdftex.def Info: figures/f_Dm4lmet_1D_log.png used on input line 151.
+(pdftex.def)             Requested size: 361.34999pt x 344.67177pt.
+ [88]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf, id=3034, 569.12625pt x 552.0625pt>
 File: Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf Graphic file (type pdf)
 
 <use Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf>
 Package pdftex.def Info: Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf used on input line
- 198.
+ 194.
 (pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
 
-<Figures/IrrBkg/K_ewk_qqZZ.pdf, id=3006, 569.12625pt x 523.9575pt>
+<Figures/IrrBkg/K_ewk_qqZZ.pdf, id=3035, 569.12625pt x 523.9575pt>
 File: Figures/IrrBkg/K_ewk_qqZZ.pdf Graphic file (type pdf)
 
 <use Figures/IrrBkg/K_ewk_qqZZ.pdf>
-Package pdftex.def Info: Figures/IrrBkg/K_ewk_qqZZ.pdf used on input line 199.
+Package pdftex.def Info: Figures/IrrBkg/K_ewk_qqZZ.pdf used on input line 195.
 (pdftex.def)             Requested size: 218.54263pt x 201.20059pt.
- [87]
-<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf, id=3026, 569.12625pt x 552.0
+ [89 <./figures/f_Dm4lmet_1D_log.png>]
+[90 <./Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf, page is rotated 90 degrees> <./Figu
+res/IrrBkg/K_ewk_qqZZ.pdf, page is rotated 90 degrees>]
+<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf, id=3151, 569.12625pt x 552.0
 625pt>
 File: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf Graphic file (type pdf)
  <use Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf>
 Package pdftex.def Info: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf used 
-on input line 222.
+on input line 217.
 (pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
 
-<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf, id=3027, 569.126
+<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf, id=3152, 569.126
 25pt x 552.0625pt>
 File: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf Graphic file
  (type pdf)
 
 <use Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf>
 Package pdftex.def Info: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xs
-ec.pdf used on input line 223.
+ec.pdf used on input line 218.
 (pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
 
-<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf, id=3028, 569.
+<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf, id=3153, 569.
 12625pt x 552.0625pt>
 File: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf Graphic f
 ile (type pdf)
 
 <use Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf>
 Package pdftex.def Info: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kf
-actor.pdf used on input line 224.
+actor.pdf used on input line 219.
 (pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
- [88 <./Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf, page is rotated 90 degrees> <./Fig
-ures/IrrBkg/K_ewk_qqZZ.pdf, page is rotated 90 degrees>] [89 <./Figures/IrrBkg/
-cCompare_hnnlo_ggHZZ2l2l_xsec.pdf, page is rotated 90 degrees> <./Figures/IrrBk
-g/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf, page is rotated 90 degrees> <.
-/Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf, page is rotat
-ed 90 degrees>]
-<Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf, id=3265, 332.56656pt x 219.407
+ [91 <./Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf, page is rotated 90 de
+grees> <./Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf, page is
+ rotated 90 degrees> <./Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfa
+ctor.pdf, page is rotated 90 degrees>]
+<Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf, id=3290, 332.56656pt x 219.407
 06pt>
 File: Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf Graphic file (type pdf)
  <use Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf>
 Package pdftex.def Info: Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf used on
- input line 312.
-(pdftex.def)             Requested size: 180.67499pt x 119.19783pt.
+ input line 301.
+(pdftex.def)             Requested size: 307.14749pt x 202.63698pt.
 
-<Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf, id=3266, 320.86896pt x 214.82697pt
+<Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf, id=3291, 320.86896pt x 214.82697pt
 >
 File: Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf Graphic file (type pdf)
  <use Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf>
 Package pdftex.def Info: Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf used on inp
-ut line 317.
-(pdftex.def)             Requested size: 180.67499pt x 120.9677pt.
- [90]
-<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf, id=3277, 569.12625pt x 552.0625pt>
+ut line 306.
+(pdftex.def)             Requested size: 307.14749pt x 205.6546pt.
+ [92] [93 <./Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf> <./Figures/RedBkg/
+FR_muons_ptl3_DataallTR.pdf>] <Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf, id=3374
+, 569.12625pt x 552.0625pt>
 File: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf Graphic file (type pdf)
 
 <use Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf>
 Package pdftex.def Info: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf used on input 
-line 386.
+line 371.
 (pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
 
-<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf, id=3278, 569.12625pt x 552.0625pt>
+<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf, id=3375, 569.12625pt x 552.0625pt>
 File: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf Graphic file (type pdf)
 
 <use Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf>
 Package pdftex.def Info: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf used on input 
-line 387.
+line 372.
 (pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
 
-<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf, id=3279, 569.12625pt x 552.0625pt>
+<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf, id=3376, 569.12625pt x 552.0625pt>
 File: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf Graphic file (type pdf)
 
 <use Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf>
 Package pdftex.def Info: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf used on inpu
-t line 388.
+t line 373.
 (pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
 
-<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf, id=3280, 569.12625pt x 552.0625pt>
+<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf, id=3377, 569.12625pt x 552.0625pt>
 File: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf Graphic file (type pdf)
 
 <use Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf>
 Package pdftex.def Info: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf used on inpu
-t line 389.
+t line 374.
 (pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
 
-<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf, id=3281, 569.12625pt x 552.0625pt>
+<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf, id=3378, 569.12625pt x 552.0625pt>
 File: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf Graphic file (type pdf)
 
 <use Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf>
 Package pdftex.def Info: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf used on input 
-line 400.
+line 385.
 (pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
 
-<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf, id=3282, 569.12625pt x 552.0625pt>
+<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf, id=3379, 569.12625pt x 552.0625pt>
 File: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf Graphic file (type pdf)
 
 <use Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf>
 Package pdftex.def Info: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf used on input 
-line 401.
+line 386.
 (pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
 
-<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf, id=3283, 569.12625pt x 552.0625pt>
+<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf, id=3380, 569.12625pt x 552.0625pt>
 File: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf Graphic file (type pdf)
 
 <use Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf>
 Package pdftex.def Info: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf used on inpu
-t line 402.
+t line 387.
 (pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
 
-<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf, id=3284, 569.12625pt x 552.0625pt>
+<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf, id=3381, 569.12625pt x 552.0625pt>
 File: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf Graphic file (type pdf)
 
 <use Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf>
 Package pdftex.def Info: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf used on inpu
-t line 403.
+t line 388.
 (pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
- [91 <./Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf> <./Figures/RedBkg/FR_mu
-ons_ptl3_DataallTR.pdf>]
-[92 <./Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf, page is rotated 90 degrees> <./
-Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf, page is rotated 90 degrees> <./Figures
-/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf, page is rotated 90 degrees> <./Figures/RedB
-kg/HZZ_2P2Fuw_ZZMass_2e2m.pdf, page is rotated 90 degrees>] [93 <./Figures/RedB
-kg/HZZ_3P1Fuw_ZZMass_4m.pdf, page is rotated 90 degrees> <./Figures/RedBkg/HZZ_
-3P1Fuw_ZZMass_4e.pdf, page is rotated 90 degrees> <./Figures/RedBkg/HZZ_3P1Fuw_
-ZZMass_2m2e.pdf, page is rotated 90 degrees> <./Figures/RedBkg/HZZ_3P1Fuw_ZZMas
-s_2e2m.pdf, page is rotated 90 degrees>] [94]
-Overfull \hbox (86.83083pt too wide) in paragraph at lines 532--555
- [] 
- []
-
-[95]) [96]
+ [94] [95 <./Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf, page is rotated 90 degree
+s> <./Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf, page is rotated 90 degrees> <./F
+igures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf, page is rotated 90 degrees> <./Figure
+s/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf, page is rotated 90 degrees>] [96 <./Figure
+s/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf, page is rotated 90 degrees> <./Figures/RedBk
+g/HZZ_3P1Fuw_ZZMass_4e.pdf, page is rotated 90 degrees> <./Figures/RedBkg/HZZ_3
+P1Fuw_ZZMass_2m2e.pdf, page is rotated 90 degrees> <./Figures/RedBkg/HZZ_3P1Fuw
+_ZZMass_2e2m.pdf, page is rotated 90 degrees>] [97]) [98]
 \openout2 = `ucdavisthesis_Chap9.aux'.
 
  (./ucdavisthesis_Chap9.tex
 Chapter 6.
-[97
+[99
 
 
 
-] [98]
-
-LaTeX Warning: Reference `sec:observables' on page 99 undefined on input line 1
-52.
-
-[99]
-<Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf, id=3759, 569.12625pt x 552.062
+] [100]
+<Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf, id=3777, 569.12625pt x 552.062
 5pt>
 File: Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf Graphic file (type pdf)
  <use Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf>
 Package pdftex.def Info: Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf used on
- input line 157.
-(pdftex.def)             Requested size: 200.33363pt x 194.32828pt.
+ input line 136.
+(pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
 
-<Figures/Results/mass/lepScale_vs_pt_eta_e.pdf, id=3760, 569.12625pt x 552.0625
+<Figures/Results/mass/lepScale_vs_pt_eta_e.pdf, id=3778, 569.12625pt x 552.0625
 pt>
 File: Figures/Results/mass/lepScale_vs_pt_eta_e.pdf Graphic file (type pdf)
  <use Figures/Results/mass/lepScale_vs_pt_eta_e.pdf>
 Package pdftex.def Info: Figures/Results/mass/lepScale_vs_pt_eta_e.pdf used on 
-input line 158.
-(pdftex.def)             Requested size: 200.33363pt x 194.32828pt.
+input line 137.
+(pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
 
-<Figures/Results/mass/m4lreco_4mu_dn.pdf, id=3761, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4mu_dn.pdf, id=3779, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4mu_dn.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4mu_dn.pdf>
 Package pdftex.def Info: Figures/Results/mass/m4lreco_4mu_dn.pdf used on input 
-line 168.
+line 147.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4mu.pdf, id=3762, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4mu.pdf, id=3780, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4mu.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4mu.pdf>
 Package pdftex.def Info: Figures/Results/mass/m4lreco_4mu.pdf used on input lin
-e 169.
+e 148.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4mu_up.pdf, id=3763, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4mu_up.pdf, id=3781, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4mu_up.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4mu_up.pdf>
 Package pdftex.def Info: Figures/Results/mass/m4lreco_4mu_up.pdf used on input 
-line 170.
+line 149.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4e_dn.pdf, id=3764, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4e_dn.pdf, id=3782, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4e_dn.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4e_dn.pdf>
 Package pdftex.def Info: Figures/Results/mass/m4lreco_4e_dn.pdf used on input l
-ine 171.
+ine 150.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4e.pdf, id=3765, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4e.pdf, id=3783, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4e.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4e.pdf>
 Package pdftex.def Info: Figures/Results/mass/m4lreco_4e.pdf used on input line
- 172.
+ 151.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4e_up.pdf, id=3766, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4e_up.pdf, id=3784, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4e_up.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4e_up.pdf>
 Package pdftex.def Info: Figures/Results/mass/m4lreco_4e_up.pdf used on input l
-ine 173.
+ine 152.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
- [100 <./Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf, page is rotated 90 deg
-rees> <./Figures/Results/mass/lepScale_vs_pt_eta_e.pdf, page is rotated 90 degr
-ees>] [101 <./Figures/Results/mass/m4lreco_4mu_dn.pdf, page is rotated 90 degre
-es> <./Figures/Results/mass/m4lreco_4mu.pdf, page is rotated 90 degrees> <./Fig
-ures/Results/mass/m4lreco_4mu_up.pdf, page is rotated 90 degrees> <./Figures/Re
-sults/mass/m4lreco_4e_dn.pdf, page is rotated 90 degrees> <./Figures/Results/ma
-ss/m4lreco_4e.pdf, page is rotated 90 degrees> <./Figures/Results/mass/m4lreco_
-4e_up.pdf, page is rotated 90 degrees>] [102] [103] [104] [105]
-<figures/sigma_limits_4mu_Zp2HDM.png, id=4162, 698.61pt x 473.77pt>
+ [101] [102 <./Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf, page is rotated 
+90 degrees> <./Figures/Results/mass/lepScale_vs_pt_eta_e.pdf, page is rotated 9
+0 degrees>] [103 <./Figures/Results/mass/m4lreco_4mu_dn.pdf, page is rotated 90
+ degrees> <./Figures/Results/mass/m4lreco_4mu.pdf, page is rotated 90 degrees> 
+<./Figures/Results/mass/m4lreco_4mu_up.pdf, page is rotated 90 degrees> <./Figu
+res/Results/mass/m4lreco_4e_dn.pdf, page is rotated 90 degrees> <./Figures/Resu
+lts/mass/m4lreco_4e.pdf, page is rotated 90 degrees> <./Figures/Results/mass/m4
+lreco_4e_up.pdf, page is rotated 90 degrees>] [104] [105] [106]
+<figures/sigma_limits_4mu_Zp2HDM.png, id=4183, 698.61pt x 473.77pt>
 File: figures/sigma_limits_4mu_Zp2HDM.png Graphic file (type png)
 
 <use figures/sigma_limits_4mu_Zp2HDM.png>
 Package pdftex.def Info: figures/sigma_limits_4mu_Zp2HDM.png used on input line
- 340.
+ 321.
 (pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
 
-<figures/sigma_limits_4mu_ZpBaryonic.png, id=4163, 698.61pt x 473.77pt>
+<figures/sigma_limits_4mu_ZpBaryonic.png, id=4184, 698.61pt x 473.77pt>
 File: figures/sigma_limits_4mu_ZpBaryonic.png Graphic file (type png)
 
 <use figures/sigma_limits_4mu_ZpBaryonic.png>
 Package pdftex.def Info: figures/sigma_limits_4mu_ZpBaryonic.png used on input 
-line 347.
+line 328.
 (pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
- [106 <./figures/sigma_limits_4mu_Zp2HDM.png>]
 File: figures/sigma_limits_4mu_Zp2HDM.png Graphic file (type png)
- <use figures/sigma_limits_4mu_Zp2HDM.png>
+
+<use figures/sigma_limits_4mu_Zp2HDM.png>
 Package pdftex.def Info: figures/sigma_limits_4mu_Zp2HDM.png used on input line
- 358.
+ 339.
 (pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
 File: figures/sigma_limits_4mu_ZpBaryonic.png Graphic file (type png)
 
 <use figures/sigma_limits_4mu_ZpBaryonic.png>
 Package pdftex.def Info: figures/sigma_limits_4mu_ZpBaryonic.png used on input 
-line 365.
+line 346.
 (pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
-) [107 <./figures/sigma_limits_4mu_ZpBaryonic.png>] [108]
+) [107] [108 <./figures/sigma_limits_4mu_Zp2HDM.png> <./figures/sigma_limits_4m
+u_ZpBaryonic.png>] [109]
 \openout2 = `ucdavisthesis_Chap10.aux'.
 
- (./ucdavisthesis_Chap10.tex
+
+(./ucdavisthesis_Chap10.tex
 Chapter 7.
-[109
+[110
 
 
 
-]) [110]
+]) [111]
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <29.86> not available
-(Font)              size <24.88> substituted on input line 226.
+(Font)              size <24.88> substituted on input line 237.
 
-[111
+[112
 
 
 
@@ -1458,16 +1532,16 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <29.86> not available
 
  (./ucdavisthesis_Appen1.tex
 Appendix A.
-) [112
+) [113
 
 
-] [113] [114] [115] [116] [117] (./ucdavisthesis_main.bbl
+] [114] [115] [116] [117] [118] (./ucdavisthesis_main.bbl
 Underfull \hbox (badness 7981) in paragraph at lines 30--40
 \OT1/cmtt/m/n/12 / / rstl . royalsocietypublishing . org / content / 155 / 459 
 . short$[]\OT1/cmr/m/n/12 , []$\OT1/cmtt/m/n/12 arXiv : http :
  []
 
-[118
+[119
 
 
 ]
@@ -1494,42 +1568,53 @@ Underfull \hbox (badness 7981) in paragraph at lines 112--122
 / 243$[]\OT1/cmr/m/n/12 , []$\OT1/cmtt/m/n/12 arXiv : http : / /
  []
 
-[119]
+[120]
 Underfull \hbox (badness 1337) in paragraph at lines 207--213
 []\OT1/cmr/m/n/12 R. P. Feyn-man.  The the-ory of positrons.  \OT1/cmr/m/it/12 
 Phys. Rev.\OT1/cmr/m/n/12 , 76:749--759, Sep
  []
 
-[120] [121]
-Underfull \hbox (badness 10000) in paragraph at lines 429--432
+[121] [122]
+Underfull \hbox (badness 10000) in paragraph at lines 421--424
 []\OT1/cmr/m/n/12 2012.  URL: []$\OT1/cmtt/m/n/12 https : / / twiki . cern . ch
  / twiki / bin / view / CMSPublic /
  []
 
-[122]
+[123]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¶ in font cmr12!
- [123] [124]
+ [124]
+Underfull \hbox (badness 1009) in paragraph at lines 638--645
+[]\OT1/cmr/m/n/12 M. et al. Aart-sen.  Search for dark mat-ter an-ni-hi-la-tion
+s in the sun with
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 638--645
+\OT1/cmr/m/n/12 the 79-string Ice-Cube de-tec-tor.  \OT1/cmr/m/it/12 Phys. Rev.
+ Lett.\OT1/cmr/m/n/12 , 110:131302, Mar 2013.
+ []
+
 Missing character: There is no Â in font cmr12!
 Missing character: There is no   in font cmr12!
- [125]
+[125]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
 
-Underfull \hbox (badness 1960) in paragraph at lines 804--814
+Underfull \hbox (badness 1960) in paragraph at lines 730--740
 []\OT1/cmr/m/n/12 Georges Aad et al.  Search for new phe-nom-ena in events with
  a pho-
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 804--814
+Underfull \hbox (badness 1596) in paragraph at lines 730--740
 \OT1/cmr/m/n/12 ton and miss-ing trans-verse mo-men-tum in $\OML/cmm/m/it/12 pp
 $ \OT1/cmr/m/n/12 col-li-sions at $[] = 8$ TeV
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 804--814
+Underfull \hbox (badness 1472) in paragraph at lines 730--740
 \OT1/cmr/m/n/12 with the AT-LAS de-tec-tor.  \OT1/cmr/m/it/12 Phys. Rev.\OT1/cm
 r/m/n/12 , D91(1):012008, 2015.  [Er-ra-tum:
  []
@@ -1541,25 +1626,24 @@ Missing character: There is no ‰ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ‰ in font cmr12!
- [127]
 Missing character: There is no â in font cmr12!
 Missing character: There is no ˆ in font cmr12!
 Missing character: There is no ’ in font cmr12!
- [128]
+ [127]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ‰ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ‰ in font cmr12!
- [129]
-Underfull \hbox (badness 1400) in paragraph at lines 1080--1088
+
+Underfull \hbox (badness 1400) in paragraph at lines 974--982
 \OT1/cmr/m/n/12 cal gauge sym-me-tries.  \OT1/cmr/m/it/12 Phys. Rev.\OT1/cmr/m/
 n/12 , D82:011901, 2010.  [Er-ra-tum: Phys.
  []
 
-
-Underfull \hbox (badness 1194) in paragraph at lines 1090--1098
+[128]
+Underfull \hbox (badness 1194) in paragraph at lines 984--992
 \OT1/cmr/m/n/12 Rev.D79,039902(2009)].  []$\OT1/cmtt/m/n/12 arXiv : hep-[]ph / 
 0608068$[]\OT1/cmr/m/n/12 , []$\OT1/cmtt/m/n/12 doi : 10 . 1103 / PhysRevD . 74
  .
@@ -1567,20 +1651,20 @@ Underfull \hbox (badness 1194) in paragraph at lines 1090--1098
 
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
-[130]
-Underfull \hbox (badness 10000) in paragraph at lines 1183--1186
+
+Underfull \hbox (badness 10000) in paragraph at lines 1077--1080
 []\OT1/cmr/m/n/12 2008.  URL: []$\OT1/cmtt/m/n/12 http : / / press . cern / pre
 ss-[]releases / 2008 / 10 /
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1188--1191
+[129]
+Underfull \hbox (badness 10000) in paragraph at lines 1082--1085
 []\OT1/cmr/m/n/12 2012.  URL: []$\OT1/cmtt/m/n/12 http : / / home . cern / abou
 t / updates / 2013 / 02 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1193--1196
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1090
 []\OT1/cmr/m/n/12 2012.  URL: []$\OT1/cmtt/m/n/12 http : / / home . cern / abou
 t / engineering /
  []
@@ -1593,31 +1677,31 @@ Missing character: There is no ¶ in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¶ in font cmr12!
 
-Underfull \hbox (badness 1189) in paragraph at lines 1228--1235
+Underfull \hbox (badness 1189) in paragraph at lines 1125--1132
 []\OT1/cmr/m/n/12 Johan Al-wall, Michel Her-quet, Fabio Mal-toni, Olivier Mat-t
 e-laer, and Tim
  []
 
-[131] [132]
-Underfull \hbox (badness 2689) in paragraph at lines 1416--1425
+[130] [131]
+Underfull \hbox (badness 2689) in paragraph at lines 1313--1322
 []\OT1/cmr/m/n/12 Massimiliano Grazz-ini, Ste-fan Kall-weit, and Dirk Rath-lev.
   ZZ pro-duc-
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 1416--1425
+Underfull \hbox (badness 2103) in paragraph at lines 1313--1322
 \OT1/cmr/m/it/12 Phys. Lett. B\OT1/cmr/m/n/12 , 750:407 -- 410, 2015.  URL: []$
 \OT1/cmtt/m/n/12 http : / / www . sciencedirect .
  []
 
-[133]
-Underfull \hbox (badness 1253) in paragraph at lines 1504--1508
+[132]
+Underfull \hbox (badness 1253) in paragraph at lines 1401--1405
 []\OT1/cmr/m/n/12 CMS Col-lab-o-ra-tion.  Doc-u-men-ta-tion of the roost-ats -b
 ased statis-tics tools
  []
 
 
-Underfull \hbox (badness 4168) in paragraph at lines 1504--1508
+Underfull \hbox (badness 4168) in paragraph at lines 1401--1405
 \OT1/cmr/m/n/12 for higgs pag.  URL: []$\OT1/cmtt/m/n/12 https : / / twiki . ce
 rn . ch / twiki / bin / viewauth / CMS /
  []
@@ -1630,52 +1714,49 @@ See the csquotes package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.238 \end{document}
+l.257 \end{document}
                     
 ? 
 
-### simple group (level 1) entered at line 17 ({)
+### simple group (level 1) entered at line 281 ({)
 ### bottom level
 
 ! OK.
 \csq@err@gleft ...the transcript file}\showgroups 
                                                   
-l.238 \end{document}
+l.257 \end{document}
                     
 ? 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 238.
-[134]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 238.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
+[133]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
  (./ucdavisthesis_main.aux (./ucdavisthesis_Chap1.aux)
 (./ucdavisthesis_Chap2.aux) (./ucdavisthesis_Chap3.aux)
 (./ucdavisthesis_Chap5.aux) (./ucdavisthesis_Chap6.aux)
 (./ucdavisthesis_Chap9.aux) (./ucdavisthesis_Chap10.aux)
 (./ucdavisthesis_Appen1.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 238.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 238.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
 Package rerunfilecheck Info: File `ucdavisthesis_main.out' has not changed.
-(rerunfilecheck)             Checksum: 523BF64A72E1045B0E2C22A6B6297DF0;4306.
+(rerunfilecheck)             Checksum: C634B85935CD2FA4A68F93F65376ECA3;4379.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 4.98pt have occurred.
 
-
-LaTeX Warning: There were undefined references.
-
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 17 ({)
+### simple group (level 1) entered at line 281 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11408 strings out of 494985
- 177170 string characters out of 6180355
- 324693 words of memory out of 5000000
+ 11405 strings out of 494985
+ 177304 string characters out of 6180355
+ 330303 words of memory out of 5000000
  13716 multiletter control sequences out of 15000+600000
- 18247 words of font info for 64 fonts, out of 8000000 for 9000
+ 19699 words of font info for 69 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 39i,21n,77p,2182b,685s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,21n,77p,2182b,690s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
@@ -1705,10 +1786,10 @@ f-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
 b8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ucdavisthesis_main.pdf (149 pages, 7873166 bytes).
+Output written on ucdavisthesis_main.pdf (150 pages, 7885417 bytes).
 PDF statistics:
- 4882 PDF objects out of 5155 (max. 8388607)
- 3509 compressed objects within 36 object streams
- 559 named destinations out of 1000 (max. 500000)
- 943 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4899 PDF objects out of 5155 (max. 8388607)
+ 3524 compressed objects within 36 object streams
+ 555 named destinations out of 1000 (max. 500000)
+ 948 words of extra memory for PDF output out of 10000 (max. 10000000)
 

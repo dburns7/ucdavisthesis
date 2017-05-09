@@ -1,8 +1,8 @@
 \select@language {english}
 \contentsline {section}{List of Figures}{vi}{chapter*.2}
-\contentsline {section}{List of Tables}{xi}{chapter*.3}
-\contentsline {section}{Abstract}{xiii}{chapter*.3}
-\contentsline {section}{Acknowledgments}{xiv}{chapter*.3}
+\contentsline {section}{List of Tables}{xii}{chapter*.3}
+\contentsline {section}{Abstract}{xiv}{chapter*.3}
+\contentsline {section}{Acknowledgments}{xv}{chapter*.3}
 \contentsline {chapter}{\numberline {1}Motivation and theoretical background}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}The Standard Model}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Symmetries of nature}{1}{subsection.1.1.1}
@@ -14,13 +14,13 @@
 \contentsline {subsubsection}{\numberline {1.2.1.3}Potential detection methods}{14}{subsubsection.1.2.1.3}
 \contentsline {section}{\numberline {1.3}Beyond the Standard Model}{16}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}Collider searches for DM}{16}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Signal Models}{19}{subsection.1.3.2}
-\contentsline {subsubsection}{\numberline {1.3.2.1}Effective Field Theory Models and Benchmarks}{19}{subsubsection.1.3.2.1}
-\contentsline {subsubsection}{\numberline {1.3.2.2}Simplified Models}{20}{subsubsection.1.3.2.2}
-\contentsline {subsubsection}{\numberline {1.3.2.3}$Z'$ - Two Higgs Doublet Model}{21}{subsubsection.1.3.2.3}
-\contentsline {subsubsection}{\numberline {1.3.2.4}Baryonic $Z'$ Model}{22}{subsubsection.1.3.2.4}
-\contentsline {subsubsection}{\numberline {1.3.2.5}Hidden Sector $Z'$ Model}{24}{subsubsection.1.3.2.5}
-\contentsline {subsubsection}{\numberline {1.3.2.6}Scalar Mediator Model}{25}{subsubsection.1.3.2.6}
+\contentsline {subsection}{\numberline {1.3.2}Signal models}{19}{subsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.2.1}Effective field theory models and benchmarks}{19}{subsubsection.1.3.2.1}
+\contentsline {subsubsection}{\numberline {1.3.2.2}Simplified models}{20}{subsubsection.1.3.2.2}
+\contentsline {subsubsection}{\numberline {1.3.2.3}$Z'$ - Two Higgs doublet model}{21}{subsubsection.1.3.2.3}
+\contentsline {subsubsection}{\numberline {1.3.2.4}Baryonic $Z'$ model}{22}{subsubsection.1.3.2.4}
+\contentsline {subsubsection}{\numberline {1.3.2.5}Hidden sector $Z'$ model}{24}{subsubsection.1.3.2.5}
+\contentsline {subsubsection}{\numberline {1.3.2.6}Scalar mediator model}{25}{subsubsection.1.3.2.6}
 \contentsline {subsubsection}{\numberline {1.3.2.7}Benchmarks}{26}{subsubsection.1.3.2.7}
 \contentsline {chapter}{\numberline {2}Experimental apparatus}{30}{chapter.2}
 \contentsline {section}{\numberline {2.1}Large Hadron Collider}{30}{section.2.1}
@@ -36,60 +36,61 @@
 \contentsline {section}{\numberline {3.3}Datasets}{54}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Data}{54}{subsection.3.3.1}
 \contentsline {subsubsection}{\numberline {3.3.1.1}Triggers and Datasets}{54}{subsubsection.3.3.1.1}
-\contentsline {subsubsection}{\numberline {3.3.1.2}Trigger Efficiency}{55}{subsubsection.3.3.1.2}
+\contentsline {subsubsection}{\numberline {3.3.1.2}Trigger Efficiency}{56}{subsubsection.3.3.1.2}
 \contentsline {subsection}{\numberline {3.3.2}Simulation}{57}{subsection.3.3.2}
 \contentsline {subsubsection}{\numberline {3.3.2.1}Signal Samples}{57}{subsubsection.3.3.2.1}
 \contentsline {subsubsection}{\numberline {3.3.2.2}Background Samples}{58}{subsubsection.3.3.2.2}
-\contentsline {subsubsection}{\numberline {3.3.2.3}Pileup Reweighting}{59}{subsubsection.3.3.2.3}
-\contentsline {chapter}{\numberline {4}Physics Objects}{61}{chapter.4}
+\contentsline {subsubsection}{\numberline {3.3.2.3}Pileup Reweighting}{60}{subsubsection.3.3.2.3}
+\contentsline {chapter}{\numberline {4}Physics objects}{61}{chapter.4}
 \contentsline {section}{\numberline {4.1}Electrons}{61}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Electron Reconstruction}{61}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Electron Identification}{61}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Electron Isolation}{65}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Electron Energy Calibrations}{65}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}Electron Efficiency Measurements}{66}{subsection.4.1.5}
-\contentsline {section}{\numberline {4.2}Muons}{68}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Muon Reconstruction and Identification}{68}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Muon Isolation}{69}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Muon Efficiency Measurements}{70}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.1.1}Electron reconstruction}{61}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Electron identification}{61}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Electron isolation}{65}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Electron energy calibrations}{65}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Electron efficiency measurements}{66}{subsection.4.1.5}
+\contentsline {section}{\numberline {4.2}Muons}{69}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Muon reconstruction and identification}{69}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Muon isolation}{71}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Muon efficiency measurements}{71}{subsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.3.1}Reconstruction and identification}{71}{subsubsection.4.2.3.1}
+\contentsline {subsubsection}{\numberline {4.2.3.2}Impact parameter requirements}{72}{subsubsection.4.2.3.2}
+\contentsline {subsubsection}{\numberline {4.2.3.3}Isolation requirements}{72}{subsubsection.4.2.3.3}
+\contentsline {subsubsection}{\numberline {4.2.3.4}Tracking}{73}{subsubsection.4.2.3.4}
+\contentsline {subsubsection}{\numberline {4.2.3.5}Overall results}{73}{subsubsection.4.2.3.5}
 \contentsline {section}{\numberline {4.3}Photons for FSR recovery}{73}{section.4.3}
-\contentsline {section}{\numberline {4.4}Jets}{74}{section.4.4}
-\contentsline {subsubsection}{\numberline {4.4.0.1}Jet Identification}{75}{subsubsection.4.4.0.1}
-\contentsline {subsubsection}{\numberline {4.4.0.2}Jet Energy Corrections}{75}{subsubsection.4.4.0.2}
-\contentsline {subsubsection}{\numberline {4.4.0.3}B-tagging}{75}{subsubsection.4.4.0.3}
-\contentsline {section}{\numberline {4.5}MET}{76}{section.4.5}
-\contentsline {subsubsection}{\numberline {4.5.0.4}MET filters}{77}{subsubsection.4.5.0.4}
-\contentsline {subsubsection}{\numberline {4.5.0.5}Fake MET modeling}{77}{subsubsection.4.5.0.5}
-\contentsline {chapter}{\numberline {5}Signal and Control Regions}{80}{chapter.5}
-\contentsline {section}{\numberline {5.1}Event Selection}{80}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Trigger Selection}{80}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Vertex Selection}{80}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}ZZ Candidate Selection}{80}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Choice of the best ZZ Candidate}{83}{subsection.5.1.4}
-\contentsline {section}{\numberline {5.2}Signal region and blinding}{84}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Cut-and-count based signal region}{85}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}MVA based signal region}{86}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Background Modeling}{86}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Irreducible Backgrounds}{86}{subsection.5.3.1}
-\contentsline {subsubsection}{\numberline {5.3.1.1}\ensuremath {\ensuremath {q}\mathaccentV {bar}016{\ensuremath {q}}\to \ensuremath {Z}\ensuremath {Z}}~ Modelling}{86}{subsubsection.5.3.1.1}
-\contentsline {subsubsection}{\numberline {5.3.1.2}\ensuremath {\ensuremath {g}\ensuremath {g}\to \ensuremath {Z}\ensuremath {Z}}~ Modelling}{87}{subsubsection.5.3.1.2}
-\contentsline {subsection}{\numberline {5.3.2}Reducible Background}{88}{subsection.5.3.2}
-\contentsline {paragraph}{Fake Rate Determination (OS Method)}{90}{section*.77}
-\contentsline {paragraph}{Fake Rate Application (OS Method)}{90}{section*.79}
-\contentsline {section}{\numberline {5.4}Event Yields}{95}{section.5.4}
-\contentsline {chapter}{\numberline {6}Results}{97}{chapter.6}
-\contentsline {section}{\numberline {6.1}Statistical analysis}{97}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Systematic uncertainties}{97}{subsection.6.1.1}
-\contentsline {subsubsection}{\numberline {6.1.1.1}Uncertainties on Reducible Background estimation}{97}{subsubsection.6.1.1.1}
-\contentsline {paragraph}{Statistics in 4l Control Sample}{97}{section*.85}
-\contentsline {paragraph}{Sensitivity of Fake Ratios to Background Composition}{98}{section*.86}
-\contentsline {paragraph}{Shape Uncertainty}{98}{section*.87}
-\contentsline {subsubsection}{\numberline {6.1.1.2}MET systematics}{98}{subsubsection.6.1.1.2}
-\contentsline {subsubsection}{\numberline {6.1.1.3}Additional systematics}{99}{subsubsection.6.1.1.3}
-\contentsline {subsection}{\numberline {6.1.2}Limit setting}{102}{subsection.6.1.2}
-\contentsline {section}{\numberline {6.2}Cross Section Limits}{105}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Cut-and-count based}{105}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}MVA based}{106}{subsection.6.2.2}
-\contentsline {chapter}{\numberline {7}Conclusions}{109}{chapter.7}
-\contentsline {chapter}{Appendices}{111}{section*.96}
-\contentsline {chapter}{\numberline {A}Production Cross Sections for Benchmark Signal Models}{112}{Appendix.1.A}
+\contentsline {section}{\numberline {4.4}Jets}{76}{section.4.4}
+\contentsline {subsubsection}{\numberline {4.4.0.6}Jet identification}{76}{subsubsection.4.4.0.6}
+\contentsline {subsubsection}{\numberline {4.4.0.7}Jet energy corrections}{76}{subsubsection.4.4.0.7}
+\contentsline {subsubsection}{\numberline {4.4.0.8}B-tagging}{77}{subsubsection.4.4.0.8}
+\contentsline {section}{\numberline {4.5}MET}{77}{section.4.5}
+\contentsline {subsubsection}{\numberline {4.5.0.9}MET filters}{78}{subsubsection.4.5.0.9}
+\contentsline {subsubsection}{\numberline {4.5.0.10}Fake MET modeling}{79}{subsubsection.4.5.0.10}
+\contentsline {chapter}{\numberline {5}Signal and control regions}{82}{chapter.5}
+\contentsline {section}{\numberline {5.1}Event selection}{82}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Trigger selection}{82}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Vertex selection}{82}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}$ZZ$ candidate selection}{82}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Choice of the best $ZZ$ candidate}{85}{subsection.5.1.4}
+\contentsline {section}{\numberline {5.2}Signal region and blinding}{86}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Cut-and-count based signal region}{87}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}MVA-based signal region}{88}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Background modeling}{88}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Irreducible backgrounds}{88}{subsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.1.1}$\ensuremath {\ensuremath {q}\mathaccentV {bar}016{\ensuremath {q}}\to \ensuremath {Z}\ensuremath {Z}}$ modeling}{88}{subsubsection.5.3.1.1}
+\contentsline {subsubsection}{\numberline {5.3.1.2}$\ensuremath {\ensuremath {g}\ensuremath {g}\to \ensuremath {Z}\ensuremath {Z}}$ modeling}{90}{subsubsection.5.3.1.2}
+\contentsline {subsection}{\numberline {5.3.2}Reducible background estimation}{92}{subsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.2.1}Fake rate determination}{92}{subsubsection.5.3.2.1}
+\contentsline {subsubsection}{\numberline {5.3.2.2}Fake rate application}{93}{subsubsection.5.3.2.2}
+\contentsline {section}{\numberline {5.4}Event yields}{98}{section.5.4}
+\contentsline {chapter}{\numberline {6}Statistical analysis results}{99}{chapter.6}
+\contentsline {section}{\numberline {6.1}Systematic uncertainties}{99}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Uncertainties on the reducible background estimation}{99}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}MET systematics}{100}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Additional systematics}{101}{subsection.6.1.3}
+\contentsline {section}{\numberline {6.2}Limit setting}{103}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Cross section limits}{106}{subsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.1.1}Cut-and-count based limits}{106}{subsubsection.6.2.1.1}
+\contentsline {subsubsection}{\numberline {6.2.1.2}MVA-based limits}{107}{subsubsection.6.2.1.2}
+\contentsline {chapter}{\numberline {7}Conclusions}{110}{chapter.7}
+\contentsline {chapter}{Appendices}{112}{section*.86}
+\contentsline {chapter}{\numberline {A}Production cross sections for benchmark signal models}{113}{Appendix.1.A}

@@ -10,7 +10,7 @@
 \BOOKMARK [2][-]{subsection.1.2.1}{Background}{section.1.2}% 10
 \BOOKMARK [1][-]{section.1.3}{Beyond the Standard Model}{chapter.1}% 11
 \BOOKMARK [2][-]{subsection.1.3.1}{Collider searches for DM}{section.1.3}% 12
-\BOOKMARK [2][-]{subsection.1.3.2}{Signal Models}{section.1.3}% 13
+\BOOKMARK [2][-]{subsection.1.3.2}{Signal models}{section.1.3}% 13
 \BOOKMARK [0][-]{chapter.2}{Experimental apparatus}{}% 14
 \BOOKMARK [1][-]{section.2.1}{Large Hadron Collider}{chapter.2}% 15
 \BOOKMARK [1][-]{section.2.2}{Compact Muon Solenoid}{chapter.2}% 16
@@ -25,40 +25,40 @@
 \BOOKMARK [1][-]{section.3.3}{Datasets}{chapter.3}% 25
 \BOOKMARK [2][-]{subsection.3.3.1}{Data}{section.3.3}% 26
 \BOOKMARK [2][-]{subsection.3.3.2}{Simulation}{section.3.3}% 27
-\BOOKMARK [0][-]{chapter.4}{Physics Objects}{}% 28
+\BOOKMARK [0][-]{chapter.4}{Physics objects}{}% 28
 \BOOKMARK [1][-]{section.4.1}{Electrons}{chapter.4}% 29
-\BOOKMARK [2][-]{subsection.4.1.1}{Electron Reconstruction}{section.4.1}% 30
-\BOOKMARK [2][-]{subsection.4.1.2}{Electron Identification}{section.4.1}% 31
-\BOOKMARK [2][-]{subsection.4.1.3}{Electron Isolation}{section.4.1}% 32
-\BOOKMARK [2][-]{subsection.4.1.4}{Electron Energy Calibrations}{section.4.1}% 33
-\BOOKMARK [2][-]{subsection.4.1.5}{Electron Efficiency Measurements}{section.4.1}% 34
+\BOOKMARK [2][-]{subsection.4.1.1}{Electron reconstruction}{section.4.1}% 30
+\BOOKMARK [2][-]{subsection.4.1.2}{Electron identification}{section.4.1}% 31
+\BOOKMARK [2][-]{subsection.4.1.3}{Electron isolation}{section.4.1}% 32
+\BOOKMARK [2][-]{subsection.4.1.4}{Electron energy calibrations}{section.4.1}% 33
+\BOOKMARK [2][-]{subsection.4.1.5}{Electron efficiency measurements}{section.4.1}% 34
 \BOOKMARK [1][-]{section.4.2}{Muons}{chapter.4}% 35
-\BOOKMARK [2][-]{subsection.4.2.1}{Muon Reconstruction and Identification}{section.4.2}% 36
-\BOOKMARK [2][-]{subsection.4.2.2}{Muon Isolation}{section.4.2}% 37
-\BOOKMARK [2][-]{subsection.4.2.3}{Muon Efficiency Measurements}{section.4.2}% 38
+\BOOKMARK [2][-]{subsection.4.2.1}{Muon reconstruction and identification}{section.4.2}% 36
+\BOOKMARK [2][-]{subsection.4.2.2}{Muon isolation}{section.4.2}% 37
+\BOOKMARK [2][-]{subsection.4.2.3}{Muon efficiency measurements}{section.4.2}% 38
 \BOOKMARK [1][-]{section.4.3}{Photons for FSR recovery}{chapter.4}% 39
 \BOOKMARK [1][-]{section.4.4}{Jets}{chapter.4}% 40
 \BOOKMARK [1][-]{section.4.5}{MET}{chapter.4}% 41
-\BOOKMARK [0][-]{chapter.5}{Signal and Control Regions}{}% 42
-\BOOKMARK [1][-]{section.5.1}{Event Selection}{chapter.5}% 43
-\BOOKMARK [2][-]{subsection.5.1.1}{Trigger Selection}{section.5.1}% 44
-\BOOKMARK [2][-]{subsection.5.1.2}{Vertex Selection}{section.5.1}% 45
-\BOOKMARK [2][-]{subsection.5.1.3}{ZZ Candidate Selection}{section.5.1}% 46
-\BOOKMARK [2][-]{subsection.5.1.4}{Choice of the best ZZ Candidate}{section.5.1}% 47
+\BOOKMARK [0][-]{chapter.5}{Signal and control regions}{}% 42
+\BOOKMARK [1][-]{section.5.1}{Event selection}{chapter.5}% 43
+\BOOKMARK [2][-]{subsection.5.1.1}{Trigger selection}{section.5.1}% 44
+\BOOKMARK [2][-]{subsection.5.1.2}{Vertex selection}{section.5.1}% 45
+\BOOKMARK [2][-]{subsection.5.1.3}{ZZ candidate selection}{section.5.1}% 46
+\BOOKMARK [2][-]{subsection.5.1.4}{Choice of the best ZZ candidate}{section.5.1}% 47
 \BOOKMARK [1][-]{section.5.2}{Signal region and blinding}{chapter.5}% 48
 \BOOKMARK [2][-]{subsection.5.2.1}{Cut-and-count based signal region}{section.5.2}% 49
-\BOOKMARK [2][-]{subsection.5.2.2}{MVA based signal region}{section.5.2}% 50
-\BOOKMARK [1][-]{section.5.3}{Background Modeling}{chapter.5}% 51
-\BOOKMARK [2][-]{subsection.5.3.1}{Irreducible Backgrounds}{section.5.3}% 52
-\BOOKMARK [2][-]{subsection.5.3.2}{Reducible Background}{section.5.3}% 53
-\BOOKMARK [1][-]{section.5.4}{Event Yields}{chapter.5}% 54
-\BOOKMARK [0][-]{chapter.6}{Results}{}% 55
-\BOOKMARK [1][-]{section.6.1}{Statistical analysis}{chapter.6}% 56
-\BOOKMARK [2][-]{subsection.6.1.1}{Systematic uncertainties}{section.6.1}% 57
-\BOOKMARK [2][-]{subsection.6.1.2}{Limit setting}{section.6.1}% 58
-\BOOKMARK [1][-]{section.6.2}{Cross Section Limits}{chapter.6}% 59
-\BOOKMARK [2][-]{subsection.6.2.1}{Cut-and-count based}{section.6.2}% 60
-\BOOKMARK [2][-]{subsection.6.2.2}{MVA based}{section.6.2}% 61
+\BOOKMARK [2][-]{subsection.5.2.2}{MVA-based signal region}{section.5.2}% 50
+\BOOKMARK [1][-]{section.5.3}{Background modeling}{chapter.5}% 51
+\BOOKMARK [2][-]{subsection.5.3.1}{Irreducible backgrounds}{section.5.3}% 52
+\BOOKMARK [2][-]{subsection.5.3.2}{Reducible background estimation}{section.5.3}% 53
+\BOOKMARK [1][-]{section.5.4}{Event yields}{chapter.5}% 54
+\BOOKMARK [0][-]{chapter.6}{Statistical analysis results}{}% 55
+\BOOKMARK [1][-]{section.6.1}{Systematic uncertainties}{chapter.6}% 56
+\BOOKMARK [2][-]{subsection.6.1.1}{Uncertainties on the reducible background estimation}{section.6.1}% 57
+\BOOKMARK [2][-]{subsection.6.1.2}{MET systematics}{section.6.1}% 58
+\BOOKMARK [2][-]{subsection.6.1.3}{Additional systematics}{section.6.1}% 59
+\BOOKMARK [1][-]{section.6.2}{Limit setting}{chapter.6}% 60
+\BOOKMARK [2][-]{subsection.6.2.1}{Cross section limits}{section.6.2}% 61
 \BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 62
-\BOOKMARK [0][-]{section*.96}{Appendices}{}% 63
-\BOOKMARK [0][-]{Appendix.1.A}{Production Cross Sections for Benchmark Signal Models}{}% 64
+\BOOKMARK [0][-]{section*.86}{Appendices}{}% 63
+\BOOKMARK [0][-]{Appendix.1.A}{Production cross sections for benchmark signal models}{}% 64

@@ -1,20 +1,20 @@
 \chapter{Event reconstruction and simulation}
 
-This chapter overviews the algorithms used to reconstruct the trajectories and identify (ID) types of particles produced in proton-proton collisions in CMS, collectively known as Particle Flow (PF), and how these collisions are simulated. Unless otherwise noted, the material in the first section comes from reference \cite{CMS:2009nxa}.
+This chapter overviews the algorithms used to reconstruct the trajectories and identify (ID) types of particles produced in proton-proton collisions in CMS, collectively known as Particle Flow (PF) \cite{CMS:2009nxa}, and how these collisions are simulated.
 
 \section{Particle reconstruction}
 
-The PF algorithms combine information from all of the CMS sub-detectors discussed in the previous chapter to reconstruct the particles produced in the collision event. Since many of the particles produced initially in the collision are unstable, decaying before they have time to interact with the sub-detectors, PF reconstructs the stable particles: electrons, muons, photons, and hadrons. The remaining physics objects of interest, jets, missing energy, taus, etc, can be determined from the information provided by the stable PF-IDed particles. 
+The PF algorithms combine information from all of the CMS subdetectors discussed in the previous chapter to reconstruct the particles produced in the collision event. Since many of the particles produced initially in the collision are unstable, decaying before they have time to interact with the subdetectors, PF only reconstructs the stable particles: electrons, muons, photons, and hadrons. The remaining physics objects of interest, jets, missing energy, taus, etc, can be determined from the information provided by the stable PF identified particles. 
 
-\indent The different particles are reconstructed and IDed using information from individual sub-detectors, or combinations of sub-detectors. The direction and momentum of charged particles is measured by the tracker. Electrons are reconstructed using tracks and energy deposits in the ECAL. Muons are reconstructed from a combination of tracker and muon chamber data. Photons are reconstructed from energy deposits in the ECAL. Finally, charged and neutral hadrons are reconstructed from energy deposited primarily in the HCAL, with a contribution from energy deposits in the ECAL. The missing transverse energy, an observable of particular importance to this analysis, used to identify DM that does not interact with the detector material, is the modulus of the sum of transverse momenta of all the PF reconstructed particles. 
+\indent The different particles are reconstructed and identified using information from individual subdetectors, or combinations of subdetectors. The direction and momentum of charged particles is measured by the tracker. Electrons are reconstructed using tracks and energy deposits in the ECAL. Muons are reconstructed from a combination of tracker and muon chamber data. Photons are reconstructed from energy deposits in the ECAL. Finally, charged and neutral hadrons are reconstructed from energy deposited primarily in the HCAL, with a contribution from energy deposits in the ECAL. The MET, an observable of particular importance to this analysis, and used to identify DM that does not interact with the detector material, is the modulus of the sum of transverse momenta of all the PF reconstructed particles. 
 
-\indent The basic pieces of information from the subdetectors used by PF are called elements, and consist of charged-particle tracks, muon tracks, and calorimeter clusters. The tracker provides charged-particle track elements. Since the tracker has the best momentum resolution of the subdetectors, it is of critical importance that the tracking efficiency be nearly 100\%, with as low a fake rate as possible, to reduce an excess in reconstructed energy. These two goals are accomplished using an iterative algorithm: first, tracks are seeded using very tight criteria, yielding a low efficiency, but negligible fake rate, then track seed criteria are loosened and hits that clearly belong to a track are removed, resulting in increasing efficiency. The ECAL and HCAL subsystems (ECAL barrel, HCAL barrel, HCAL endcap, PS first layer, and PS second layer) provide cluster elements. The calorimeter clustering algorithm measures the energy and direction of neutral particles (e.g. photons, neutral hadrons), differentiates energy deposits from neutral and charged hadrons, reconstructs electrons, and contributes to the reconstruction of charged hadrons. The algorithm is summarized as follows: cluster seeds are identified as energy deposit peaks over a given energy, from which topological clusters are grown by appending adjacent cells, and last, topological clusters seed PF clusters. An example is shown in Figure~\ref{fig:pf1} and Figure~\ref{fig:pf2}, where a simple jet is reconstructed into four clusters, shown as dots. 
+\indent The basic pieces of information from the subdetectors used by PF are called elements, and consist of charged-particle tracks, muon tracks, and calorimeter clusters. The tracker provides charged-particle track elements. Since the tracker has the best momentum resolution of the subdetectors, it is of critical importance that the tracking efficiency be nearly 100\%, with as low a fake rate as possible, to reduce an excess in reconstructed energy. This goal is accomplished using an iterative algorithm: first, tracks are seeded using very tight criteria, yielding a low efficiency, but negligible fake rate, then track seed criteria are loosened and hits that clearly belong to a track are removed, resulting in increasing efficiency. The ECAL and HCAL subsystems (ECAL barrel, HCAL barrel, HCAL end cap, PS first layer, and PS second layer) provide cluster elements. The calorimeter clustering algorithm measures the energy and direction of neutral particles (i.e. photons and neutral hadrons), differentiates energy deposits from neutral and charged hadrons, reconstructs electrons, and contributes to the reconstruction of charged hadrons. The algorithm is summarized as follows: cluster seeds are identified as energy deposit peaks over a given energy, from which topological clusters are grown by appending adjacent cells, and last, topological clusters seed PF clusters. An example is shown in Figure~\ref{fig:pf1} and Figure~\ref{fig:pf2}, where a simple jet is reconstructed into four clusters, shown as dots. 
 
 
 \begin{figure}[tbh]
 \centering
 \includegraphics[width=4in]{figures/PFa.pdf}
-\caption{Event display of hadronic jet in the x-y plane, with solid arcs at the ECAL and HCAL surfaces. The locations of clusters are given by the solid dots.}
+\caption{Event display of hadronic jet in the $x-y$ plane, with solid arcs at the ECAL and HCAL surfaces. The locations of clusters are given by the solid dots.}
 \label{fig:pf1}
 \end{figure}
 
@@ -33,25 +33,25 @@ The PF algorithms combine information from all of the CMS sub-detectors discusse
 \label{fig:pf2}
 \end{figure}
 
-\indent Once the PF elements are determined, they are linked together into blocks, which correspond to the signatures left in the sub-detectors of a single particle. Single particles typically leave one to three elements. The linking algorithm determines the quality of the link between all pairwise elements in an event, then forms blocks from the highest quality links, starting from the tracker, and proceeding outward through the calorimeters and muon chambers. Once the blocks are formed, PF associates a global event particle with each block. PF muons are formed from global muon candidates if its momentum is consistent across all track elements. PF electrons are IDed from electron candidates using tracker and ECAL cluster variables, accounting for the Bremsstrahlung photons produced when the electron passes through the tracker material. Once the elements associated to PF muons and PF electrons are removed, the remaining elements are analyzed to ID charged hadrons, photons, or neutral hadrons. PF charged hadrons are associated to remaining tracks if the linked clusters are consistent with the measured momenta. If the energy of the linked clusters is much larger than the track momentum, accounting for uncertainties, a PF photon or PF neutral hadron is formed. Any remaning clusters without linked tracks form PF photons or PF neutral hadrons. 
+\indent Once the PF elements are determined, they are linked together into blocks, which correspond to the signatures left in the subdetectors of a single particle. Single particles typically leave one to three elements. The linking algorithm determines the quality of the link between all pairwise elements in an event, then forms blocks from the highest quality links, starting from the tracker and proceeding outward through the calorimeters and muon chambers. Once the blocks are formed, PF associates a global event particle with each block. A PF muon is formed from a global muon candidate if its momentum is consistent across all track elements. PF electrons are identified from electron candidates using tracker and ECAL cluster variables, accounting for the bremsstrahlung photons produced when the electron passes through the tracker material. Once the elements associated to PF muons and PF electrons are removed, the remaining elements are analyzed to identify charged hadrons, photons, or neutral hadrons. PF charged hadrons are associated to remaining tracks if the linked clusters are consistent with the measured momenta. If the energy of the linked clusters is much larger than the track momentum, accounting for uncertainties, a PF photon or PF neutral hadron is formed. Any remaning clusters without linked tracks form PF photons or PF neutral hadrons. 
 
-\indent As previously discussed, once the PF particles are identified, additional information about the event can be inferred. A quantity of particular importance to this analysis is the missing transverse energy (MET), defined above. The performance of the PF algorithms determination of the MET is shown in Figure~\ref{fig:pfmetres} by the resolution of PF measured MET as a function of the true MET to be within $\pm5\%$ above 20 GeV.
+\indent As previously discussed, once the PF particles are identified, additional information about the event can be inferred. A quantity of particular importance to this analysis is the missing transverse energy (MET), defined above. The performance of the PF algorithms' determination of the MET is shown in Figure~\ref{fig:pfmetres} by the resolution of PF measured MET as a function of the true MET to be within $\pm5\%$ above 20 $\GeV$.
 
 
 \begin{figure}[tbh]
 \centering
-\includegraphics[width=4in]{figures/pfmetres.pdf}
-\caption{MET reconstruction resolution.}
+\includegraphics[width=4.5in]{figures/pfmetres.pdf}
+\caption{Missing transverse energy reconstruction resolution using the particle flow algorithm.}
 \label{fig:pfmetres}
 \end{figure}
 
 \section{Monte Carlo event simulation}
 
-The simulation of proton collision events and their detection using Monte Carlo (MC) techniques is useful for several purposes. In addition to using the simulated events to test the detector hardware and software performance without collecting true data, simulations are used to build background models when searching the data for new physics processes. New physics signatures usually appear as excesses in data above a SM background. The background model consists of SM processes which produce the same or similar signature as the new signal being searched for. These processes are modelled either using purely simulated events, or a combination of simulated events and data-driven techniques. In either case, it is often necessary to weight the background events by correction scale factors measured using data, which account for shortcomings of the simulations, such as the inability to perform perturbative QCD calculations for low momentum transfer processes. MC event generation can be factored into two parts: modeling the initial particles produced in a collision event and modeling how these initial particles evolve in and interact with the detector.
+The simulation of proton collision events and their detection using Monte Carlo (MC) techniques is useful for several purposes. In addition to using the simulated events to test the detector hardware and software performance without collecting true data, simulations are used to build background models when searching the data for new physics processes. New physics signatures usually appear as excesses in data above a SM background. The background model consists of SM processes which produce the same or similar signature as the new signal being searched for. These processes are modeled either using purely simulated events or a combination of simulated events and data-driven techniques. In either case, it is often necessary to weight the background events by correction scale factors measured using data, which account for shortcomings of the simulations, such as the inability to perform perturbative QCD calculations for low momentum transfer processes. MC event generation can be factored into two parts: (1) modeling the initial particles produced in a collision event and (2) modeling how these initial particles evolve in and interact with the detector.
 
-\indent The first part of MC event generation is modeling the proton-proton collision and the initial particles produced at the primary vertex. Several software packages are used by CMS analysts to generate collision events and calculate the cross sections of the simulated processes, including PYTHIA \cite{1126-6708-2006-05-026}, MADGRAPH \cite{Alwall2011}, BlackHat and Sherpa \cite{Berger:2009ba}, and POWHEG \cite{Alioli:2010ab}. The packages have different implementations, but the underlying principles are the same. The momenta of the proton partons (quarks and gluons) that interact in the initial scatter are determined probabilistically by random sampling from the parton distribution functions (PDFs), which give the probability that a parton will carry a fraction $x$ of the proton momentum. This is straightforward for processes with two incoming and one outgoing particle ($2 \rightarrow 1$) and two incoming and two outgoing particles ($2 \rightarrow 2$), in which the outcomes are weighted by their relative cross sections and determined probabalistically. For radiative processes such as ISR and FSR of a photon or gluon, generally $1 \rightarrow 2$ processes, higher order matrix elements must be calculated or approximated. Once the initial particles are determined, their fragmentation and decays are simulated in a process called hadronization, until the final stable particles are produced. 
+\indent The first part of MC event generation is modeling the proton-proton collision and the initial particles produced at the primary vertex. Several software packages are used by CMS analysts to generate collision events and calculate the cross sections of the simulated processes, including PYTHIA \cite{1126-6708-2006-05-026}, MADGRAPH \cite{Alwall2011}, BlackHat and Sherpa \cite{Berger:2009ba}, and POWHEG \cite{Alioli:2010ab}. The packages have different implementations, but the underlying principles are the same. The momenta of the proton partons (i.e. quarks and gluons) that interact in the initial scatter are determined probabilistically by random sampling from the parton distribution functions (PDFs), which give the probability that a parton will carry a fraction $x$ of the proton momentum. This is straightforward for processes with two incoming and one outgoing particle ($2 \rightarrow 1$) and two incoming and two outgoing particles ($2 \rightarrow 2$), in which the outcomes are weighted by their relative cross sections and determined probabalistically. However, for radiative processes, such as ISR and FSR of a photon or gluon, which are generally $1 \rightarrow 2$ processes, higher order matrix elements must be calculated or approximated. Once the initial particles are determined, their fragmentation and decays are simulated in a process called hadronization, until the final stable particles are produced. 
 
-\indent The second part of MC event generation is simulating the detector response to the stable particles produced in the first step, including their interaction with the detector material itself, both active elements and structural material. The primary software package used in this step by CMS is GEANT \cite{documents:998155}, in which a complete digital representation of the CMS detector is built. GEANT simulates the passage of each each stable particle, step-by-step, outward through the detector, probabilistically determining the interaction that occurs at each step depending on the particle's energy,  material it is in, and the EM field present. Since the detector is not perfectly efficienct, both because the acceptance is less than one and the reconstruction efficiency of the individual detector elements is suboptimal, calibration values must be measured at CMS and fed back in to the simulations, so that the performance of the detector can be accurately simulated. Once the final response of the detector is simulated, the resulting MC may be weighted by scale factors measured using real data, in order to correct for mismodelling of the detector.
+\indent The second part of MC event generation is simulating the detector response to the stable particles produced in the first step, including their interaction with the detector material itself, both active elements and structural material. The primary software package used in this step by CMS is GEANT \cite{documents:998155}, in which a complete digital representation of the CMS detector is built. GEANT simulates the passage of each stable particle, step-by-step, outward through the detector, probabilistically determining the interaction that occurs at each step depending on the particle's energy,  material it is in, and the EM field present. The detector is not perfectly efficienct because the acceptance is less than one and the reconstruction efficiency of the individual detector elements is suboptimal, so calibration values must be measured at CMS and fed back in to the simulations, in order to accurately simulate the performance of the detector. Once the final response of the detector is simulated, the resulting MC may be weighted by scale factors measured using real data, in order to correct for mismodeling of the detector.
 
 \section{Datasets}
 
@@ -61,9 +61,9 @@ The simulation of proton collision events and their detection using Monte Carlo 
 \label{sec:trigpaths}
 
 This analysis uses a data sample recorded by the CMS experiment during 2016, corresponding to $\usedLumi$ of data. 
-The datasets are listed in Table~\ref{tab:datasets_data}, along with the integrated luminosity.  
-The analysis relies on five different primary datasets (PDs), 
-{\it DoubleEG}, {\it DoubleMuon}, {\it MuEG}, {\it SingleElectron}, and {\it SingleMuon},
+The datasets are listed in Table~\ref{tab:datasets_data}, along with their integrated luminosities.  
+The analysis relies on five different primary datasets (PDs) $-$ 
+DoubleEG, DoubleMuon, MuEG, SingleElectron, and SingleMuon $-$
 each of which combines a certain collection of HLT paths. 
 To avoid duplicate events from different primary datasets, events are taken:
 \begin{itemize}
@@ -75,7 +75,7 @@ To avoid duplicate events from different primary datasets, events are taken:
 \end{itemize} 
 
 The HLT paths used for 2016 collision data are listed in Table~\ref{tab:triggerPaths}, 
-together with their L1 seed, prescale value and the associated primary dataset.
+together with their L1 seeds, prescale values and the associated primary datasets.
 
 %The JSON files are the following:
 %\begin{itemize}
@@ -147,7 +147,7 @@ Run-range & Dataset & Integrated luminosity \\
 \hline %----------------------------------------------------------------------------------------
      \end{tabular}
 %\small
-    \caption{ Datasets used in the analysis. }
+    \caption{Run 2 datasets used in the $H\rightarrow ZZ$ analysis. The first column specifies the range of run ids, indices counting up from the first CMS run, for each dataset. The middle column gives the CMS database file path where the data files are stored. The third column gives the total integrated luminosities for each collection of runs.}
     \label{tab:datasets_data}
 \end{table}
 
@@ -188,20 +188,20 @@ HLT path                      				       & L1 seed                          & pr
 
 \subsubsection{Trigger Efficiency}
 
-The efficiency in data of the combination of triggers used in the anlysis with respect to the offline reconstruction and selection is measured
-by considering 4$\ell$ events triggered by single lepton triggers. One of the four reconstructed leptons ( the ``tag'') is geometrically matched 
+The efficiency for data events to pass the combination of triggers with respect to the offline reconstruction and selection is measured
+by considering four-lepton events triggered by single lepton triggers. One of the four reconstructed leptons, called the "tag," is geometrically matched 
 to a trigger object passing the final filter of one of the single muon or single electron triggers. The other three leptons are 
-used as ``probes''. In each 4$\ell$ event there are up to 4 possible tag-probe combinations, and all possible combinations are counted in the
-denominator of the efficiency. For each of the three probe leptons all matching trigger filter objects are collected. Then the matched trigger filter
-objects of the three probe leptons are combined in attempt to reconstruct any of the triggers used in the anlysis. If any of the analysis triggers
+used as ``probes.'' In each four-lepton event, there are up to four possible tag-probe combinations, and all possible combinations are counted in the
+denominator of the efficiency. For each of the three probe leptons, all matching trigger filter objects are collected. Then, the matched trigger filter
+objects of the three probe leptons are combined in attempt to reconstruct any of the triggers used in the analysis. If any of the analysis triggers
 can be formed using the probe leptons, the set of probes is also counted in the numerator of the efficiency.
 
 This method does not have a perfect closure in MC events due to the fact that the presence of a fourth lepton increases the trigger efficiency,
 and this effect is not accounted for. Also, in the  $2e2\mu$ final state, the three probe leptons cannot be combined to form all possible triggers which 
 can collect events with two electrons and two muons (e.g. if the tag lepton is an electron, the three remaining leptons cannot pass a double electron
-trigger). Therefore the method is also exercised on MC and the difference between data and MC is used to determine the reliability of the simulation.
- The efficiency plotted as a function of the minimum $p_{\rm{T}}$ of the three probe leptons in data and MC using this method can be seen in 
-Fig.\ref{fig:TrigEff}. The MC efficiency describes well the data within the statistical uncertainties.
+trigger). Therefore, the method is also exercised on MC, and the difference between data and MC is used to determine the reliability of the simulation.
+ The efficiency plotted as a function of the minimum transverse momentum ($p_{\rm{T}}$) of the three probe leptons in data and MC using this method can be seen in 
+Figure~\ref{fig:TrigEff}. The MC efficiency describes the data within the statistical uncertainties well.
 
 %=======
 \begin{figure}[!htb]
@@ -217,7 +217,7 @@ Fig.\ref{fig:TrigEff}. The MC efficiency describes well the data within the stat
 \end{figure}
 %=======
 
-A summary of the trigger efficiencies in MC truth, and in MC and data using the tag and probe method are summarized in table~\ref{tab:TrigEff}. The trigger
+A summary of the trigger efficiencies in MC truth, MC, and data using the tag and probe method, is shown in Table~\ref{tab:TrigEff}. The trigger
 efficiency in simulation is found to be $>99\%$ in each final state.
 
 \begin{table}[h]
@@ -239,7 +239,7 @@ $2e2\mu$  & 0.995$^{+.001}_{-0.001}$ & 0.964$^{+.002}_{-0.002}$ & 0.983$^{+.003}
 
 \subsubsection{Signal Samples}
 
-The signal samples used are centrally produced for the benchmarks defined in the previous section and are summarized in Table~\ref{tab:sig}.
+The signal samples used are centrally produced for the benchmarks defined in Section~\ref{sec:sigbench} and are summarized in Table~\ref{tab:sig}.
 
 \begin{table}
 \resizebox{\textwidth}{!}{%
@@ -247,8 +247,8 @@ The signal samples used are centrally produced for the benchmarks defined in the
 \hline
 Dataset & Parameters\\
 \hline
-/ZprimeToA0hToA0chichihZZTo4l\_2HDM\_MZp-*\_MA0-300\_13TeV-madgraph-pythia8/[1] & $m_{A^0} = $ 300 GeV \\
-/ZprimeToA0hToA0chichihZZTo4l\_2HDM\_MZp-*\_MA0-*\_13TeV-madgraph/[2] & $m_{A^0} \neq $ 300 GeV \\
+/ZprimeToA0hToA0chichihZZTo4l\_2HDM\_MZp-*\_MA0-300\_13TeV-madgraph-pythia8/[1] & $m_{A^0} = $ 300 $\GeV$ \\
+/ZprimeToA0hToA0chichihZZTo4l\_2HDM\_MZp-*\_MA0-*\_13TeV-madgraph/[2] & $m_{A^0} \neq $ 300 $\GeV$ \\
 /MonoHZZ4l\_ZpBaryonic\_MZp-*\_MChi-*\_13TeV-madgraph/[3] & \\
 \hline
 $[1]$ RunIISpring16DR80-premix\_withHLT\_80X\_mcRun2\_asymptotic\_v14-v1/AODSIM & \\
@@ -264,16 +264,15 @@ $[3]$ RunIISpring16DR80-premix\_withHLT\_80X\_mcRun2\_asymptotic\_v14-v1/AODSIM 
 Descriptions of the SM Higgs boson production are obtained using the 
 {\sc powheg V2}~\cite{Alioli:2008gx,Nason:2004rx,Frixione:2007vw} generator for the five main production modes: 
 gluon fusion ($\ggH$) including quark mass effects~\cite{Bagnaschi:2011tu}, vector boson fusion 
-(VBF)~\cite{Nason:2009ai}, and associated production (WH, $\cPZ$H and \ttbar$\,$H~\cite{Hartanto:2015uka}). 
-In the case of WH and $\cPZ$H the {\sc MiNLO HVJ} extension of {\sc powheg} is used~\cite{Luisoni:2013kna}. 
+(VBF)~\cite{Nason:2009ai}, and associated production ($WH$, $\cPZ H$ and $\ttbar H$ \cite{Hartanto:2015uka}). 
+In the case of $WH$ and $\cPZ H$, the {\sc MiNLO HVJ} extension of {\sc powheg} is used~\cite{Luisoni:2013kna}. 
 The description of the decay of the Higgs boson to four leptons is obtained using the {\sc JHUgen} 
-generator~\cite{Gao:2010qx}. In the case of WH, $\cPZ$H and \ttbar$\,$H, the Higgs boson is allowed
-to decay to H$\to \cPZ \cPZ \to 2\ell2$X such that 4-lepton events where two leptons originate from 
-the decay of associated $\cPZ$, W bosons or top quarks are also taken into account in the simulation. 
-Showering of parton-level events is done using {\sc pythia8.209}, and in all cases matching is performed by 
+generator~\cite{Gao:2010qx}. In the case of $WH$, $\cPZ H$ and $\ttbar H$, the Higgs boson is allowed
+to decay to H$\to \cPZ \cPZ \to 2\ell2 X$, such that four-lepton events where two leptons originate from 
+the decay of associated $\cPZ$, $W$ bosons or top quarks are also taken into account in the simulation. 
+Showering of parton-level events is done using {\sc pythia8.209}, and in all cases, matching is performed by 
 allowing QCD emissions at all energies in the shower and vetoing them afterwards according to the 
-{\sc powheg} internal scale. All samples are generated with the NNPDF 3.0 NLO parton distribution 
-functions (PDFs)~\cite{Ball:2014uwa}. The list of Higgs signal samples and their cross sections are shown in 
+{\sc powheg} internal scale. All samples are generated with the NNPDF 3.0 next-to-leading order (NLO) PDFs~\cite{Ball:2014uwa}. The list of Higgs signal samples and their cross sections are shown in 
 Table~\ref{tab:SignalSamples}.
 
 \begin{table}
@@ -282,7 +281,7 @@ Table~\ref{tab:SignalSamples}.
 \resizebox{\textwidth}{!}{%
     \begin{tabular}{|l|l|r|}
    \hline
- Process & Dataset Name & $\sigma\times BR (\times\epsilon_{\text{filter}})$ \\ \hline
+ Process & Dataset & $\sigma\times BR (\times\epsilon_{\text{filter}})$ \\ \hline
  $\rm{gg}\to\rm{H}\to\cPZ\cPZ \to 4\ell$ & /GluGluHToZZTo4L\_M125\_13TeV\_powheg2\_JHUgenV6\_pythia8 & $12.18~\rm{fb}$ \\ % & $12.12~\rm{fb}$ \\
  $\rm{qq}\to\rm{Hqq}\to\cPZ\cPZ\rm{qq}\to4\ell qq$ & /VBF\_HToZZTo4L\_M125\_13TeV\_powheg2\_JHUgenV6\_pythia8 & $1.044~\rm{fb}$ \\ % $1.034~\rm{fb}$ \\
  $\rm{q\bar{q}}\to\rm{W^{+}H}\to\rm{W^{+}}\cPZ\cPZ\to4\ell+\rm{X}$ & /WplusH\_HToZZTo4L\_M125\_13TeV\_powheg2-minlo-HWJ\_JHUgenV6\_pythia8 & $0.232~\rm{fb}$ \\ % $0.2339~\rm{fb}$ \\
@@ -292,16 +291,15 @@ Table~\ref{tab:SignalSamples}.
  \hline
  %\multicolumn{3}{l}{[1] RunIISummer16MiniAODv2-PUMoriond17\_80X\_mcRun2\_asymptotic\_2016\_TrancheIV\_v6-v1} \\
  \end{tabular}}
- \caption{Higgs signal samples and cross sections.}
+ \caption{Higgs signal samples and production cross sections times branching fractions to four leptons times filter efficiencies.}
   \label{tab:SignalSamples}
 \end{scriptsize}
 \end{table}
 
-Production of $ZZ$ via quark-antiquark annihilation is generated at
-next-to-leading order (NLO) using {\sc powheg V2}~\cite{Nason:2013ydw}
+Production of $ZZ$ via quark-antiquark annihilation is generated at NLO using {\sc powheg V2}~\cite{Nason:2013ydw}
 and {\sc pythia8}, with 
 the same settings as for the Higgs signal. As this simulation covers a large
-range of ZZ invariant masses, dynamical QCD factorization and renormalization
+range of $ZZ$ invariant masses, dynamical QCD factorization and renormalization
 scales have been chosen, equal to $m_{\cPZ\cPZ}$. 
 
 The $\Pg\Pg \! \to \! ZZ$ process is simulated at leading order (LO) 
@@ -314,7 +312,7 @@ different {\sc pythia8} settings, allowing only emissions up to the parton-level
 Although not directly used to model data observations, additional 
 MC samples of W$\cPZ$, Drell-Yan+jets, \ttbar, and tribosons are
 generated using {\sc MadGraph5\_aMCatNLO}~\cite{Alwall:2014hca} either
-inclusively or merging several jet multiplicities, as detailed in the table.
+inclusively or merging several jet multiplicities.
 Table~\ref{tab:MCsamples} summarizes the MC simulation datasets used for this analysis. 
 
 \begin{table}
@@ -363,7 +361,7 @@ The MC samples are reweighted to match the pileup distribution measured in 2016 
 \includegraphics[width=3.25in]{figures/hist_hPUvertices_ReWeighted.png}
 \caption{}
 \end{subfigure}
-\caption{Number of pileup vertices before (left) and after (right) reweighting is applied.}
+\caption{(Number of pileup vertices before (a) and after (b) reweighting is applied.}
 \label{fig:pu}
 \end{figure}
 
