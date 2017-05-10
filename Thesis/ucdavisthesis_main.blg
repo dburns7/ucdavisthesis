@@ -167,12 +167,14 @@ Repeated entry---line 3489 of file ucdavisthesis.bib
  : @article{Cowan:2010js
  :                      ,
 I'm skipping whatever remains of this entry
-Warning--empty journal in Abercrombie:2015wmb
-Warning--empty journal in Zweig:1981pd
-Warning--empty publisher in Zweig:1964jf
 Warning--empty author in CMS:HZZ
 Warning--empty title in CMS:HZZ
 Warning--empty journal in CMS:HZZ
+Warning--empty author in CMS:2009nxa
+Warning--empty journal in CMS:2009nxa
+Warning--empty journal in Abercrombie:2015wmb
+Warning--empty journal in Zweig:1981pd
+Warning--empty publisher in Zweig:1964jf
 Warning--empty journal in Atlas:2016Hbb
 Warning--empty institution in CMS-AN-15-338
 Warning--empty institution in CMS-AN-15-203
@@ -191,8 +193,6 @@ Warning--empty journal in CMS:CERN1
 Warning--empty author in CMS:CERN2
 Warning--empty title in CMS:CERN2
 Warning--empty journal in CMS:CERN2
-Warning--empty author in CMS:2009nxa
-Warning--empty journal in CMS:2009nxa
 Warning--empty author and editor in documents:998155
 Warning--empty author in AN-15-277
 Warning--empty institution in AN-15-277

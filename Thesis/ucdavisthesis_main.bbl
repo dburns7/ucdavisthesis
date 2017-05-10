@@ -1,5 +1,28 @@
 \begin{thebibliography}{100}
 
+\bibitem{CMS:HZZ}
+2012.
+\newblock URL:
+  \url{https://twiki.cern.ch/twiki/bin/view/CMSPublic/Hig12041TWiki}.
+
+\bibitem{1748-0221-3-08-S08004}
+The~CMS Collaboration.
+\newblock The cms experiment at the cern lhc.
+\newblock {\em Journal of Instrumentation}, 3(08):S08004, 2008.
+\newblock URL: \url{http://stacks.iop.org/1748-0221/3/i=08/a=S08004}.
+
+\bibitem{1748-0221-7-10-P10002}
+The~CMS collaboration.
+\newblock Performance of cms muon reconstruction in pp collision events at √s
+  = 7 tev.
+\newblock {\em Journal of Instrumentation}, 7(10):P10002, 2012.
+\newblock URL: \url{http://stacks.iop.org/1748-0221/7/i=10/a=P10002}.
+
+\bibitem{CMS:2009nxa}
+{Particle-Flow Event Reconstruction in CMS and Performance for Jets, Taus, and
+  MET}.
+\newblock 2009.
+
 \bibitem{Carpenter:2013xra}
 Linda Carpenter, Anthony DiFranzo, Michael Mulhearn, Chase Shimmin, Sean Tulin,
   and Daniel Whiteson.
@@ -416,11 +439,6 @@ Georges Aad et~al.
 \newblock \href {http://arxiv.org/abs/1207.7214} {\path{arXiv:1207.7214}},
   \href {http://dx.doi.org/10.1016/j.physletb.2012.08.020}
   {\path{doi:10.1016/j.physletb.2012.08.020}}.
-
-\bibitem{CMS:HZZ}
-2012.
-\newblock URL:
-  \url{https://twiki.cern.ch/twiki/bin/view/CMSPublic/Hig12041TWiki}.
 
 \bibitem{Kapteyn:1922zz}
 J.~C. Kapteyn.
@@ -1088,12 +1106,6 @@ Lyndon Evans and Philip Bryant.
 \newblock URL:
   \url{http://home.cern/about/engineering/restarting-lhc-why-13-tev}.
 
-\bibitem{1748-0221-3-08-S08004}
-The~CMS Collaboration.
-\newblock The cms experiment at the cern lhc.
-\newblock {\em Journal of Instrumentation}, 3(08):S08004, 2008.
-\newblock URL: \url{http://stacks.iop.org/1748-0221/3/i=08/a=S08004}.
-
 \bibitem{Chatrchyan:2014fea}
 Serguei Chatrchyan et~al.
 \newblock {Description and performance of track and primary-vertex
@@ -1102,18 +1114,6 @@ Serguei Chatrchyan et~al.
 \newblock \href {http://arxiv.org/abs/1405.6569} {\path{arXiv:1405.6569}},
   \href {http://dx.doi.org/10.1088/1748-0221/9/10/P10009}
   {\path{doi:10.1088/1748-0221/9/10/P10009}}.
-
-\bibitem{1748-0221-7-10-P10002}
-The~CMS collaboration.
-\newblock Performance of cms muon reconstruction in pp collision events at √s
-  = 7 tev.
-\newblock {\em Journal of Instrumentation}, 7(10):P10002, 2012.
-\newblock URL: \url{http://stacks.iop.org/1748-0221/7/i=10/a=P10002}.
-
-\bibitem{CMS:2009nxa}
-{Particle-Flow Event Reconstruction in CMS and Performance for Jets, Taus, and
-  MET}.
-\newblock 2009.
 
 \bibitem{1126-6708-2006-05-026}
 Torbjörn Sjöstrand, Stephen Mrenna, and Peter Skands.

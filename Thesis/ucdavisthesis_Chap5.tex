@@ -19,7 +19,7 @@ The electron reconstruction scale factors are shown Figure~\ref{fig:ele_rec_scal
 \begin{figure}[!htb]
 \vspace*{0.3cm}
 \begin{center}
-\includegraphics[width=0.6\textwidth]{Figures/Electrons/ele_rec_scale_factors.pdf}
+\includegraphics[width=0.7\textwidth]{Figures/Electrons/ele_rec_scale_factors.pdf}
 \end{center}
 \caption{Electron reconstruction efficiencies in data versus $\eta$ and data/MC scale factors as provided by the EGM POG.}
 \label{fig:ele_rec_scale_factors}
@@ -68,7 +68,7 @@ The respective working points are indicated by the markers.
 \begin{figure}[!htb]
 \vspace*{0.3cm}
 \begin{center}
-\includegraphics[width=0.5\textwidth]{Figures/Electrons/ele_overtraining.png}
+\includegraphics[width=0.7\textwidth]{Figures/Electrons/ele_overtraining.png}
 \caption{Boosted decision tree output for the training and testing sample for true and fake electrons in the high-$p_T$ end cap training bins.
 \label{fig:ele_ID_BDT_output}}
 \end{center}
@@ -83,7 +83,6 @@ For the analysis, we define "tight" electrons as the loose electrons that pass t
     \centering
 \resizebox{\textwidth}{!}{%
     \begin{tabular}{c|l}
-\hline %----------------------------------------------------------------------------------------
 \hline %----------------------------------------------------------------------------------------
 %\multicolumn{4}{|c|}{Datasets}                                                                \\
 observable type    &  observable name      	\\
@@ -110,7 +109,6 @@ supercluster to the supercluster energy, $H/E$			\\
         & probability transform of conversion vertex fit $\chi^2$ $(\mathord{\cdot})$ \\
 
 \hline %----------------------------------------------------------------------------------------
-\hline %----------------------------------------------------------------------------------------
      \end{tabular}}
 %\small
     \caption{Overview of input variables to the identification classifier. Variables not used in the Run 1 MVA are marked with  $(\mathord{\cdot})$.}
@@ -119,9 +117,9 @@ supercluster to the supercluster energy, $H/E$			\\
 
 
 \begin{table}[h!]
-\scriptsize
+%\scriptsize
     \centering
-    \begin{tabular}{c|c c c}
+    \begin{tabular}{c|c|c|c}
 %\multicolumn{4}{|c|}{Datasets}                                                                \\
 \hline %----------------------------------------------------------------------------------------
 minimum BDT score    &  $|\eta| < 0.8 $ & $0.8 < |\eta| < 1.479$ 	& $|\eta| > 1.479$      \\
@@ -129,9 +127,8 @@ minimum BDT score    &  $|\eta| < 0.8 $ & $0.8 < |\eta| < 1.479$ 	& $|\eta| > 1.
 $ 5 < p_T < 10 $ $\GeV$ &  -0.211      & -0.396  		& -0.215		\\
 $p_T > 10$ $\GeV$       &  -0.870		& -0.838		& -0.763		\\
 \hline %----------------------------------------------------------------------------------------
-\hline %----------------------------------------------------------------------------------------
      \end{tabular}
-\small
+%\small
     \caption{Minimum boosted decision tree score required for passing the electron identification.}
     \label{tab:ele_ID_WP}
 \end{table}
@@ -329,21 +326,21 @@ corresponds to muons originating from $\cPZ$ bosons with $\pt > 500\ \GeV$.
 \begin{table}[h]
     \begin{small}
     \begin{center}
-    \begin{tabular}{|l|l|}
+    \begin{tabular}{l|l}
       \hline
       Plain-text description         & Technical description                 \\
       \hline
       Muon station matching          & Muon is matched to segments           \\
                                      & in at least two muon stations         \\
-      \hline                                                          
+      %\hline                                                          
       Good $\pt$ measurement         & $\frac{\pt}{\sigma_{\pt}} < 0.3$      \\
-      \hline
+      %\hline
       Vertex compatibility ($x-y$)   & $d_{xy} < 2$~mm                       \\
-      \hline
+      %\hline
       Vertex compatibility ($z$)     & $d_{z} < 5$~mm                        \\
-      \hline
+      %\hline
       Pixel hits                     & At least one pixel hit                \\
-      \hline
+      %\hline
       Tracker hits                   & Hits in at least six tracker layers   \\
       \hline
     \end{tabular}

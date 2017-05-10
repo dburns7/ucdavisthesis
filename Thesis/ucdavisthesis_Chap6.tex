@@ -144,12 +144,12 @@ Note that there is no additional blinding on the MET distribution above a certai
 
 This search channel has the advantage of having backgrounds that are easily reduced by applying cuts on the discriminating variables. It was observed in the study of the 2015 data and MC samples that applying additional cuts did not improve the sensitivity since the background levels were already sufficiently low. Applying cuts on additional variables reduced the signal efficiency, which in turn reduced the sensitivity. This is also observed with 2016 MC samples, where applying the $|\Delta\phi(llll, \MET|$ does not improve the sensitivity. These observations motivate the use of MVA techniques, which can take all of the desired variables as inputs, but do not reduce the signal efficiency. Although it is simpler to cut on these discriminating variables using the cut-and-count method, there is potential for significant improvement in the sensitivity with an MVA approach.
 
-The SR event selection is optimized for the MVA-based case by training a boosted decision tree (BDT) with the ROOT TMVA package with $m_{4l}$ and $\MET$ the input variables. Including additional input features does not significantly improve the performance of the MVA. Training is done over the weighted set of simulated backgrounds and an admixture of signal models to reduce bias toward a single signal model. The BDT response is shown in Figure~\ref{fig:bdt}, with the signal peaked toward 1 and the background peaked toward $-1$. 
+The SR event selection is optimized for the MVA-based case by training a boosted decision tree (BDT) with the ROOT TMVA package with $m_{4l}$ and $\MET$ the input variables. Including additional input features does not significantly improve the performance of the MVA. Training is done over the weighted set of simulated backgrounds and an admixture of signal models to reduce bias toward a single signal model. The MVA response is shown in Figure~\ref{fig:bdt}, with the signal peaked toward 1 and the background peaked toward $-1$. 
 
 \begin{figure}[tbh]
 \centering
 \includegraphics[width=5in]{figures/f_Dm4lmet_1D_log.png}
-\caption{Boosted decision tree response trained on a weighted background sample and admixture of signal samples with input variables $m_{4l}$ and $\MET$. Simulated backgrounds are in pink and signals are in blue.}
+\caption{MVA response trained on a weighted background sample and admixture of signal samples with input variables $m_{4l}$ and $\MET$. Simulated backgrounds are in pink and signals are in blue.}
 \label{fig:bdt}
 \end{figure}
 
@@ -174,7 +174,7 @@ Figure~\ref{fig:qqZZKfactor}.
 
 \begin{table}[h]
     \centering
-    \begin{tabular}{|l|c|c|} 
+    \begin{tabular}{l|c|c} 
 \hline %----------------------------------------------------------------
 QCD Order  & $\sigma_{2\ell2\ell^{\prime}} (\mathrm{fb})$  & $\sigma_{4\ell} (\mathrm{fb})$  \\
 \hline %----------------------------------------------------------------
@@ -489,8 +489,8 @@ events in the four-lepton SRs from the reducible background processes.
 
 \begin{table}[h]
 \begin{center}
-     \begin{tabular}{| l | c | c | c | c |} \hline
- baseline	& $4e$ 	 & 4$\mu$ & $2e2\mu$  & 2$\mu2e$   \\ \hline \hline
+     \begin{tabular}{ l | c | c | c | c } \hline
+ baseline	& $4e$ 	 & 4$\mu$ & $2e2\mu$  & 2$\mu2e$   \\ \hline
  13 $\TeV$		& $22.19$ & $32.81$ & $22.48$    & $41.72$  \\  \hline
  	\end{tabular}
 \end{center}
@@ -510,48 +510,59 @@ Table~\ref{tab:smyields} shows the event yields for the primary backgrounds, a b
 \resizebox{\textwidth}{!}{%
 \begin{tabular}{ l | c | c | c | c | c | c | c | c }
 \hline
-\hline
 Sample & $q\bar{q} \rightarrow ZZ$ & $gg \rightarrow ZZ$ & $Z+X$ & $ZH$ & Other $H$ & Total & Signal & Observed \\
 \hline
 Initial & 1.89e+04 & 866 & 5.88e+08 & 17.4 & 377 & 5.88e+08 & 3.57 & 8.21e+07 \\
-\hline
+%\hline
 HLT & 1.89e+04 & 866 & 5.88e+08 & 17.4 & 377 & 5.88e+08 & 3.57 & 8.21e+07 \\
-\hline
+%\hline
 $Z_1$ lepton cuts & 1.94e+03 & 144 & 5.9e+04 & 2.35 & 57 & 6.12e+04 & 0.516 & 7.76e+04 \\
-\hline
+%\hline
 $m_{Z_1}$ & 1.58e+03 & 128 & 4.39e+04 & 2.13 & 53.8 & 4.57e+04 & 0.484 & 3.52e+04 \\
-\hline
+%\hline
 At least one $Z_2$ & 379 & 76.4 & 30.3 & 0.987 & 24.3 & 511 & 0.228 & 367 \\
-\hline
+%\hline
 $m_{Z_2}$ & 379 & 76.4 & 56.7 & 0.987 & 24.3 & 537 & 0.228 & 367 \\
-\hline
+%\hline
 $m_{ll}>4$ for OS-SF & 312 & 33.7 & 27.7 & 0.92 & 11.3 & 386 & 0.213 & 367 \\
-\hline
+%\hline
 $m_{llll} > 70$ $\GeV$ & 312 & 33.7 & 27.7 & 0.92 & 11.3 & 385 & 0.213 & 365 \\
-\hline
 \hline
 \end{tabular}}
 \caption{Cutflow table for the $4\mu$ channel. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\GeV$.}\label{tab:smyields}
 \end{center}
 \end{table*}
 
-The final yields in the cut-and-count based SR are shown in Table~\ref{tab:cacyields}. Since the MVA SR definition does not apply additional cuts in the event selection, the yields in this SR are the same as in the last step of Table~\ref{tab:smyields}.
+The final yields in the cut-and-count based SR are shown in Table~\ref{tab:cacyields}. 
+%Since the MVA SR definition does not apply additional cuts in the event selection, the yields in this SR are the same as in the last step of Table~\ref{tab:smyields}.
+The final yields in the MVA-based SR, requiring the respond D to be greater than 0.9, are shown in Table~\ref{tab:mvayields}. 
+
 
 \begin{table*}[htbH]
 \begin{center}
 \begin{tabular}{ l | c | c | c | c | c | c | c }
 \hline
-\hline
 Sample & $q\bar{q} \rightarrow ZZ$ & $gg \rightarrow ZZ$ & $Z+X$ & $H$ & Total & Signal & Observed \\
 \hline
 Yield & 0.35 & 0.034 & 0.023 & 0.33 & 0.74 & 0.20 & 1.0 \\
-\hline
 \hline
 \end{tabular}
 \caption{Final signal region yields using the cut-and-count selection strategy for the $4\mu$ channel. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\GeV$.}\label{tab:cacyields}
 \end{center}
 \end{table*}
 
+\begin{table*}[htbH]
+\begin{center}
+\begin{tabular}{ l | c | c | c | c | c | c | c }
+\hline
+Sample & $q\bar{q} \rightarrow ZZ$ & $gg \rightarrow ZZ$ & $Z+X$ & $H$ & Total & Signal & Observed \\
+\hline
+Yield & 117.5 & 4.54 & 17.6 & 11.7 & 151.3 & 0.21 & 151.0 \\
+\hline
+\end{tabular}
+\caption{Final signal region yields using the MVA selection strategy for the $4\mu$ channel. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\GeV$.}\label{tab:mvayields}
+\end{center}
+\end{table*}
 
 
 %\begin{table*}[htbH]

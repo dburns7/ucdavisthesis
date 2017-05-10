@@ -14,7 +14,7 @@ The PF algorithms combine information from all of the CMS subdetectors discussed
 \begin{figure}[tbh]
 \centering
 \includegraphics[width=4in]{figures/PFa.pdf}
-\caption{Event display of hadronic jet in the $x-y$ plane, with solid arcs at the ECAL and HCAL surfaces. The locations of clusters are given by the solid dots.}
+\caption{Event display of hadronic jet in the $x-y$ plane, with solid arcs at the ECAL and HCAL surfaces. The locations of clusters are given by the solid dots \cite{CMS:2009nxa}.}
 \label{fig:pf1}
 \end{figure}
 
@@ -29,7 +29,7 @@ The PF algorithms combine information from all of the CMS subdetectors discussed
 \includegraphics[width=2.8in]{figures/PFc.pdf}
 \caption{}
 \end{subfigure}
-\caption{Event display of hadronic jet in the $\eta-\phi$ plane for the ECAL (a) and HCAL (b). The locations of clusters are given by the solid dots.}
+\caption{Event display of hadronic jet in the $\eta-\phi$ plane for the ECAL (a) and HCAL (b). The locations of clusters are given by the solid dots \cite{CMS:2009nxa}.}
 \label{fig:pf2}
 \end{figure}
 
@@ -41,7 +41,7 @@ The PF algorithms combine information from all of the CMS subdetectors discussed
 \begin{figure}[tbh]
 \centering
 \includegraphics[width=4.5in]{figures/pfmetres.pdf}
-\caption{Missing transverse energy reconstruction resolution using the particle flow algorithm.}
+\caption{Missing transverse energy reconstruction resolution using the particle flow algorithm \cite{CMS:2009nxa}.}
 \label{fig:pfmetres}
 \end{figure}
 
@@ -86,11 +86,9 @@ together with their L1 seeds, prescale values and the associated primary dataset
 \begin{table}[h]
 \tiny
     \centering
-    \begin{tabular}{|l|l|l|} 
-\hline %----------------------------------------------------------------------------------------
+    \begin{tabular}{l|l|l} 
 \hline %---------------------------------------------------------------------------------------- 
 Run-range & Dataset & Integrated luminosity \\
-\hline %----------------------------------------------------------------------------------------
 \hline %---------------------------------------------------------------------------------------- 
 \multirow{5}{*}{273150-275376} & /DoubleMuon/Run2016B-23Sep2016-v3/AOD &  \multirow{5}{*}{$5.892\ \text{fb}^{-1}$} \\ 
 & /DoubleEG/Run2016B-23Sep2016-v3/AOD &  \\ 
@@ -144,7 +142,6 @@ Run-range & Dataset & Integrated luminosity \\
 & /SingleElectron/Run2016H-PromptReco-v3/AOD &  \\ 
 & /SingleMuon/Run2016H-PromptReco-v3/AOD &  \\ 
 \hline %----------------------------------------------------------------------------------------
-\hline %----------------------------------------------------------------------------------------
      \end{tabular}
 %\small
     \caption{Run 2 datasets used in the $H\rightarrow ZZ$ analysis. The first column specifies the range of run ids, indices counting up from the first CMS run, for each dataset. The middle column gives the CMS database file path where the data files are stored. The third column gives the total integrated luminosities for each collection of runs.}
@@ -155,7 +152,7 @@ Run-range & Dataset & Integrated luminosity \\
 \begin{table}[h]
 \tiny
     \centering
-    \begin{tabular}{|l|l|c|l|} 
+    \begin{tabular}{l|l|c|l} 
 \hline %--------------------------------------------------------------------------------------------------------------------------
 HLT path                      				       & L1 seed                          & prescale  & primary dataset \\
 \hline %--------------------------------------------------------------------------------------------------------------------------
@@ -222,7 +219,7 @@ efficiency in simulation is found to be $>99\%$ in each final state.
 
 \begin{table}[h]
     \centering
-    \begin{tabular}{|c|c|c|c|c|} 
+    \begin{tabular}{c|c|c|c} 
 \hline %----------------------------------------------------------------
 Final State  & $\ggH$ MC & $\ggH$ MC (matching)  & Data (matching)   \\
 \hline %----------------------------------------------------------------
@@ -243,7 +240,7 @@ The signal samples used are centrally produced for the benchmarks defined in Sec
 
 \begin{table}
 \resizebox{\textwidth}{!}{%
-\begin{tabular}{| l | l |}
+\begin{tabular}{ l | l }
 \hline
 Dataset & Parameters\\
 \hline
@@ -254,7 +251,6 @@ Dataset & Parameters\\
 $[1]$ RunIISpring16DR80-premix\_withHLT\_80X\_mcRun2\_asymptotic\_v14-v1/AODSIM & \\
 $[2]$ RunIISpring16reHLT80-PUSpring16RAWAODSIM\_reHLT\_80X\_mcRun2\_asymptotic\_v14-v1/AODSIM & \\
 $[3]$ RunIISpring16DR80-premix\_withHLT\_80X\_mcRun2\_asymptotic\_v14-v1/AODSIM & \\
-\hline
 \end{tabular}}
 \caption{Benchmark signal samples analyzed.}\label{tab:sig}
 \end{table}
@@ -279,7 +275,7 @@ Table~\ref{tab:SignalSamples}.
 \begin{scriptsize}
     \centering
 \resizebox{\textwidth}{!}{%
-    \begin{tabular}{|l|l|r|}
+    \begin{tabular}{l|l|r}
    \hline
  Process & Dataset & $\sigma\times BR (\times\epsilon_{\text{filter}})$ \\ \hline
  $\rm{gg}\to\rm{H}\to\cPZ\cPZ \to 4\ell$ & /GluGluHToZZTo4L\_M125\_13TeV\_powheg2\_JHUgenV6\_pythia8 & $12.18~\rm{fb}$ \\ % & $12.12~\rm{fb}$ \\
@@ -319,7 +315,7 @@ Table~\ref{tab:MCsamples} summarizes the MC simulation datasets used for this an
 \begin{footnotesize}
     \centering
 \resizebox{\textwidth}{!}{%
-    \begin{tabular}{|l|l|r|}
+    \begin{tabular}{l|l|r}
    \hline
  Process & Dataset Name & $\sigma\cdot BR$ \\ \hline
  $\rm{qq} \to \cPZ\cPZ \to 4\ell$ & /ZZTo4L\_13TeV\_powheg\_pythia8 & $1.256 \rm{pb}$ \\
@@ -361,7 +357,7 @@ The MC samples are reweighted to match the pileup distribution measured in 2016 
 \includegraphics[width=3.25in]{figures/hist_hPUvertices_ReWeighted.png}
 \caption{}
 \end{subfigure}
-\caption{(Number of pileup vertices before (a) and after (b) reweighting is applied.}
+\caption{Number of pileup vertices before (a) and after (b) reweighting is applied.}
 \label{fig:pu}
 \end{figure}
 
