@@ -19,13 +19,45 @@ of freedom ($N_{PV}>4$), collisions restricted along the $z$-axis
 \subsection{$ZZ$ candidate selection}
 \label{sec:zzcandsel}
 
-The four-lepton candidates are built from what we call "selected" leptons, which  
+The four-lepton candidates are built from ``selected'' leptons, which  
 are the tight leptons (defined in Sections~\ref{sec:eleID} and~\ref{sec:muonReco}) that pass the ${\rm SIP_{3D}} < 4$ vertex constraint
 and the isolation cuts (defined in Sections~\ref{sec:eleiso} and~\ref{sec:muoniso}), 
-where FSR photons are subtracted as described in Section~\ref{sec:FSRphotons}.
+where FSR photons are subtracted as described in Section~\ref{sec:FSRphotons}. The muon isolation and SIP distributions are shown in Figure~\ref{fig:lepkin1}.
 A lepton cross-cleaning is applied 
-by discarding electrons that are within $\Delta R < 0.05$ of selected muons. 
+by discarding electrons that are within $\Delta R < 0.05$ of selected muons. Additional kinematics for these leptons at the stage they are selected are shown in Figure~\ref{fig:lepkin2}.
 
+ 
+\begin{figure}[tbh]
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hPtLep_3.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hEtaLep_3.png}
+\caption{}
+\end{subfigure}
+\caption{Selected lepton kinematics: (a) lepton isolation and (b) SIP vertex constraint.}
+\label{fig:lepkin1}
+\end{figure}
+ 
+\begin{figure}[tbh]
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hIsoLep_3.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hSipLep_3.png}
+\caption{}
+\end{subfigure}
+\caption{Selected lepton kinematics: (a) transverse momentum and (b) $\eta$}
+\label{fig:lepkin2}
+\end{figure}
+
+ 
 
 The construction and selection of four-lepton candidates proceeds 
 according to the following sequence:
@@ -33,24 +65,121 @@ according to the following sequence:
 \item {\bf $Z$ candidates} are defined as pairs of selected leptons
  of opposite charge and matching flavor (e.g. $e^+ e^-$ or $\mu^+\mu^-$)
  that satisfy $12 < m_{\ell\ell(\gamma)} < 120~\GeV$, where the $Z$ candidate mass
- includes the selected FSR photons if any.
+ includes the selected FSR photons if any. The dimuon invariant mass distribution for $Z$ candidates at this step is shown in Figure~\ref{fig:dimuonz}. The distribution of $\MET$ at this step, showing a large contribution from $Z+X$, is shown in Figure~\ref{fig:pfmet3}.
+
+\begin{figure}[tbh]
+\centering
+\includegraphics[width=5.5in]{figures/hist_hMZ_3.png}
+    \caption{Dimuon invariant mass distribution for $Z$ candidates.}
+    \label{fig:dimuonz}
+\end{figure}
+
+\begin{figure}[tbh]
+\centering
+\includegraphics[width=5.5in]{figures/hist_hPFMET_3.png}
+    \caption{Missing transverse energy distribution at the $Z$ candidate selection step.}
+    \label{fig:dimuonz}
+\end{figure}
+
 \item {\bf $ZZ$ candidates} are defined as pairs of non-overlapping $Z$ candidates.
  The $Z$ candidate with reconstructed mass $m_{\ell\ell}$ closest to the nominal $Z$ boson
- mass is denoted as $\Z_1$, and the second one is denoted as $Z_2$. The dimuon distributions for $Z_1$ and $Z_2$ are shown in Figure~\ref{fig:dimuonz1} and Figure~\ref{fig:dimuonz2}, respectively. The dielectron distributions are qualitatively the same.
+ mass is denoted as $\Z_1$, and the second one is denoted as $Z_2$. The dimuon distributions for $Z_1$ and $Z_2$ at this step are shown in Figure~\ref{fig:dimuonz5}. Additional kinematics for the $Z_1$ and $Z_2$ candidates are shown in Figures~\ref{fig:z15kin} and \ref{fig:z25kin}. Kinematics for the constituent muons are shown in Figures~\ref{fig:lep5kin1} and \ref{fig:lep5kin2}.
 
 \begin{figure}[tbh]
+\begin{subfigure}{0.50\textwidth}
 \centering
-\includegraphics[width=5.5in]{figures/hist_hMZ1_8.png}
-    \caption{Dimuon invariant mass distributions for ${\rm Z_1}$.}
-    \label{fig:dimuonz1}
+\includegraphics[width=3.3in]{figures/hist_hMZ1_5.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hMZ2_5.png}
+\caption{}
+\end{subfigure}
+\caption{Dimuon invariant mass at the $ZZ$ candidate selection step for (a) $Z_1$ and (b) $Z_2$.}
+\label{fig:dimuonz5}
 \end{figure}
 
 \begin{figure}[tbh]
+\begin{subfigure}{0.50\textwidth}
 \centering
-\includegraphics[width=5.5in]{figures/hist_hMZ2_8.png}
-    \caption{Dimuon invariant mass distributions for ${\rm Z_2}$.}
-    \label{fig:dimuonz2}
+\includegraphics[width=3.3in]{figures/hist_hPtZ1_5.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hYZ1_5.png}
+\caption{}
+\end{subfigure}
+\caption{Kinematic distributions for the $Z_1$ at the $ZZ$ candidate selection step: (a) $\pt$ and (b) $\eta$.}
+\label{fig:z15kin}
 \end{figure}
+
+\begin{figure}[tbh]
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hPtZ2_5.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hYZ2_5.png}
+\caption{}
+\end{subfigure}
+\caption{Kinematic distributions for the $Z_2$ at the $ZZ$ candidate selection step: (a) $\pt$ and (b) $\eta$.}
+\label{fig:z25kin}
+\end{figure}
+
+\begin{figure}[tbh]
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hPtLep1_5.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hPtLep2_5.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hPtLep3_5.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hPtLep4_5.png}
+\caption{}
+\end{subfigure}
+\caption{Transverse momentum distributions for the constituent leptons of the $Z_1$, (a) and (b), and of the $Z_2$, (c) and (d).}
+\label{fig:lep5kin1}
+\end{figure}
+
+\begin{figure}[tbh]
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hEtaLep1_5.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hEtaLep2_5.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hEtaLep3_5.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hEtaLep4_5.png}
+\caption{}
+\end{subfigure}
+\caption{$\eta$ distributions for the constituent leptons of the $Z_1$, (a) and (b), and of the $Z_2$, (c) and (d).}
+\label{fig:lep5kin2}
+\end{figure}
+
 
 $ZZ$ candidates are required to satisfy the following list of requirements:
   \begin{itemize} 
@@ -73,11 +202,33 @@ $ZZ$ candidates are required to satisfy the following list of requirements:
      looks like an on-shell $Z$ + low-mass $\ell^+ \ell^-$. 
      In Run 1, such a situation was avoided by choosing the best $ZZ$ candidate
      before applying kinematic cuts to it, most precisely before the $m_{Z2} > 12~\GeV$ cut.
-     The present smart cut allows to choose the best $ZZ$ candidate after all kinematic cuts.   
+     The present smart cut allows to choose the best $ZZ$ candidate after all kinematic cuts.
+The four-lepton invariant mass for the $ZZ$ candidates at this stage is shown in Figure~\ref{fig:m4mu5}.   
+\begin{figure}[tbh]
+\centering
+\includegraphics[width=5.5in]{figures/hist_hM4l_5_log.png}
+    \caption{Four-muon invariant mass distribution at the $ZZ$ selection step in log scale.}
+    \label{fig:m4mu5}
+\end{figure}
+
   \item {\bf Four-lepton invariant mass}: $\mllll > 70~\GeV$. The four-muon invariant mass distribution after all of the previous selection steps are applied is shown in Figure~\ref{fig:m4mulog}, with a close up view of the $Z$ and $H$ peaks shown in Figure~\ref{fig:m4mulin}. The four-lepton invariant mass distributions for the other decay channels are qualitatively the same
   \end{itemize}	
 \item Events containing at least one selected $ZZ$ candidate form the SM signal region.
 \end{enumerate}	
+
+\begin{figure}[tbh]
+\centering
+\includegraphics[width=5.5in]{figures/hist_hMZ1_8.png}
+    \caption{Dimuon invariant mass distributions for ${\rm Z_1}$.}
+    \label{fig:dimuonz1}
+\end{figure}
+
+\begin{figure}[tbh]
+\centering
+\includegraphics[width=5.5in]{figures/hist_hMZ2_8.png}
+    \caption{Dimuon invariant mass distributions for ${\rm Z_2}$.}
+    \label{fig:dimuonz2}
+\end{figure}
 
 \begin{figure}[tbh]
 \centering
@@ -292,24 +443,26 @@ This lepton is used as the probe lepton for the fake rate measurement. The invar
 The fake rates are evaluated using the tight requirement 
 $|M_{inv}(\ell_{1},\ell_{2}) - M_{Z}| < 7 $ $\GeV$ to reduce the asymmetric
 contribution from photon conversions populating low masses and using $\MET<25\ \GeV$ to reduce contamination from QCD events.
-The fake rates measured in bins of the transverse momentum of the loose lepton in the barrel and end cap regions are shown in Figure~\ref{fig:os_fakerates}. 
+The muon fake rates measured in bins of the transverse momentum of the loose lepton in the barrel and end cap regions are shown in Figure~\ref{fig:os_fakerates}. 
 
 \begin{figure}[tbh]
 \centering
-\begin{subfigure}{0.95\textwidth}
-\centering
-\includegraphics[width=4.25in]{Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf}
-\caption{}
-\end{subfigure}
-\begin{subfigure}{0.95\textwidth}
-\centering
+%\begin{subfigure}{0.95\textwidth}
+%\centering
+%\includegraphics[width=4.25in]{Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf}
+%\caption{}
+%\end{subfigure}
+%\begin{subfigure}{0.95\textwidth}
+%\centering
 \includegraphics[width=4.25in]{Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf}
-\caption{}
-\end{subfigure}
+%\caption{}
+%\end{subfigure}
   \caption{
-Fake rates as a function of the probe $p_T$ for electrons (a) and muons (b) which satisfy the loose selection criteria. The rake rates are measured in
+Fake rates as a function of the probe $p_T$ for electrons which satisfy the loose selection criteria. The fake rates are measured in
+%Fake rates as a function of the probe $p_T$ for electrons (a) and muons (b) which satisfy the loose selection criteria. The rake rates are measured in
 a $Z(\ell\ell)+\ell$ sample in the $13$ $\TeV$ data.
-The barrel selection includes electrons (muons) up to $|\eta|$ = 1.479 (1.2).
+The barrel selection includes muons up to $|\eta|$ = 1.2.
+%The barrel selection includes electrons (muons) up to $|\eta|$ = 1.479 (1.2).
 }
 \label{fig:os_fakerates}
 \end{figure}
@@ -332,173 +485,224 @@ The barrel selection includes electrons (muons) up to $|\eta|$ = 1.479 (1.2).
 \subsubsection{Fake rate application}
 \label{sec:zxA}
 
-Two control regions are defined as subsets of four-lepton events
+Two control regions (CRs) are defined as subsets of four-lepton events
 which pass the first step of the selection (see
 Section~\ref{sec:zzcandsel}), requiring an additional pair of 
 same-flavor, oppositely-charged loose leptons, that pass the ${\rm SIP_{3D}}$ cut. 
 The events must satisfy all kinematic cuts applied for the Higgs phase space selection
 (see Section~\ref{sec:zzcandsel}).
-The first control sample is obtained by
+
+The first CR is obtained by
 requiring that the two loose leptons that do not make the $Z_1$ candidate 
 do not pass the final identification and
 isolation criteria.
 The other two leptons pass
 the final selection criteria by definition of the $Z_1$. 
-This sample is denoted as the ``2 Prompt + 2
-Fail'' (2P+2F) sample. It is expected to be populated with
+This sample is denoted as the ``2
+Fail'' (FF) sample, referring to the two leptons that do not form $Z_1$. The FF CR is expected to be populated with
 events that intrinsically have only two prompt leptons, mostly $DY$, with a small fraction of $t \bar{t}$ and $Z \gamma$ events.
-The second control sample is obtained by requiring one of
-the four leptons not to pass the final identification and isolation
+
+The second CR is obtained by requiring one of
+the four leptons to fail the final identification and isolation
 criteria.
 The other three
 leptons should pass the final selection criteria. This control sample
-is denoted as ``3 Prompt + 1 Fail'' (3P+1F). It is
+is denoted as ``1 Fail + 1 Prompt'' (FP), referring to the two leptons that do not form the $Z_1$. The FP CR is
 expected to be populated with the type of events that populate the
-2P+2F region, 
+FF CR, 
 albeit with different relative proportions,
 as well as with $WZ$ events that intrinsically have three
-prompt leptons.
+prompt leptons. 
 
-The control samples obtained in this way, orthogonal by construction
+
+%\begin{figure}[!htb]
+%\begin{center}
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf}}
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf}} \\
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf}}
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf}} \\
+%\caption{
+%Invariant mass distribution of the events selected in the 3P+1F control sample in the
+%$13$ $\TeV$ dataset, (top left)  $4\mu$ , (top right) $4e$ , (bottom left)  $2\mu2e$ and (bottom right)  $2e2\mu$ channels.
+%}
+%\label{fig:CR_3P1F}
+%\end{center}
+%\end{figure}
+
+%\begin{figure}[!htb]
+%\begin{center}
+%    {\includegraphics [width=0.85\textwidth] {Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf}}
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf}} \\
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf}}
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf}} \\
+%\caption{
+%Four-muon invariant mass distribution of the events selected in the 2P+2F control sample in the
+%$13$ $\TeV$ dataset.
+%$13$ $\TeV$ dataset, (top left)  $4\mu$ , (top right) $4e$ , (bottom left)  $2\mu2e$ and (bottom right)  $2e2\mu$ channels.
+%}
+%\label{fig:2P2F_dataMC}
+%\end{center}
+%\end{figure}
+
+%\begin{figure}[!htb]
+%\begin{center}
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf}}
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf}} \\
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf}}
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf}} \\
+%\caption{
+%Invariant mass distribution of the events selected in the 3P+1F control sample in the
+%$13$ $\TeV$ dataset, (top left)  $4\mu$ , (top right) $4e$ , (bottom left)  $2\mu2e$ and (bottom right)  $2e2\mu$ channels.
+%}
+%\label{fig:CR_3P1F}
+%\end{center}
+%\end{figure}
+
+%\begin{figure}[!htb]
+%\begin{center}
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf}}
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf}} \\
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf}}
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf}} \\
+%\caption{
+%Invariant mass distribution of the events selected in the 3P+1F control sample in the
+%$13$ $\TeV$ dataset, (top left)  $4\mu$ , (top right) $4e$ , (bottom left)  $2\mu2e$ and (bottom right)  $2e2\mu$ channels.
+%}
+%\label{fig:CR_3P1F}
+%\end{center}
+%\end{figure}
+
+The CRs obtained in this way, orthogonal by construction
 to the SR, are enriched with fake leptons and are used to
 estimate the reducible background in the SR. 
-
-The invariant mass distribution of events selected in the 2P+2F control sample
-is shown in Figure~\ref{fig:2P2F_dataMC} for the $13$ $\TeV$ dataset. 
-
-\begin{figure}[!htb]
-\begin{center}
-    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf}}
-    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf}} \\
-    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf}}
-    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf}} \\
-\caption{
-Invariant mass distribution of the events selected in the 2P+2F control sample in the
-$13$ $\TeV$ dataset, (top left)  $4\mu$ , (top right) $4e$ , (bottom left)  $2\mu2e$ and (bottom right)  $2e2\mu$ channels.
-}
-\label{fig:2P2F_dataMC}
-\end{center}
-\end{figure}
-
-\begin{figure}[!htb]
-\begin{center}
-    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf}}
-    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf}} \\
-    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf}}
-    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf}} \\
-\caption{
-Invariant mass distribution of the events selected in the 3P+1F control sample in the
-$13$ $\TeV$ dataset, (top left)  $4\mu$ , (top right) $4e$ , (bottom left)  $2\mu2e$ and (bottom right)  $2e2\mu$ channels.
-}
-\label{fig:CR_3P1F}
-\end{center}
-\end{figure}
-
-The expected number of reducible background events in the 3P+1F region,
-$N^{\rm bkg}_{\rm 3P1F}$, can be computed from the number of events
-observed in the 2P+2F control region, $N_{\rm 2P2F}$, by weighting each
-event in the region with the factor $(\frac{f_{i}}{1-f_{i}}
+The invariant mass distribution of events selected in the FF control sample
+is shown in Figure~\ref{fig:FF}(a). 
+%The fake rate scale factors derived from the
+%FF distribution are applied in the PF region, shown in Figure~\ref{fig:FF}(b).
+The expected number of reducible background events in the FP region,
+$N^{\rm bkg}_{\rm FP}$, can be computed from the number of events
+observed in the FF control region, $N_{\rm FF}$, by weighting each
+event with the factor $(\frac{f_{i}}{1-f_{i}}
 + \frac{f_{j}}{1-f_{j}})$, where $f_{i}$ and $f_{j}$ correspond to the
 fake rates of the two loose leptons:
 
 \begin{equation} 
 \label{eq:Prediction3P1F}
-N^{\rm bkg}_{\rm 3P1F} = \sum (\frac{f_{i}}{1-f_{i}}
-+ \frac{f_{j}}{1-f_{j}}) N_{\rm 2P2F}
+N^{\rm bkg}_{\rm FP} = \sum (\frac{f_{i}}{1-f_{i}}
++ \frac{f_{j}}{1-f_{j}}) N_{\rm FF}
 \end{equation} 
-
-Figure~\ref{fig:CR_3P1F} shows the invariant mass distributions of the
-events selected in the 3P+1F control sample, together with the expected
-reducible background estimated from Equation~\ref{eq:Prediction3P1F},
+Figure~\ref{fig:FF}(b) shows the invariant mass distributions of the
+events selected in the FP CR, together with the expected
+reducible background estimated from Equation~\ref{eq:Prediction3P1F} in red,
 stacked on the distribution
 of $WZ$ and of irreducible background ($ZZ, Z\gamma* \to 4\ell$) taken from simulation.
 
+\begin{figure}[!htb]
+\begin{center}
+\begin{subfigure}{0.49\textwidth}
+\centering
+    {\includegraphics [width=0.95\textwidth] {Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf}}
+\caption{}
+\end{subfigure}
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf}} \\
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf}}
+%    {\includegraphics [width=0.45\textwidth] {Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf}} \\
+\begin{subfigure}{0.49\textwidth}
+\centering
+    {\includegraphics [width=0.95\textwidth] {Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf}}
+\caption{}
+\end{subfigure}
+\caption{
+(a) Four-muon invariant mass distribution of events selected in the ``2 Fake'' control sample. (b) Four-muon invariant mass distribution in the ``1 Prompt + 1 Fake'' control sample, with the extrapolated estimate shown in red.
+%$13$ $\TeV$ dataset, (top left)  $4\mu$ , (top right) $4e$ , (bottom left)  $2\mu2e$ and (bottom right)  $2e2\mu$ channels.
+}
+\label{fig:FF}
+\end{center}
+\end{figure}
+
 If the fake rates were measured in a sample that had exactly the same
-background composition as the 2P+2F sample, the difference between the
-observed number of events in the 3P+1F sample and the expected background
-predicted from the 2P+2F sample would solely amount to the $WZ$ and $Z\gamma_{conv}$
+background composition as the FF sample, the difference between the
+observed number of events in the FP sample and the expected background
+predicted from the FF sample would solely amount to the $WZ$ and $Z\gamma_{conv}$
 contribution, which is small. Large differences arise because the fake rates used in
 Equation~\ref{eq:Prediction3P1F} do not properly account for the background
-composition of the 2P+2F control sample.
+composition of the FF control sample.
 
-The difference seen in Figure~\ref{fig:CR_3P1F} between the observed
-3P+1F distribution and the expectation from 2P+2F in the
-channels with loose electrons ($4e$ and $2\mu 2e$), concentrated at low
-masses, is due to photon conversions. This is confirmed explicitly by simulation.
-% : Fig.~\ref{fig:CR_3P1F}c shows how events with a real photon populate
-% this low mass region. Indeed, as the fake rates of method A are measured
-% in a sample that is largely devoid of photon conversions, Eq.~\ref{eq:Prediction3P1F}
-% considerably underestimates their contribution to the 3P+1F sample. 
-%
-The difference between the 3P+1F observation and the prediction
-from 2P+2F is corrected to recover the missing contribution from conversions.
-More precisely, the expected reducible background in the SR is given
-by the sum of two terms: a 2P2F component and a 3P1F component.
+%The difference seen in Figure~\ref{fig:CR_3P1F} between the observed
+%3P+1F distribution and the expectation from 2P+2F in the
+%channels with loose electrons ($4e$ and $2\mu 2e$), concentrated at low
+%masses, is due to photon conversions. This is confirmed explicitly by simulation.
+%% : Fig.~\ref{fig:CR_3P1F}c shows how events with a real photon populate
+%% this low mass region. Indeed, as the fake rates of method A are measured
+%% in a sample that is largely devoid of photon conversions, Eq.~\ref{eq:Prediction3P1F}
+%% considerably underestimates their contribution to the 3P+1F sample. 
+%%
+%The difference between the 3P+1F observation and the prediction
+%from 2P+2F is corrected to recover the missing contribution from conversions.
+%More precisely, the expected reducible background in the SR is given
+%by the sum of two terms: a 2P2F component and a 3P1F component.
 
-The 2P2F component is obtained from the number of
-  events observed in the 2P+2F control region, $N_{\rm 2P2F}$, by
+The FF component is obtained from the number of
+  events observed in the FF control region, $N_{\rm FF}$, by
   weighting each event in that region with the factor
   $\frac{f_{i}}{1-f_{i}} \frac{f_{j}}{1-f_{j}}$, where $f_{i}$ and
   $f_{j}$ correspond to the fake rates of the two loose leptons.
-The 3P1F component is obtained from the
-   difference between the number of observed events in the 3P+1F control
-   region, $N_{\rm 3P1F}$, and the expected contribution from the 2P+2F
-   region and $ZZ$ processes in the signal region, $N^{\rm ZZ}_{\rm 3P1F} +
-   N^{\rm bkg}_{\rm 3P1F}$. The $N^{\rm bkg}_{\rm 3P1F}$ is given by 
+The FP component is obtained from the
+   difference between the number of observed events in the FP control
+   region, $N_{\rm FP}$, and the expected contribution from the FF
+   region and $ZZ$ processes in the signal region, $N^{\rm ZZ}_{\rm FP} +
+   N^{\rm bkg}_{\rm FP}$. The $N^{\rm bkg}_{\rm FP}$ is given by 
    Equation~\ref{eq:Prediction3P1F} and $N^{\rm ZZ}_{\rm 3P1F}$ is the
    contribution from $ZZ$ which is taken from simulation. 
-   The difference $N_{\rm 3P1F} -  N^{\rm bkg}_{\rm 3P1F} - N^{\rm ZZ}_{\rm 3P1F}$,
+   The difference $N_{\rm FP} -  N^{\rm bkg}_{\rm FP} - N^{\rm ZZ}_{\rm FP}$,
    which may be negative,
    is obtained for each $(p_T, \eta)$ bin of the probe lepton and is weighted 
    by $\frac{f_i} {1 - f_i}$, where $f_i$ denotes the fake rate of
    this lepton.
-   This 3P1F component accounts for the contribution of reducible background
-   processes with only one fake lepton (like $WZ$ events) and for the contribution
-   of other processes (e.g. photon conversions) that are not properly estimated
-   by the 2P2F component because of the fake rates used.
+   %This FP component accounts for the contribution of reducible background
+   %processes with only one fake lepton (like $WZ$ events) and for the contribution
+   %of other processes (e.g. photon conversions) that are not properly estimated
+   %by the 2P2F component because of the fake rates used.
 
 The full expression for the prediction can be symbolically written as:
 %
 \begin{equation} 
 \label{eq:PredictionSR}
-N^{bkg}_{\rm SR} = \sum \frac{f_{i}}{(1-f_{i})} (N_{\rm 3P1F} - N^{\rm
-bkg}_{\rm 3P1F} - N^{\rm ZZ}_{\rm 3P1F})
-+ \sum \frac{f_{i}}{(1-f_{i})} \frac{f_{j}}{(1-f_{j})}N_{\rm 2P2F} \end{equation}
+N^{bkg}_{\rm SR} = \sum \frac{f_{i}}{(1-f_{i})} (N_{\rm FP} - N^{\rm
+bkg}_{\rm FP} - N^{\rm ZZ}_{\rm FP})
++ \sum \frac{f_{i}}{(1-f_{i})} \frac{f_{j}}{(1-f_{j})}N_{\rm FF} \end{equation}
 %a
 or equivalently:
 \begin{equation}
 \label{eq:PredictionSR2}
-N^{bkg}_{\rm SR}= (1-\frac{N_{3P1F}^{ZZ}}{N_{3P1F}})\sum_j^{N_{3P1F}}\frac{f_a^j}{1-f_a^j} - \sum_i^{N_{2P2F}}\frac{f_3^i}{1-f_3^i}\frac{f_4^i}{1-f_4^i}
+N^{bkg}_{\rm SR}= (1-\frac{N_{FP}^{ZZ}}{N_{FP}})\sum_j^{N_{FP}}\frac{f_a^j}{1-f_a^j} - \sum_i^{N_{FF}}\frac{f_3^i}{1-f_3^i}\frac{f_4^i}{1-f_4^i}
 \end{equation}
-For channels where the $Z_2$ candidate is made from two electrons, 
-the contribution of the 3P1F component is 
-positive and amounts to typically $30 \%$ of the total predicted background.
-
-For channels with loose muons (e.g. $\mu$ and $2e2\mu$), the 3P+1F sample is rather well described by
-the prediction from 2P+2F, as seen in Figure~\ref{fig:CR_3P1F}, and the
-3P1F component is mainly driven by statistical fluctuations in the 3P+1F sample,
-which are larger than the expectation from $WZ$ production.
-
-
-Table~\ref{tab:reducibleMethodA} shows the expected number of
-events in the four-lepton SRs from the reducible background processes. 
-% The first error is the statistical uncertainty, which is dominated by the
-% large statistical uncertainty of the ``3P1F" component. The second error
-% is a systematic uncertainty due to the statistical uncertainty of the
-% fake rates.
-
-\begin{table}[h]
-\begin{center}
-     \begin{tabular}{ l | c | c | c | c } \hline
- baseline	& $4e$ 	 & 4$\mu$ & $2e2\mu$  & 2$\mu2e$   \\ \hline
- 13 $\TeV$		& $22.19$ & $32.81$ & $22.48$    & $41.72$  \\  \hline
- 	\end{tabular}
-\end{center}
-    \caption{ The contribution of reducible background
-    processes in the four-lepton signal region predicted from measurements in data
-    using the Opposite-Sign Leptons method. The predictions correspond to \usedLumi of data at 13 $\TeV$.}
-     \label{tab:reducibleMethodA}
-\end{table}
+%For channels where the $Z_2$ candidate is made from two electrons, 
+%the contribution of the FP component is 
+%positive and amounts to typically $30 \%$ of the total predicted background.
+%For channels with loose muons (e.g. $4\mu$ and $2e2\mu$), the FP sample is rather well described by
+%the prediction from FF, and the
+%FP component is mainly driven by statistical fluctuations in the 3P+1F sample,
+%which are larger than the expectation from $WZ$ production.
+%Table~\ref{tab:reducibleMethodA} shows the expected number of
+%events in the four-lepton SRs from the reducible background processes. 
+%% The first error is the statistical uncertainty, which is dominated by the
+%% large statistical uncertainty of the ``3P1F" component. The second error
+%% is a systematic uncertainty due to the statistical uncertainty of the
+%% fake rates.
+%\begin{table}[h]
+%\begin{center}
+%     \begin{tabular}{ l | c | c | c | c } \hline
+% baseline	& $4e$ 	 & 4$\mu$ & $2e2\mu$  & 2$\mu2e$   \\ \hline
+% 13 $\TeV$		& $22.19$ & $32.81$ & $22.48$    & $41.72$  \\  \hline
+% 	\end{tabular}
+%\end{center}
+%    \caption{ The contribution of reducible background
+%    processes in the four-lepton signal region predicted from measurements in data
+%    using the Opposite-Sign Leptons method. The predictions correspond to \usedLumi of data at 13 $\TeV$.}
+%     \label{tab:reducibleMethodA}
+%\end{table}
+The expected number of events in the four-muon SR from the reducible background processes is $32.81$. The systematic uncertainty associated with this measurement is discussed in Section~\ref{sec:zxUncert}.
 
 
 \section{Event yields}
@@ -534,87 +738,35 @@ $m_{llll} > 70$ $\GeV$ & 312 & 33.7 & 27.7 & 0.92 & 11.3 & 385 & 0.213 & 365 \\
 \end{table*}
 
 The final yields in the cut-and-count based SR are shown in Table~\ref{tab:cacyields}. 
-%Since the MVA SR definition does not apply additional cuts in the event selection, the yields in this SR are the same as in the last step of Table~\ref{tab:smyields}.
-The final yields in the MVA-based SR, requiring the respond D to be greater than 0.9, are shown in Table~\ref{tab:mvayields}. 
+Since the MVA SR definition does not apply additional cuts in the event selection, the yields in this SR are the same as in the last step of Table~\ref{tab:smyields}. These yields are shown with uncertainties in Table~\ref{tab:mvayields}.
+%The final yields in the MVA-based SR, requiring the MVA response to be greater than 0.9, are shown in Table~\ref{tab:mvayields}. 
 
 
 \begin{table*}[htbH]
 \begin{center}
+\resizebox{\textwidth}{!}{%
 \begin{tabular}{ l | c | c | c | c | c | c | c }
 \hline
 Sample & $q\bar{q} \rightarrow ZZ$ & $gg \rightarrow ZZ$ & $Z+X$ & $H$ & Total & Signal & Observed \\
 \hline
-Yield & 0.35 & 0.034 & 0.023 & 0.33 & 0.74 & 0.20 & 1.0 \\
+Yield & $0.35 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $0.034 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $0.023 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $0.33 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $0.74 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $0.20 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $1.0 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ \\
 \hline
-\end{tabular}
-\caption{Final signal region yields using the cut-and-count selection strategy for the $4\mu$ channel. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\GeV$.}\label{tab:cacyields}
+\end{tabular}}
+\caption{Final signal region yields using the cut-and-count selection strategy for the $4\mu$ channel with statistical and systematic uncertainties. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\GeV$.}\label{tab:cacyields}
 \end{center}
 \end{table*}
 
 \begin{table*}[htbH]
 \begin{center}
+\resizebox{\textwidth}{!}{%
 \begin{tabular}{ l | c | c | c | c | c | c | c }
 \hline
 Sample & $q\bar{q} \rightarrow ZZ$ & $gg \rightarrow ZZ$ & $Z+X$ & $H$ & Total & Signal & Observed \\
 \hline
-Yield & 117.5 & 4.54 & 17.6 & 11.7 & 151.3 & 0.21 & 151.0 \\
+Yield & $117.5 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $4.54 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $17.6 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $11.7 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $151.3 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $0.21 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $151.0 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ \\
 \hline
-\end{tabular}
-\caption{Final signal region yields using the MVA selection strategy for the $4\mu$ channel. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\GeV$.}\label{tab:mvayields}
+\end{tabular}}
+\caption{Final signal region yields using the MVA selection strategy for the $4\mu$ channel with statistical and systematic uncertainties. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\GeV$.}\label{tab:mvayields}
 \end{center}
 \end{table*}
-
-
-%\begin{table*}[htbH]
-%\begin{center}
-%\begin{tabular}{ l | c | c | c | c}
-%\hline
-%\hline
-%Channel & 4e & 4$\mu$ & 2e2$\mu$ & 4$l$ \\
-%\hline
-%$q\bar{q} \rightarrow ZZ$ & 0.029 & 328 & 1.58e+03 & 1.91e+03 \\
-%$gg \rightarrow ZZ$ & 24.7 & 33.7 & 123 & 182 \\
-%$Z+X$ & 14.5 & 20.9 & 31 & 66.5 \\
-%$ZH$ & 0.672 & 0.905 & 1.51 & 3.09 \\
-%Other Higgs & 7.24 & 11 & 31.6 & 49.8 \\
-%\hline
-%Total background & 47.2 & 395 & 1.77e+03 & 2.21e+03 \\
-%\hline
-%Signal ($m_\chi=600$ GeV) & 0.143 & 0.203 & 0.349 & 0.695 \\
-%\hline
-%Total expected & 47.3 & 395 & 1.77e+03 & 2.21e+03 \\
-%\hline
-%Observed & 103 & 177 & 0 & 280 \\
-%\hline
-%\hline
-%\end{tabular}
-%\caption{PLACEHOLDER Event yields after SM selection, with $m_{4l}>70$ GeV.}\label{tab:yields}
-%\end{center}
-%\end{table*}
-
-
-%\begin{table*}[htbH]
-%\begin{center}
-%\begin{tabular}{ l | c | c | c | c | c | c | c | c }
-%\hline
-%\hline
-%Sample & $q\bar{q} \rightarrow ZZ$ & $gg \rightarrow ZZ$ & $Z+X$ & $ZH$ & Other H & Total & Signal & Observed \\
-%\hline
-%HLT & 1.16e+04 & 465 & 4.47e+12 & 17.4 & 377 & 4.47e+12 & 3.57 & 8.21e+07 \\
-%\hline
-%At least 2 tight lept. & 1.99e+04 & 685 & 4.47e+12 & 26.4 & 580 & 4.47e+12 & 5.51 & 1.38e+08 \\
-%\hline
-%$Z$ cand. & 1.98e+03 & 0.578 & 1.43e+05 & 2.31 & 56 & 1.45e+05 & 0.503 & 7.29e+04 \\
-%\hline
-%$m_{Z_1}$ & 1.62e+03 & 0.424 & 8.52e+04 & 2.1 & 53 & 8.69e+04 & 0.473 & 3.33e+04 \\
-%\hline
-%At least one $Z_2$ & 389 & 0.0049 & 112 & 0.946 & 23.2 & 525 & 0.211 & 349 \\
-%\hline
-%$m_{llll} > 70$ GeV & 320 & 0.0021 & 104 & 0.882 & 10.7 & 436 & 0.198 & 348 \\
-%\hline
-%\hline
-%\end{tabular}
-%\caption{PLACEHOLDER Cut flow for $4\mu$ channel. Example signal is Zp2HDM with $m_{Z'}=600$ GeV.}\label{tab:4muyields}    
-%\end{center}
-%\end{table*}
 

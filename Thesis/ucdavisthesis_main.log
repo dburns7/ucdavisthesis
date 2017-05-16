@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  9 MAY 2017 18:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  16 MAY 2017 12:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -454,36 +454,181 @@ Package csquotes Info: Redefining alias 'english' -> 'english/american'.
 )
 Package csquotes Info: Allocating character ".
 
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks26
+\inpenc@posthook=\toks27
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ansinew.def
+File: ansinew.def 2008/03/30 v1.1d Input encoding file
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/libertine.sty
+Package: libertine 2014/02/11 (Bob Tennent) Supports Libertine and Biolinum fon
+ts for all LaTeX engines.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mweights/mweights.sty
+Package: mweights 2013/07/21 (Bob Tennent) Support package for multiple-weight 
+font packages. 
+LaTeX Info: Redefining \bfseries on input line 22.
+LaTeX Info: Redefining \mdseries on input line 29.
+LaTeX Info: Redefining \rmfamily on input line 36.
+LaTeX Info: Redefining \sffamily on input line 53.
+LaTeX Info: Redefining \ttfamily on input line 70.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2011/12/16 v1.0c Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \scshape on input line 37.
+)
+LaTeX Info: Redefining \oldstylenums on input line 477.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/LinLibertine_I.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
 (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
 \c@@pps=\count154
 \c@@ppsavesec=\count155
 \c@@ppsaveapp=\count156
 )
+
+Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 147.
+
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-
 (./ucdavisthesis_main.aux (./ucdavisthesis_Chap1.aux)
 (./ucdavisthesis_Chap2.aux) (./ucdavisthesis_Chap3.aux)
-(./ucdavisthesis_Chap5.aux) (./ucdavisthesis_Chap6.aux)
-(./ucdavisthesis_Chap9.aux) (./ucdavisthesis_Chap10.aux)
+(./ucdavisthesis_Chap5.aux) (./ucdavisthesis_Chap6.aux
+
+LaTeX Warning: Label `fig:dimuonz' multiply defined.
+
+) (./ucdavisthesis_Chap9.aux) (./ucdavisthesis_Chap10.aux)
 (./ucdavisthesis_Appen1.aux))
 \openout1 = `ucdavisthesis_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 147.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 147.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Try loading font information for T1+LinuxLibertineT-TLF on 
+input line 147.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TLF.fd
+File: T1LinuxLibertineT-TLF.fd 2012/11/26 (autoinst) Font definitions for T1/Li
+nuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 147.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -492,12 +637,12 @@ LaTeX Font Info:    ... okay on input line 137.
 \scratchbox=\box32
 \nofMPsegments=\count158
 \nofMParguments=\count159
-\everyMPshowfont=\toks26
+\everyMPshowfont=\toks28
 \MPscratchCnt=\count160
 \MPscratchDim=\dimen149
 \MPnumerator=\count161
 \makeMPintoPDFobject=\count162
-\everyMPtoPDFconversion=\toks27
+\everyMPtoPDFconversion=\toks29
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -519,7 +664,7 @@ Package caption Info: rotating package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box33
-Package hyperref Info: Link coloring OFF on input line 137.
+Package hyperref Info: Link coloring OFF on input line 147.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -529,59 +674,90 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count163
 )
-LaTeX Info: Redefining \ref on input line 137.
-LaTeX Info: Redefining \pageref on input line 137.
-LaTeX Info: Redefining \nameref on input line 137.
+LaTeX Info: Redefining \ref on input line 147.
+LaTeX Info: Redefining \pageref on input line 147.
+LaTeX Info: Redefining \nameref on input line 147.
 
 (./ucdavisthesis_main.out) (./ucdavisthesis_main.out)
 \@outlinefile=\write3
 \openout3 = `ucdavisthesis_main.out'.
 
-Package csquotes Info: Making character " active on input line 137.
+Package csquotes Info: Making character " active on input line 147.
+\c@mv@tabular=\count164
+\c@mv@boldtabular=\count165
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 233.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 233.
  [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 223.
+{/home/dustin/.texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on
+ input line 233.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
+File: TS1LinuxLibertineT-TLF.fd 2012/11/26 (autoinst) Font definitions for TS1/
+LinuxLibertineT-TLF.
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 223.
+LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 233.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 233.
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.223 \makeintropages
+l.233 \makeintropages
                       %Processes/produces the preliminary pages [1
 
-] [2
+]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sl' in size <12> not a
+vailable
+(Font)              Font shape `T1/LinuxLibertineT-TLF/m/it' tried instead on i
+nput line 233.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 233.
+ [2
 
 ]
-(./ucdavisthesis_main.toc [3
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
+(Font)              scaled to size 14.4pt on input line 233.
+
+(./ucdavisthesis_main.toc
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 6.
+ [3
 
 ] [4])
 \tf@toc=\write4
 \openout4 = `ucdavisthesis_main.toc'.
 
- [5] (./ucdavisthesis_main.lof [6
-
-]
-Missing character: There is no Â in font cmr12!
-Missing character: There is no   in font cmr12!
- [7]
-[8] [9]
-Overfull \hbox (15.82588pt too wide) in paragraph at lines 60--60
- [][] [][]\OT1/cmr/m/n/12 One-dimensional cross sec-tion times branch-ing frac-
-tion lim-its for the Zp2HDM 
+ [5] (./ucdavisthesis_main.lof
+Overfull \hbox (0.28462pt too wide) in paragraph at lines 5--5
+ \T1/LinuxLibertineT-TLF/m/n/12 Mono-$\OML/cmm/m/it/12 X$ \T1/LinuxLibertineT-T
+LF/m/n/12 pro-duc-tion topol-ogy for sig-na-tures with $\OML/cmm/m/it/12 X$ \T1
+/LinuxLibertineT-TLF/m/n/12 emit-ted from new physics 
  []
 
-[10]
-Overfull \hbox (15.82588pt too wide) in paragraph at lines 62--62
- [][] [][]\OT1/cmr/m/n/12 One-dimensional cross sec-tion times branch-ing frac-
-tion lim-its for the Zp2HDM 
+
+Overfull \hbox (5.91444pt too wide) in paragraph at lines 12--12
+ [][] [][]\T1/LinuxLibertineT-TLF/m/n/12 Schematic di-a-gram of track-ing de-te
+c-tors with ra-dial dis-tance of mod-ules, shown 
+ []
+
+[6
+
+] [7] [8] [9] [10]
+Overfull \hbox (3.67818pt too wide) in paragraph at lines 69--69
+ [][] [][]\T1/LinuxLibertineT-TLF/m/n/12 One-dimensional cross sec-tion times b
+ranch-ing frac-tion lim-its for the Zp2HDM 
+ []
+
+
+Overfull \hbox (3.67818pt too wide) in paragraph at lines 71--71
+ [][] [][]\T1/LinuxLibertineT-TLF/m/n/12 One-dimensional cross sec-tion times b
+ranch-ing frac-tion lim-its for the Zp2HDM 
  []
 
 )
@@ -594,18 +770,22 @@ tion lim-its for the Zp2HDM
 \tf@lot=\write6
 \openout6 = `ucdavisthesis_main.lot'.
 
- [13] [14] [15
+ [13] [14
 
-] [16] [17]
+] [15] [16]
 \openout2 = `ucdavisthesis_Chap1.aux'.
 
 
 (./ucdavisthesis_Chap1.tex
 Chapter 1.
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <29.86> not available
-(Font)              size <24.88> substituted on input line 1.
-
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 29.86pt on input line 1.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 24.88pt on input line 1.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 5.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 7.
 [1
 
 
@@ -613,63 +793,68 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <29.86> not available
 
 pdfTeX warning: pdflatex (file ./figures/smparticles.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<figures/smparticles.pdf, id=873, 505.89pt x 433.62pt>
+<figures/smparticles.pdf, id=881, 505.89pt x 433.62pt>
 File: figures/smparticles.pdf Graphic file (type pdf)
 
 <use figures/smparticles.pdf>
 Package pdftex.def Info: figures/smparticles.pdf used on input line 65.
 (pdftex.def)             Requested size: 361.34999pt x 309.73158pt.
- [8] [9 <./figures/smparticles.pdf>] [10]
-<figures/ZZMass_7Plus8TeV_70-180_3GeV.png, id=924, 598.235pt x 576.1525pt>
+ [8 <./figures/smparticles.pdf>] [9] [10]
+<figures/ZZMass_7Plus8TeV_70-180_3GeV.png, id=932, 598.235pt x 576.1525pt>
 File: figures/ZZMass_7Plus8TeV_70-180_3GeV.png Graphic file (type png)
 
 <use figures/ZZMass_7Plus8TeV_70-180_3GeV.png>
 Package pdftex.def Info: figures/ZZMass_7Plus8TeV_70-180_3GeV.png used on input
  line 111.
 (pdftex.def)             Requested size: 397.48499pt x 382.8201pt.
- [11] [12 <./figures/ZZMass_7Plus8TeV_70-180_3GeV.png>] [13] [14] [15] [16] [17
-]
-<figures/isr.png, id=1065, 405.515pt x 405.515pt>
+ [11] [12 <./figures/ZZMass_7Plus8TeV_70-180_3GeV.png>] [13] [14] [15] [16]
+<figures/isr.png, id=1069, 405.515pt x 405.515pt>
 File: figures/isr.png Graphic file (type png)
  <use figures/isr.png>
 Package pdftex.def Info: figures/isr.png used on input line 168.
 (pdftex.def)             Requested size: 144.54pt x 144.54355pt.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 169.
 
-<figures/fsr.png, id=1066, 477.785pt x 277.035pt>
+<figures/fsr.png, id=1070, 477.785pt x 277.035pt>
 File: figures/fsr.png Graphic file (type png)
  <use figures/fsr.png>
 Package pdftex.def Info: figures/fsr.png used on input line 174.
 (pdftex.def)             Requested size: 180.67499pt x 104.75867pt.
 
-[18 <./figures/isr.png> <./figures/fsr.png>] [19]
-<figures/eftsig.png, id=1113, 464.73625pt x 286.06876pt>
+[17] [18 <./figures/isr.png> <./figures/fsr.png>]
+<figures/eftsig.png, id=1112, 464.73625pt x 286.06876pt>
 File: figures/eftsig.png Graphic file (type png)
 
 <use figures/eftsig.png>
 Package pdftex.def Info: figures/eftsig.png used on input line 198.
 (pdftex.def)             Requested size: 216.81pt x 133.45709pt.
- [20 <./figures/eftsig.png>] [21]
-<figures/zp2hdmsig.png, id=1147, 516.93124pt x 291.0875pt>
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 203.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 203.
+ [19 <./figures/eftsig.png>] [20]
+<figures/zp2hdmsig.png, id=1145, 516.93124pt x 291.0875pt>
 File: figures/zp2hdmsig.png Graphic file (type png)
 
 <use figures/zp2hdmsig.png>
 Package pdftex.def Info: figures/zp2hdmsig.png used on input line 270.
 (pdftex.def)             Requested size: 216.81pt x 122.08713pt.
- [22 <./figures/zp2hdmsig.png>]
-<figures/zpsig.png, id=1166, 499.8675pt x 278.03876pt>
+ [21] [22 <./figures/zp2hdmsig.png>]
+<figures/zpsig.png, id=1169, 499.8675pt x 278.03876pt>
 File: figures/zpsig.png Graphic file (type png)
  <use figures/zpsig.png>
 Package pdftex.def Info: figures/zpsig.png used on input line 327.
 (pdftex.def)             Requested size: 216.81pt x 120.59375pt.
 
-[23] [24 <./figures/zpsig.png>] [25]
-<figures/scsig.png, id=1216, 501.875pt x 279.0425pt>
+[23 <./figures/zpsig.png>] [24] [25]
+<figures/scsig.png, id=1228, 501.875pt x 279.0425pt>
 File: figures/scsig.png Graphic file (type png)
  <use figures/scsig.png>
 Package pdftex.def Info: figures/scsig.png used on input line 432.
 (pdftex.def)             Requested size: 216.81pt x 120.54796pt.
 
-[26] [27 <./figures/scsig.png>]) [28] [29]
+[26 <./figures/scsig.png>]) [27] [28] [29]
 \openout2 = `ucdavisthesis_Chap2.aux'.
 
  (./ucdavisthesis_Chap2.tex
@@ -678,14 +863,14 @@ Chapter 2.
 
 
 
-] [31] [32] [33] <figures/cms.jpg, id=1303, 491.9178pt x 327.3831pt>
+] [31] [32] [33] <figures/cms.jpg, id=1310, 491.9178pt x 327.3831pt>
 File: figures/cms.jpg Graphic file (type jpg)
 
 <use figures/cms.jpg>
 Package pdftex.def Info: figures/cms.jpg used on input line 37.
 (pdftex.def)             Requested size: 433.62pt x 288.58757pt.
  [34] [35 <./figures/cms.jpg>]
-<figures/tracker.pdf, id=1316, 437.85068pt x 207.63943pt>
+<figures/tracker.pdf, id=1323, 437.85068pt x 207.63943pt>
 File: figures/tracker.pdf Graphic file (type pdf)
 
 <use figures/tracker.pdf>
@@ -696,61 +881,62 @@ Overfull \hbox (14.45378pt too wide) in paragraph at lines 50--51
  [][] 
  []
 
-<figures/pixelmodule.pdf, id=1319, 440.60297pt x 254.78938pt>
+<figures/pixelmodule.pdf, id=1326, 440.60297pt x 254.78938pt>
 File: figures/pixelmodule.pdf Graphic file (type pdf)
 
 <use figures/pixelmodule.pdf>
 Package pdftex.def Info: figures/pixelmodule.pdf used on input line 57.
 (pdftex.def)             Requested size: 397.48499pt x 229.85648pt.
  [36 <./figures/tracker.pdf>]
-<figures/stripeff.pdf, id=1364, 225.61852pt x 164.3773pt>
+<figures/stripeff.pdf, id=1371, 225.61852pt x 164.3773pt>
 File: figures/stripeff.pdf Graphic file (type pdf)
 
 <use figures/stripeff.pdf>
 Package pdftex.def Info: figures/stripeff.pdf used on input line 66.
 (pdftex.def)             Requested size: 361.34999pt x 263.29247pt.
- [37 <./figures/pixelmodule.pdf>] [38 <./figures/stripeff.pdf>] <figures/ecal.p
-df, id=1469, 374.26605pt x 247.36063pt>
+ [37 <./figures/pixelmodule.pdf> <./figures/stripeff.pdf>] <figures/ecal.pdf, i
+d=1471, 374.26605pt x 247.36063pt>
 File: figures/ecal.pdf Graphic file (type pdf)
 
 <use figures/ecal.pdf>
 Package pdftex.def Info: figures/ecal.pdf used on input line 79.
 (pdftex.def)             Requested size: 361.34999pt x 238.8336pt.
 
-<figures/crystalmodules.pdf, id=1473, 424.44963pt x 143.523pt>
+<figures/crystalmodules.pdf, id=1475, 424.44963pt x 143.523pt>
 File: figures/crystalmodules.pdf Graphic file (type pdf)
 
 <use figures/crystalmodules.pdf>
 Package pdftex.def Info: figures/crystalmodules.pdf used on input line 88.
 (pdftex.def)             Requested size: 433.62pt x 146.62582pt.
- [39 <./figures/ecal.pdf>]
-<figures/hcal.pdf, id=1506, 380.84964pt x 224.00589pt>
+ [38] [39 <./figures/ecal.pdf> <./figures/crystalmodules.pdf>] <figures/hcal.pd
+f, id=1546, 380.84964pt x 224.00589pt>
 File: figures/hcal.pdf Graphic file (type pdf)
- <use figures/hcal.pdf>
+
+<use figures/hcal.pdf>
 Package pdftex.def Info: figures/hcal.pdf used on input line 105.
 (pdftex.def)             Requested size: 433.62pt x 255.04463pt.
-
-[40 <./figures/crystalmodules.pdf>] [41 <./figures/hcal.pdf>]
-<figures/eres_hcal.pdf, id=1603, 239.63896pt x 219.95757pt>
+ [40]
+<figures/eres_hcal.pdf, id=1554, 239.63896pt x 219.95757pt>
 File: figures/eres_hcal.pdf Graphic file (type pdf)
 
 <use figures/eres_hcal.pdf>
 Package pdftex.def Info: figures/eres_hcal.pdf used on input line 114.
 (pdftex.def)             Requested size: 289.07999pt x 265.35066pt.
- [42 <./figures/eres_hcal.pdf>]
-<figures/DTs.pdf, id=1648, 394.53792pt x 355.56407pt>
+ [41 <./figures/hcal.pdf>] [42 <./figures/eres_hcal.pdf>] <figures/DTs.pdf, id=
+1655, 394.53792pt x 355.56407pt>
 File: figures/DTs.pdf Graphic file (type pdf)
- <use figures/DTs.pdf>
+
+<use figures/DTs.pdf>
 Package pdftex.def Info: figures/DTs.pdf used on input line 129.
 (pdftex.def)             Requested size: 361.34999pt x 325.65802pt.
-
-<figures/cscs.pdf, id=1652, 391.63858pt x 209.70627pt>
+ <figures/cscs.pdf, id=1659, 391.63858pt x 209.70627pt>
 File: figures/cscs.pdf Graphic file (type pdf)
- <use figures/cscs.pdf>
+
+<use figures/cscs.pdf>
 Package pdftex.def Info: figures/cscs.pdf used on input line 138.
 (pdftex.def)             Requested size: 289.07999pt x 154.793pt.
-
-[43] <figures/rpcbarrel.pdf, id=1661, 401.06805pt x 281.93211pt>
+ [43 <./figures/DTs.pdf>]
+<figures/rpcbarrel.pdf, id=1726, 401.06805pt x 281.93211pt>
 File: figures/rpcbarrel.pdf Graphic file (type pdf)
 
 <use figures/rpcbarrel.pdf>
@@ -761,7 +947,7 @@ Overfull \hbox (11.92586pt too wide) in paragraph at lines 149--150
  [][] 
  []
 
-<figures/rpcendcap.pdf, id=1662, 247.12686pt x 261.80048pt>
+<figures/rpcendcap.pdf, id=1727, 247.12686pt x 261.80048pt>
 File: figures/rpcendcap.pdf Graphic file (type pdf)
 
 <use figures/rpcendcap.pdf>
@@ -772,70 +958,84 @@ Overfull \hbox (11.92586pt too wide) in paragraph at lines 154--155
  [][] 
  []
 
-[44 <./figures/DTs.pdf> <./figures/cscs.pdf>]
-<figures/muonres.pdf, id=1765, 272.90004pt x 189.89876pt>
+[44 <./figures/cscs.pdf> <./figures/rpcbarrel.pdf> <./figures/rpcendcap.pdf>]
+<figures/muonres.pdf, id=1818, 272.90004pt x 189.89876pt>
 File: figures/muonres.pdf Graphic file (type pdf)
 
 <use figures/muonres.pdf>
 Package pdftex.def Info: figures/muonres.pdf used on input line 165.
 (pdftex.def)             Requested size: 361.34999pt x 251.46686pt.
 
-<figures/l1t.pdf, id=1769, 273.74512pt x 188.77306pt>
+<figures/l1t.pdf, id=1822, 273.74512pt x 188.77306pt>
 File: figures/l1t.pdf Graphic file (type pdf)
  <use figures/l1t.pdf>
 Package pdftex.def Info: figures/l1t.pdf used on input line 176.
 (pdftex.def)             Requested size: 361.34999pt x 249.2071pt.
 
-[45 <./figures/rpcbarrel.pdf> <./figures/rpcendcap.pdf>]
-<figures/daq.pdf, id=1823, 288.89311pt x 121.20683pt>
+[45 <./figures/muonres.pdf>]
+<figures/daq.pdf, id=1868, 288.89311pt x 121.20683pt>
 File: figures/daq.pdf Graphic file (type pdf)
  <use figures/daq.pdf>
 Package pdftex.def Info: figures/daq.pdf used on input line 185.
 (pdftex.def)             Requested size: 397.48499pt x 166.77548pt.
 
-[46 <./figures/muonres.pdf>] [47 <./figures/l1t.pdf> <./figures/daq.pdf>])
-[48]
+[46 <./figures/l1t.pdf>]) [47 <./figures/daq.pdf>]
 \openout2 = `ucdavisthesis_Chap3.aux'.
 
  (./ucdavisthesis_Chap3.tex
 Chapter 3.
-[49
+[48
 
 
 
-] <figures/PFa.pdf, id=1958, 569.12625pt x 534.99875pt>
+] <figures/PFa.pdf, id=1960, 569.12625pt x 534.99875pt>
 File: figures/PFa.pdf Graphic file (type pdf)
 
 <use figures/PFa.pdf>
 Package pdftex.def Info: figures/PFa.pdf used on input line 16.
 (pdftex.def)             Requested size: 289.07999pt x 271.76001pt.
- <figures/PFb.pdf, id=1961, 569.12625pt x 533.995pt>
+ <figures/PFb.pdf, id=1963, 569.12625pt x 533.995pt>
 File: figures/PFb.pdf Graphic file (type pdf)
 
 <use figures/PFb.pdf>
 Package pdftex.def Info: figures/PFb.pdf used on input line 24.
 (pdftex.def)             Requested size: 202.35622pt x 189.86696pt.
- <figures/PFc.pdf, id=1962, 569.12625pt x 533.995pt>
+ <figures/PFc.pdf, id=1964, 569.12625pt x 533.995pt>
 File: figures/PFc.pdf Graphic file (type pdf)
 
 <use figures/PFc.pdf>
 Package pdftex.def Info: figures/PFc.pdf used on input line 29.
 (pdftex.def)             Requested size: 202.35622pt x 189.86696pt.
- [50]
-<figures/pfmetres.pdf, id=1970, 569.12625pt x 365.365pt>
+ [49]
+<figures/pfmetres.pdf, id=1972, 569.12625pt x 365.365pt>
 File: figures/pfmetres.pdf Graphic file (type pdf)
 
 <use figures/pfmetres.pdf>
 Package pdftex.def Info: figures/pfmetres.pdf used on input line 43.
 (pdftex.def)             Requested size: 325.215pt x 208.78984pt.
- [51 <./figures/PFa.pdf, page is rotated 270 degrees>] [52 <./figures/PFb.pdf> 
-<./figures/PFc.pdf> <./figures/pfmetres.pdf, page is rotated 270 degrees>] [53]
- [54]
+ [50 <./figures/PFa.pdf, page is rotated 270 degrees>] [51 <./figures/PFb.pdf> 
+<./figures/PFc.pdf> <./figures/pfmetres.pdf, page is rotated 270 degrees>] [52]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 5.0pt on input line 93.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[55] [56]
-<Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf, id=2113, 569.12625pt x 384.43625pt
+LaTeX Font Info:    Try loading font information for T1+LinuxLibertineMonoT-TLF
+ on input line 159.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxLibertineMonoT-TLF.fd
+File: T1LinuxLibertineMonoT-TLF.fd 2012/12/06 (autoinst) Font definitions for T
+1/LinuxLibertineMonoT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 159.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[53] [54]
+<Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf, id=2110, 569.12625pt x 384.43625pt
 >
 File: Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf Graphic file (type pdf)
  <use Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf>
@@ -843,7 +1043,7 @@ Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf used on inp
 ut line 207.
 (pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
 
-<Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf, id=2114, 569.12625pt x 384.43625p
+<Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf, id=2111, 569.12625pt x 384.43625p
 t>
 File: Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf Graphic file (type pdf)
  <use Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf>
@@ -851,7 +1051,7 @@ Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf used on in
 put line 208.
 (pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
 
-<Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf, id=2115, 569.12625pt x 384.4362
+<Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf, id=2112, 569.12625pt x 384.4362
 5pt>
 File: Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf Graphic file (type pdf)
  <use Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf>
@@ -859,7 +1059,7 @@ Package pdftex.def Info: Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf used on
 input line 209.
 (pdftex.def)             Requested size: 204.88414pt x 138.39694pt.
 
-<Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf, id=2116, 569.12625pt x 384.43625pt
+<Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf, id=2113, 569.12625pt x 384.43625pt
 >
 File: Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf Graphic file (type pdf)
  <use Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf>
@@ -870,23 +1070,14 @@ ut line 210.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Overfull \hbox (6.86066pt too wide) in paragraph at lines 239--240
-\OT1/cmr/m/n/12 The sig-nal sam-ples used are cen-trally pro-duced for the benc
-h-marks de-fined in Sec-tion []1.3.2.7[]
- []
-
-[57 <./Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf, page is rotated 90 degrees> 
-<./Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf, page is rotated 90 degrees> <./
-Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf, page is rotated 90 degrees> <./F
-igures/Trigger/Histo_TrigEff_ptMin_4l.pdf, page is rotated 90 degrees>]
-Overfull \hbox (0.76971pt too wide) in paragraph at lines 295--300
-[]\OT1/cmr/m/n/12 Production of $\OML/cmm/m/it/12 ZZ$ \OT1/cmr/m/n/12 via quark
--antiquark an-ni-hi-la-tion is gen-er-ated at NLO us-ing \OT1/cmr/m/sc/12 powhe
-g
- []
-
-[58] [59] <figures/hist_hPUvertices.png, id=2337, 798.985pt x 574.145pt>
+[55] [56 <./Figures/Trigger/Histo_TrigEff_ptMin_4e.pdf, page is rotated 90 degr
+ees> <./Figures/Trigger/Histo_TrigEff_ptMin_4mu.pdf, page is rotated 90 degrees
+> <./Figures/Trigger/Histo_TrigEff_ptMin_2e2mu.pdf, page is rotated 90 degrees>
+ <./Figures/Trigger/Histo_TrigEff_ptMin_4l.pdf, page is rotated 90 degrees>]
+[57]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 315.
+ <figures/hist_hPUvertices.png, id=2334, 798.985pt x 574.145pt>
 File: figures/hist_hPUvertices.png Graphic file (type png)
 
 <use figures/hist_hPUvertices.png>
@@ -897,7 +1088,7 @@ Overfull \hbox (7.22688pt too wide) in paragraph at lines 352--353
  [][] 
  []
 
-<figures/hist_hPUvertices_ReWeighted.png, id=2338, 798.985pt x 574.145pt>
+<figures/hist_hPUvertices_ReWeighted.png, id=2335, 798.985pt x 574.145pt>
 File: figures/hist_hPUvertices_ReWeighted.png Graphic file (type png)
 
 <use figures/hist_hPUvertices_ReWeighted.png>
@@ -910,60 +1101,50 @@ Overfull \hbox (7.22688pt too wide) in paragraph at lines 357--358
  []
 
 
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 350--360
+Overfull \hbox (2.00041pt too wide) in paragraph at lines 350--360
 []$[]$ $[]$ 
  []
 
-) [60 <./figures/hist_hPUvertices.png> <./figures/hist_hPUvertices_ReWeighted.p
-ng>]
+) [58] [59 <./figures/hist_hPUvertices.png> <./figures/hist_hPUvertices_ReWeigh
+ted.png>]
 \openout2 = `ucdavisthesis_Chap5.aux'.
 
  (./ucdavisthesis_Chap5.tex
 Chapter 4.
 
-<Figures/Electrons/ele_rec_scale_factors.pdf, id=2347, 569.12625pt x 552.0625pt
+<Figures/Electrons/ele_rec_scale_factors.pdf, id=2351, 569.12625pt x 552.0625pt
 >
 File: Figures/Electrons/ele_rec_scale_factors.pdf Graphic file (type pdf)
  <use Figures/Electrons/ele_rec_scale_factors.pdf>
 Package pdftex.def Info: Figures/Electrons/ele_rec_scale_factors.pdf used on in
 put line 22.
 (pdftex.def)             Requested size: 318.70944pt x 309.16974pt.
-Missing character: There is no Â in font cmr12!
-Missing character: There is no   in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no   in font cmr12!
- [61
+ [60
 
 
 
-] [62 <./Figures/Electrons/ele_rec_scale_factors.pdf, page is rotated 90 degree
+] [61 <./Figures/Electrons/ele_rec_scale_factors.pdf, page is rotated 90 degree
 s>]
-<Figures/Electrons/ele_ROC.png, id=2389, 1296.34312pt x 856.70062pt>
+<Figures/Electrons/ele_ROC.png, id=2392, 1296.34312pt x 856.70062pt>
 File: Figures/Electrons/ele_ROC.png Graphic file (type png)
 
 <use Figures/Electrons/ele_ROC.png>
 Package pdftex.def Info: Figures/Electrons/ele_ROC.png used on input line 61.
 (pdftex.def)             Requested size: 409.7683pt x 270.80331pt.
 
-<Figures/Electrons/ele_overtraining.png, id=2391, 1075.01625pt x 767.86874pt>
+<Figures/Electrons/ele_overtraining.png, id=2394, 1075.01625pt x 767.86874pt>
 File: Figures/Electrons/ele_overtraining.png Graphic file (type png)
 
 <use Figures/Electrons/ele_overtraining.png>
 Package pdftex.def Info: Figures/Electrons/ele_overtraining.png used on input l
 ine 71.
 (pdftex.def)             Requested size: 318.70944pt x 227.64412pt.
- [63 <./Figures/Electrons/ele_ROC.png>]
-Missing character: There is no Â in font cmr8!
-Missing character: There is no   in font cmr8!
-
+ [62 <./Figures/Electrons/ele_ROC.png>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[64 <./Figures/Electrons/ele_overtraining.png>]
-Missing character: There is no Â in font cmr12!
-Missing character: There is no   in font cmr12!
- [65]
-<Figures/Electrons/ele_energy_scale.pdf, id=2415, 477.785pt x 349.305pt>
+[63 <./Figures/Electrons/ele_overtraining.png>] [64]
+<Figures/Electrons/ele_energy_scale.pdf, id=2419, 477.785pt x 349.305pt>
 File: Figures/Electrons/ele_energy_scale.pdf Graphic file (type pdf)
 
 <use Figures/Electrons/ele_energy_scale.pdf>
@@ -971,14 +1152,14 @@ Package pdftex.def Info: Figures/Electrons/ele_energy_scale.pdf used on input l
 ine 199.
 (pdftex.def)             Requested size: 289.07999pt x 211.34349pt.
 
-<Figures/Electrons/ele_energy_scale_per_lumi.pdf, id=2416, 845.04686pt x 597.50
+<Figures/Electrons/ele_energy_scale_per_lumi.pdf, id=2420, 845.04686pt x 597.50
 786pt>
 File: Figures/Electrons/ele_energy_scale_per_lumi.pdf Graphic file (type pdf)
  <use Figures/Electrons/ele_energy_scale_per_lumi.pdf>
 Package pdftex.def Info: Figures/Electrons/ele_energy_scale_per_lumi.pdf used o
 n input line 204.
 (pdftex.def)             Requested size: 325.215pt x 229.9455pt.
- [66]
+
 <Figures/Electrons/ele_eff_pt.pdf, id=2426, 356.33125pt x 331.2375pt>
 File: Figures/Electrons/ele_eff_pt.pdf Graphic file (type pdf)
 
@@ -994,8 +1175,8 @@ File: Figures/Electrons/gap_ele_eff_pt.pdf Graphic file (type pdf)
 Package pdftex.def Info: Figures/Electrons/gap_ele_eff_pt.pdf used on input lin
 e 255.
 (pdftex.def)             Requested size: 252.94499pt x 235.07188pt.
-
-<Figures/Electrons/ele_eff_sf_unc.pdf, id=2428, 635.37375pt x 402.50375pt>
+ [65]
+<Figures/Electrons/ele_eff_sf_unc.pdf, id=2432, 635.37375pt x 402.50375pt>
 File: Figures/Electrons/ele_eff_sf_unc.pdf Graphic file (type pdf)
 
 <use Figures/Electrons/ele_eff_sf_unc.pdf>
@@ -1003,18 +1184,18 @@ Package pdftex.def Info: Figures/Electrons/ele_eff_sf_unc.pdf used on input lin
 e 275.
 (pdftex.def)             Requested size: 361.34999pt x 228.91975pt.
 
-<Figures/Electrons/gap_ele_eff_sf_unc.pdf, id=2429, 631.35875pt x 400.49625pt>
+<Figures/Electrons/gap_ele_eff_sf_unc.pdf, id=2433, 631.35875pt x 400.49625pt>
 File: Figures/Electrons/gap_ele_eff_sf_unc.pdf Graphic file (type pdf)
 
 <use Figures/Electrons/gap_ele_eff_sf_unc.pdf>
 Package pdftex.def Info: Figures/Electrons/gap_ele_eff_sf_unc.pdf used on input
  line 280.
 (pdftex.def)             Requested size: 361.34999pt x 229.22023pt.
- [67 <./Figures/Electrons/ele_energy_scale.pdf> <./Figures/Electrons/ele_energy
-_scale_per_lumi.pdf, page is rotated 270 degrees>] [68 <./Figures/Electrons/ele
-_eff_pt.pdf> <./Figures/Electrons/gap_ele_eff_pt.pdf>] [69 <./Figures/Electrons
-/ele_eff_sf_unc.pdf> <./Figures/Electrons/gap_ele_eff_sf_unc.pdf>] [70] [71]
-<Figures/Muons/mu_Loose_barrel.pdf, id=2573, 569.12625pt x 689.57625pt>
+ [66 <./Figures/Electrons/ele_energy_scale.pdf> <./Figures/Electrons/ele_energy
+_scale_per_lumi.pdf, page is rotated 270 degrees>] [67 <./Figures/Electrons/ele
+_eff_pt.pdf> <./Figures/Electrons/gap_ele_eff_pt.pdf>] [68 <./Figures/Electrons
+/ele_eff_sf_unc.pdf> <./Figures/Electrons/gap_ele_eff_sf_unc.pdf>] [69] [70]
+<Figures/Muons/mu_Loose_barrel.pdf, id=2577, 569.12625pt x 689.57625pt>
 File: Figures/Muons/mu_Loose_barrel.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_Loose_barrel.pdf>
@@ -1026,7 +1207,7 @@ Overfull \hbox (7.94824pt too wide) in paragraph at lines 408--409
  [][] 
  []
 
-<Figures/Muons/mu_Loose_endcap.pdf, id=2574, 569.12625pt x 689.57625pt>
+<Figures/Muons/mu_Loose_endcap.pdf, id=2578, 569.12625pt x 689.57625pt>
 File: Figures/Muons/mu_Loose_endcap.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_Loose_endcap.pdf>
@@ -1038,7 +1219,7 @@ Overfull \hbox (7.94824pt too wide) in paragraph at lines 413--414
  [][] 
  []
 
-<Figures/Muons/mu_Loose_pt7.pdf, id=2575, 569.12625pt x 689.57625pt>
+<Figures/Muons/mu_Loose_pt7.pdf, id=2579, 569.12625pt x 689.57625pt>
 File: Figures/Muons/mu_Loose_pt7.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_Loose_pt7.pdf>
@@ -1050,7 +1231,7 @@ Overfull \hbox (7.94824pt too wide) in paragraph at lines 418--419
  [][] 
  []
 
-<Figures/Muons/mu_SIP4_barrel.pdf, id=2577, 469.755pt x 569.12625pt>
+<Figures/Muons/mu_SIP4_barrel.pdf, id=2581, 469.755pt x 569.12625pt>
 File: Figures/Muons/mu_SIP4_barrel.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_SIP4_barrel.pdf>
@@ -1062,7 +1243,7 @@ Overfull \hbox (7.94824pt too wide) in paragraph at lines 450--451
  [][] 
  []
 
-<Figures/Muons/mu_SIP4_endcap.pdf, id=2578, 469.755pt x 569.12625pt>
+<Figures/Muons/mu_SIP4_endcap.pdf, id=2582, 469.755pt x 569.12625pt>
 File: Figures/Muons/mu_SIP4_endcap.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_SIP4_endcap.pdf>
@@ -1074,7 +1255,7 @@ Overfull \hbox (7.94824pt too wide) in paragraph at lines 455--456
  [][] 
  []
 
-<Figures/Muons/mu_SIP4_pt20.pdf, id=2579, 469.755pt x 569.12625pt>
+<Figures/Muons/mu_SIP4_pt20.pdf, id=2583, 469.755pt x 569.12625pt>
 File: Figures/Muons/mu_SIP4_pt20.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_SIP4_pt20.pdf>
@@ -1086,7 +1267,7 @@ Overfull \hbox (7.94824pt too wide) in paragraph at lines 460--461
  [][] 
  []
 
-<Figures/Muons/mu_iso_barrel.pdf, id=2582, 569.12625pt x 689.57625pt>
+<Figures/Muons/mu_iso_barrel.pdf, id=2586, 569.12625pt x 689.57625pt>
 File: Figures/Muons/mu_iso_barrel.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_iso_barrel.pdf>
@@ -1098,7 +1279,7 @@ Overfull \hbox (11.92586pt too wide) in paragraph at lines 485--486
  [][] 
  []
 
-<Figures/Muons/mu_iso_endcap.pdf, id=2583, 569.12625pt x 689.57625pt>
+<Figures/Muons/mu_iso_endcap.pdf, id=2587, 569.12625pt x 689.57625pt>
 File: Figures/Muons/mu_iso_endcap.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_iso_endcap.pdf>
@@ -1110,9 +1291,9 @@ Overfull \hbox (11.92586pt too wide) in paragraph at lines 490--491
  [][] 
  []
 
-[72 <./Figures/Muons/mu_Loose_barrel.pdf> <./Figures/Muons/mu_Loose_endcap.pdf>
+[71 <./Figures/Muons/mu_Loose_barrel.pdf> <./Figures/Muons/mu_Loose_endcap.pdf>
  <./Figures/Muons/mu_Loose_pt7.pdf>]
-<Figures/Muons/trackingEffptl10.pdf, id=2723, 602.25pt x 602.25pt>
+<Figures/Muons/trackingEffptl10.pdf, id=2726, 602.25pt x 602.25pt>
 File: Figures/Muons/trackingEffptl10.pdf Graphic file (type pdf)
 
 <use Figures/Muons/trackingEffptl10.pdf>
@@ -1124,7 +1305,7 @@ Overfull \hbox (11.92586pt too wide) in paragraph at lines 517--518
  [][] 
  []
 
-<Figures/Muons/trackingEffptg10.pdf, id=2724, 602.25pt x 602.25pt>
+<Figures/Muons/trackingEffptg10.pdf, id=2727, 602.25pt x 602.25pt>
 File: Figures/Muons/trackingEffptg10.pdf Graphic file (type pdf)
 
 <use Figures/Muons/trackingEffptg10.pdf>
@@ -1136,7 +1317,7 @@ Overfull \hbox (11.92586pt too wide) in paragraph at lines 522--523
  [][] 
  []
 
-<Figures/Muons/mu_sf.pdf, id=2726, 722.7pt x 569.12625pt>
+<Figures/Muons/mu_sf.pdf, id=2729, 722.7pt x 569.12625pt>
 File: Figures/Muons/mu_sf.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_sf.pdf>
@@ -1147,7 +1328,7 @@ Overfull \hbox (11.92586pt too wide) in paragraph at lines 546--547
  [][] 
  []
 
-<Figures/Muons/mu_sf_unc.pdf, id=2727, 719.68875pt x 561.09625pt>
+<Figures/Muons/mu_sf_unc.pdf, id=2730, 719.68875pt x 561.09625pt>
 File: Figures/Muons/mu_sf_unc.pdf Graphic file (type pdf)
 
 <use Figures/Muons/mu_sf_unc.pdf>
@@ -1158,30 +1339,19 @@ Overfull \hbox (11.92586pt too wide) in paragraph at lines 551--552
  [][] 
  []
 
-[73 <./Figures/Muons/mu_SIP4_barrel.pdf> <./Figures/Muons/mu_SIP4_endcap.pdf> <
-./Figures/Muons/mu_SIP4_pt20.pdf>] [74 <./Figures/Muons/mu_iso_barrel.pdf> <./F
-igures/Muons/mu_iso_endcap.pdf>] [75 <./Figures/Muons/trackingEffptl10.pdf> <./
+[72 <./Figures/Muons/mu_SIP4_barrel.pdf> <./Figures/Muons/mu_SIP4_endcap.pdf> <
+./Figures/Muons/mu_SIP4_pt20.pdf>] [73 <./Figures/Muons/mu_iso_barrel.pdf> <./F
+igures/Muons/mu_iso_endcap.pdf>] [74 <./Figures/Muons/trackingEffptl10.pdf> <./
 Figures/Muons/trackingEffptg10.pdf> <./Figures/Muons/mu_sf.pdf> <./Figures/Muon
-s/mu_sf_unc.pdf>] [76] [77]
-Overfull \hbox (1.58858pt too wide) in paragraph at lines 658--667
-\OT1/cmr/m/n/12 [[]]: HB-HENoise-Filter, HB-HENoi-seIsoFil-ter, EcalDead-Cell-T
-rig-ger-Prim-i-tive-Filter, good-
- []
+s/mu_sf_unc.pdf>] [75] [76]
+<figures/hist_hPFMET_3.png, id=3018, 798.985pt x 574.145pt>
+File: figures/hist_hPFMET_3.png Graphic file (type png)
 
-
-Overfull \hbox (0.10802pt too wide) in paragraph at lines 658--667
-\OT1/cmr/m/n/12 Ver-tices, ee-Bad-Sc-Fil-ter, glob-alTightHalo2016Filter, BadPF
--Muon-Fil-ter, and Bad-Charged-
- []
-
-[78] <figures/hist_hPFMET_8.png, id=3021, 798.985pt x 574.145pt>
-File: figures/hist_hPFMET_8.png Graphic file (type png)
-
-<use figures/hist_hPFMET_8.png>
-Package pdftex.def Info: figures/hist_hPFMET_8.png used on input line 676.
+<use figures/hist_hPFMET_3.png>
+Package pdftex.def Info: figures/hist_hPFMET_3.png used on input line 676.
 (pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
-
-<figures/hist_hDPHI_MAX_JET_MET_8.png, id=3024, 798.985pt x 574.145pt>
+ [77]
+<figures/hist_hDPHI_MAX_JET_MET_8.png, id=3029, 798.985pt x 574.145pt>
 File: figures/hist_hDPHI_MAX_JET_MET_8.png Graphic file (type png)
 
 <use figures/hist_hDPHI_MAX_JET_MET_8.png>
@@ -1189,7 +1359,7 @@ Package pdftex.def Info: figures/hist_hDPHI_MAX_JET_MET_8.png used on input lin
 e 686.
 (pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
 
-<figures/hist_hDPHI_MIN_JET_MET_8.png, id=3025, 798.985pt x 574.145pt>
+<figures/hist_hDPHI_MIN_JET_MET_8.png, id=3030, 798.985pt x 574.145pt>
 File: figures/hist_hDPHI_MIN_JET_MET_8.png Graphic file (type png)
 
 <use figures/hist_hDPHI_MIN_JET_MET_8.png>
@@ -1197,15 +1367,16 @@ Package pdftex.def Info: figures/hist_hDPHI_MIN_JET_MET_8.png used on input lin
 e 693.
 (pdftex.def)             Requested size: 361.34999pt x 259.65945pt.
 
-Overfull \hbox (43.51509pt too wide) in paragraph at lines 698--699
-[]\OT1/cmr/m/n/12 For jets with a high trans-verse mo-men-tum, $\OML/cmm/m/it/1
-2 > \OT1/cmr/m/n/12 50 []$, it is re-quired that $\OML/cmm/m/it/12 max\OMS/cmsy
-/m/n/12 j\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 ^^^\OT1/cmr/m/n/12 (\OML/cmm/m/it/
-12 jet; E[]\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 j \OML/cmm/m/it/12 <
+Overfull \hbox (25.8604pt too wide) in paragraph at lines 698--699
+[]\T1/LinuxLibertineT-TLF/m/n/12 For jets with a high trans-verse mo-men-tum, $
+\OML/cmm/m/it/12 > \OT1/cmr/m/n/12 50 []$\T1/LinuxLibertineT-TLF/m/n/12 , it is
+ re-quired that $\OML/cmm/m/it/12 max\OMS/cmsy/m/n/12 j\OT1/cmr/m/n/12 ^^A\OML/
+cmm/m/it/12 ^^^\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 jet; E[]\OT1/cmr/m/n/12 )\OMS/
+cmsy/m/n/12 j \OML/cmm/m/it/12 <
  []
 
-[79 <./figures/hist_hPFMET_8.png>]) [80 <./figures/hist_hDPHI_MAX_JET_MET_8.png
->] [81 <./figures/hist_hDPHI_MIN_JET_MET_8.png>]
+) [78 <./figures/hist_hPFMET_3.png>] [79 <./figures/hist_hDPHI_MAX_JET_MET_8.pn
+g> <./figures/hist_hDPHI_MIN_JET_MET_8.png>]
 \openout2 = `ucdavisthesis_Chap6.aux'.
 
  (./ucdavisthesis_Chap6.tex
@@ -1218,193 +1389,406 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 19.
 
-[82
+<figures/hist_hPtLep_3.png, id=3048, 798.985pt x 574.145pt>
+File: figures/hist_hPtLep_3.png Graphic file (type png)
+
+<use figures/hist_hPtLep_3.png>
+Package pdftex.def Info: figures/hist_hPtLep_3.png used on input line 33.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 33--34
+ [][] 
+ []
+
+<figures/hist_hEtaLep_3.png, id=3049, 798.985pt x 574.145pt>
+File: figures/hist_hEtaLep_3.png Graphic file (type png)
+
+<use figures/hist_hEtaLep_3.png>
+Package pdftex.def Info: figures/hist_hEtaLep_3.png used on input line 38.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 38--39
+ [][] 
+ []
+
+
+Overfull \hbox (2.00041pt too wide) in paragraph at lines 31--41
+[]$[]$ $[]$ 
+ []
+
+<figures/hist_hIsoLep_3.png, id=3050, 798.985pt x 574.145pt>
+File: figures/hist_hIsoLep_3.png Graphic file (type png)
+
+<use figures/hist_hIsoLep_3.png>
+Package pdftex.def Info: figures/hist_hIsoLep_3.png used on input line 48.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 48--49
+ [][] 
+ []
+
+<figures/hist_hSipLep_3.png, id=3051, 798.985pt x 574.145pt>
+File: figures/hist_hSipLep_3.png Graphic file (type png)
+
+<use figures/hist_hSipLep_3.png>
+Package pdftex.def Info: figures/hist_hSipLep_3.png used on input line 53.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 53--54
+ [][] 
+ []
+
+
+Overfull \hbox (2.00041pt too wide) in paragraph at lines 46--56
+[]$[]$ $[]$ 
+ []
+
+[80
 
 
 
-] <figures/hist_hMZ1_8.png, id=3054, 798.985pt x 574.145pt>
+]
+
+LaTeX Warning: Reference `fig:pfmet3' on page 81 undefined on input line 68.
+
+<figures/hist_hMZ_3.png, id=3059, 798.985pt x 574.145pt>
+File: figures/hist_hMZ_3.png Graphic file (type png)
+
+<use figures/hist_hMZ_3.png>
+Package pdftex.def Info: figures/hist_hMZ_3.png used on input line 72.
+(pdftex.def)             Requested size: 397.48499pt x 285.62627pt.
+File: figures/hist_hPFMET_3.png Graphic file (type png)
+ <use figures/hist_hPFMET_3.png>
+Package pdftex.def Info: figures/hist_hPFMET_3.png used on input line 79.
+(pdftex.def)             Requested size: 397.48499pt x 285.62627pt.
+ [81 <./figures/hist_hPtLep_3.png> <./figures/hist_hEtaLep_3.png> <./figures/hi
+st_hIsoLep_3.png> <./figures/hist_hSipLep_3.png>]
+<figures/hist_hMZ1_5.png, id=3071, 798.985pt x 574.145pt>
+File: figures/hist_hMZ1_5.png Graphic file (type png)
+
+<use figures/hist_hMZ1_5.png>
+Package pdftex.def Info: figures/hist_hMZ1_5.png used on input line 91.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 91--92
+ [][] 
+ []
+
+<figures/hist_hMZ2_5.png, id=3072, 798.985pt x 574.145pt>
+File: figures/hist_hMZ2_5.png Graphic file (type png)
+
+<use figures/hist_hMZ2_5.png>
+Package pdftex.def Info: figures/hist_hMZ2_5.png used on input line 96.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 96--97
+ [][] 
+ []
+
+
+Overfull \hbox (2.00041pt too wide) in paragraph at lines 89--99
+[]$[]$ $[]$ 
+ []
+
+<figures/hist_hPtZ1_5.png, id=3073, 798.985pt x 574.145pt>
+File: figures/hist_hPtZ1_5.png Graphic file (type png)
+
+<use figures/hist_hPtZ1_5.png>
+Package pdftex.def Info: figures/hist_hPtZ1_5.png used on input line 106.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 106--107
+ [][] 
+ []
+
+<figures/hist_hYZ1_5.png, id=3074, 798.985pt x 574.145pt>
+File: figures/hist_hYZ1_5.png Graphic file (type png)
+
+<use figures/hist_hYZ1_5.png>
+Package pdftex.def Info: figures/hist_hYZ1_5.png used on input line 111.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 111--112
+ [][] 
+ []
+
+
+Overfull \hbox (2.00041pt too wide) in paragraph at lines 104--114
+[]$[]$ $[]$ 
+ []
+
+<figures/hist_hPtZ2_5.png, id=3075, 798.985pt x 574.145pt>
+File: figures/hist_hPtZ2_5.png Graphic file (type png)
+
+<use figures/hist_hPtZ2_5.png>
+Package pdftex.def Info: figures/hist_hPtZ2_5.png used on input line 121.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 121--122
+ [][] 
+ []
+
+<figures/hist_hYZ2_5.png, id=3076, 798.985pt x 574.145pt>
+File: figures/hist_hYZ2_5.png Graphic file (type png)
+
+<use figures/hist_hYZ2_5.png>
+Package pdftex.def Info: figures/hist_hYZ2_5.png used on input line 126.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 126--127
+ [][] 
+ []
+
+
+Overfull \hbox (2.00041pt too wide) in paragraph at lines 119--129
+[]$[]$ $[]$ 
+ []
+
+<figures/hist_hPtLep1_5.png, id=3077, 798.985pt x 574.145pt>
+File: figures/hist_hPtLep1_5.png Graphic file (type png)
+
+<use figures/hist_hPtLep1_5.png>
+Package pdftex.def Info: figures/hist_hPtLep1_5.png used on input line 136.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 136--137
+ [][] 
+ []
+
+<figures/hist_hPtLep2_5.png, id=3078, 798.985pt x 574.145pt>
+File: figures/hist_hPtLep2_5.png Graphic file (type png)
+
+<use figures/hist_hPtLep2_5.png>
+Package pdftex.def Info: figures/hist_hPtLep2_5.png used on input line 141.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 141--142
+ [][] 
+ []
+
+<figures/hist_hPtLep3_5.png, id=3079, 798.985pt x 574.145pt>
+File: figures/hist_hPtLep3_5.png Graphic file (type png)
+
+<use figures/hist_hPtLep3_5.png>
+Package pdftex.def Info: figures/hist_hPtLep3_5.png used on input line 146.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 146--147
+ [][] 
+ []
+
+<figures/hist_hPtLep4_5.png, id=3080, 798.985pt x 574.145pt>
+File: figures/hist_hPtLep4_5.png Graphic file (type png)
+
+<use figures/hist_hPtLep4_5.png>
+Package pdftex.def Info: figures/hist_hPtLep4_5.png used on input line 151.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 151--152
+ [][] 
+ []
+
+
+Overfull \hbox (2.00041pt too wide) in paragraph at lines 134--154
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (2.00041pt too wide) in paragraph at lines 134--154
+[]$ $[]$ 
+ []
+
+<figures/hist_hEtaLep1_5.png, id=3081, 798.985pt x 574.145pt>
+File: figures/hist_hEtaLep1_5.png Graphic file (type png)
+
+<use figures/hist_hEtaLep1_5.png>
+Package pdftex.def Info: figures/hist_hEtaLep1_5.png used on input line 161.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 161--162
+ [][] 
+ []
+
+<figures/hist_hEtaLep2_5.png, id=3082, 798.985pt x 574.145pt>
+File: figures/hist_hEtaLep2_5.png Graphic file (type png)
+
+<use figures/hist_hEtaLep2_5.png>
+Package pdftex.def Info: figures/hist_hEtaLep2_5.png used on input line 166.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 166--167
+ [][] 
+ []
+
+<figures/hist_hEtaLep3_5.png, id=3083, 798.985pt x 574.145pt>
+File: figures/hist_hEtaLep3_5.png Graphic file (type png)
+
+<use figures/hist_hEtaLep3_5.png>
+Package pdftex.def Info: figures/hist_hEtaLep3_5.png used on input line 171.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 171--172
+ [][] 
+ []
+
+<figures/hist_hEtaLep4_5.png, id=3084, 798.985pt x 574.145pt>
+File: figures/hist_hEtaLep4_5.png Graphic file (type png)
+
+<use figures/hist_hEtaLep4_5.png>
+Package pdftex.def Info: figures/hist_hEtaLep4_5.png used on input line 176.
+(pdftex.def)             Requested size: 238.49121pt x 171.37752pt.
+
+Overfull \hbox (10.8406pt too wide) in paragraph at lines 176--177
+ [][] 
+ []
+
+
+Overfull \hbox (2.00041pt too wide) in paragraph at lines 159--179
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (2.00041pt too wide) in paragraph at lines 159--179
+[]$ $[]$ 
+ []
+
+[82 <./figures/hist_hMZ_3.png>]
+<figures/hist_hM4l_5_log.png, id=3090, 798.985pt x 574.145pt>
+File: figures/hist_hM4l_5_log.png Graphic file (type png)
+
+<use figures/hist_hM4l_5_log.png>
+Package pdftex.def Info: figures/hist_hM4l_5_log.png used on input line 209.
+(pdftex.def)             Requested size: 397.48499pt x 285.62627pt.
+ [83 <./figures/hist_hMZ1_5.png> <./figures/hist_hMZ2_5.png>] [84 <./figures/hi
+st_hPtZ1_5.png> <./figures/hist_hYZ1_5.png> <./figures/hist_hPtZ2_5.png> <./fig
+ures/hist_hYZ2_5.png>]
+<figures/hist_hMZ1_8.png, id=3101, 798.985pt x 574.145pt>
 File: figures/hist_hMZ1_8.png Graphic file (type png)
 
 <use figures/hist_hMZ1_8.png>
-Package pdftex.def Info: figures/hist_hMZ1_8.png used on input line 43.
+Package pdftex.def Info: figures/hist_hMZ1_8.png used on input line 221.
 (pdftex.def)             Requested size: 397.48499pt x 285.62627pt.
 
-<figures/hist_hMZ2_8.png, id=3055, 798.985pt x 574.145pt>
+<figures/hist_hMZ2_8.png, id=3102, 798.985pt x 574.145pt>
 File: figures/hist_hMZ2_8.png Graphic file (type png)
 
 <use figures/hist_hMZ2_8.png>
-Package pdftex.def Info: figures/hist_hMZ2_8.png used on input line 50.
+Package pdftex.def Info: figures/hist_hMZ2_8.png used on input line 228.
 (pdftex.def)             Requested size: 397.48499pt x 285.62627pt.
- [83 <./figures/hist_hMZ1_8.png>] [84 <./figures/hist_hMZ2_8.png>] <figures/his
-t_hM4l_8_log.png, id=3068, 798.985pt x 574.145pt>
+
+<figures/hist_hM4l_8_log.png, id=3103, 798.985pt x 574.145pt>
 File: figures/hist_hM4l_8_log.png Graphic file (type png)
 
 <use figures/hist_hM4l_8_log.png>
-Package pdftex.def Info: figures/hist_hM4l_8_log.png used on input line 84.
+Package pdftex.def Info: figures/hist_hM4l_8_log.png used on input line 235.
 (pdftex.def)             Requested size: 397.48499pt x 285.62627pt.
 
-<figures/hist_hM4l_8_linear.png, id=3069, 798.985pt x 574.145pt>
+<figures/hist_hM4l_8_linear.png, id=3104, 798.985pt x 574.145pt>
 File: figures/hist_hM4l_8_linear.png Graphic file (type png)
 
 <use figures/hist_hM4l_8_linear.png>
-Package pdftex.def Info: figures/hist_hM4l_8_linear.png used on input line 91.
+Package pdftex.def Info: figures/hist_hM4l_8_linear.png used on input line 242.
+
 (pdftex.def)             Requested size: 397.48499pt x 285.62627pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 96.
+(hyperref)                removing `math shift' on input line 247.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 96.
+(hyperref)                removing `math shift' on input line 247.
 
-[85 <./figures/hist_hM4l_8_log.png>] [86 <./figures/hist_hM4l_8_linear.png>]
-[87] <figures/f_Dm4lmet_1D_log.png, id=3086, 499.8675pt x 476.78125pt>
+[85 <./figures/hist_hPtLep1_5.png> <./figures/hist_hPtLep2_5.png> <./figures/hi
+st_hPtLep3_5.png> <./figures/hist_hPtLep4_5.png>] [86 <./figures/hist_hEtaLep1_
+5.png> <./figures/hist_hEtaLep2_5.png> <./figures/hist_hEtaLep3_5.png> <./figur
+es/hist_hEtaLep4_5.png>] [87 <./figures/hist_hM4l_5_log.png>] [88 <./figures/hi
+st_hMZ1_8.png>] [89 <./figures/hist_hMZ2_8.png>]
+<figures/f_Dm4lmet_1D_log.png, id=3129, 499.8675pt x 476.78125pt>
 File: figures/f_Dm4lmet_1D_log.png Graphic file (type png)
 
 <use figures/f_Dm4lmet_1D_log.png>
-Package pdftex.def Info: figures/f_Dm4lmet_1D_log.png used on input line 151.
+Package pdftex.def Info: figures/f_Dm4lmet_1D_log.png used on input line 302.
 (pdftex.def)             Requested size: 361.34999pt x 344.67177pt.
- [88]
+ [90 <./figures/hist_hM4l_8_log.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf, id=3096, 569.12625pt x 552.0625pt>
+<Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf, id=3137, 569.12625pt x 552.0625pt>
 File: Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf Graphic file (type pdf)
 
 <use Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf>
 Package pdftex.def Info: Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf used on input line
- 194.
+ 345.
 (pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
 
-<Figures/IrrBkg/K_ewk_qqZZ.pdf, id=3097, 569.12625pt x 523.9575pt>
+<Figures/IrrBkg/K_ewk_qqZZ.pdf, id=3138, 569.12625pt x 523.9575pt>
 File: Figures/IrrBkg/K_ewk_qqZZ.pdf Graphic file (type pdf)
 
 <use Figures/IrrBkg/K_ewk_qqZZ.pdf>
-Package pdftex.def Info: Figures/IrrBkg/K_ewk_qqZZ.pdf used on input line 195.
+Package pdftex.def Info: Figures/IrrBkg/K_ewk_qqZZ.pdf used on input line 346.
 (pdftex.def)             Requested size: 218.54263pt x 201.20059pt.
- [89 <./figures/f_Dm4lmet_1D_log.png>]
-[90 <./Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf, page is rotated 90 degrees> <./Figu
-res/IrrBkg/K_ewk_qqZZ.pdf, page is rotated 90 degrees>]
-<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf, id=3214, 569.12625pt x 552.0
+ [91 <./figures/hist_hM4l_8_linear.png>]
+[92 <./figures/f_Dm4lmet_1D_log.png>]
+<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf, id=3164, 569.12625pt x 552.0
 625pt>
 File: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf Graphic file (type pdf)
  <use Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf>
 Package pdftex.def Info: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf used 
-on input line 217.
+on input line 368.
 (pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
 
-<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf, id=3215, 569.126
+<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf, id=3165, 569.126
 25pt x 552.0625pt>
 File: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf Graphic file
  (type pdf)
 
 <use Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf>
 Package pdftex.def Info: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xs
-ec.pdf used on input line 218.
+ec.pdf used on input line 369.
 (pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
 
-<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf, id=3216, 569.
+<Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf, id=3166, 569.
 12625pt x 552.0625pt>
 File: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf Graphic f
 ile (type pdf)
 
 <use Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf>
 Package pdftex.def Info: Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kf
-actor.pdf used on input line 219.
+actor.pdf used on input line 370.
 (pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
- [91 <./Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_xsec.pdf, page is rotated 90 de
-grees> <./Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf, page is
- rotated 90 degrees> <./Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfa
-ctor.pdf, page is rotated 90 degrees>]
-<Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf, id=3353, 332.56656pt x 219.407
-06pt>
-File: Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf Graphic file (type pdf)
- <use Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf>
-Package pdftex.def Info: Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf used on
- input line 301.
-(pdftex.def)             Requested size: 307.14749pt x 202.63698pt.
-
-<Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf, id=3354, 320.86896pt x 214.82697pt
+ [93 <./Figures/IrrBkg/Kfactor_qqZZ_mZZ.pdf, page is rotated 90 degrees> <./Fig
+ures/IrrBkg/K_ewk_qqZZ.pdf, page is rotated 90 degrees>] [94 <./Figures/IrrBkg/
+cCompare_hnnlo_ggHZZ2l2l_xsec.pdf, page is rotated 90 degrees> <./Figures/IrrBk
+g/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_xsec.pdf, page is rotated 90 degrees> <.
+/Figures/IrrBkg/cCompare_hnnlo_ggHZZ2l2l_narrowwidth_kfactor.pdf, page is rotat
+ed 90 degrees>]
+<Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf, id=3400, 320.86896pt x 214.82697pt
 >
 File: Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf Graphic file (type pdf)
  <use Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf>
 Package pdftex.def Info: Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf used on inp
-ut line 306.
+ut line 457.
 (pdftex.def)             Requested size: 307.14749pt x 205.6546pt.
- [92] [93 <./Figures/RedBkg/FR_electrons_ptl3_DataallTR.pdf> <./Figures/RedBkg/
-FR_muons_ptl3_DataallTR.pdf>] <Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf, id=3437
-, 569.12625pt x 552.0625pt>
+ [95 <./Figures/RedBkg/FR_muons_ptl3_DataallTR.pdf>]
+<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf, id=3446, 569.12625pt x 552.0625pt>
 File: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf Graphic file (type pdf)
 
 <use Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf>
 Package pdftex.def Info: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf used on input 
-line 371.
-(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
+line 604.
+(pdftex.def)             Requested size: 211.9444pt x 205.59088pt.
 
-<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf, id=3438, 569.12625pt x 552.0625pt>
-File: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf Graphic file (type pdf)
-
-<use Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf>
-Package pdftex.def Info: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf used on input 
-line 372.
-(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
-
-<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf, id=3439, 569.12625pt x 552.0625pt>
-File: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf Graphic file (type pdf)
-
-<use Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf>
-Package pdftex.def Info: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf used on inpu
-t line 373.
-(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
-
-<Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf, id=3440, 569.12625pt x 552.0625pt>
-File: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf Graphic file (type pdf)
-
-<use Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf>
-Package pdftex.def Info: Figures/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf used on inpu
-t line 374.
-(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
-
-<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf, id=3441, 569.12625pt x 552.0625pt>
+<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf, id=3447, 569.12625pt x 552.0625pt>
 File: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf Graphic file (type pdf)
 
 <use Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf>
 Package pdftex.def Info: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf used on input 
-line 385.
-(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
-
-<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf, id=3442, 569.12625pt x 552.0625pt>
-File: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf Graphic file (type pdf)
-
-<use Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf>
-Package pdftex.def Info: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4e.pdf used on input 
-line 386.
-(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
-
-<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf, id=3443, 569.12625pt x 552.0625pt>
-File: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf Graphic file (type pdf)
-
-<use Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf>
-Package pdftex.def Info: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2m2e.pdf used on inpu
-t line 387.
-(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
-
-<Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf, id=3444, 569.12625pt x 552.0625pt>
-File: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf Graphic file (type pdf)
-
-<use Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf>
-Package pdftex.def Info: Figures/RedBkg/HZZ_3P1Fuw_ZZMass_2e2m.pdf used on inpu
-t line 388.
-(pdftex.def)             Requested size: 204.88414pt x 198.74234pt.
- [94] [95 <./Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf, page is rotated 90 degree
-s> <./Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4e.pdf, page is rotated 90 degrees> <./F
-igures/RedBkg/HZZ_2P2Fuw_ZZMass_2m2e.pdf, page is rotated 90 degrees> <./Figure
-s/RedBkg/HZZ_2P2Fuw_ZZMass_2e2m.pdf, page is rotated 90 degrees>] [96 <./Figure
-s/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf, page is rotated 90 degrees> <./Figures/RedBk
-g/HZZ_3P1Fuw_ZZMass_4e.pdf, page is rotated 90 degrees> <./Figures/RedBkg/HZZ_3
-P1Fuw_ZZMass_2m2e.pdf, page is rotated 90 degrees> <./Figures/RedBkg/HZZ_3P1Fuw
-_ZZMass_2e2m.pdf, page is rotated 90 degrees>] [97]) [98] [99]
+line 612.
+(pdftex.def)             Requested size: 211.9444pt x 205.59088pt.
+ [96] [97 <./Figures/RedBkg/HZZ_2P2Fuw_ZZMass_4m.pdf, page is rotated 90 degree
+s> <./Figures/RedBkg/HZZ_3P1Fuw_ZZMass_4m.pdf, page is rotated 90 degrees>] [98
+]) [99]
 \openout2 = `ucdavisthesis_Chap9.aux'.
 
  (./ucdavisthesis_Chap9.tex
@@ -1414,7 +1798,7 @@ Chapter 6.
 
 
 ] [101]
-<Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf, id=3844, 569.12625pt x 552.062
+<Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf, id=3578, 569.12625pt x 552.062
 5pt>
 File: Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf Graphic file (type pdf)
  <use Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf>
@@ -1422,7 +1806,7 @@ Package pdftex.def Info: Figures/Results/mass/lepScale_vs_pt_eta_mu.pdf used on
  input line 136.
 (pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
 
-<Figures/Results/mass/lepScale_vs_pt_eta_e.pdf, id=3845, 569.12625pt x 552.0625
+<Figures/Results/mass/lepScale_vs_pt_eta_e.pdf, id=3579, 569.12625pt x 552.0625
 pt>
 File: Figures/Results/mass/lepScale_vs_pt_eta_e.pdf Graphic file (type pdf)
  <use Figures/Results/mass/lepScale_vs_pt_eta_e.pdf>
@@ -1430,7 +1814,7 @@ Package pdftex.def Info: Figures/Results/mass/lepScale_vs_pt_eta_e.pdf used on
 input line 137.
 (pdftex.def)             Requested size: 218.54263pt x 211.99295pt.
 
-<Figures/Results/mass/m4lreco_4mu_dn.pdf, id=3846, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4mu_dn.pdf, id=3580, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4mu_dn.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4mu_dn.pdf>
@@ -1438,7 +1822,7 @@ Package pdftex.def Info: Figures/Results/mass/m4lreco_4mu_dn.pdf used on input
 line 147.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4mu.pdf, id=3847, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4mu.pdf, id=3581, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4mu.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4mu.pdf>
@@ -1446,7 +1830,7 @@ Package pdftex.def Info: Figures/Results/mass/m4lreco_4mu.pdf used on input lin
 e 148.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4mu_up.pdf, id=3848, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4mu_up.pdf, id=3582, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4mu_up.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4mu_up.pdf>
@@ -1454,7 +1838,7 @@ Package pdftex.def Info: Figures/Results/mass/m4lreco_4mu_up.pdf used on input
 line 149.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4e_dn.pdf, id=3849, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4e_dn.pdf, id=3583, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4e_dn.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4e_dn.pdf>
@@ -1462,7 +1846,7 @@ Package pdftex.def Info: Figures/Results/mass/m4lreco_4e_dn.pdf used on input l
 ine 150.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4e.pdf, id=3850, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4e.pdf, id=3584, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4e.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4e.pdf>
@@ -1470,7 +1854,7 @@ Package pdftex.def Info: Figures/Results/mass/m4lreco_4e.pdf used on input line
  151.
 (pdftex.def)             Requested size: 145.6997pt x 141.33424pt.
 
-<Figures/Results/mass/m4lreco_4e_up.pdf, id=3851, 569.12625pt x 552.0625pt>
+<Figures/Results/mass/m4lreco_4e_up.pdf, id=3585, 569.12625pt x 552.0625pt>
 File: Figures/Results/mass/m4lreco_4e_up.pdf Graphic file (type pdf)
 
 <use Figures/Results/mass/m4lreco_4e_up.pdf>
@@ -1484,54 +1868,53 @@ ine 152.
 <./Figures/Results/mass/m4lreco_4mu_up.pdf, page is rotated 90 degrees> <./Figu
 res/Results/mass/m4lreco_4e_dn.pdf, page is rotated 90 degrees> <./Figures/Resu
 lts/mass/m4lreco_4e.pdf, page is rotated 90 degrees> <./Figures/Results/mass/m4
-lreco_4e_up.pdf, page is rotated 90 degrees>] [105] [106] [107]
-<figures/sigma_limits_4mu_Zp2HDM.png, id=4249, 698.61pt x 473.77pt>
+lreco_4e_up.pdf, page is rotated 90 degrees>] [105] [106]
+<figures/sigma_limits_4mu_Zp2HDM.png, id=3977, 698.61pt x 473.77pt>
 File: figures/sigma_limits_4mu_Zp2HDM.png Graphic file (type png)
 
 <use figures/sigma_limits_4mu_Zp2HDM.png>
 Package pdftex.def Info: figures/sigma_limits_4mu_Zp2HDM.png used on input line
  333.
-(pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
+(pdftex.def)             Requested size: 433.62pt x 294.06691pt.
 
-<figures/sigma_limits_4mu_ZpBaryonic.png, id=4250, 698.61pt x 473.77pt>
+<figures/sigma_limits_4mu_ZpBaryonic.png, id=3978, 698.61pt x 473.77pt>
 File: figures/sigma_limits_4mu_ZpBaryonic.png Graphic file (type png)
 
 <use figures/sigma_limits_4mu_ZpBaryonic.png>
 Package pdftex.def Info: figures/sigma_limits_4mu_ZpBaryonic.png used on input 
 line 340.
-(pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
- [108 <./figures/sigma_limits_4mu_Zp2HDM.png>]
-<figures/sigma_limits_4mu_Zp2HDM_MVA.png, id=4259, 698.61pt x 473.77pt>
+(pdftex.def)             Requested size: 433.62pt x 294.06691pt.
+ [107]
+<figures/sigma_limits_4mu_Zp2HDM_MVA.png, id=3987, 698.61pt x 473.77pt>
 File: figures/sigma_limits_4mu_Zp2HDM_MVA.png Graphic file (type png)
 
 <use figures/sigma_limits_4mu_Zp2HDM_MVA.png>
 Package pdftex.def Info: figures/sigma_limits_4mu_Zp2HDM_MVA.png used on input 
 line 351.
-(pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
+(pdftex.def)             Requested size: 433.62pt x 294.06691pt.
 
-<figures/sigma_limits_4mu_ZpBaryonic_MVA.png, id=4260, 698.61pt x 473.77pt>
+<figures/sigma_limits_4mu_ZpBaryonic_MVA.png, id=3988, 698.61pt x 473.77pt>
 File: figures/sigma_limits_4mu_ZpBaryonic_MVA.png Graphic file (type png)
 
 <use figures/sigma_limits_4mu_ZpBaryonic_MVA.png>
 Package pdftex.def Info: figures/sigma_limits_4mu_ZpBaryonic_MVA.png used on in
 put line 358.
-(pdftex.def)             Requested size: 361.34999pt x 245.05334pt.
-) [109 <./figures/sigma_limits_4mu_ZpBaryonic.png>] [110 <./figures/sigma_limit
-s_4mu_Zp2HDM_MVA.png> <./figures/sigma_limits_4mu_ZpBaryonic_MVA.png>]
+(pdftex.def)             Requested size: 433.62pt x 294.06691pt.
+) [108 <./figures/sigma_limits_4mu_Zp2HDM.png>] [109 <./figures/sigma_limits_4m
+u_ZpBaryonic.png>] [110 <./figures/sigma_limits_4mu_Zp2HDM_MVA.png>] [111 <./fi
+gures/sigma_limits_4mu_ZpBaryonic_MVA.png>]
 \openout2 = `ucdavisthesis_Chap10.aux'.
 
  (./ucdavisthesis_Chap10.tex
 Chapter 7.
-[111
+[112
 
 
 
-]) [112]
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <29.86> not available
-(Font)              size <24.88> substituted on input line 237.
-
-[113
+]) [113]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 29.86pt on input line 247.
+ [114
 
 
 
@@ -1540,178 +1923,205 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <29.86> not available
 
  (./ucdavisthesis_Appen1.tex
 Appendix A.
-) [114
+) [115
 
 
-] [115] [116] [117] [118] [119] (./ucdavisthesis_main.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 4--7
-[]\OT1/cmr/m/n/12 2012.  URL: []$\OT1/cmtt/m/n/12 https : / / twiki . cern . ch
- / twiki / bin / view / CMSPublic /
+] [116] [117] [118] [119] [120] (./ucdavisthesis_main.bbl
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--63
+\T1/LinuxLibertineMonoT-TLF/m/n/12 rstl . royalsocietypublishing . org / conten
+t / 155 / 459 . short$[]\T1/LinuxLibertineT-TLF/m/n/12 ,
  []
 
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no š in font cmr12!
 
-Underfull \hbox (badness 7981) in paragraph at lines 53--63
-\OT1/cmtt/m/n/12 / / rstl . royalsocietypublishing . org / content / 155 / 459 
-. short$[]\OT1/cmr/m/n/12 , []$\OT1/cmtt/m/n/12 arXiv : http :
+Underfull \hbox (badness 10000) in paragraph at lines 53--63
+[]$\T1/LinuxLibertineMonoT-TLF/m/n/12 arXiv : http : / / rstl . royalsocietypub
+lishing . org / content /
  []
 
-[120
+[121
 
 
 ]
-Underfull \hbox (badness 1383) in paragraph at lines 127--133
-[]\OT1/cmr/m/n/12 Carl D. An-der-son.  The pos-i-tive elec-tron.  \OT1/cmr/m/it
-/12 Phys. Rev.\OT1/cmr/m/n/12 , 43:491--494, Mar
+Underfull \hbox (badness 1688) in paragraph at lines 127--133
+[]\T1/LinuxLibertineT-TLF/m/n/12 Carl D. An-der-son.  The pos-i-tive elec-tron.
+  \T1/LinuxLibertineT-TLF/m/it/12 Phys. Rev.\T1/LinuxLibertineT-TLF/m/n/12 , 43
+:491--494, Mar 1933.
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 135--145
-[]\OT1/cmr/m/n/12 P. A. M. Dirac.  The quan-tum the-ory of the emis-sion and ab
--sorp-tion
+Underfull \hbox (badness 1033) in paragraph at lines 127--133
+\T1/LinuxLibertineT-TLF/m/n/12 URL: []$\T1/LinuxLibertineMonoT-TLF/m/n/12 http 
+: / / link . aps . org / doi / 10 . 1103 / PhysRev . 43 . 491$[]\T1/LinuxLibert
+ineT-TLF/m/n/12 , []$\T1/LinuxLibertineMonoT-TLF/m/n/12 doi :
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 135--145
-\OT1/cmr/m/n/12 of ra-di-a-tion.  \OT1/cmr/m/it/12 Pro-ceed-ings of the Royal S
-o-ci-ety of Lon-don A: Math-e-mat-i-
+Underfull \hbox (badness 4899) in paragraph at lines 135--145
+[]\T1/LinuxLibertineT-TLF/m/n/12 P. A. M. Dirac.  The quan-tum the-ory of the e
+mis-sion and ab-sorp-tion of
  []
 
 
-Underfull \hbox (badness 7981) in paragraph at lines 135--145
-\OT1/cmtt/m/n/12 / / rspa . royalsocietypublishing . org / content / 114 / 767 
-/ 243$[]\OT1/cmr/m/n/12 , []$\OT1/cmtt/m/n/12 arXiv : http : / /
- []
-
-[121]
-Underfull \hbox (badness 1337) in paragraph at lines 230--236
-[]\OT1/cmr/m/n/12 R. P. Feyn-man.  The the-ory of positrons.  \OT1/cmr/m/it/12 
-Phys. Rev.\OT1/cmr/m/n/12 , 76:749--759, Sep
- []
-
-[122] [123] [124]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¶ in font cmr12!
- [125]
-Underfull \hbox (badness 1009) in paragraph at lines 656--663
-[]\OT1/cmr/m/n/12 M. et al. Aart-sen.  Search for dark mat-ter an-ni-hi-la-tion
-s in the sun with
+Underfull \hbox (badness 10000) in paragraph at lines 135--145
+\T1/LinuxLibertineT-TLF/m/n/12 ra-di-a-tion.  \T1/LinuxLibertineT-TLF/m/it/12 P
+ro-ceed-ings of the Royal So-ci-ety of Lon-don A: Math-e-mat-i-cal,
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 656--663
-\OT1/cmr/m/n/12 the 79-string Ice-Cube de-tec-tor.  \OT1/cmr/m/it/12 Phys. Rev.
- Lett.\OT1/cmr/m/n/12 , 110:131302, Mar 2013.
+Underfull \hbox (badness 10000) in paragraph at lines 135--145
+\T1/LinuxLibertineT-TLF/m/it/12 Phys-i-cal and En-gi-neer-ing Sci-ences\T1/Linu
+xLibertineT-TLF/m/n/12 , 114(767):243--265, 1927.  URL: []$\T1/LinuxLibertineMo
+noT-TLF/m/n/12 http :
  []
 
-Missing character: There is no Â in font cmr12!
-Missing character: There is no   in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--145
+\T1/LinuxLibertineMonoT-TLF/m/n/12 / / rspa . royalsocietypublishing . org / co
+ntent / 114 / 767 / 243$[]\T1/LinuxLibertineT-TLF/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--145
+[]$\T1/LinuxLibertineMonoT-TLF/m/n/12 arXiv : http : / / rspa . royalsocietypub
+lishing . org / content /
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 152--158
+[]\T1/LinuxLibertineT-TLF/m/n/12 C. S. Wu, E. Am-bler, R. W. Hay-ward, D. D. Ho
+ppes, and R. P. Hud-son.  Ex-
+ []
+
+[122]
+Underfull \hbox (badness 1838) in paragraph at lines 230--236
+[]\T1/LinuxLibertineT-TLF/m/n/12 R. P. Feyn-man.  The the-ory of positrons.  \T
+1/LinuxLibertineT-TLF/m/it/12 Phys. Rev.\T1/LinuxLibertineT-TLF/m/n/12 , 76:749
+--759, Sep 1949.
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 230--236
+\T1/LinuxLibertineT-TLF/m/n/12 URL: []$\T1/LinuxLibertineMonoT-TLF/m/n/12 http 
+: / / link . aps . org / doi / 10 . 1103 / PhysRev . 76 . 749$[]\T1/LinuxLibert
+ineT-TLF/m/n/12 , []$\T1/LinuxLibertineMonoT-TLF/m/n/12 doi :
+ []
+
+[123]
+Underfull \hbox (badness 1527) in paragraph at lines 322--328
+[]\T1/LinuxLibertineT-TLF/m/n/12 J. et al. Aubert.  Ex-per-i-men-tal ob-ser-va-
+tion of a heavy par-ti-cle $\OML/cmm/m/it/12 j$\T1/LinuxLibertineT-TLF/m/n/12 .
+  \T1/LinuxLibertineT-TLF/m/it/12 Phys. Rev.
+ []
+
+[124] [125]
+Underfull \hbox (badness 3240) in paragraph at lines 569--576
+[]\T1/LinuxLibertineT-TLF/m/n/12 Scott Do-del-son and Lawrence M. Widrow.  Ster
+ile-neutrinos as dark mat-ter.
+ []
+
 [126]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no “ in font cmr12!
-
-Underfull \hbox (badness 1960) in paragraph at lines 748--758
-[]\OT1/cmr/m/n/12 Georges Aad et al.  Search for new phe-nom-ena in events with
- a pho-
+Underfull \hbox (badness 1168) in paragraph at lines 585--592
+\T1/LinuxLibertineT-TLF/m/it/12 Phys. Rev.\T1/LinuxLibertineT-TLF/m/n/12 , D69:
+065022, 2004.  []$\T1/LinuxLibertineMonoT-TLF/m/n/12 arXiv : hep-[]ph / 0306161
+$[]\T1/LinuxLibertineT-TLF/m/n/12 , []$\T1/LinuxLibertineMonoT-TLF/m/n/12 doi :
+ 10 . 1103 /
  []
 
-
-Underfull \hbox (badness 1596) in paragraph at lines 748--758
-\OT1/cmr/m/n/12 ton and miss-ing trans-verse mo-men-tum in $\OML/cmm/m/it/12 pp
-$ \OT1/cmr/m/n/12 col-li-sions at $[] = 8$ TeV
- []
-
-
-Underfull \hbox (badness 1472) in paragraph at lines 748--758
-\OT1/cmr/m/n/12 with the AT-LAS de-tec-tor.  \OT1/cmr/m/it/12 Phys. Rev.\OT1/cm
-r/m/n/12 , D91(1):012008, 2015.  [Er-ra-tum:
- []
-
-[127]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ‰ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ‰ in font cmr12!
- [128]
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no ’ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ‰ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ‰ in font cmr12!
- [129]
-Underfull \hbox (badness 1400) in paragraph at lines 992--1000
-\OT1/cmr/m/n/12 cal gauge sym-me-tries.  \OT1/cmr/m/it/12 Phys. Rev.\OT1/cmr/m/
-n/12 , D82:011901, 2010.  [Er-ra-tum: Phys.
- []
-
-
-Underfull \hbox (badness 1194) in paragraph at lines 1002--1010
-\OT1/cmr/m/n/12 Rev.D79,039902(2009)].  []$\OT1/cmtt/m/n/12 arXiv : hep-[]ph / 
-0608068$[]\OT1/cmr/m/n/12 , []$\OT1/cmtt/m/n/12 doi : 10 . 1103 / PhysRevD . 74
- .
- []
-
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
-[130]
+[127] [128] [129] [130] [131]
 Underfull \hbox (badness 10000) in paragraph at lines 1095--1098
-[]\OT1/cmr/m/n/12 2008.  URL: []$\OT1/cmtt/m/n/12 http : / / press . cern / pre
-ss-[]releases / 2008 / 10 /
+[]\T1/LinuxLibertineT-TLF/m/n/12 2008.  URL: []$\T1/LinuxLibertineMonoT-TLF/m/n
+/12 http : / / press . cern / press-[]releases / 2008 / 10 /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1100--1103
-[]\OT1/cmr/m/n/12 2012.  URL: []$\OT1/cmtt/m/n/12 http : / / home . cern / abou
-t / updates / 2013 / 02 /
+[]\T1/LinuxLibertineT-TLF/m/n/12 2012.  URL: []$\T1/LinuxLibertineMonoT-TLF/m/n
+/12 http : / / home . cern / about / updates / 2013 / 02 /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1105--1108
-[]\OT1/cmr/m/n/12 2012.  URL: []$\OT1/cmtt/m/n/12 http : / / home . cern / abou
-t / engineering /
- []
-
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¶ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¶ in font cmr12!
-
-Underfull \hbox (badness 1189) in paragraph at lines 1125--1132
-[]\OT1/cmr/m/n/12 Johan Al-wall, Michel Her-quet, Fabio Mal-toni, Olivier Mat-t
-e-laer, and Tim
- []
-
-[131] [132]
-Underfull \hbox (badness 2689) in paragraph at lines 1313--1322
-[]\OT1/cmr/m/n/12 Massimiliano Grazz-ini, Ste-fan Kall-weit, and Dirk Rath-lev.
-  ZZ pro-duc-
+[]\T1/LinuxLibertineT-TLF/m/n/12 2012.  URL: []$\T1/LinuxLibertineMonoT-TLF/m/n
+/12 http : / / home . cern / about / engineering /
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 1313--1322
-\OT1/cmr/m/it/12 Phys. Lett. B\OT1/cmr/m/n/12 , 750:407 -- 410, 2015.  URL: []$
-\OT1/cmtt/m/n/12 http : / / www . sciencedirect .
+Underfull \hbox (badness 4132) in paragraph at lines 1125--1132
+\T1/LinuxLibertineT-TLF/m/n/12 Mad-graph 5: go-ing be-yond.  \T1/LinuxLibertine
+T-TLF/m/it/12 Jour-nal of High En-ergy Physics\T1/LinuxLibertineT-TLF/m/n/12 , 
+2011(6):1--40,
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 1134--1143
+\T1/LinuxLibertineT-TLF/m/n/12 berg, H. Ita, D. A. Kosower, and D. Maitre.  Mul
+ti-jet cross sec-tions at NLO
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 1134--1143
+\T1/LinuxLibertineT-TLF/m/n/12 URL: []$\T1/LinuxLibertineMonoT-TLF/m/n/12 http 
+: / / www-[]public . slac . stanford . edu / sciDoc / docMeta .
+ []
+
+[132]
+Underfull \hbox (badness 1270) in paragraph at lines 1265--1274
+\T1/LinuxLibertineT-TLF/m/n/12 T. Stelzer, P. Tor-rielli, and M. Zaro.  The au-
+to-mated com-pu-ta-tion of tree-level
  []
 
 [133]
-Underfull \hbox (badness 1253) in paragraph at lines 1401--1405
-[]\OT1/cmr/m/n/12 CMS Col-lab-o-ra-tion.  Doc-u-men-ta-tion of the roost-ats -b
-ased statis-tics tools
+Underfull \hbox (badness 1253) in paragraph at lines 1300--1305
+\T1/LinuxLibertineT-TLF/m/it/12 Twiki\T1/LinuxLibertineT-TLF/m/n/12 , 2016.  UR
+L: []$\T1/LinuxLibertineMonoT-TLF/m/n/12 https : / / twiki . cern . ch / twiki 
+/ bin / viewauth /
  []
 
 
-Underfull \hbox (badness 4168) in paragraph at lines 1401--1405
-\OT1/cmr/m/n/12 for higgs pag.  URL: []$\OT1/cmtt/m/n/12 https : / / twiki . ce
-rn . ch / twiki / bin / viewauth / CMS /
+Underfull \hbox (badness 10000) in paragraph at lines 1307--1311
+[]\T1/LinuxLibertineT-TLF/m/n/12 CMS Col-lab-o-ra-tion.  Met fil-ter rec-om-men
+-da-tions for run ii.  URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1307--1311
+[]$\T1/LinuxLibertineMonoT-TLF/m/n/12 https : / / twiki . cern . ch / twiki / b
+in / viewauth / CMS /
+ []
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 1313--1322
+[]\T1/LinuxLibertineT-TLF/m/n/12 Massimiliano Grazz-ini, Ste-fan Kall-weit, and
+ Dirk Rath-lev.  ZZ pro-duc-tion at
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 1313--1322
+\T1/LinuxLibertineT-TLF/m/n/12 the LHC: Fidu-cial cross sec-tions and dis-tri-b
+u-tions in NNLO QCD.  \T1/LinuxLibertineT-TLF/m/it/12 Phys. Lett.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1313--1322
+\T1/LinuxLibertineT-TLF/m/it/12 B\T1/LinuxLibertineT-TLF/m/n/12 , 750:407 -- 41
+0, 2015.  URL: []$\T1/LinuxLibertineMonoT-TLF/m/n/12 http : / / www . sciencedi
+rect . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1313--1322
+\T1/LinuxLibertineMonoT-TLF/m/n/12 science / article / pii / S0370269315007303$
+[]\T1/LinuxLibertineT-TLF/m/n/12 , []$\T1/LinuxLibertineMonoT-TLF/m/n/12 arXiv 
+: 1507 . 06257$[]\T1/LinuxLibertineT-TLF/m/n/12 ,
+ []
+
+[134]
+Underfull \hbox (badness 2261) in paragraph at lines 1401--1405
+[]\T1/LinuxLibertineT-TLF/m/n/12 CMS Col-lab-o-ra-tion.  Doc-u-men-ta-tion of t
+he roost-ats -based statis-tics tools for
  []
 
 )
@@ -1722,7 +2132,7 @@ See the csquotes package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.257 \end{document}
+l.267 \end{document}
                     
 ? 
 
@@ -1732,25 +2142,27 @@ l.257 \end{document}
 ! OK.
 \csq@err@gleft ...the transcript file}\showgroups 
                                                   
-l.257 \end{document}
+l.267 \end{document}
                     
 ? 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
-[134]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 267.
+[135]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 267.
  (./ucdavisthesis_main.aux (./ucdavisthesis_Chap1.aux)
 (./ucdavisthesis_Chap2.aux) (./ucdavisthesis_Chap3.aux)
 (./ucdavisthesis_Chap5.aux) (./ucdavisthesis_Chap6.aux)
 (./ucdavisthesis_Chap9.aux) (./ucdavisthesis_Chap10.aux)
 (./ucdavisthesis_Appen1.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 267.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 267.
 Package rerunfilecheck Info: File `ucdavisthesis_main.out' has not changed.
-(rerunfilecheck)             Checksum: 894C37697CD6544B47BBEE3EF69A4681;4379.
+(rerunfilecheck)             Checksum: A352B8602887339934B5098F4DEC4437;4379.
 
 
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 4.98pt have occurred.
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
 
  )
 (\end occurred inside a group at level 1)
@@ -1758,45 +2170,49 @@ LaTeX Font Warning: Size substitutions with differences
 ### simple group (level 1) entered at line 293 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11419 strings out of 494985
- 177784 string characters out of 6180355
- 330964 words of memory out of 5000000
- 13725 multiletter control sequences out of 15000+600000
- 19699 words of font info for 69 fonts, out of 8000000 for 9000
+ 13111 strings out of 494985
+ 210902 string characters out of 6180355
+ 347230 words of memory out of 5000000
+ 15328 multiletter control sequences out of 15000+600000
+ 101269 words of font info for 97 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 39i,21n,77p,2182b,690s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/mathpazo/fplmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mat
-hpazo/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/tim
-es/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ucdavisthesis_main.pdf (152 pages, 7897451 bytes).
+ 39i,21n,77p,2182b,772s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_d
+6jdyt.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.
+enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/
+usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/sh
+are/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_ncsllp.enc}{/usr/share/te
+xlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/share/texlive/
+texmf-dist/fonts/type1/public/libertine/LinLibertineMT.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/mathpazo/fplmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/math
+pazo/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/time
+s/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ucdavisthesis_main.pdf (152 pages, 7855508 bytes).
 PDF statistics:
- 4964 PDF objects out of 5155 (max. 8388607)
- 3568 compressed objects within 36 object streams
- 558 named destinations out of 1000 (max. 500000)
- 958 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4736 PDF objects out of 5155 (max. 8388607)
+ 3471 compressed objects within 35 object streams
+ 566 named destinations out of 1000 (max. 500000)
+ 1023 words of extra memory for PDF output out of 10000 (max. 10000000)
 

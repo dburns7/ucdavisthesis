@@ -30,6 +30,17 @@
 \usepackage [autostyle, english = american]{csquotes}
 \MakeOuterQuote{"}
 
+\usepackage[ansinew]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{libertine}
+\input{glyphtounicode}
+\pdfglyphtounicode{f_f}{FB00}
+\pdfglyphtounicode{f_f_i}{FB03}
+\pdfglyphtounicode{f_f_l}{FB04}
+\pdfglyphtounicode{f_i}{FB01}
+\pdfgentounicode=1
+
+
 %\usepackage[square,comma,numbers,sort&compress]{natbib}
 %\usepackage{hypernat}
 % Other useful packages to try
@@ -109,9 +120,8 @@
 \abstract{
 The study presented in this dissertation is a search for dark matter produced in 13 TeV proton-proton collisions at the Large Hadron Collider (LHC) using $\usedLumi$ of data collected in 2016 with the Compact Muon Solenoid (CMS) detector. Dark matter escapes the detector without interacting, resulting in a large imbalance of transverse momentum, which can be observed when a Higgs boson is tagged in the opposite direction. A variety of models which motivate a dark matter and Higgs interaction are discussed. The experimental signature of these models is called mono-Higgs. 
 
-In this search, the Higgs is produced primarily from gluon fusion and decays to four leptons via two $Z$ bosons ($\HZZfl$). In addition to rediscovering the Higgs in the four-lepton final state, cross-validating the analysis strategy with other teams, an extensive study of missing transverse energy (MET) is required to search for the mono-Higgs signature. 
-
-Once a background model is developed for the Standard Model processes that can mimic the signal, a counting experiment is performed in an optimized signal region. There is no evidence for an excess of events in the signal region above the backgrounds, so cross section limits are set for two kinematically distinct signal models.
+In this search, the Higgs is produced primarily from gluon fusion and decays to four leptons via two $Z$ bosons ($\HZZfl$). In addition to observing the Higgs in the four-lepton final state, an extensive study of missing transverse energy (MET) is required to search for the mono-Higgs signature. 
+A background model is developed for the Standard Model processes that result in the same final state as the signal, then a counting experiment is performed in an optimized signal region. There is no evidence for an excess of events in the signal region above the backgrounds, so cross section limits are set for two kinematically distinct signal models.
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -121,7 +131,7 @@ I would like to thank the numerous groups and individuals who have facilitated m
 
 First, the teachers and professors who made a particularly strong impact on my education or personal and professional development: my graduate adviser Michael Mulhearn, Professors Mani Tripathi and Robin Erbacher from UC Davis, Professors David Finkelstein, Dierdre Shoemaker, and Yuri Bakhtin from Georgia Tech, Professors Yosi Balas, Catherine Davis, and Imad El-Jeaid from Middle Georgia College, and Scott Hammond, Kate Hoppenrath, Cherie McAdams, Terasa Martin, Vicki Dobbs, and Bonnie Rary from Dacula High School. Lastly, Peg Alton from Dacula Middle School, who convinced me to join the gifted program, the first step on my journey of academic accomplishment. Even a small conversation can make a very large impact.
 
-Second, I would like to thank my primary collaborators in CMS, Giorgia Miniello and Nicola De Filippis, who helped make the completion of this analysis possible. I am honored to be a member of the same team that discovered the Higgs boson in the four-lepton final state, and I am grateful for having access to their expertise, feedback, and documentation. It has been a very rewarding process to watch the different mono-Higgs analysis teams grow and succeed, after having organized the initial effort in CMS myself. I am grateful for having the chance to work with the analyzers on all of the mono-Higgs teams. Harrison Prosper, Shalhout Shalhout, and Eiko Yu have always made themselves available to help with technical questions for my analysis. I am also appreciative of the research and personal support I have received from Francesca Ricci-Tam, Wells Wulsin, Rachel Yohay, and Justin Pilot. 
+Second, I would like to thank my primary collaborators in CMS, Giorgia Miniello and Nicola De Filippis, who helped make the completion of this analysis possible. I am honored to be a member of the same team that discovered the Higgs boson in the four-lepton final state, and I am grateful for having access to their expertise, feedback, and documentation. It has been a very rewarding process to watch the different mono-Higgs analysis teams grow and succeed. I am grateful for having the chance to work with the analyzers on all of the mono-Higgs teams. Harrison Prosper, Shalhout Shalhout, and Eiko Yu have always made themselves available to help with technical questions for my analysis. I am also appreciative of the research and personal support I have received from Francesca Ricci-Tam, Wells Wulsin, Rachel Yohay, and Justin Pilot. 
 
 I am lucky to have had a great group of friends in my cohort, including Karen Ng, Henry Stoltenberg, Dusty Stolp, Chad Flores, and James Morad, who have encouraged and supported me throughout graduate school. Kyle Tos, Christine McLean, and Mengyao Shi have been exceptional friends and office-mates. I have relied heavily on the help and friendship from students in my lab, including Zhangqier Wang, Chris Brainerd, and Brandon Buonacorsi.
 

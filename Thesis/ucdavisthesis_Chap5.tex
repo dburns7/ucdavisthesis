@@ -6,7 +6,7 @@
 \label{sec:eleReco}
 
 
-Electron candidates are preselected using loose cuts on track-cluster matching observables, so as to preserve the highest possible efficiency while rejecting part of the QCD background. To be considered for the analysis, electrons are required to have a
+Electron candidates are selected using loose cuts on track-cluster matching observables, so as to preserve the highest possible efficiency while rejecting part of the QCD background. To be considered for the analysis, electrons are required to have a
 transverse momentum $p^e_T >$ 7 $\GeV$, a reconstructed $|\eta^e| <$ 2.5, and to satisfy a loose primary vertex 
 constraint defined as $d_{xy} < 0.5$ and $d_z < 1$. 
 Such electrons are called "loose" electrons.
@@ -21,7 +21,7 @@ The electron reconstruction scale factors are shown Figure~\ref{fig:ele_rec_scal
 \begin{center}
 \includegraphics[width=0.7\textwidth]{Figures/Electrons/ele_rec_scale_factors.pdf}
 \end{center}
-\caption{Electron reconstruction efficiencies in data versus $\eta$ and data/MC scale factors as provided by the EGM POG.}
+\caption{Electron reconstruction efficiencies in data (top) and data to simulation scale factors (bottom).}
 \label{fig:ele_rec_scale_factors}
 \end{figure}
 
@@ -669,16 +669,16 @@ The first two filters remove noisy events from the HCAL, where the HBHE scintill
 
 \subsubsection{Fake MET modeling}\label{sec:fakemet}
 
-Figure~\ref{fig:pfmet_m4lblinded} shows a discrepancy between data and MC in the high-$E_{\rm{T}}^{\rm{MISS}}$ tail. These events typically contain a high $p_T$ object either back-to-back or collinear with the $E_{\rm{T}}^{\rm{MISS}}$, pointing to artificially high $E_{\rm{T}}^{\rm{MISS}}$ from mismeasurement of the object. These fake events are identified and removed by studying distributions of the transverse angular difference between the MET and various objects in the event \cite{CMS-AN-15-203}.
+Figure~\ref{fig:pfmet_m4lblinded} shows a discrepancy between data and MC in the high-$E_{\rm{T}}^{\rm{MISS}}$ tail. These events typically contain a high $p_T$ object either back-to-back or collinear with the $E_{\rm{T}}^{\rm{MISS}}$, pointing to artificially high $E_{\rm{T}}^{\rm{MISS}}$ from mismeasurement of the object. These events are identified and removed by studying distributions of the transverse angular difference between the MET and various objects in the event \cite{CMS-AN-15-203}.
 
 \begin{figure}[tbh]
 \centering
-\includegraphics[width=5in]{figures/hist_hPFMET_8.png}
-\caption{Missing transverse energy (MET) after the standard model selection before removal of fake MET.}
+\includegraphics[width=5in]{figures/hist_hPFMET_3.png}
+\caption{Missing transverse energy (MET) after the first $Z$ selection step before removal of fake MET.}
 \label{fig:pfmet_m4lblinded}
 \end{figure}
 
-The following variables are studied in order to understand how to remove fake events from data: (1) $max|\Delta\phi(jet, E_{\rm{T}}^{\rm{MISS}})|$ with the maximum taken over selected jets, Figure~\ref{fig:maxdeltaphijmet} and (2) $min|\Delta\phi(jet, E_{\rm{T}}^{\rm{MISS}})|$ with the minimum taken over selected jets, Figure~\ref{fig:mindeltaphijmet}
+The following variables are studied in order to understand how to remove events with fake MET from data: (1) $max|\Delta\phi(jet, E_{\rm{T}}^{\rm{MISS}})|$ with the maximum taken over selected jets, Figure~\ref{fig:maxdeltaphijmet} and (2) $min|\Delta\phi(jet, E_{\rm{T}}^{\rm{MISS}})|$ with the minimum taken over selected jets, Figure~\ref{fig:mindeltaphijmet}
 The maximum variable is to check for the occurance of objects with mismeasured energy back-to-back with the MET, while the minimum variable is to check for jets with mismeasured energy collinear with the MET.
 
 \begin{figure}[tbh]
