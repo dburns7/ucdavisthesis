@@ -1423,4 +1423,17 @@ Glen Cowan, Kyle Cranmer, Eilam Gross, and Ofer Vitells.
   10.1140/epjc/s10052-013-2501-z} {\path{doi:10.1140/epjc/s10052-011-1554-0,
   10.1140/epjc/s10052-013-2501-z}}.
 
+\bibitem{CMS-PAS-EXO-16-054}
+{Search for Dark Matter Produced in Association with a Higgs Boson Decaying to
+  Two Photons}.
+\newblock Technical Report CMS-PAS-EXO-16-054, CERN, Geneva, 2017.
+\newblock URL: \url{https://cds.cern.ch/record/2264691}.
+
+\bibitem{YR4}
+{LHC Higgs Cross Section Working Group}.
+\newblock {Handbook of LHC Higgs Cross Sections: 4. Deciphering the Nature of
+  the Higgs Sector}.
+\newblock {\em CERN-2016-XXX}, CERN, Geneva, 2016.
+\newblock \href {http://arxiv.org/abs/1610.07922} {\path{arXiv:1610.07922}}.
+
 \end{thebibliography}

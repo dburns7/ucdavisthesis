@@ -38,7 +38,7 @@ by discarding electrons that are within $\Delta R < 0.05$ of selected muons. Add
 \includegraphics[width=3.3in]{figures/hist_hEtaLep_3.png}
 \caption{}
 \end{subfigure}
-\caption{Selected lepton kinematics: (a) lepton isolation and (b) SIP vertex constraint.}
+\caption{Selected lepton kinematics: (a) transverse momentum and (b) $\eta$.}
 \label{fig:lepkin1}
 \end{figure}
  
@@ -53,7 +53,7 @@ by discarding electrons that are within $\Delta R < 0.05$ of selected muons. Add
 \includegraphics[width=3.3in]{figures/hist_hSipLep_3.png}
 \caption{}
 \end{subfigure}
-\caption{Selected lepton kinematics: (a) transverse momentum and (b) $\eta$}
+\caption{Selected lepton kinematics: (a) lepton isolation and (b) SIP vertex constraint.}
 \label{fig:lepkin2}
 \end{figure}
 
@@ -78,7 +78,7 @@ according to the following sequence:
 \centering
 \includegraphics[width=5.5in]{figures/hist_hPFMET_3.png}
     \caption{Missing transverse energy distribution at the $Z$ candidate selection step.}
-    \label{fig:dimuonz}
+    \label{fig:pfmet3}
 \end{figure}
 
 \item {\bf $ZZ$ candidates} are defined as pairs of non-overlapping $Z$ candidates.
@@ -151,7 +151,7 @@ according to the following sequence:
 \includegraphics[width=3.3in]{figures/hist_hPtLep4_5.png}
 \caption{}
 \end{subfigure}
-\caption{Transverse momentum distributions for the constituent leptons of the $Z_1$, (a) and (b), and of the $Z_2$, (c) and (d).}
+\caption{Transverse momentum distributions for the constituent leptons of the $Z_1$, (a) and (b), and of the $Z_2$, (c) and (d) at the $ZZ$ candidate selection step.}
 \label{fig:lep5kin1}
 \end{figure}
 
@@ -176,7 +176,7 @@ according to the following sequence:
 \includegraphics[width=3.3in]{figures/hist_hEtaLep4_5.png}
 \caption{}
 \end{subfigure}
-\caption{$\eta$ distributions for the constituent leptons of the $Z_1$, (a) and (b), and of the $Z_2$, (c) and (d).}
+\caption{$\eta$ distributions for the constituent leptons of the $Z_1$, (a) and (b), and of the $Z_2$, (c) and (d) at the $ZZ$ candidate selection step.}
 \label{fig:lep5kin2}
 \end{figure}
 
@@ -204,6 +204,7 @@ $ZZ$ candidates are required to satisfy the following list of requirements:
      before applying kinematic cuts to it, most precisely before the $m_{Z2} > 12~\GeV$ cut.
      The present smart cut allows to choose the best $ZZ$ candidate after all kinematic cuts.
 The four-lepton invariant mass for the $ZZ$ candidates at this stage is shown in Figure~\ref{fig:m4mu5}.   
+
 \begin{figure}[tbh]
 \centering
 \includegraphics[width=5.5in]{figures/hist_hM4l_5_log.png}
@@ -211,38 +212,151 @@ The four-lepton invariant mass for the $ZZ$ candidates at this stage is shown in
     \label{fig:m4mu5}
 \end{figure}
 
-  \item {\bf Four-lepton invariant mass}: $\mllll > 70~\GeV$. The four-muon invariant mass distribution after all of the previous selection steps are applied is shown in Figure~\ref{fig:m4mulog}, with a close up view of the $Z$ and $H$ peaks shown in Figure~\ref{fig:m4mulin}. The four-lepton invariant mass distributions for the other decay channels are qualitatively the same
+  \item {\bf Four-lepton invariant mass}: $\mllll > 70~\GeV$. 
+%The four-muon invariant mass distribution after all of the previous selection steps are applied is shown in Figure~\ref{fig:m4mu}(a), with a close up view of the $Z$ and $H$ peaks shown in Figure~\ref{fig:m4mu}(b). 
+Additional kinematics for the $4l$ object are shown in Figure~\ref{fig:4mukin}. The kinematics of the $Z_1$ and $Z_2$ candidates used in the final SM selection are shown in Figure~\ref{fig:dimuonzmass} with the constituent lepton kinematics shown in Figures~\ref{fig:leptkinsm1}, \ref{fig:leptkinsm2}, and \ref{fig:leptkinsm3}. Finally, the MET distribution at this step is shown in Figure~\ref{fig:met8}
   \end{itemize}	
 \item Events containing at least one selected $ZZ$ candidate form the SM signal region.
 \end{enumerate}	
 
 \begin{figure}[tbh]
+\begin{subfigure}{0.50\textwidth}
 \centering
-\includegraphics[width=5.5in]{figures/hist_hMZ1_8.png}
-    \caption{Dimuon invariant mass distributions for ${\rm Z_1}$.}
-    \label{fig:dimuonz1}
+\includegraphics[width=3.3in]{figures/hist_hpt4l_CR.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_heta4l_CR.png}
+\caption{}
+\end{subfigure}
+\caption{Kinematics of the four-muon object after the final SM selection: (a) transverse momentum and (b) $\eta$.}
+\label{fig:4mukin}
+\end{figure}
+
+\begin{figure}[tbh]
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hZ1mass_CR.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hZ2mass_CR.png}
+\caption{}
+\end{subfigure}
+\caption{Dimuon invariant mass distributions after the final SM selection for (a) $Z_1$ and (b) $Z_2$.}
+\label{fig:dimuonzmass}
+\end{figure}
+
+\begin{figure}[tbh]
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hlept1_pt_CR.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hlept2_pt_CR.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hlept3_pt_CR.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hlept4_pt_CR.png}
+\caption{}
+\end{subfigure}
+\caption{Transverse momentum distributions for the constituent leptons of the $Z_1$, (a) and (b), and of the $Z_2$, (c) and (d) after the final SM selection step.}
+\label{fig:leptkinsm1}
+\end{figure}
+
+\begin{figure}[tbh]
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hlept1_eta_CR.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hlept2_eta_CR.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hlept3_eta_CR.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hlept4_eta_CR.png}
+\caption{}
+\end{subfigure}
+\caption{$\eta$ distributions for the constituent leptons of the $Z_1$, (a) and (b), and of the $Z_2$, (c) and (d) after the final SM selection step.}
+\label{fig:leptkinsm2}
+\end{figure}
+
+\begin{figure}[tbh]
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hlept1_phi_CR.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hlept2_phi_CR.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hlept3_phi_CR.png}
+\caption{}
+\end{subfigure}
+\begin{subfigure}{0.50\textwidth}
+\centering
+\includegraphics[width=3.3in]{figures/hist_hlept4_phi_CR.png}
+\caption{}
+\end{subfigure}
+\caption{$\phi$ distributions for the constituent leptons of the $Z_1$, (a) and (b), and of the $Z_2$, (c) and (d) after the final SM selection step.}
+\label{fig:leptkinsm3}
 \end{figure}
 
 \begin{figure}[tbh]
 \centering
-\includegraphics[width=5.5in]{figures/hist_hMZ2_8.png}
-    \caption{Dimuon invariant mass distributions for ${\rm Z_2}$.}
-    \label{fig:dimuonz2}
+\includegraphics[width=5.5in]{figures/hist_hmet_CR.png}
+    \caption{Missing transverse energy after the final SM selection step.}
+    \label{fig:met8}
 \end{figure}
+%\begin{figure}[tbh]
+%\centering
+%\includegraphics[width=5.5in]{figures/hist_hM4l_8_log.png}
+%    \caption{Four-muon invariant mass distribution in log scale.}
+%    \label{fig:m4mulog}
+%\end{figure}
 
-\begin{figure}[tbh]
-\centering
-\includegraphics[width=5.5in]{figures/hist_hM4l_8_log.png}
-    \caption{Four-muon invariant mass distribution in log scale.}
-    \label{fig:m4mulog}
-\end{figure}
+%\begin{figure}[tbh]
+%\centering
+%\includegraphics[width=5.5in]{figures/hist_hM4l_8_linear.png}
+%    \caption{Four-muon invariant mass distribution in linear scale.}
+%    \label{fig:m4mulin}
+%\end{figure}
 
-\begin{figure}[tbh]
-\centering
-\includegraphics[width=5.5in]{figures/hist_hM4l_8_linear.png}
-    \caption{Four-muon invariant mass distribution in linear scale.}
-    \label{fig:m4mulin}
-\end{figure}
+%\begin{figure}[tbh]
+%\centering
+%\includegraphics[width=5.5in]{figures/hist_hMZ1_8.png}
+%    \caption{Dimuon invariant mass distributions for ${\rm Z_1}$.}
+%    \label{fig:dimuonz1}
+%\end{figure}
+
+%\begin{figure}[tbh]
+%\centering
+%\includegraphics[width=5.5in]{figures/hist_hMZ2_8.png}
+%    \caption{Dimuon invariant mass distributions for ${\rm Z_2}$.}
+%    \label{fig:dimuonz2}
+%\end{figure}
 
 \subsection{Choice of the best $ZZ$ candidate}
 \label{sec:zzbestcand}
@@ -264,20 +378,34 @@ Two strategies are employed to define the signal region: cut-and-count based and
 
 \subsection{Cut-and-count based signal region} \label{cutandcountopt}
 
-The cut-and-count strategy is the simpler choice and is used as a baseline to measure the performance of the MVA. First, the following selection is applied to isolate events with a Higgs from events with additional prompt particles (e.g. VBF Higgs production):
+The cut-and-count strategy is the simpler choice and is used as a baseline to measure the performance of the MVA. First, the following selection is applied to isolate events with a Higgs from events with additional prompt particles (e.g. VBF Higgs production): tight-lepton multiplicity, shown in Figure~\ref{fig:ngood}, of exactly 4 and VBF jet multiplicity, shown in Figure~\ref{fig:nbjets}, of no more than one. These cuts remove less than 10\% of signal events.
 
-\begin{itemize}
-\item Tight-lepton multiplicity = 4
-\item b-jet multiplicity $\leq$ 1
-\item VBF jet multiplicity $\leq$ 1.
-\end{itemize}
+\begin{figure}[tbh]
+\centering
+\includegraphics[width=5.5in]{figures/hist_hNgood_CR.png}
+    \caption{Tight-lepton multiplicity after the final SM selection.}
+    \label{fig:ngood}
+\end{figure}
 
-Next, the event selection is optimized by scanning over a range of cuts for the remaining variables and selecting the set of cuts that maximizes the sensitivity, measured directly by the cross section upper limit. The two variables with the greatest discriminating power between signal and background are $m_{4l}$ and $\MET$, so we maximize the sensitivity over these two variables. The best sensitivity occurs where the upper limit is minimumized, at approximately:
+\begin{figure}[tbh]
+\centering
+\includegraphics[width=5.5in]{figures/hist_hNbjets_CR.png}
+    \caption{b-jet multiplicity after the final SM selection.}
+    \label{fig:nbjets}
+\end{figure}
 
-\begin{itemize}
-\item $|m_{4l} - m_H| < 10$ $\GeV$
-\item $\MET > 60$ $\GeV$
-\end{itemize}
+%\begin{itemize}
+%\item Tight-lepton multiplicity = 4
+%\item b-jet multiplicity $\leq$ 1
+%\item VBF jet multiplicity $\leq$ 1.
+%\end{itemize}
+
+Next, the event selection is optimized by scanning over a range of cuts for the remaining variables and selecting the set of cuts that maximizes the sensitivity, measured directly by the cross section upper limit. The two variables with the greatest discriminating power between signal and background are $m_{4l}$ and $\MET$, so we maximize the sensitivity over these two variables. The best sensitivity occurs where the upper limit is minimumized, at approximately: $|m_{4l} - m_H| < 10$ $\GeV$ and $\MET > 60$ $\GeV$. The four-lepton invariant mass and MET distributions after the final SM selection are shown in Figures~\ref{fig:m4mu5} and \ref{fig:met8}, respectively. 
+
+%\begin{itemize}
+%\item $|m_{4l} - m_H| < 10$ $\GeV$
+%\item $\MET > 60$ $\GeV$
+%\end{itemize}
 
 These cuts define the SR, which is applied to all of the signals, losing less than 10\% sensitivity for the models with a tighter optimal cut on $\MET$. Since the signal used to defined the SR has the softest $\MET$ spectrum of all the signals, this SR corresponds to the most modest or, meaning no signal will be cut too hard, while most of the background is still removed. 
 

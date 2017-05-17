@@ -71,26 +71,26 @@
 \contentsline {subsection}{\numberline {5.1.2}Vertex selection}{80}{subsection.5.1.2}
 \contentsline {subsection}{\numberline {5.1.3}$ZZ$ candidate selection}{80}{subsection.5.1.3}
 \contentsline {subsection}{\numberline {5.1.4}Choice of the best $ZZ$ candidate}{85}{subsection.5.1.4}
-\contentsline {section}{\numberline {5.2}Signal region and blinding}{86}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Cut-and-count based signal region}{87}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}MVA-based signal region}{89}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Background modeling}{91}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Irreducible backgrounds}{91}{subsection.5.3.1}
-\contentsline {subsubsection}{\numberline {5.3.1.1}$\ensuremath {\ensuremath {q}\mathaccentV {bar}016{\ensuremath {q}}\to \ensuremath {Z}\ensuremath {Z}}$ modeling}{91}{subsubsection.5.3.1.1}
-\contentsline {subsubsection}{\numberline {5.3.1.2}$\ensuremath {\ensuremath {g}\ensuremath {g}\to \ensuremath {Z}\ensuremath {Z}}$ modeling}{92}{subsubsection.5.3.1.2}
-\contentsline {subsection}{\numberline {5.3.2}Reducible background estimation}{93}{subsection.5.3.2}
-\contentsline {subsubsection}{\numberline {5.3.2.1}Fake rate determination}{95}{subsubsection.5.3.2.1}
-\contentsline {subsubsection}{\numberline {5.3.2.2}Fake rate application}{96}{subsubsection.5.3.2.2}
-\contentsline {section}{\numberline {5.4}Event yields}{98}{section.5.4}
-\contentsline {chapter}{\numberline {6}Statistical analysis results}{100}{chapter.6}
-\contentsline {section}{\numberline {6.1}Systematic uncertainties}{100}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Uncertainties on the reducible background estimation}{100}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}MET systematics}{101}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}Additional systematics}{102}{subsection.6.1.3}
-\contentsline {section}{\numberline {6.2}Limit setting}{103}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Cross section limits}{106}{subsection.6.2.1}
-\contentsline {subsubsection}{\numberline {6.2.1.1}Cut-and-count based limits}{107}{subsubsection.6.2.1.1}
-\contentsline {subsubsection}{\numberline {6.2.1.2}MVA-based limits}{108}{subsubsection.6.2.1.2}
-\contentsline {chapter}{\numberline {7}Conclusions}{112}{chapter.7}
-\contentsline {chapter}{Appendices}{114}{section*.95}
-\contentsline {chapter}{\numberline {A}Production cross sections for benchmark signal models}{115}{Appendix.1.A}
+\contentsline {section}{\numberline {5.2}Signal region and blinding}{87}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Cut-and-count based signal region}{88}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}MVA-based signal region}{91}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Background modeling}{92}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Irreducible backgrounds}{92}{subsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.1.1}$\ensuremath {\ensuremath {q}\mathaccentV {bar}016{\ensuremath {q}}\to \ensuremath {Z}\ensuremath {Z}}$ modeling}{92}{subsubsection.5.3.1.1}
+\contentsline {subsubsection}{\numberline {5.3.1.2}$\ensuremath {\ensuremath {g}\ensuremath {g}\to \ensuremath {Z}\ensuremath {Z}}$ modeling}{94}{subsubsection.5.3.1.2}
+\contentsline {subsection}{\numberline {5.3.2}Reducible background estimation}{95}{subsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.2.1}Fake rate determination}{96}{subsubsection.5.3.2.1}
+\contentsline {subsubsection}{\numberline {5.3.2.2}Fake rate application}{97}{subsubsection.5.3.2.2}
+\contentsline {section}{\numberline {5.4}Event yields}{100}{section.5.4}
+\contentsline {chapter}{\numberline {6}Statistical analysis results}{102}{chapter.6}
+\contentsline {section}{\numberline {6.1}Systematic uncertainties}{102}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Uncertainties on the reducible background estimation}{102}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}MET systematics}{103}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Additional systematics}{104}{subsection.6.1.3}
+\contentsline {section}{\numberline {6.2}Limit setting}{105}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Cross section limits}{108}{subsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.1.1}Cut-and-count based limits}{109}{subsubsection.6.2.1.1}
+\contentsline {subsubsection}{\numberline {6.2.1.2}MVA-based limits}{110}{subsubsection.6.2.1.2}
+\contentsline {chapter}{\numberline {7}Conclusions}{114}{chapter.7}
+\contentsline {chapter}{Appendices}{116}{section*.99}
+\contentsline {chapter}{\numberline {A}Production cross sections for benchmark signal models}{117}{Appendix.1.A}
