@@ -427,8 +427,9 @@ The SR event selection is optimized for the MVA-based case by training a boosted
 
 \begin{figure}[tbh]
 \centering
-\includegraphics[width=5in]{figures/f_Dm4lmet_1D_log.png}
-\caption{MVA response trained on a weighted background sample and admixture of signal samples with input variables $m_{4l}$ and $\MET$. Simulated backgrounds are in pink and signals are in blue.}
+\includegraphics[width=5in]{figures/hist_hD_CR.png}
+%\includegraphics[width=5in]{figures/f_Dm4lmet_1D_log.png}
+\caption{MVA response trained on a weighted background sample and admixture of signal samples with input variables $m_{4l}$ and $\MET$.}
 \label{fig:bdt}
 \end{figure}
 
@@ -844,57 +845,88 @@ Table~\ref{tab:smyields} shows the event yields for the primary backgrounds, a b
 \hline
 Sample & $q\bar{q} \rightarrow ZZ$ & $gg \rightarrow ZZ$ & $Z+X$ & $ZH$ & Other $H$ & Total & Signal & Observed \\
 \hline
-Initial & 1.89e+04 & 866 & 5.88e+08 & 17.4 & 377 & 5.88e+08 & 3.57 & 8.21e+07 \\
-%\hline
-HLT & 1.89e+04 & 866 & 5.88e+08 & 17.4 & 377 & 5.88e+08 & 3.57 & 8.21e+07 \\
-%\hline
-$Z_1$ lepton cuts & 1.94e+03 & 144 & 5.9e+04 & 2.35 & 57 & 6.12e+04 & 0.516 & 7.76e+04 \\
-%\hline
-$m_{Z_1}$ & 1.58e+03 & 128 & 4.39e+04 & 2.13 & 53.8 & 4.57e+04 & 0.484 & 3.52e+04 \\
-%\hline
-At least one $Z_2$ & 379 & 76.4 & 30.3 & 0.987 & 24.3 & 511 & 0.228 & 367 \\
-%\hline
-$m_{Z_2}$ & 379 & 76.4 & 56.7 & 0.987 & 24.3 & 537 & 0.228 & 367 \\
-%\hline
-$m_{ll}>4$ for OS-SF & 312 & 33.7 & 27.7 & 0.92 & 11.3 & 386 & 0.213 & 367 \\
-%\hline
-$m_{llll} > 70$ $\GeV$ & 312 & 33.7 & 27.7 & 0.92 & 11.3 & 385 & 0.213 & 365 \\
+Initial & 1.89e+04 & 866 & 6.28e+08 & 17.4 & 377 & 6.28e+08 & 3.57 & 8.48e+07 \\
+HLT & 1.89e+04 & 866 & 6.28e+08 & 17.4 & 377 & 6.28e+08 & 3.57 & 8.48e+07 \\
+$Z_1$ lepton cuts & 1.94e+03 & 144 & 4.71e+04 & 2.35 & 57 & 4.92e+04 & 0.516 & 9.55e+04 \\
+$m_{Z_1}$ & 1.58e+03 & 128 & 3.37e+04 & 2.13 & 53.8 & 3.54e+04 & 0.484 & 4.28e+04 \\
+At least one $Z_2$ & 379 & 76.4 & 23 & 0.987 & 24.3 & 504 & 0.228 & 489 \\
+$m_{Z_2}$ & 379 & 76.4 & 23 & 0.987 & 24.3 & 504 & 0.228 & 489 \\
+$m_{ll}>4$ for OS-SF & 312 & 33.7 & 20.6 & 0.92 & 11.3 & 379 & 0.213 & 489 \\
+$m_{llll} > 70$ GeV & 312 & 33.7 & 20.6 & 0.92 & 11.3 & 378 & 0.213 & 487 \\
+%Initial & 1.89e+04 & 866 & 5.88e+08 & 17.4 & 377 & 5.88e+08 & 3.57 & 8.21e+07 \\
+%%\hline
+%HLT & 1.89e+04 & 866 & 5.88e+08 & 17.4 & 377 & 5.88e+08 & 3.57 & 8.21e+07 \\
+%%\hline
+%$Z_1$ lepton cuts & 1.94e+03 & 144 & 5.9e+04 & 2.35 & 57 & 6.12e+04 & 0.516 & 7.76e+04 \\
+%%\hline
+%$m_{Z_1}$ & 1.58e+03 & 128 & 4.39e+04 & 2.13 & 53.8 & 4.57e+04 & 0.484 & 3.52e+04 \\
+%%\hline
+%At least one $Z_2$ & 379 & 76.4 & 30.3 & 0.987 & 24.3 & 511 & 0.228 & 367 \\
+%%\hline
+%$m_{Z_2}$ & 379 & 76.4 & 56.7 & 0.987 & 24.3 & 537 & 0.228 & 367 \\
+%%\hline
+%$m_{ll}>4$ for OS-SF & 312 & 33.7 & 27.7 & 0.92 & 11.3 & 386 & 0.213 & 367 \\
+%%\hline
+%$m_{llll} > 70$ $\GeV$ & 312 & 33.7 & 27.7 & 0.92 & 11.3 & 385 & 0.213 & 365 \\
 \hline
 \end{tabular}}
-\caption{Cutflow table for the $4\mu$ channel. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\GeV$.}\label{tab:smyields}
+\caption{Cutflow table for the $4\mu$ channel simulated samples and data. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\GeV$.}\label{tab:smyields}
 \end{center}
 \end{table*}
 
 The final yields in the cut-and-count based SR are shown in Table~\ref{tab:cacyields}. 
-Since the MVA SR definition does not apply additional cuts in the event selection, the yields in this SR are the same as in the last step of Table~\ref{tab:smyields}. These yields are shown with uncertainties in Table~\ref{tab:mvayields}.
+Since the MVA SR definition does not apply additional cuts in the event selection, the yields in this SR are the same as in the last step of Table~\ref{tab:smyields}. 
+%These yields are shown with uncertainties in Table~\ref{tab:mvayields}.
 %The final yields in the MVA-based SR, requiring the MVA response to be greater than 0.9, are shown in Table~\ref{tab:mvayields}. 
 
 
 \begin{table*}[htbH]
 \begin{center}
 \resizebox{\textwidth}{!}{%
-\begin{tabular}{ l | c | c | c | c | c | c | c }
+\begin{tabular}{ l | c | c  }
 \hline
-Sample & $q\bar{q} \rightarrow ZZ$ & $gg \rightarrow ZZ$ & $Z+X$ & $H$ & Total & Signal & Observed \\
+Sample & Low-$\MET$ region & High-$\MET$ region \\
 \hline
-Yield & $0.35 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $0.034 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $0.023 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $0.33 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $0.74 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $0.20 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $1.0 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ \\
+$q\bar{q} \rightarrow ZZ$ & $11.6\pm 0.085 (\rm{stat})\pm 4.9(\rm{syst})$ & $0.35\pm 0.0028(\rm{stat})\pm 0.15(\rm{syst})$ \\
+$gg \rightarrow ZZ$ & $0.65\pm 1.3\times 10^{-4}(\rm{stat})\pm 0.28(\rm{syst})$ & $0.034\pm 1.0\times 10^{-5}(\rm{stat})\pm 0.015(\rm{syst})$ \\
+$Z+X$ & $0.16\pm 0.013(\rm{stat})\pm 0.14(\rm{syst})$ & $0.088\pm 0.0077(\rm{stat})\pm 0.08(\rm{syst})$ \\
+$H$ & $18.8\pm 0.0073(\rm{stat})\pm 6.8(\rm{syst})$ & $0.49\pm 1.3\times 10^{-4}(\rm{stat})\pm 0.18(\rm{syst})$ \\
 \hline
+Signal & $0.0019\pm 0.017(\rm{stat})\pm 1.0\times 10^{-5}(\rm{syst})$ & $0.20\pm 0.055(\rm{stat})\pm 0.011(\rm{syst})$ \\
+\hline
+Observed & $40$ & $2$ \\ 
+\hline
+%Yield & $0.35 \pm 0.0028 \pm_{\ 0.00}^{\ 0.00}$ & $0.034 \pm 1.0e-5 \pm_{\ 0.00}^{\ 0.00}$ & $0.088 \pm 0.0077 \pm_{\ 0.00}^{\ 0.00}$ & $0.49 \pm 1.3e-5 \pm_{\ 0.00}^{\ 0.00}$ & $0.95 \pm 2.8e-3 \pm_{\ 0.00}^{\ 0.00}$ & $0.20 \pm 0.055 \pm_{\ 0.00}^{\ 0.00}$ & $2.0$ \\
 \end{tabular}}
 \caption{Final signal region yields using the cut-and-count selection strategy for the $4\mu$ channel with statistical and systematic uncertainties. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\GeV$.}\label{tab:cacyields}
 \end{center}
 \end{table*}
 
-\begin{table*}[htbH]
-\begin{center}
-\resizebox{\textwidth}{!}{%
-\begin{tabular}{ l | c | c | c | c | c | c | c }
-\hline
-Sample & $q\bar{q} \rightarrow ZZ$ & $gg \rightarrow ZZ$ & $Z+X$ & $H$ & Total & Signal & Observed \\
-\hline
-Yield & $117.5 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $4.54 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $17.6 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $11.7 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $151.3 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $0.21 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $151.0 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ \\
-\hline
-\end{tabular}}
-\caption{Final signal region yields using the MVA selection strategy for the $4\mu$ channel with statistical and systematic uncertainties. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\GeV$.}\label{tab:mvayields}
-\end{center}
-\end{table*}
+%\begin{table*}[htbH]
+%\begin{center}
+%\resizebox{\textwidth}{!}{%
+%\begin{tabular}{ l | c | c | c | c | c | c | c }
+%\hline
+%Sample & $q\bar{q} \rightarrow ZZ$ & $gg \rightarrow ZZ$ & $Z+X$ & $H$ & Total & Signal & Observed \\
+%\hline
+%Yield & $0.35 \pm 0.0028 \pm_{\ 0.00}^{\ 0.00}$ & $0.034 \pm 1.0e-5 \pm_{\ 0.00}^{\ 0.00}$ & $0.088 \pm 0.0077 \pm_{\ 0.00}^{\ 0.00}$ & $0.49 \pm 1.3e-5 \pm_{\ 0.00}^{\ 0.00}$ & $0.95 \pm 2.8e-3 \pm_{\ 0.00}^{\ 0.00}$ & $0.20 \pm 0.055 \pm_{\ 0.00}^{\ 0.00}$ & $2.0$ \\
+%\hline
+%\end{tabular}}
+%\caption{Final signal region yields using the cut-and-count selection strategy for the $4\mu$ channel with statistical and systematic uncertainties. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\GeV$.}\label{tab:cacyields}
+%\end{center}
+%\end{table*}
+
+%\begin{table*}[htbH]
+%\begin{center}
+%\resizebox{\textwidth}{!}{%
+%\begin{tabular}{ l | c | c | c | c | c | c | c }
+%\hline
+%Sample & $q\bar{q} \rightarrow ZZ$ & $gg \rightarrow ZZ$ & $Z+X$ & $H$ & Total & Signal & Observed \\
+%\hline
+%Yield & $312 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $33.7 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $20.6 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $12.2 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $378 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $0.21 \pm 0.00 \pm_{\ 0.00}^{\ 0.00}$ & $487$ \\
+%\hline
+%\end{tabular}}
+%\caption{Final signal region yields using the MVA selection strategy for the $4\mu$ channel with statistical and systematic uncertainties. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\GeV$.}\label{tab:mvayields}
+%\end{center}
+%\end{table*}
 

@@ -78,8 +78,8 @@
 \contentsline {subsection}{\numberline {5.3.1}Irreducible backgrounds}{92}{subsection.5.3.1}
 \contentsline {subsubsection}{\numberline {5.3.1.1}$\ensuremath {\ensuremath {q}\mathaccentV {bar}016{\ensuremath {q}}\to \ensuremath {Z}\ensuremath {Z}}$ modeling}{92}{subsubsection.5.3.1.1}
 \contentsline {subsubsection}{\numberline {5.3.1.2}$\ensuremath {\ensuremath {g}\ensuremath {g}\to \ensuremath {Z}\ensuremath {Z}}$ modeling}{94}{subsubsection.5.3.1.2}
-\contentsline {subsection}{\numberline {5.3.2}Reducible background estimation}{95}{subsection.5.3.2}
-\contentsline {subsubsection}{\numberline {5.3.2.1}Fake rate determination}{96}{subsubsection.5.3.2.1}
+\contentsline {subsection}{\numberline {5.3.2}Reducible background estimation}{96}{subsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.2.1}Fake rate determination}{97}{subsubsection.5.3.2.1}
 \contentsline {subsubsection}{\numberline {5.3.2.2}Fake rate application}{97}{subsubsection.5.3.2.2}
 \contentsline {section}{\numberline {5.4}Event yields}{100}{section.5.4}
 \contentsline {chapter}{\numberline {6}Statistical analysis results}{102}{chapter.6}
@@ -92,5 +92,5 @@
 \contentsline {subsubsection}{\numberline {6.2.1.1}Cut-and-count based limits}{109}{subsubsection.6.2.1.1}
 \contentsline {subsubsection}{\numberline {6.2.1.2}MVA-based limits}{110}{subsubsection.6.2.1.2}
 \contentsline {chapter}{\numberline {7}Conclusions}{114}{chapter.7}
-\contentsline {chapter}{Appendices}{116}{section*.99}
+\contentsline {chapter}{Appendices}{116}{section*.98}
 \contentsline {chapter}{\numberline {A}Production cross sections for benchmark signal models}{117}{Appendix.1.A}

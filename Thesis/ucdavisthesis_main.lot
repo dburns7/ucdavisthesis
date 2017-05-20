@@ -25,16 +25,15 @@
 \contentsline {table}{\numberline {4.3}{\ignorespaces The requirements for a muon to pass the Tracker High-$\ensuremath {p_{\rm {T}}}$ ID. Note that these are equivalent to the Muon POG High-$\ensuremath {p_{\rm {T}}}$ ID with the global track requirements removed. \relax }}{69}{table.caption.55}
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {5.1}{\ignorespaces Cross sections for $\ensuremath {\ensuremath {q}\mathaccentV {bar}016{\ensuremath {q}}\to \ensuremath {Z}\ensuremath {Z}}$ production at 13 \ensuremath {\mathrm {Te\kern -0.1em V}}\relax }}{93}{table.caption.83}
-\contentsline {table}{\numberline {5.2}{\ignorespaces Cutflow table for the $4\mu $ channel. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\ensuremath {\mathrm {Ge\kern -0.1em V}}$.\relax }}{101}{table.caption.88}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Cutflow table for the $4\mu $ channel simulated samples and data. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\ensuremath {\mathrm {Ge\kern -0.1em V}}$.\relax }}{101}{table.caption.88}
 \contentsline {table}{\numberline {5.3}{\ignorespaces Final signal region yields using the cut-and-count selection strategy for the $4\mu $ channel with statistical and systematic uncertainties. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\ensuremath {\mathrm {Ge\kern -0.1em V}}$.\relax }}{101}{table.caption.89}
-\contentsline {table}{\numberline {5.4}{\ignorespaces Final signal region yields using the MVA selection strategy for the $4\mu $ channel with statistical and systematic uncertainties. The benchmark signal sample shown is Zp2HDM with $m_{Z'}=600$ $\ensuremath {\mathrm {Ge\kern -0.1em V}}$.\relax }}{101}{table.caption.90}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {6.1}{\ignorespaces Summary of the experimental systematic uncertainties in the $\ensuremath {\ensuremath {H}\to 4\ell }$ measurements. \relax }}{106}{table.caption.93}
-\contentsline {table}{\numberline {6.2}{\ignorespaces Summary of the theory systematic uncertainties in the $\ensuremath {\ensuremath {H}\to 4\ell }$ measurements for the inclusive analysis. \relax }}{107}{table.caption.94}
+\contentsline {table}{\numberline {6.1}{\ignorespaces Summary of the experimental systematic uncertainties in the $\ensuremath {\ensuremath {H}\to 4\ell }$ measurements. \relax }}{106}{table.caption.92}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Summary of the theory systematic uncertainties in the $\ensuremath {\ensuremath {H}\to 4\ell }$ measurements for the inclusive analysis. \relax }}{107}{table.caption.93}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {A.1}{\ignorespaces Effective field theory model production cross sections [pb]\relax }}{118}{table.caption.100}
-\contentsline {table}{\numberline {A.2}{\ignorespaces Scalar simplified model production cross sections [pb] corresponding to mass points in Table~\ref {tab:MMScalar}\relax }}{119}{table.caption.101}
-\contentsline {table}{\numberline {A.3}{\ignorespaces ZpBaryonic simplified model production cross sections [pb] corresponding to mass points in Table~\ref {tab:MMVector}\relax }}{120}{table.caption.102}
-\contentsline {table}{\numberline {A.4}{\ignorespaces ZpHS simplifed model production cross sections [pb] corresponding to mass points in Table~\ref {tab:MMVector}\relax }}{121}{table.caption.103}
-\contentsline {table}{\numberline {A.5}{\ignorespaces Zp2HDM simplified model production cross sections [pb] corresponding to mass points in Table~\ref {tab:MM2HDM} \relax }}{122}{table.caption.104}
+\contentsline {table}{\numberline {A.1}{\ignorespaces Effective field theory model production cross sections [pb]\relax }}{118}{table.caption.99}
+\contentsline {table}{\numberline {A.2}{\ignorespaces Scalar simplified model production cross sections [pb] corresponding to mass points in Table~\ref {tab:MMScalar}\relax }}{119}{table.caption.100}
+\contentsline {table}{\numberline {A.3}{\ignorespaces ZpBaryonic simplified model production cross sections [pb] corresponding to mass points in Table~\ref {tab:MMVector}\relax }}{120}{table.caption.101}
+\contentsline {table}{\numberline {A.4}{\ignorespaces ZpHS simplifed model production cross sections [pb] corresponding to mass points in Table~\ref {tab:MMVector}\relax }}{121}{table.caption.102}
+\contentsline {table}{\numberline {A.5}{\ignorespaces Zp2HDM simplified model production cross sections [pb] corresponding to mass points in Table~\ref {tab:MM2HDM} \relax }}{122}{table.caption.103}
